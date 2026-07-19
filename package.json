@@ -1,0 +1,12 @@
+{
+  "name": "daily-brief",
+  "version": "1.0.0",
+  "description": "Static News Aggregator",
+  "type": "module",
+  "scripts": {
+    "fetch-rss": "node scripts/fetch-rss.js"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

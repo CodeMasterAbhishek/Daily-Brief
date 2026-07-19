@@ -1,0 +1,175 @@
+[
+  {
+    "url": "http://feeds.arstechnica.com/arstechnica/index",
+    "category": "technology",
+    "source": "Ars Technica"
+  },
+  {
+    "url": "https://techcrunch.com/feed/",
+    "category": "technology",
+    "source": "TechCrunch"
+  },
+  {
+    "url": "https://www.theverge.com/rss/index.xml",
+    "category": "technology",
+    "source": "The Verge"
+  },
+  {
+    "url": "https://www.wired.com/feed/rss",
+    "category": "technology",
+    "source": "Wired"
+  },
+  {
+    "url": "https://www.engadget.com/rss.xml",
+    "category": "technology",
+    "source": "Engadget"
+  },
+  {
+    "url": "https://www.cnet.com/rss/news/",
+    "category": "technology",
+    "source": "CNET"
+  },
+  {
+    "url": "https://mashable.com/feeds/rss/all",
+    "category": "technology",
+    "source": "Mashable"
+  },
+  {
+    "url": "https://venturebeat.com/feed/",
+    "category": "technology",
+    "source": "VentureBeat"
+  },
+  {
+    "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
+    "category": "business",
+    "source": "WSJ"
+  },
+  {
+    "url": "http://feeds.feedburner.com/entrepreneur/latest",
+    "category": "business",
+    "source": "Entrepreneur"
+  },
+  {
+    "url": "https://www.economist.com/finance-and-economics/rss.xml",
+    "category": "business",
+    "source": "The Economist"
+  },
+  {
+    "url": "https://fortune.com/feed",
+    "category": "business",
+    "source": "Fortune"
+  },
+  {
+    "url": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    "category": "business",
+    "source": "CNBC"
+  },
+  {
+    "url": "https://www.sciencedaily.com/rss/all.xml",
+    "category": "science",
+    "source": "ScienceDaily"
+  },
+  {
+    "url": "https://www.wired.com/feed/category/science/latest/rss",
+    "category": "science",
+    "source": "Wired Science"
+  },
+  {
+    "url": "https://www.newscientist.com/feed/home/",
+    "category": "science",
+    "source": "New Scientist"
+  },
+  {
+    "url": "https://phys.org/rss-feed/",
+    "category": "science",
+    "source": "Phys.org"
+  },
+  {
+    "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+    "category": "sports",
+    "source": "BBC Sports"
+  },
+  {
+    "url": "https://www.cbssports.com/rss/headlines/",
+    "category": "sports",
+    "source": "CBS Sports"
+  },
+  {
+    "url": "https://sports.yahoo.com/rss/",
+    "category": "sports",
+    "source": "Yahoo Sports"
+  },
+  {
+    "url": "https://feeds.foxnews.com/foxnews/politics",
+    "category": "politics",
+    "source": "Fox News Politics"
+  },
+  {
+    "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+    "category": "politics",
+    "source": "CNN Politics"
+  },
+  {
+    "url": "https://www.npr.org/rss/rss.php?id=1014",
+    "category": "politics",
+    "source": "NPR Politics"
+  },
+  {
+    "url": "https://variety.com/feed/",
+    "category": "entertainment",
+    "source": "Variety"
+  },
+  {
+    "url": "https://www.hollywoodreporter.com/feed/",
+    "category": "entertainment",
+    "source": "Hollywood Reporter"
+  },
+  {
+    "url": "https://www.billboard.com/feed/",
+    "category": "entertainment",
+    "source": "Billboard"
+  },
+  {
+    "url": "https://www.rollingstone.com/feed/",
+    "category": "entertainment",
+    "source": "Rolling Stone"
+  },
+  {
+    "url": "http://feeds.bbci.co.uk/news/health/rss.xml",
+    "category": "health",
+    "source": "BBC Health"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+    "category": "health",
+    "source": "New York Times"
+  },
+  {
+    "url": "http://rss.cnn.com/rss/cnn_health.rss",
+    "category": "health",
+    "source": "CNN Health"
+  },
+  {
+    "url": "http://feeds.bbci.co.uk/news/rss.xml",
+    "category": "trending",
+    "source": "BBC News"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "category": "trending",
+    "source": "New York Times"
+  },
+  {
+    "url": "http://rss.cnn.com/rss/edition.rss",
+    "category": "trending",
+    "source": "CNN"
+  },
+  { "url": "https://www.macrumors.com/macrumors.xml", "category": "technology", "source": "MacRumors" },
+  { "url": "https://9to5mac.com/feed/", "category": "technology", "source": "9to5Mac" },
+  { "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "category": "business", "source": "WSJ Business" },
+  { "url": "https://www.cnbc.com/id/10000115/device/rss/rss.html", "category": "business", "source": "CNBC Business" },
+  { "url": "https://www.space.com/feeds/all", "category": "science", "source": "Space.com" },
+  { "url": "https://www.huffpost.com/section/politics/feed", "category": "politics", "source": "HuffPost Politics" },
+  { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "category": "politics", "source": "NYT Politics" },
+  { "url": "https://www.npr.org/rss/rss.php?id=1128", "category": "health", "source": "NPR Health" }
+]
