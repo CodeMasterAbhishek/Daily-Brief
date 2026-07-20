@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Brief | Global News</title>
+    
+    <!-- Meta Tags for SEO & Social -->
+    <meta name="description" content="Curated daily news across all major categories. The most important stories of the day, with zero noise.">
+    <meta property="og:title" content="Daily Brief">
+    <meta property="og:description" content="The absolute top stories across all categories today.">
+    <meta property="og:type" content="website">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7333900795499359" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <header>
+        <div class="container header-content">
+            <a href="#" class="logo">Daily<span>Brief</span></a>
+            
+            <section class="filters" aria-label="Category filters">
+                <button class="chip active" data-category="all">All News</button>
+                <button class="chip" data-category="trending">Trending</button>
+                <button class="chip" data-category="politics">Politics</button>
+                <button class="chip" data-category="business">Business</button>
+                <button class="chip" data-category="sports">Sports</button>
+                <button class="chip" data-category="technology">Technology</button>
+                <button class="chip" data-category="entertainment">Entertainment</button>
+                <button class="chip" data-category="science">Science</button>
+                <button class="chip" data-category="health">Health</button>
+            </section>
+
+            <nav>
+                <button id="theme-toggle" class="btn-icon" aria-label="Toggle Dark Mode">
+                    <!-- Sun/Moon icon will be injected via JS -->
+                    <svg viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- Hero Section -->
+        <section id="hero-container" aria-label="Featured article" style="margin-bottom: var(--space-2xl);">
+            <!-- Dynamic hero article will be injected here -->
+        </section>
+
+        <!-- Dynamic Content Area (Grid) -->
+        <section id="news-container" class="news-grid" aria-live="polite">
+        </section>
+        
+        <!-- Inject perfect grid of skeletons instantly before main JS loads -->
+        <script>
+            function renderSkeletons() {
+                var container = document.getElementById('news-container');
+                // Only render if container is empty or currently holds skeletons
+                if (!container || (container.innerHTML.trim() !== '' && !container.innerHTML.includes('skeleton-text'))) return;
+                
+                var width = window.innerWidth || document.documentElement.clientWidth || 1024;
+                var height = window.innerHeight || document.documentElement.clientHeight || 768;
+                
+                var columns = width > 768 ? Math.max(1, Math.floor((width * 0.95) / 340)) : 1;
+                var rows = Math.max(2, Math.ceil(height / 400));
+                var total = columns * rows;
+                
+                var skeletonHTML = '<article class="card"><div class="card-img-wrap skeleton"></div><div class="card-content"><div class="skeleton skeleton-text short"></div><div class="skeleton skeleton-text"></div><div class="skeleton skeleton-text"></div><div class="skeleton skeleton-text"></div></div></article>';
+                container.innerHTML = skeletonHTML.repeat(total);
+            }
+            renderSkeletons();
+            // Re-calculate if they resize the window before the API finishes loading
+            window.addEventListener('resize', renderSkeletons);
+            document.addEventListener('DOMContentLoaded', renderSkeletons);
+        </script>
+
+        <!-- Infinite Scroll Sentinel -->
+        <section id="pagination" style="text-align: center; margin-top: 3rem; margin-bottom: 1rem; display: none;">
+            <div style="opacity: 0.6; font-size: 0.9rem;">Loading more articles...</div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; <span id="year"></span> Daily Brief.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
