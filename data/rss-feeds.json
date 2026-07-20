@@ -176,5 +176,10 @@
   { "url": "https://feeds.foxnews.com/foxnews/health", "category": "health", "source": "Fox News Health" },
   { "url": "https://abcnews.go.com/abcnews/healthheadlines", "category": "health", "source": "ABC News Health" },
   { "url": "https://www.cbsnews.com/latest/rss/health", "category": "health", "source": "CBS Health" },
-  { "url": "https://kffhealthnews.org/feed/", "category": "health", "source": "KFF Health News" }
+  { "url": "https://kffhealthnews.org/feed/", "category": "health", "source": "KFF Health News" },
+  { "url": "https://www.livescience.com/feeds/all", "category": "science", "source": "Live Science" },
+  { "url": "https://www.sciencenews.org/feed", "category": "science", "source": "Science News" },
+  { "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "category": "science", "source": "NASA" },
+  { "url": "https://api.quantamagazine.org/feed/", "category": "science", "source": "Quanta Magazine" },
+  { "url": "https://www.smithsonianmag.com/rss/science-nature/", "category": "science", "source": "Smithsonian Science" }
 ]
