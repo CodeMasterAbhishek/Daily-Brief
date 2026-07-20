@@ -171,5 +171,10 @@
   { "url": "https://www.space.com/feeds/all", "category": "science", "source": "Space.com" },
   { "url": "https://www.huffpost.com/section/politics/feed", "category": "politics", "source": "HuffPost Politics" },
   { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "category": "politics", "source": "NYT Politics" },
-  { "url": "https://www.npr.org/rss/rss.php?id=1128", "category": "health", "source": "NPR Health" }
+  { "url": "https://www.npr.org/rss/rss.php?id=1128", "category": "health", "source": "NPR Health" },
+  { "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss", "category": "health", "source": "The Guardian Health" },
+  { "url": "https://feeds.foxnews.com/foxnews/health", "category": "health", "source": "Fox News Health" },
+  { "url": "https://abcnews.go.com/abcnews/healthheadlines", "category": "health", "source": "ABC News Health" },
+  { "url": "https://www.cbsnews.com/latest/rss/health", "category": "health", "source": "CBS Health" },
+  { "url": "https://kffhealthnews.org/feed/", "category": "health", "source": "KFF Health News" }
 ]
