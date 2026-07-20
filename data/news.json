@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-07-20T02:53:31.354Z",
+  "lastUpdated": "2026-07-20T03:42:37.544Z",
   "count": 300,
   "articles": [
+    {
+      "id": "rss-274645b95a96",
+      "title": "Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’",
+      "description": "The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html",
+      "image": "https://static01.nyt.com/images/2026/07/19/multimedia/19DC-Trump-plane-wqkl/19DC-Trump-plane-wqkl-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-20T03:05:39.000Z"
+    },
     {
       "id": "rss-1eb2e6f39374",
       "title": "‘House of the Dragon’ Star Fabien Frankel on Criston Cole’s Suicide Mission and His ‘Nihilism’: ‘He’s Losing the Will to Motivate’",
@@ -53,16 +63,6 @@
       "publishedAt": "2026-07-20T00:56:30.000Z"
     },
     {
-      "id": "rss-1f03f650fa70",
-      "title": "Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak",
-      "description": "The affected products were shipped starting June 29 and have expiration dates through Aug. 3.",
-      "url": "https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html",
-      "image": "https://static01.nyt.com/images/2026/07/18/multimedia/18dc-cyclo-lettuce-recall-gmfb/18dc-cyclo-lettuce-recall-gmfb-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "category": "health",
-      "publishedAt": "2026-07-20T00:10:09.000Z"
-    },
-    {
       "id": "rss-3abf4fb8f377",
       "title": "Apple Reportedly Worked on Two 'Extreme' Chips",
       "description": "Apple once developed \"M2 Extreme\" and \"M3 Extreme\" chips for the Mac Pro, but it decided not to release them, according to Bloomberg's Mark Gurman. He first reported on this topic in 2022, and he touc",
@@ -70,7 +70,7 @@
       "image": "https://images.macrumors.com/article-new/2022/12/mac-pro-m2-extreme-canceled.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-bf467515c591",
@@ -80,7 +80,7 @@
       "image": "https://images.macrumors.com/article-new/2026/06/Apple-Up-Arrow-Fearture.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-879f2601845c",
@@ -90,7 +90,7 @@
       "image": "https://images.macrumors.com/article-new/2026/01/Apple-Store-App-Liquid-Glass-Feature.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-2df3d350325a",
@@ -100,7 +100,7 @@
       "image": "https://images.macrumors.com/article-new/2019/10/airpods-pro-3-design.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-269a4ac7f315",
@@ -110,7 +110,7 @@
       "image": "https://images.macrumors.com/article-new/2025/07/Apple-AppleCare-One-Feature.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-f5127ac32b72",
@@ -120,7 +120,7 @@
       "image": "https://images.macrumors.com/article-new/2026/07/top-stories-2026-07-18.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-575c0c51feef",
@@ -130,7 +130,7 @@
       "image": "https://images.macrumors.com/article-new/2026/07/iPhone-17-17-Pro-and-Air-Feature.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-ec80bf052764",
@@ -140,7 +140,7 @@
       "image": "https://images.macrumors.com/article-new/2025/04/Stocks-App-Icon-and-Apple-Logo-Feature.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-776cb6a6ca59",
@@ -150,7 +150,7 @@
       "image": "https://images.macrumors.com/article-new/2024/12/iCloud-General-Feature-Redux.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-61633f5a96c3",
@@ -160,7 +160,7 @@
       "image": "https://images.macrumors.com/article-new/2024/08/apple-music.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-42aa187b05e5",
@@ -170,7 +170,7 @@
       "image": "https://images.macrumors.com/article-new/2024/03/Apple-vs-DOJ-Feature.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-0c5ad15bb531",
@@ -180,7 +180,7 @@
       "image": "https://images.macrumors.com/article-new/2026/02/iPhone-18-Pro-Deep-Red-Feature.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-824e68856ff6",
@@ -190,7 +190,7 @@
       "image": "https://images.macrumors.com/article-new/2026/07/satechi_macbook_neo_collection_lifestyle_4_16x9.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-172666f1711c",
@@ -200,7 +200,7 @@
       "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-pro-silver.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
     },
     {
       "id": "rss-6cb0035f8d73",
@@ -210,7 +210,17 @@
       "image": "https://images.macrumors.com/article-new/2026/07/Apple-Genius-Bar.jpg",
       "source": "MacRumors",
       "category": "technology",
-      "publishedAt": "2026-07-19T23:52:46.000Z"
+      "publishedAt": "2026-07-20T00:42:27.000Z"
+    },
+    {
+      "id": "rss-1f03f650fa70",
+      "title": "Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak",
+      "description": "The affected products were shipped starting June 29 and have expiration dates through Aug. 3.",
+      "url": "https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html",
+      "image": "https://static01.nyt.com/images/2026/07/18/multimedia/18dc-cyclo-lettuce-recall-gmfb/18dc-cyclo-lettuce-recall-gmfb-mediumSquareAt3X-v2.jpg",
+      "source": "New York Times",
+      "category": "health",
+      "publishedAt": "2026-07-20T00:10:09.000Z"
     },
     {
       "id": "rss-4c53da820ada",
@@ -2827,7 +2837,7 @@
       "title": "Christopher Nolan on ‘The Odyssey’ and IMAX Technical Challenges",
       "description": "He and the cinematographer Hoyte van Hoytema combined new inventions (like fire-mimicking lights they developed) with century-old techniques.",
       "url": "https://www.nytimes.com/2026/07/17/movies/the-odyssey-christopher-nolan.html",
-      "image": "https://static01.nyt.com/images/2026/07/17/multimedia/17cul-odyssey-nolan2-tvfg/17cul-odyssey-nolan2-tvfg-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/17cul-odyssey-nolan2-tvfg/17cul-odyssey-nolan2-tvfg-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-17T16:23:39.000Z"
@@ -2991,16 +3001,6 @@
       "source": "Science News",
       "category": "science",
       "publishedAt": "2026-07-17T04:00:00.000Z"
-    },
-    {
-      "id": "rss-14fb7f8315cf",
-      "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
-      "description": "Moonshot AI, the Beijing-based artificial intelligence startup backed by Alibaba, on Thursday released Kimi K3 — a 2.8-trillion-parameter model that the company says is now the largest open-source AI ",
-      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/lrqUsUJocTIEaPB4SrQse/e8773a218e398efc6759ca6044672f81/Nuneybits_Vector_art_of_red_code_tsunami_over_servers_fear_of_C_1894f89b-b074-4e21-a0de-2f9a46cfdd32.webp?w=300&q=30",
-      "source": "VentureBeat",
-      "category": "technology",
-      "publishedAt": "2026-07-16T19:42:09.000Z"
     }
   ]
 }
