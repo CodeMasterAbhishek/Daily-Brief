@@ -123,10 +123,10 @@ async function run() {
     const SEVEN_DAYS_MS = 7 * 24 * 60 * 60 * 1000;
     const cutoffTime = Date.now() - SEVEN_DAYS_MS;
 
-    // Keep articles from the last 7 days, with a maximum of 2000 to prevent file bloat
+    // Keep exactly a rolling 7-day window. Anything older than 7 days is automatically dropped.
     mergedArray = uniqueArray.filter(a => {
         return new Date(a.publishedAt).getTime() >= cutoffTime;
-    }).slice(0, 2000);
+    });
 
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify({
         lastUpdated: new Date().toISOString(),
