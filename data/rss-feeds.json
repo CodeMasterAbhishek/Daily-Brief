@@ -181,5 +181,12 @@
   { "url": "https://www.sciencenews.org/feed", "category": "science", "source": "Science News" },
   { "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "category": "science", "source": "NASA" },
   { "url": "https://api.quantamagazine.org/feed/", "category": "science", "source": "Quanta Magazine" },
-  { "url": "https://www.smithsonianmag.com/rss/science-nature/", "category": "science", "source": "Smithsonian Science" }
+  { "url": "https://www.smithsonianmag.com/rss/science-nature/", "category": "science", "source": "Smithsonian Science" },
+  { "url": "https://feeds.ign.com/ign/news", "category": "gaming", "source": "IGN" },
+  { "url": "https://www.polygon.com/rss/index.xml", "category": "gaming", "source": "Polygon" },
+  { "url": "https://kotaku.com/rss", "category": "gaming", "source": "Kotaku" },
+  { "url": "https://www.gamespot.com/feeds/news/", "category": "gaming", "source": "GameSpot" },
+  { "url": "https://artificialintelligence-news.com/feed/", "category": "ai", "source": "AI News" },
+  { "url": "https://www.marktechpost.com/category/artificial-intelligence/feed/", "category": "ai", "source": "MarkTechPost" },
+  { "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "category": "ai", "source": "MIT Tech Review" }
 ]
