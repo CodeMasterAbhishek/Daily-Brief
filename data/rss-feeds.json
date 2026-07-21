@@ -191,5 +191,17 @@
   { "url": "https://venturebeat.com/category/ai/feed/", "category": "ai", "source": "VentureBeat AI" },
   { "url": "https://medium.com/feed/tag/artificial-intelligence", "category": "ai", "source": "Medium AI" },
   { "url": "https://medium.com/feed/tag/machine-learning", "category": "ai", "source": "Medium ML" },
-  { "url": "https://www.analyticsinsight.net/feed/", "category": "ai", "source": "Analytics Insight" }
+  { "url": "https://www.analyticsinsight.net/feed/", "category": "ai", "source": "Analytics Insight" },
+  { "url": "https://openai.com/news/rss.xml", "category": "ai", "source": "OpenAI News" },
+  { "url": "https://huggingface.co/blog/feed.xml", "category": "ai", "source": "Hugging Face" },
+  { "url": "https://blog.google/technology/ai/rss/", "category": "ai", "source": "Google AI" },
+  { "url": "https://rss.arxiv.org/rss/cs.AI", "category": "ai", "source": "arXiv AI" },
+  { "url": "https://news.mit.edu/rss/topic/artificial-intelligence2", "category": "ai", "source": "MIT AI News" },
+  { "url": "https://bair.berkeley.edu/blog/feed.xml", "category": "ai", "source": "Berkeley AI" },
+  { "url": "https://www.kdnuggets.com/feed", "category": "ai", "source": "KDnuggets" },
+  { "url": "https://www.analyticsvidhya.com/feed/", "category": "ai", "source": "Analytics Vidhya" },
+  { "url": "https://towardsdatascience.com/feed", "category": "ai", "source": "Towards Data Science" },
+  { "url": "https://machinelearningmastery.com/feed/", "category": "ai", "source": "ML Mastery" },
+  { "url": "https://aws.amazon.com/blogs/machinelearning/feed/", "category": "ai", "source": "AWS ML Blog" },
+  { "url": "https://blogs.nvidia.com/feed/", "category": "ai", "source": "NVIDIA AI Blog" }
 ]
