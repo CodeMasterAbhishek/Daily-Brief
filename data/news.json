@@ -1,7 +1,647 @@
 {
-  "lastUpdated": "2026-07-21T10:02:04.754Z",
-  "count": 554,
+  "lastUpdated": "2026-07-21T12:08:11.690Z",
+  "count": 621,
   "articles": [
+    {
+      "id": "rss-6873dbc4b076",
+      "title": "A New Threat to Global Shipping, and a Huge Drop-Off in Food Stamps",
+      "description": "Plus, when A.I. writes your biography.",
+      "url": "https://www.nytimes.com/2026/07/21/podcasts/the-headlines/yemen-blockade-food-stamps.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21theheadlines-houthis-01-qkmf/21theheadlines-houthis-01-qkmf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T12:04:21.000Z"
+    },
+    {
+      "id": "rss-2689b7bf05bc",
+      "title": "Samsung establishes a robotics division",
+      "description": "Samsung created a robotics division called RX, and its first product could be a humanoid robot.",
+      "url": "https://www.engadget.com/2219517/samsung-establishes-its-own-robotics-division/",
+      "image": "https://www.engadget.com/img/gallery/samsung-establishes-a-robotics-division/l-intro-1784635310.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-21T12:03:06.000Z"
+    },
+    {
+      "id": "rss-c5f643848662",
+      "title": "Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave",
+      "description": "Expectations were raised for a raft of pardons in connection with the country’s 250th birthday but the president granted fewer than 20 on July 3.",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html",
+      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20dc-pardons-ctbl/20dc-pardons-ctbl-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T12:02:44.000Z"
+    },
+    {
+      "id": "rss-0cda9afc3acc",
+      "title": "Burnham, UK’s New Prime Minister, Starts With Electricity Tax Cut",
+      "description": "Prime Minister Andy Burnham moved quickly to confront the high cost of living. And President Trump wished him well after a phone call between the two leaders.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21uk-burnham-ctkl/21uk-burnham-ctkl-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T12:01:06.000Z"
+    },
+    {
+      "id": "rss-de9aaf02dc72",
+      "title": "You don’t have a memory problem. You have an institution problem.",
+      "description": "We keep treating agent learning as a new AI frontier. It’s an old organizational problem we already solved and then forgot when we started…\nContinue reading on Medium »",
+      "url": "https://medium.com/@eceravishan/you-dont-have-a-memory-problem-you-have-an-institution-problem-72d3f85d26b9?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1560/1*PdRq7_3CwpZtNBfWupVjKQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T12:01:02.000Z"
+    },
+    {
+      "id": "rss-f963c0b8e421",
+      "title": "Best Vibe Coding Tools for Non-Programmers",
+      "description": "Popular Vibe Coding tools to know\nContinue reading on Data Science in Your Pocket »",
+      "url": "https://medium.com/data-science-in-your-pocket/best-vibe-coding-tools-for-non-programmers-1fd52c12db26?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*4NhHaz7005Yf8dnF",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T12:00:37.000Z"
+    },
+    {
+      "id": "rss-8bb225e4b0bd",
+      "title": "Did Tom Holland put Jean Grey in Spider-Man: Brand New Day?",
+      "description": "Did Tom Holland put Jean Grey in Spider-Man: Brand New Day?",
+      "url": "https://www.polygon.com/tom-holland-spider-man-interview-sadie-sink-jean-grey/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tom-holland-spider-man-new-day-first-look-080225-6b5e96cdf0c3447cae2899b1258dc29d.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T12:00:12.000Z"
+    },
+    {
+      "id": "rss-b54bd9845aca",
+      "title": "5 Free Courses to Go From AI Beginner to Practitioner",
+      "description": "Follow this free five-course roadmap to build real AI skills, from classical algorithms to training LLMs from scratch.",
+      "url": "https://www.kdnuggets.com/5-free-courses-to-go-from-ai-beginner-to-practitioner",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/kdn-chugani-5-free-courses-ai-beginner-practitioner-feature.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-21T12:00:10.000Z"
+    },
+    {
+      "id": "rss-e80ba4e7dfcc",
+      "title": "A massive crater was spotted on Google Earth. It could be a scar from an ancient meteorite impact",
+      "description": "While getting ready for a camping trip, an amateur astronomer spotted a possible crater. It appears to be a match, pending microscopic results.",
+      "url": "https://www.space.com/astronomy/earth/a-massive-crater-was-spotted-on-google-earth-it-could-be-a-scar-from-an-ancient-meteorite-impact",
+      "image": "https://cdn.mos.cms.futurecdn.net/6LJwNEGdC8QARb4NpLeNuB-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-21T12:00:00.000Z"
+    },
+    {
+      "id": "rss-12a52f6bc2ff",
+      "title": "Neuroscience findings often can't be replicated ‪—‬ and it's a big problem for what we know about the brain",
+      "description": "The findings in several foundational brain imaging studies don't hold up in follow-up research.",
+      "url": "https://www.livescience.com/health/neuroscience/neuroscience-findings-often-cant-be-replicated-and-its-a-big-problem-for-what-we-know-about-the-brain",
+      "image": "https://cdn.mos.cms.futurecdn.net/kJYT7yzP6g9WK8QJfXeYaU-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-21T12:00:00.000Z"
+    },
+    {
+      "id": "rss-2e393e9a9fcb",
+      "title": "Nintendo Says It Doesn’t Owe Customers Anything After Increasing Switch Prices For Tariffs It Didn’t Have To Pay",
+      "description": "The Japanese company has filed for a U.S.-based class action lawsuit to be dismissed",
+      "url": "https://kotaku.com/nintendo-switch-2-price-class-action-lawsuit-trump-tariffs-2000717971",
+      "image": "https://kotaku.com/app/uploads/2026/07/mario-in-court-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T11:55:04.000Z"
+    },
+    {
+      "id": "rss-2cfa480d5635",
+      "title": "The problem is not using Copilot. It is using Copilot without architectural context",
+      "description": "AI-Assisted Software Engineering Beyond the Prompt — Part 3\nContinue reading on Medium »",
+      "url": "https://medium.com/@luisbsl/the-problem-is-not-using-copilot-it-is-using-copilot-without-architectural-context-03c7cf0681f1?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1535/1*XPPXdQnvMaPjA0L3TkXBjQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:54:03.000Z"
+    },
+    {
+      "id": "rss-9a095b3ecbac",
+      "title": "Cybersecurity And its importance in future",
+      "description": "Cybersecurity is the practice of protecting digital devices, networks, and data from unauthorized access, attacks, or damage.\nContinue reading on Medium »",
+      "url": "https://medium.com/@duakhoso15/cybersecurity-and-its-importance-in-future-e2657f894727?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1400/0*tZA36BqL2Xanq0zx.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:53:39.000Z"
+    },
+    {
+      "id": "rss-aa5ea8fd4428",
+      "title": "Artificial Intelligence",
+      "description": "Artificial Intelligence: A Human Point of View Essay\nArtificial Intelligence (AI) has become one of the pivotal pillars of contemporary…\nContinue reading on Medium »",
+      "url": "https://medium.com/@hamzaashfa463/artificial-intelligence-b6c5cde56c1b?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*ZhJvwhrgIxpLZtS6MxM0Ng.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:53:20.000Z"
+    },
+    {
+      "id": "rss-db97d91972db",
+      "title": "School Management Is Changing. The Right Technology Can Make the Difference.",
+      "description": "For years, schools have embraced digital learning inside the classroom.\nContinue reading on Medium »",
+      "url": "https://medium.com/@rajputaakashh/school-management-is-changing-the-right-technology-can-make-the-difference-a1108162794f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1112/1*D4BeEoQmwgdFE0PidtB9xw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:52:54.000Z"
+    },
+    {
+      "id": "rss-25d62b5ec3b4",
+      "title": "HBO Max and Paramount+ may not merge after all",
+      "description": "A planned merger of two major streaming platforms, HBO Max and Paramount+, may not be happening after all.\nThe plan was announced back in March after Netflix dropped out of the bidding war for Warner ",
+      "url": "https://9to5mac.com/2026/07/21/hbo-max-and-paramount-may-not-merge-after-all/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/hbo-max-paramount-plus-apps.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-21T11:52:40.000Z"
+    },
+    {
+      "id": "rss-25e4acc9ae99",
+      "title": "Accelerate Digital Transformation with Intelligent Process Automation",
+      "description": "Intelligent Process Automation (IPA) kind of blends Artificial Intelligence (AI) , Robotic Process Automation (RPA), Machine Learning…\nContinue reading on Medium »",
+      "url": "https://medium.com/@adhirajnovelvista/accelerate-digital-transformation-with-intelligent-process-automation-e683c4c6fdaf?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*K5a2wAvGxvx6S76Rk9eE4w.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:51:25.000Z"
+    },
+    {
+      "id": "rss-6a25748f2074",
+      "title": "Best ATS Resume Checker Free: What Actually Matters Before You Apply",
+      "description": "“What’s the best ATS resume checker free?”\nContinue reading on Medium »",
+      "url": "https://medium.com/@vera_ifebuche/best-ats-resume-checker-free-what-actually-matters-before-you-apply-b45daff8b653?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*itiZmcpqEeTQpvtk",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:51:20.000Z"
+    },
+    {
+      "id": "rss-ab0740de239e",
+      "title": "Best Custom AI Agent Development Companies in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/best-custom-ai-agent-development-companies-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/pokhe0gu/Best-Custom-AI-Agent-Development-Companies-in-2026.jpeg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:51:03.000Z"
+    },
+    {
+      "id": "rss-c201a46e494d",
+      "title": "Agentic AI Course Online | New Batch Starts",
+      "description": "🚀Agentic AI Online New Batch Starts — Enrolling Now ! 🤖\nContinue reading on Medium »",
+      "url": "https://medium.com/@hariuhariu6/agentic-ai-course-online-new-batch-starts-62c92a69f513?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*-Xfy5JrF34qzkZs_R3iTOw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:50:55.000Z"
+    },
+    {
+      "id": "rss-dab387a1cc6d",
+      "title": "Why Google’s Custom AI Chip Could Shape the Next Phase of the AI Race",
+      "description": "Artificial intelligence companies are increasingly discovering that building better AI models is only one part of the equation. The…\nContinue reading on Medium »",
+      "url": "https://medium.com/@richwebs.in/why-googles-custom-ai-chip-could-shape-the-next-phase-of-the-ai-race-98c5fb46e4f2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/780/0*7zLan6FLR9hlM42a",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:49:45.000Z"
+    },
+    {
+      "id": "rss-76894e64a9ba",
+      "title": "Digital Growth Driving Contemporary Art Industries",
+      "description": "Digital growth is transforming contemporary art industries by expanding global access, improving artist visibility, and enabling secure…\nContinue reading on Medium »",
+      "url": "https://medium.com/@artex24news/digital-growth-driving-contemporary-art-industries-5e54ee2d5d78?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*EimsCjvueelgfgEnAdsgSw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:49:45.000Z"
+    },
+    {
+      "id": "rss-49a5ddfb1d37",
+      "title": "Designing CLIs for AI Agents, Not Humans",
+      "description": "I think we are designing CLI tools the wrong way for AI agents.\nContinue reading on Medium »",
+      "url": "https://lakin-mohapatra.medium.com/designing-clis-for-ai-agents-not-humans-354cad62660f?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*oo8zdFw4Fy1VKM_qOIWRLg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:40:42.000Z"
+    },
+    {
+      "id": "rss-8d90dfa82792",
+      "title": "Trump’s Ethics Deal Could Ease Senate CLARITY Act Vote",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/trumps-ethics-deal-could-ease-senate-clarity-act-vote",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/4lvtoy8x/Donald-Trump-Reportedly-Backs-CLARITY-Act-Ethics-Deal.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:37:00.000Z"
+    },
+    {
+      "id": "rss-e7b162b5518c",
+      "title": "Why AI Spending Could Become a Hidden Risk for Global Central Banks",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/why-ai-spending-could-become-a-hidden-risk-for-global-central-banks",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/ng82rs7s/Why-AI-Spending-Could-Become-a-Hidden-Risk-for-Global-Central-Banks.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:35:00.000Z"
+    },
+    {
+      "id": "rss-6faa5f90ee49",
+      "title": "Cult horror movie Jennifer's Body is coming back, here's what it should (and shouldn't) do",
+      "description": "Director Karyn Kusama and writer Diablo Cody are set to bring back Jennifer's Body. Here's what the team should consider for the sequel.",
+      "url": "https://www.polygon.com/jennifers-body-2-sequel-release-plot/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/4-2.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T11:32:08.000Z"
+    },
+    {
+      "id": "rss-efa25fcc637e",
+      "title": "The Biggest Critics Of Xbox Game Pass May Be Inside Xbox",
+      "description": "Xbox Game Pass used to be hailed as the \"best deal\" in gaming, but it started to lose its luster following a steep subscription price increase several months back--that is still higher than what it us",
+      "url": "https://www.gamespot.com/articles/the-biggest-critics-of-xbox-game-pass-may-be-inside-xbox/",
+      "image": "https://www.gamespot.com/wp-content/uploads/original/1601/16018044/4330886-xbox-game-pass.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T11:31:16.000Z"
+    },
+    {
+      "id": "rss-4d60c05c9e20",
+      "title": "The Witcher 3: Wild Hunt — Songs of the Past Reveal Date Confirmed",
+      "description": "The Witcher 3: Wild Hunt — Songs of the Past will be revealed at gamescom 2026 during Opening Night Live, CD Projekt has announced.",
+      "url": "https://www.ign.com/articles/the-witcher-3-wild-hunt-songs-of-the-past-reveal-date-confirmed",
+      "image": "https://assets-prd.ignimgs.com/2026/07/21/redstreams-the-witcher-3-blood-and-wine-10th-anniversary-stream-00-57-54-1779984991876-1784633311549.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T11:31:11.000Z"
+    },
+    {
+      "id": "rss-2f8949291c8a",
+      "title": "Shashank Akinapalli on AI, Cloud & Enterprise Data Innovation",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/interview/shashank-akinapalli-on-ai-cloud-enterprise-data-innovation",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/9iaroli7/Shashank-A.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:30:00.000Z"
+    },
+    {
+      "id": "rss-bfc99a94fc5c",
+      "title": "Top 5 Bambu Lab Alternatives for High-Performance 3D Printing",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/printers/top-5-bambu-lab-alternatives-for-high-performance-3d-printing",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/jmvm0xue/Top-5-Bambu-Lab-Alternatives-for-High-Performance-3D-Printing.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:28:44.000Z"
+    },
+    {
+      "id": "rss-a476b68d2405",
+      "title": "More bad news for Apple pricing as TSMC increases chip costs",
+      "description": "Apple has already increased the prices of most of its products very significantly after it said it could no longer absorb far high memory costs. iPhone price rises are also expected when this year’s m",
+      "url": "https://9to5mac.com/2026/07/21/more-bad-news-for-apple-pricing-as-tsmc-increases-chip-costs/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/10/a20.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-21T11:26:09.000Z"
+    },
+    {
+      "id": "rss-c7fe49d04f82",
+      "title": "Could Apple's next iPhone feature memory chips from a Chinese supplier?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/reels/could-apples-next-iphone-feature-memory-chips-from-a-chinese-supplier",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/gjsj8iz7/Could-Apples-next-iPhone-feature-memory-chips-from-a-Chinese-supplie.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:21:37.000Z"
+    },
+    {
+      "id": "rss-ee5bb844c4de",
+      "title": "Jersey Mike’s tests how far investors will stretch on restaurant IPO valuations",
+      "description": "Jersey Mike’s is aiming for a near-$8 billion listing, testing investors’ appetite for franchise-driven growth.",
+      "url": "https://fortune.com/2026/07/21/jersey-mikes-tests-investors-restaurant-ipo-valuations-cfo/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1164237841.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T11:21:20.000Z"
+    },
+    {
+      "id": "rss-5cb3b702bc79",
+      "title": "Top Decentralized Crypto Lending Platforms in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/cryptocurrency-analytics-insight/top-decentralized-crypto-lending-platforms-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/40yed30e/Top-Decentralized-Crypto-Lending-Platforms-in-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:20:36.000Z"
+    },
+    {
+      "id": "rss-5748c1d8d9fb",
+      "title": "Devshree Golecha Explains Why Every Child Needs AI Literacy Today",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/interview/devshree-golecha-explains-why-every-child-needs-ai-literacy-today",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/8rgeh5dx/Devshree-Golecha.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:11:11.000Z"
+    },
+    {
+      "id": "rss-11469cf667e6",
+      "title": "Switch 2 Customers Have No Right to U.S. Tariff Refunds, Nintendo Argues, as They 'Received Exactly What They Bargained and Paid For'",
+      "description": "Nintendo might be receiving a refund for the money it spent on U.S. tariffs, but it is under no obligation to pass that money back to consumers — even though they paid higher prices for Switch 2 produ",
+      "url": "https://www.ign.com/articles/switch-2-customers-have-no-right-to-us-tariff-refunds-nintendo-argues-as-they-received-exactly-what-they-bargained-and-paid-for",
+      "image": "https://assets-prd.ignimgs.com/2026/07/21/best-switch-2-deal-before-september-price-hike-ign-2026-1778239120054-1784625798675.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T11:10:48.000Z"
+    },
+    {
+      "id": "rss-2bac81b70389",
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "description": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday, July 20, 2026. | Image: LONG WEI/ Feature China/Future Publ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286280160.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-21T11:08:56.000Z"
+    },
+    {
+      "id": "rss-8da3932aaf39",
+      "title": "SkyPilot, from Databricks’ cofounder, raises $20M to be the Switzerland of AI compute",
+      "description": "Backed by Lux Capital, SkyPilot helps customers use GPUs wherever they're available.",
+      "url": "https://fortune.com/2026/07/21/skypilot-from-databricks-cofounder-raises-20m-to-be-the-switzerland-of-ai-compute/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Group-photo-01-server-room-e1784596163316.jpeg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T11:08:09.000Z"
+    },
+    {
+      "id": "rss-dab8215e60b2",
+      "title": "Prosecutor ousted after alleged romance with illegal immigrant sex-crime suspect: 'Pattern of misconduct'",
+      "description": "Missouri's attorney general accused county prosecutor Camille Johnston of an intimate relationship with an illegal immigrant charged in a sexual assault case in her jurisdiction.",
+      "url": "https://www.foxnews.com/politics/prosecutor-ousted-after-alleged-romance-illegal-immigrant-sex-crime-suspect",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/camille-johnston-missouri-prosecutor.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T11:06:27.000Z"
+    },
+    {
+      "id": "rss-ba9b45d77be3",
+      "title": "Apple Chipmaker TSMC Plans Price Hikes of Up to 10% in 2027",
+      "description": "Apple's principal chipmaker TSMC plans to raise prices by as much as 10 percent starting in 2027, according to a new report from Nikkei Asia.\r\n\r\n\r\nThe Taiwan-based foundry has reportedly held talks wi",
+      "url": "https://www.macrumors.com/2026/07/21/apple-tsmc-price-hikes-2027/",
+      "image": "https://images.macrumors.com/article-new/2020/08/tsmc_semiconductor_chip_inspection_678x452.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-21T11:01:47.000Z"
+    },
+    {
+      "id": "rss-ab40c7a07be4",
+      "title": "Kai Trump reveals diet and nutrition secrets that created six-pack abs post-surgery",
+      "description": "Kai Trump reveals wellness regimen, including her protein-packed diet and gym routine that helped her achieve six-pack abs after wrist surgery recovery.",
+      "url": "https://www.foxnews.com/health/kai-trump-reveals-diet-nutrition-secrets-created-six-pack-abs-post-surgery",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/kai-trump-fox-and-friends.jpg?ve=1&tl=1",
+      "source": "Fox News Health",
+      "category": "health",
+      "publishedAt": "2026-07-21T11:00:36.000Z"
+    },
+    {
+      "id": "rss-575249278d15",
+      "title": "After 12 Years, Hexcells Is Still The Best Logic Puzzle Game Ever Made",
+      "description": "The Hexcells trilogy has yet to be beaten",
+      "url": "https://kotaku.com/hexcells-logic-puzzle-game-matthew-brown-best-ever-steam-2000717605",
+      "image": "https://kotaku.com/app/uploads/2026/07/hexcells1-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T11:00:14.000Z"
+    },
+    {
+      "id": "rss-82476ccf6990",
+      "title": "A new My Hero Academia story officially releases in 2 weeks",
+      "description": "I am a hero too provides emotional closure for a beloved franchise character.",
+      "url": "https://www.polygon.com/my-hero-academia-new-anime-short-two-weeks/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/06/my-hero-academia-s8-trailer.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T11:00:12.000Z"
+    },
+    {
+      "id": "rss-bb1f58377b87",
+      "title": "Startup's 'oscillator-based' AI technology could be 1,000 times more energy efficient than conventional computing",
+      "description": "Engineers say an AI image generator built on a new type of physical computing could use far less power than existing stable diffusion-based methods.",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/startups-oscillator-based-ai-technology-could-be-1-000-times-more-energy-efficient-than-conventional-computing",
+      "image": "https://cdn.mos.cms.futurecdn.net/42DaKU6u7kgfeWoAeRCtzV-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-21T11:00:00.000Z"
+    },
+    {
+      "id": "rss-03a0b3f74dfb",
+      "title": "Where to Find AI Engineers in 2026: Best Hiring Platforms for Businesses",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/where-to-find-ai-engineers-in-2026-best-hiring-platforms-for-businesses",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/nq19bz3x/Where-to-Find-AI-Engineers-in-2026-Best-Hiring-Platforms-for-Businesses.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T11:00:00.000Z"
+    },
+    {
+      "id": "rss-6a2cbd8e4452",
+      "title": "Modern Warfare 4 Beta Kicks Off Soon, Full Access Dates Announced",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/modern-warfare-4-beta-kicks-off-soon-full-access-dates-announced",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/nj989mdf/Call-of-Duty-Modern-Warfare-4-Beta-Dates-Confirmed.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T10:58:46.000Z"
+    },
+    {
+      "id": "rss-cd80578a8aff",
+      "title": "Ryan Reynolds Says There Will ‘Eventually’ Be Another ‘Deadpool’ Movie: ‘There’s a Few Really Deep Cuts That I Think Are Missing’",
+      "description": "Deadpool’s story isn’t over yet. During a panel at Fanatics Fest over the weekend, Ryan Reynolds confirmed that there will “eventually” be another movie starring the Marvel antihero — but it may revol",
+      "url": "https://variety.com/2026/film/news/ryan-reynolds-new-deadpool-movie-eventually-1236817083/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/MCDDEAD_FE014.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-21T10:56:30.000Z"
+    },
+    {
+      "id": "rss-6919d5637213",
+      "title": "Sony files another lawsuit against AI music generator Udio",
+      "description": "Sony, the only major music label that has yet to sign a deal with Udio, has sued the AI music generator again.",
+      "url": "https://www.engadget.com/2219497/sony-files-another-lawsuit-with-udio/",
+      "image": "https://www.engadget.com/img/gallery/sony-files-another-lawsuit-against-ai-music-generator-udio/l-intro-1784631264.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-21T10:56:15.000Z"
+    },
+    {
+      "id": "rss-28268814bd6d",
+      "title": "Matilda 2? Mara Wilson Says It's Possible, but Doesn't Quite Understand How It Would Work for One Good Reason",
+      "description": "30 years on from the release of the much loved Matilda, Mara Wilson has said Matilda 2 is possible, but isn’t quite sure how it would make sense.",
+      "url": "https://www.ign.com/articles/matilda-2-mara-wilson-says-its-possible-but-doesnt-quite-understand-how-it-would-work-for-one-good-reason",
+      "image": "https://assets-prd.ignimgs.com/2026/07/21/matilda-1784630772103.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T10:52:52.000Z"
+    },
+    {
+      "id": "rss-fcae09e0067a",
+      "title": "Largest ever iPhone screen arriving next year, suggests leaker",
+      "description": "Next year could see the introduction of the largest ever iPhone screen, according to a leaker with a decent track record.\nSupply chain sources indicate Apple is trialing a new display, which may be de",
+      "url": "https://9to5mac.com/2026/07/21/largest-ever-iphone-screen-arriving-next-year-suggests-leaker/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-21T10:52:04.000Z"
+    },
+    {
+      "id": "rss-c61a75531bc9",
+      "title": "Where does India Get its Semiconductor Chips From?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/manufacturing/where-does-india-get-its-semiconductor-chips-from",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/q4tksvlw/Where-does-India-Get-its-Semiconductor-Chips-From.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T10:35:00.000Z"
+    },
+    {
+      "id": "rss-a7fc25f8e15e",
+      "title": "XRP Price Stays Near $1 as XRPL Growth and US Regulations Drive Optimism",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/xrp-price-stays-near-1-as-xrpl-growth-and-us-regulations-drive-optimism",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/0skosj9f/XRP-Price-Stays-Near-1-as-XRPL-Growth-and-US-Regulations-Drive-Optimism-4pm.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T10:30:00.000Z"
+    },
+    {
+      "id": "rss-29339db1986c",
+      "title": "Jamie Dimon won’t put more of his own money into the long end of the bond market right now—thanks to the $39 trillion national debt",
+      "description": "\"These are very high debt numbers ... Usually you have to have like a great recession or a depression to have or war to have numbers like that,\" Dimon said.",
+      "url": "https://fortune.com/2026/07/21/jamie-dimon-bond-market-personal-investing-national-debt/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285617248-e1784624234839.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T10:23:22.000Z"
+    },
+    {
+      "id": "rss-9d044ab04146",
+      "title": "The Odyssey Isn't 100% Matt Damon's Bulging Biceps — for One Scene His Stunt Double Was a Woman Who Had 'The Greatest Arms I've Ever Seen'",
+      "description": "Matt Damon’s bulging biceps are on full display in The Odyssey, but it turns out that in one scene we're seeing the impressive arms of a female stunt double instead.",
+      "url": "https://www.ign.com/articles/the-odyssey-isnt-100-matt-damons-bulging-biceps-for-one-scene-his-stunt-double-was-a-woman-who-had-the-greatest-arms-ive-ever-seen",
+      "image": "https://assets-prd.ignimgs.com/2026/07/21/the-odyssey-1784629151784.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T10:22:08.000Z"
+    },
+    {
+      "id": "rss-dcf12dcd4bda",
+      "title": "Current price of oil as of July 21, 2026",
+      "description": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "url": "https://fortune.com/article/price-of-oil-07-21-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Price-of-Oil-July-21.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T10:20:12.000Z"
+    },
+    {
+      "id": "rss-58f4731654a9",
+      "title": "Bitcoin Price Holds Above $65,886 as Bulls Target $66,000",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/bitcoin/bitcoin-price-holds-above-65886-as-bulls-target-66000",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/ov4740vt/Bitcoin-Price-Analysis-6.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T10:18:25.000Z"
+    },
+    {
+      "id": "rss-bc2decc7eb57",
+      "title": "The Guild reunion film smashes fundraising goals, earning $2.5 million in less than a day",
+      "description": "The original cast will reunite for The Guild: Ren Faire'd, which will release in 2027.",
+      "url": "https://www.polygon.com/the-guild-renfaired-kickstarter-funded/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/theguild_emailimages_renfairecrew-v3.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T10:16:28.000Z"
+    },
+    {
+      "id": "rss-8528be6cad5a",
+      "title": "New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.",
+      "description": "Britain’s new prime minister, Andy Burnham, promised policies that would give average Britons financial “breathing space.” His opponents are already doling out criticism.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21uk-burnham-assess-01-lbwz/21uk-burnham-assess-01-lbwz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T10:12:33.000Z"
+    },
+    {
+      "id": "rss-12443ef39377",
+      "title": "Stock Market Today: Sensex, Nifty End Lower Amid Selling in IT and Financial Stocks",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/stock-market-today-sensex-nifty-end-lower-amid-selling-in-it-and-financial-stocks",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/h1egon7t/Stock-Market-Today-Sensex-Nifty-End-Lower-Amid-Selling-in-IT-and-Financial-Stocks.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T10:10:51.000Z"
+    },
+    {
+      "id": "rss-5b0c0d5cc77a",
+      "title": "Iran calls for ‘full-scale war’ but behind the scenes a peace proposal might reopen the Strait of Hormuz—if Trump can stomach it",
+      "description": "Everything you need to know before you reach the office this morning.",
+      "url": "https://fortune.com/2026/07/21/iran-full-scale-war-peace-proposal-reopen-the-strait-of-hormuz-trump/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286821257.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T10:09:59.000Z"
+    },
+    {
+      "id": "rss-1e68ca160646",
+      "title": "Money talks—as the Iran war continues, options for the Strait of Hormuz are coalescing around one solution – tolls",
+      "description": "With missiles replacing merchant ships in the Strait of Hormuz, activity in the world's most critical energy corridor is grinding to a halt—and a controversial proposal to charge for safe passage is g",
+      "url": "https://fortune.com/2026/07/21/money-talks-as-iran-war-continues-options-for-strait-of-hormuz-are-coalescing-around-one-solution-tolls/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Strait-Hormuz-e1784626649692.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T10:07:58.000Z"
+    },
+    {
+      "id": "rss-103ecf28bd41",
+      "title": "Lisa Nandy Stays in Post as U.K. Culture Secretary, Kanishka Narayan Appointed First AI Minister",
+      "description": "Despite new Prime Minister Andy Burnham undergoing an extensive cabinet reshuffle, incumbent culture minister Lisa Nandy is set to remain in post. Nandy, who has been a member of Parliament since 2010",
+      "url": "https://variety.com/2026/politics/global/uk-culture-secretary-lisa-nandy-minister-ai-1236806337/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Lisa-Nandy-Kanishka-Narayan.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-21T10:03:35.000Z"
+    },
+    {
+      "id": "rss-3087cc8fc9e6",
+      "title": "World Cup chaos avoided by Trump moves he didn’t make, ‘equally as important’ as actions taken: travel exec",
+      "description": "The U.S. Travel Association credited Trump for policies enacted, but also that he avoided, which helped the 2026 World Cup become a tourism and diplomacy win.",
+      "url": "https://www.foxnews.com/politics/world-cup-chaos-avoided-trump-moves-he-didnt-make-equally-important-actions-taken-travel-exec",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/trump-world-cup-trophy-infantino-2.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T10:00:27.000Z"
+    },
+    {
+      "id": "rss-456c95b61795",
+      "title": "Two House races take center stage as conservative PAC launches multimillion-dollar Big Tech push",
+      "description": "Defending Our Values PAC backs Rhett Marques and Scott Singer in crowded Republican primaries it sees as critical to preserving the GOP House majority.",
+      "url": "https://www.foxnews.com/politics/two-house-races-take-center-stage-conservative-pac-launches-multimillion-dollar-big-tech-push",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/american-flag-capitol-dc.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T10:00:18.000Z"
+    },
     {
       "id": "rss-7e3195430ded",
       "title": "Who’s afraid of the big, bad GPU?",
@@ -21,6 +661,56 @@
       "source": "Space.com",
       "category": "science",
       "publishedAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "rss-473bd666f8a8",
+      "title": "Alliance for America’s Skilled Trades: Skilled trades shaped America’s past. Here’s how they can build America’s future",
+      "description": "Ford, Carhartt, BlackRock and Google have created the Alliance for America’s Skilled Trades, as 2.1 million jobs could go unfilled by 2030.",
+      "url": "https://fortune.com/2026/07/21/blackrock-ford-google-carhartt-skilled-trades-alliance/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/20260506-FordSkillsUSASigningDay-0012-1-e1784593540129.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "rss-54e6a05068b7",
+      "title": "Exclusive: KPMG and OpenAI bet the future of software is ‘headless’ — and the future of work is mostly talking",
+      "description": "\"You're going to be talking more than you're typing,\" KPMG U.S. TMT leader Chad Seiler told Fortune about the future of work.",
+      "url": "https://fortune.com/2026/07/21/exclusive-kpmg-openai-elite-partner-headless-software/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/chad-seiler-1_cq5dam-web-598-598.webp?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "rss-6ad3a7e7adc7",
+      "title": "Apple @ Work Podcast: Forget 90 day patch windows",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary t",
+      "url": "https://9to5mac.com/2026/07/21/apple-work-podcast-forget-90-day-patch-windows/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "rss-8cbf875a0e8d",
+      "title": "Shipping transits slow to a trickle as Strait of Hormuz faces “worst-case scenario”",
+      "description": "From shipping lane to battleground: Hormuz crisis forces industry rethink.",
+      "url": "https://fortune.com/2026/07/21/shipping-transits-slow-trickle-strait-of-hormuz-faces-worst-case-scenario/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2269014014-e1784627761961.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T09:59:25.000Z"
+    },
+    {
+      "id": "rss-c7752ed6cc5b",
+      "title": "United Airlines’ growth strategy is all about selling customers a better version of what they already buy",
+      "description": "Also: All the news and watercooler chat from Fortune.",
+      "url": "https://fortune.com/2026/07/21/united-airlines-earning-scott-kirby-premiumization-strategy/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2267710220-e1784626583841.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T09:54:48.000Z"
     },
     {
       "id": "rss-829031792a93",
@@ -43,6 +733,16 @@
       "publishedAt": "2026-07-21T09:52:17.000Z"
     },
     {
+      "id": "rss-271322a3fc9b",
+      "title": "Google Plans Specialized AI Chip for Gemini, Deployment Could Begin in 2028",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/google-plans-specialized-ai-chip-for-gemini-deployment-could-begin-in-2028",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/wvispbz0/Google-plans-new-AI-server-chip-%E2%80%98Frozen-v2%E2%80%99-to-boost-Gemini-efficiency-Report.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:52:13.000Z"
+    },
+    {
       "id": "rss-a0ea25fe1648",
       "title": "I Took a Close Look at Google’s AI Professional Certificate — Here’s Who I Think It’s Best For",
       "description": "Artificial intelligence is no longer just for software engineers.\nContinue reading on Medium »",
@@ -61,16 +761,6 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-21T09:50:21.000Z"
-    },
-    {
-      "id": "rss-8528be6cad5a",
-      "title": "New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.",
-      "description": "Britain’s new prime minister, Andy Burnham, promised policies that would give average Britons financial “breathing space.” His opponents are already doling out criticism.",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21uk-burnham-assess-01-lbwz/21uk-burnham-assess-01-lbwz-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T09:50:13.000Z"
     },
     {
       "id": "rss-bd315f6677d3",
@@ -101,16 +791,6 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-21T09:40:44.000Z"
-    },
-    {
-      "id": "rss-535aea0dc618",
-      "title": "UK’s New Prime Minister Burnham Orders Cut in Taxes on Electricity",
-      "description": "Prime Minister Andy Burnham moved quickly to confront the high cost of living. And President Trump wished him well after a phone call between the two leaders.",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21uk-burnham-ctkl/21uk-burnham-ctkl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T09:39:56.000Z"
     },
     {
       "id": "rss-6745c25566bc",
@@ -395,7 +1075,7 @@
     {
       "id": "rss-98383429e049",
       "title": "Trump’s GOP clout faces Arizona test with House majority, governor’s race at stake",
-      "description": "Trump's endorsement power faces a critical test as Arizona holds GOP primaries for governor, attorney general, and key swing congressional seats.",
+      "description": "Trump's endorsement power faces a critical test as Arizona holds GOP primaries for governor, attorney general and key swing congressional seats.",
       "url": "https://www.foxnews.com/politics/trumps-gop-clout-faces-arizona-test-house-majority-governors-race-stake",
       "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/donald-trump-pointing.png?ve=1&tl=1",
       "source": "Fox News Politics",
@@ -743,6 +1423,16 @@
       "publishedAt": "2026-07-21T07:00:00.000Z"
     },
     {
+      "id": "rss-9ab787f578d6",
+      "title": "Atlassian: Why AI speeds up employees but not organizations",
+      "description": "Presented by Atlassian \n\nMost companies are approaching AI adoption backwards by optimizing how individuals use AI instead of how teams work together, said Dr. Molly Sands, head of the Teamwork Lab at",
+      "url": "https://venturebeat.com/orchestration/atlassian-why-ai-speeds-up-employees-but-not-organizations",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1Nx8bJaeRiGALzuAV2GUrW/f64733b2daf58aaa2f43d1f5defb28de/VBXC0020-X2.jpg?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "technology",
+      "publishedAt": "2026-07-21T07:00:00.000Z"
+    },
+    {
       "id": "rss-4d81b0ceea38",
       "title": "Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official",
       "description": "As chancellor, John Healey, who quit as defense secretary in the former government, will fill one of the most consequential posts, overseeing fiscal and economic policy.",
@@ -961,16 +1651,6 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-21T03:41:34.000Z"
-    },
-    {
-      "id": "rss-c5f643848662",
-      "title": "Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave",
-      "description": "Expectations were raised for a raft of pardons in connection with the country’s 250th birthday but the president granted fewer than 20 on July 3.",
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html",
-      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20dc-pardons-ctbl/20dc-pardons-ctbl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T02:58:49.000Z"
     },
     {
       "id": "rss-6dbe37224427",
@@ -1450,7 +2130,7 @@
       "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20dc-plane-photo-ghkj/20dc-plane-photo-ghkj-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-20T21:43:14.000Z"
+      "publishedAt": "2026-07-20T21:43:15.000Z"
     },
     {
       "id": "rss-b97659086780",
@@ -5531,16 +6211,6 @@
       "source": "NVIDIA AI Blog",
       "category": "ai",
       "publishedAt": "2026-07-14T15:00:20.000Z"
-    },
-    {
-      "id": "rss-b644e77d14d4",
-      "title": "LLM Evaluation Frameworks Compared: How to Actually Measure What Your Model Does",
-      "description": "In this article, you will learn how to evaluate LLM applications using the three dominant open-source frameworks — RAGAS, DeepEval, and Promptfoo — and why...",
-      "url": "https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/",
-      "image": "https://machinelearningmastery.com/wp-content/uploads/2026/06/MLM-Shittu-LLM-Evaluation-Frameworks-Compared.png",
-      "source": "ML Mastery",
-      "category": "ai",
-      "publishedAt": "2026-07-14T12:00:29.000Z"
     }
   ]
 }
