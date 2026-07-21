@@ -186,7 +186,7 @@
   { "url": "https://www.polygon.com/rss/index.xml", "category": "gaming", "source": "Polygon" },
   { "url": "https://kotaku.com/rss", "category": "gaming", "source": "Kotaku" },
   { "url": "https://www.gamespot.com/feeds/news/", "category": "gaming", "source": "GameSpot" },
-  { "url": "https://artificialintelligence-news.com/feed/", "category": "ai", "source": "AI News" },
-  { "url": "https://www.marktechpost.com/category/artificial-intelligence/feed/", "category": "ai", "source": "MarkTechPost" },
-  { "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "category": "ai", "source": "MIT Tech Review" }
+  { "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "ai", "source": "TechCrunch AI" },
+  { "url": "https://www.theverge.com/rss/artificial-intelligence/index.xml", "category": "ai", "source": "The Verge AI" },
+  { "url": "https://venturebeat.com/category/ai/feed/", "category": "ai", "source": "VentureBeat AI" }
 ]
