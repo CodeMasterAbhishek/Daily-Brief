@@ -1,7 +1,507 @@
 {
-  "lastUpdated": "2026-07-21T07:41:47.939Z",
-  "count": 503,
+  "lastUpdated": "2026-07-21T10:02:04.754Z",
+  "count": 554,
   "articles": [
+    {
+      "id": "rss-7e3195430ded",
+      "title": "Who’s afraid of the big, bad GPU?",
+      "description": "How does AI make you feel? Are you excited to “vibe-code” your smart home? Or anxious about all the added pollution and billions of gallons of water used by data centers? Dig a little deeper and you’l",
+      "url": "https://www.theverge.com/cs/features/937356/ai-data-center-gpu-environmental-impact",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/258075_GPU_IMAGE_LEDE.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-21T10:00:01.000Z"
+    },
+    {
+      "id": "rss-e304630b61cd",
+      "title": "Galaxy cluster's magnetic field reconstructed for 1st time with record-breaking astronomy map",
+      "description": "\"We believe that the mechanism that 'turns on' these gigantic radio emissions is linked to the formation process of galaxy clusters.\"",
+      "url": "https://www.space.com/astronomy/galaxies/galaxy-clusters-magnetic-field-reconstructed-for-1st-time-with-record-breaking-astronomy-map",
+      "image": "https://cdn.mos.cms.futurecdn.net/aGoiUP7GukTM7Q2HrvhzRF-1280-80.png",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-21T10:00:00.000Z"
+    },
+    {
+      "id": "rss-829031792a93",
+      "title": "Common Tally Reporting Problems and How AI Solves Them",
+      "description": "If you’ve ever run a business finance team in India, chances are Tally has been part of your life for years, maybe even decades. It’s…\nContinue reading on Medium »",
+      "url": "https://medium.com/@kolossusai.india/common-tally-reporting-problems-and-how-ai-solves-them-1c7ff02d7c23?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*oIaruhp2fzB9p2V9JLPU9g.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:52:54.000Z"
+    },
+    {
+      "id": "rss-32f794f17af8",
+      "title": "5 Best High-Paying Tech Skills to Learn in 2026 for Financial Freedom",
+      "description": "Whether you are a student, a freelancer, or someone looking to switch careers, learning a high-income tech skill is the fastest way to…\nContinue reading on Medium »",
+      "url": "https://medium.com/@zestradars/5-best-high-paying-tech-skills-to-learn-in-2026-for-financial-freedom-02c190e19468?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*MgOdyO_Hc37t25Wn7lgLcQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:52:17.000Z"
+    },
+    {
+      "id": "rss-a0ea25fe1648",
+      "title": "I Took a Close Look at Google’s AI Professional Certificate — Here’s Who I Think It’s Best For",
+      "description": "Artificial intelligence is no longer just for software engineers.\nContinue reading on Medium »",
+      "url": "https://medium.com/@paramdeepsingh4/i-took-a-close-look-at-googles-ai-professional-certificate-here-s-who-i-think-it-s-best-for-07ae77301f73?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*Ah0mPK1wBf-wEN0p8QoeXQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:51:01.000Z"
+    },
+    {
+      "id": "rss-41357de9cf23",
+      "title": "How to Run Local LLMs on Android in 2026 (Beginner’s Guide)",
+      "description": "Get a private AI chatbot running on your phone, fully offline, in about 10 minutes. No coding, no cloud, no subscription.\nContinue reading on Data Science Collective »",
+      "url": "https://medium.com/data-science-collective/how-to-run-local-llms-on-android-in-2026-beginners-guide-a87dd9a71d47?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*FgZS1YgyJZuIBmhahYA6rQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:50:21.000Z"
+    },
+    {
+      "id": "rss-8528be6cad5a",
+      "title": "New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.",
+      "description": "Britain’s new prime minister, Andy Burnham, promised policies that would give average Britons financial “breathing space.” His opponents are already doling out criticism.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21uk-burnham-assess-01-lbwz/21uk-burnham-assess-01-lbwz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:50:13.000Z"
+    },
+    {
+      "id": "rss-bd315f6677d3",
+      "title": "AI Is Fast, Not (always) Good: Speed Isn't Quality",
+      "description": "Fast Is a Fact About Production. Good Is a Fact About the Output.\nContinue reading on Medium »",
+      "url": "https://cedv.medium.com/ai-is-fast-not-always-good-speed-isnt-quality-03db3cd861c9?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*dA2mIReA5Voa9DgOUVokIA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:48:27.000Z"
+    },
+    {
+      "id": "rss-421f8497d025",
+      "title": "Dentis — Dental Clinic WordPress Theme",
+      "description": "What Makes a Dental Website Truly Stand Out\nContinue reading on Medium »",
+      "url": "https://medium.com/@garantiwebt/dentis-dental-clinic-wordpress-theme-d8810d9bb20b?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/800/1*Scu4A16Q9ec_lM2XDs3mJw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:47:34.000Z"
+    },
+    {
+      "id": "rss-ca30c2861925",
+      "title": "DHCP avec Kea sur Debian 13 : Guide Complet et API REST",
+      "description": "Dans le monde de l’infrastructure réseau, le protocole DHCP (Dynamic Host Configuration Protocol) est un pilier fondamental. Il permet…\nContinue reading on Medium »",
+      "url": "https://lab-wiki.medium.com/dhcp-avec-kea-sur-debian-13-guide-complet-et-api-rest-bc35806e78ad?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*FnAWWD98wQ6lM8dlHXeFhw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:40:44.000Z"
+    },
+    {
+      "id": "rss-535aea0dc618",
+      "title": "UK’s New Prime Minister Burnham Orders Cut in Taxes on Electricity",
+      "description": "Prime Minister Andy Burnham moved quickly to confront the high cost of living. And President Trump wished him well after a phone call between the two leaders.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/uk-andy-burnham-electricity-tax-vat.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21uk-burnham-ctkl/21uk-burnham-ctkl-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:39:56.000Z"
+    },
+    {
+      "id": "rss-6745c25566bc",
+      "title": "Avengers: Doomsday Describes the Return of Steve Rogers as a 'Miracle,' but Some Marvel Fans Believe There's More Going on Than Meets the Eye",
+      "description": "Avengers: Doomsday might describe the triumphant return of Steve Rogers as a \"miracle\", but some Marvel fans believe there's more going on than meets the eye.",
+      "url": "https://www.ign.com/articles/avengers-doomsday-describes-the-return-of-steve-rogers-as-a-miracle-but-some-marvel-fans-believe-theres-more-going-on-than-meets-the-eye",
+      "image": "https://assets-prd.ignimgs.com/2026/07/21/avengers-doomsday-official-trailer-2026-robert-downey-jr-pedro-pascal-chris-hemsworth-00-01-58-1784625502615.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T09:39:16.000Z"
+    },
+    {
+      "id": "rss-d52ba041b260",
+      "title": "Where AI Video Actually Breaks",
+      "description": "It looks like one magic button. It is really three machines in a line, and the breaks happen in the gaps between them.\nContinue reading on Futura-Creative »",
+      "url": "https://medium.com/futura-creative/where-ai-video-actually-breaks-06f3012b2b9a?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1088/1*m-nwogzYAKyNMxeg-_tRVg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:36:01.000Z"
+    },
+    {
+      "id": "rss-b688ecf19197",
+      "title": "10 Technologies Changing Professional Sports",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/tech-news/10-technologies-changing-professional-sports",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/4l7e51l8/10-Technologies-Changing-Professional-Sports.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:35:00.000Z"
+    },
+    {
+      "id": "rss-5d899e5f1a95",
+      "title": "Anurag Kashyap, MIFFest Jury President, Searches for ‘a New Cinematic Language’",
+      "description": "Indian auteur Anurag Kashyap, whose latest directorial feature “Bandar” marks his return behind the camera, is at this year’s Malaysia International Film Festival (MIFFest) as jury president while als",
+      "url": "https://variety.com/2026/film/festivals/anurag-kashyap-new-cinematic-language-miffest-1236817072/",
+      "image": "https://variety.com/wp-content/uploads/2025/06/Anurag-Kashyap1.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-21T09:34:29.000Z"
+    },
+    {
+      "id": "rss-345905b6e400",
+      "title": "Virtual Adversarial Training — The Boundary May Not Live Here",
+      "description": "Algorithms in Python— Semi-Supervised Learning, Part 8\nContinue reading on Medium »",
+      "url": "https://grahamjroy.medium.com/virtual-adversarial-training-the-boundary-may-not-live-here-5ad699fa2684?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*EXqwuwGeXjv9mmymelK_GQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:29:35.000Z"
+    },
+    {
+      "id": "rss-05678747da98",
+      "title": "When Protesters Speak, Zelensky Listens, in the Ukrainian Tradition",
+      "description": "With anger high over the firing of the defense minister, the president’s office is signaling an openness to compromise.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-ukraine-zelensky-politics-1-lcjk/21int-ukraine-zelensky-politics-1-lcjk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:28:09.000Z"
+    },
+    {
+      "id": "rss-eaca79d165eb",
+      "title": "Everyone Is Building AI Startups.",
+      "description": "Building an AI product has never been easier.\nContinue reading on Medium »",
+      "url": "https://medium.com/@sai1004/everyone-is-building-ai-startups-e4c104f55b72?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*ufyIB5nXqnO-Alfkuv0kvA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:27:34.000Z"
+    },
+    {
+      "id": "rss-5dd2225f6510",
+      "title": "Deep Learning for Fraud Detection",
+      "description": "Fraud detection is fundamentally a business problem before it is a modelling problem. A model that is statistically impressive but…\nContinue reading on Medium »",
+      "url": "https://medium.com/@f2005636/deep-learning-for-fraud-detection-a1ee7c1bbf41?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1380/1*weJAw5Xxp4GfKYJRt_rTRQ.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:27:13.000Z"
+    },
+    {
+      "id": "rss-e1733054f704",
+      "title": "How Smart Use of Data Is Making Online Payments Safer for Businesses and Their Customers",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/fintech/how-smart-use-of-data-is-making-online-payments-safer-for-businesses-and-their-customers",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/uws6mhs4/Online-Payments-1.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:27:00.000Z"
+    },
+    {
+      "id": "rss-a9f447c48bc1",
+      "title": "Intel and Probabl announce collaboration to accelerate scikit-learn",
+      "description": "By Yann Lechelle, Executive President and Chairman of Probabl\nContinue reading on Probabl »",
+      "url": "https://medium.com/probabl/intel-and-probabl-announce-collaboration-to-accelerate-sc-1bffda4f3225?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*u2IewVOAQooovoo9.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:22:08.000Z"
+    },
+    {
+      "id": "rss-bd6ac45054a5",
+      "title": "Siri AI Swayed This AI Assistant Hater",
+      "description": "Siri AI in iOS 27 delivers a smarter, more useful experience that may win over even longtime skeptics.",
+      "url": "https://mashable.com/tech/siri-ai-swayed-this-ai-assistant-hater",
+      "image": "https://cdn.ex.co/transformations-account/production/a0be6317-e085-43f9-8cb5-7b125d25af4b/27c51421-4970-55fe-9a4b-17ba89c78556/master.m3u8",
+      "source": "Mashable",
+      "category": "technology",
+      "publishedAt": "2026-07-21T09:19:36.000Z"
+    },
+    {
+      "id": "rss-773cd0344534",
+      "title": "Judge approves Anthropic's record-breaking $1.5 billion settlement for AI copyright lawsuit",
+      "description": "A federal judge has approved the $1.5 billion settlement between Anthropic and a group of authors who sued the company for using their work to train Claude.",
+      "url": "https://www.engadget.com/2219475/judge-approves-anthropic-1-5-billion-settlement-authors/",
+      "image": "https://www.engadget.com/img/gallery/judge-approves-anthropics-record-breaking-1-5-billion-settlement-for-ai-copyright-lawsuit/l-intro-1784625333.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-21T09:15:55.000Z"
+    },
+    {
+      "id": "rss-0f13ece5c278",
+      "title": "Quordle Today: Hints, Answers and Strategies Guide for July 21",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/games/quordle-today-hints-answers-and-strategies-guide-for-july-21",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/2it85gmo/Quordle-Hints-and-Answers-Today-for-July-21-2026",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:15:20.000Z"
+    },
+    {
+      "id": "rss-b9d9983125cb",
+      "title": "FTSE 100 Live: Index Opens in Red at 10,502; UK Jobs Beat Forecasts as Unemployment Falls to 4.9%",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/ftse-100-live-index-opens-in-red-at-10502-uk-jobs-beat-forecasts-as-unemployment-falls-to-49",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/zxu582fl/FTSE-100-Live-Index-Opens-in-Red-at-10502-UK-Jobs-Beat-Forecasts-as-Unemployment-Falls-to-4.9",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:15:00.000Z"
+    },
+    {
+      "id": "rss-179528eea40c",
+      "title": "AI Stack Course in Hyderabad | AI Stack Online Training",
+      "description": "How to Choose the Best AI Stack Course For Beginners\nContinue reading on Medium »",
+      "url": "https://medium.com/@harik.visualpath/ai-stack-course-in-hyderabad-ai-stack-online-training-d329d549c94b?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*dUaLFe0k-_psuLHVxV8ydg.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:12:52.000Z"
+    },
+    {
+      "id": "rss-2325394f3f38",
+      "title": "10 AI Image Prompts Every Content Creator Can Use for Urdu/English Quotes",
+      "description": "Better quote designs rarely begin inside an image generator. They usually begin with a prompt that gives clear creative direction.\nContinue reading on Medium »",
+      "url": "https://rasoolshah0072.medium.com/10-ai-image-prompts-every-content-creator-can-use-for-urdu-english-quotes-3c2c13c8de67?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*UgZTrZPs2OAGDW4e",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:11:41.000Z"
+    },
+    {
+      "id": "rss-a80b3cecd584",
+      "title": "Apple Testing 7-Inch Display for Largest 20th Anniversary iPhone Model",
+      "description": "Apple is reportedly prototyping a larger iPhone display measuring roughly 6.96 inches, which would likely be marketed as a 7-inch panel if it reaches production.\r\n\r\n\r\nAccording to Chinese leaker Digit",
+      "url": "https://www.macrumors.com/2026/07/21/iphone-20-pro-max-7-inch-display/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Mostly-Screen-iPhone-Purple-Feature-2027.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-21T09:08:23.000Z"
+    },
+    {
+      "id": "rss-48d3c8c86a0e",
+      "title": "Why Ceramic Heating Technology Is Redefining Modern Vape Hardware",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/why-ceramic-heating-technology-is-redefining-modern-vape-hardware",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/uak4unfa/Ceramic-Heating-Technology.png",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:07:29.000Z"
+    },
+    {
+      "id": "rss-b5f09d9d4e87",
+      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
+      "description": "The Iran-backed Houthi militia in Yemen has declared a Red Sea blockade on Saudi Arabia, potentially opening up a new front in the war rippling across the Middle East.",
+      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-yemen-houthis-1-vmfb/21int-yemen-houthis-1-vmfb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:05:37.000Z"
+    },
+    {
+      "id": "rss-d75463bb50f3",
+      "title": "‘Too Rare to Care’? A New Center for Rare Diseases Hopes to Change That",
+      "description": "A new nonprofit wants to streamline gene therapy for diseases often avoided by pharmaceutical companies — making treatment more like a routine procedure than a bespoke drug.",
+      "url": "https://www.nytimes.com/2026/07/21/health/gene-therapy-rare-diseases-epilepsy.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21sci-gene-therapy-promo-vqpw/21sci-gene-therapy-promo-vqpw-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "health",
+      "publishedAt": "2026-07-21T09:03:33.000Z"
+    },
+    {
+      "id": "rss-30fbb14bad9b",
+      "title": "Why Every AI Engineer Should Learn Hugging Face",
+      "description": "The Platform That Turned AI Research into a Few Lines of Code\nContinue reading on Medium »",
+      "url": "https://medium.com/@manishtiwari2578/why-every-ai-engineer-should-learn-hugging-face-510cac9b448e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*7slN6nZP7ZvNkc3oOf8jDg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:03:31.000Z"
+    },
+    {
+      "id": "rss-eca277bf16d8",
+      "title": "Two Young Brothers and Their Search for Venezuela’s Dead",
+      "description": "Winder and Deivi Delfín dug every day for 26 days to find the bodies of their mother, brother and grandmother.",
+      "url": "https://www.nytimes.com/2026/07/21/world/americas/venezuela-quake-victims-search.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-venezuela-quakes-kids-promo/21int-venezuela-quakes-kids-top-htpf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:02:56.000Z"
+    },
+    {
+      "id": "rss-ca17e6a7aabc",
+      "title": "Once Anti-Abortion, Now a Progressive: The Evolution of a Maine Democrat",
+      "description": "Troy Jackson, who is expected to become his party’s nominee in the state’s marquee Senate race, has long been an economic populist, but his positions on social issues have changed markedly over time.",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-maine-senate.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21pol-jackson-profile-01-cplj/21pol-jackson-profile-01-cplj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:02:47.000Z"
+    },
+    {
+      "id": "rss-c0056dc35c28",
+      "title": "What We Know About Tuesday’s Arizona Primaries",
+      "description": "Arizona primary voters will chose nominees for governor, secretary of state and for key races that could determine control of the House.",
+      "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-election-what-we-know.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21nat-WWK-AZPrimary-1-zkhf/21nat-WWK-AZPrimary-1-zkhf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:02:32.000Z"
+    },
+    {
+      "id": "rss-0624042aa115",
+      "title": "The U.S. Is Pulling Back on Energy Efficiency",
+      "description": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
+      "url": "https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/climate/21cli-efficiency-01/21cli-efficiency-01-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:02:07.000Z"
+    },
+    {
+      "id": "rss-bb16e7817703",
+      "title": "How a 911 Call Led to the Nation’s Strictest Trans Bathroom Law",
+      "description": "People in Sandpoint, Idaho, don’t know how to characterize a woman’s brush with a transgender woman in a Y.M.C.A. locker room, but the emergency call that followed is still reverberating.",
+      "url": "https://www.nytimes.com/2026/07/21/us/sandpoint-idaho-transgender-bathroom-law.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21nat-idaho-trans2-hzkb/21nat-idaho-trans2-hzkb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:02:06.000Z"
+    },
+    {
+      "id": "rss-e187de06bfa0",
+      "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’",
+      "description": "Eighteen Americans were isolated for weeks in a Nebraska quarantine facility after being exposed to the deadly virus on a cruise ship. Many found the experience traumatic.",
+      "url": "https://www.nytimes.com/2026/07/21/health/hantavirus-quarantine-americans.html",
+      "image": "https://static01.nyt.com/images/2026/07/16/multimedia/00DC-hantavirus-quarantine-01-tcqb/00DC-hantavirus-quarantine-01-tcqb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T09:01:06.000Z"
+    },
+    {
+      "id": "rss-ca6b9b9287d7",
+      "title": "What is LoRA and how it lets anyone fine-tune a massive AI model on a single GPU",
+      "description": "Fine-tuning used to be something only large AI labs could afford to do. You needed serious hardware, serious money, and a serious team…\nContinue reading on Medium »",
+      "url": "https://medium.com/@arsalkhan963/what-is-lora-and-how-it-lets-anyone-fine-tune-a-massive-ai-model-on-a-single-gpu-f8f2740b75f7?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*4KMW71Y46CS5Ps8n-cWcwA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T09:01:02.000Z"
+    },
+    {
+      "id": "rss-98383429e049",
+      "title": "Trump’s GOP clout faces Arizona test with House majority, governor’s race at stake",
+      "description": "Trump's endorsement power faces a critical test as Arizona holds GOP primaries for governor, attorney general, and key swing congressional seats.",
+      "url": "https://www.foxnews.com/politics/trumps-gop-clout-faces-arizona-test-house-majority-governors-race-stake",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/donald-trump-pointing.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T09:00:15.000Z"
+    },
+    {
+      "id": "rss-f32704fea67d",
+      "title": "Just 7 PlayStation Games Have Sold More Than 100,000 Physical Copies in the U.S. So Far This Year",
+      "description": "Amid the backlash to Sony’s decision to end production of discs for new PlayStation games from 2028, data for game sales in the U.S. show the dominance of digital in stark terms.",
+      "url": "https://www.ign.com/articles/just-7-playstation-games-have-sold-more-than-100000-physical-copies-in-the-us-so-far-this-year",
+      "image": "https://assets-prd.ignimgs.com/2026/07/21/sony-1784623861955.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T08:53:12.000Z"
+    },
+    {
+      "id": "rss-fd14b7bff4cb",
+      "title": "Glomo Secures Visa’s Principal Membership, becomes India’s First Non-bank Acquirer to Join the Network",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/press-release/glomo-secures-visas-principal-membership-becomes-indias-first-non-bank-acquirer-to-join-the-network",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/amgugsi6/Glomo.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T08:47:12.000Z"
+    },
+    {
+      "id": "rss-ba2727df28cb",
+      "title": "HDFC Bank at Rs. 766.35: Why Analysts Remain Bullish Despite Fall",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/hdfc-bank-at-rs-76635-why-analysts-remain-bullish-despite-fall",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/z85r9rb1/HDFC-Bank-at-Rs.-766.35-Why-Analysts-Remain-Bullish-Despite-Fall-215pm.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T08:45:00.000Z"
+    },
+    {
+      "id": "rss-2e38c6b844f9",
+      "title": "Bitcoin Holds Steady as US Inflation Cools but Fed Outlook Limits Gains",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/bitcoin-holds-steady-as-us-inflation-cools-but-fed-outlook-limits-gains",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/9mahr1z7/Bitcoin-Holds-Steady-as-US-Inflation-Cools-but-Fed-Outlook-Limits-Gains.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T08:43:59.000Z"
+    },
+    {
+      "id": "rss-84abc20e5e8a",
+      "title": "AI Features Making Smartphone Cameras Smarter",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/best-smartphones/ai-features-making-smartphone-cameras-smarter",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/dtrooh6f/AI-Features-Making-Smartphone-Cameras-Smarter.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T08:30:00.000Z"
+    },
+    {
+      "id": "rss-54dfbb9d5736",
+      "title": "Conviction in the Middle: How Mayank Mamania Built MAVIRA Around India's Untapped & Emerging Market-Cap Gap",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/interview/conviction-in-the-middle-how-mayank-mamania-built-mavira-around-indias-untapped-emerging-market-cap-gap",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/vura6bli/Mayank-Mamania.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T08:29:11.000Z"
+    },
+    {
+      "id": "rss-408e7451daf1",
+      "title": "SBI Funds Management Shares List at 7% Premium, Debut Below GMP Expectations",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/sbi-funds-management-shares-list-at-7-premium-debut-below-gmp-expectations",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/y9fx8gp8/SBI-Funds-Management-shares-list-with-7-premium-at-%E2%82%B9613-on-NSE.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T08:07:36.000Z"
+    },
+    {
+      "id": "rss-2350100e4014",
+      "title": "FAST Provider Wedotv Launches in India With Samsung TV Plus (EXCLUSIVE)",
+      "description": "FAST channel provider wedotv has struck its first distribution deal in India, bringing four channels to Samsung TV Plus and reaching millions of Samsung Smart TV users across the country. The agreemen",
+      "url": "https://variety.com/2026/tv/news/wedotv-samsung-tv-plus-india-fast-channels-1236817044/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/The-Wedding-Contest1.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-21T08:00:00.000Z"
+    },
+    {
+      "id": "rss-e53b155de0e0",
+      "title": "Science word of the day: Cryptology",
+      "description": "What does 'cryptology' mean?",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/science-word-of-the-day-cryptology",
+      "image": "https://cdn.mos.cms.futurecdn.net/eHQqKhJiUzqiwXVacVU3Tb-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-21T08:00:00.000Z"
+    },
+    {
+      "id": "rss-46cbe41eeb70",
+      "title": "Ethereum Price Surges as Crypto Whale Opens $22.4M ETH Long Position",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/ethereum-price-surges-as-crypto-whale-opens-224m-eth-long-position",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/u175an4o/Ethereum-Price-Surges-as-Crypto-Whale-Opens-22.4M-ETH-Long-Position.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T08:00:00.000Z"
+    },
     {
       "id": "rss-1acf70efe8c9",
       "title": "I Built a Prototype with AI and tested it with users.",
@@ -71,6 +571,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-21T07:31:01.000Z"
+    },
+    {
+      "id": "rss-0efea772da47",
+      "title": "How to Update Your Aadhaar Email ID Online: Easy Step-by-Step Guide",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/tech-news/how-to-update-your-aadhaar-email-id-online-easy-step-by-step-guide",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/0v2o1xdw/How-to-Update-Your-Aadhaar-Email-ID-Online-Easy-Step-by-Step-Guide.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:30:00.000Z"
     },
     {
       "id": "rss-92d0f8645359",
