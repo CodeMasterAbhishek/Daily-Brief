@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-07-21T07:15:39.372Z",
-  "count": 436,
+  "lastUpdated": "2026-07-21T07:19:21.423Z",
+  "count": 441,
   "articles": [
+    {
+      "id": "rss-3443b56a3179",
+      "title": "Evacuees of Ontario’s Wildfires Wait and Worry",
+      "description": "Flames crept, and then sprinted, toward unsuspecting residents who fled remote parts of northwestern Ontario. Now they want to know why officials weren’t prepared.",
+      "url": "https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html",
+      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20int-canada-fires-evacuees-promo/20int-canada-fires-evacuees-whbt-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T07:15:58.000Z"
+    },
     {
       "id": "rss-af1104ae0e1e",
       "title": "‘The Odyssey’ Breaks Records With Massive Debut at U.K. and Ireland Box Office",
@@ -901,16 +911,6 @@
       "source": "Kotaku",
       "category": "gaming",
       "publishedAt": "2026-07-20T20:45:12.000Z"
-    },
-    {
-      "id": "rss-3443b56a3179",
-      "title": "Evacuees of Ontario’s Wildfires Wait and Worry",
-      "description": "Flames crept, and then sprinted, toward unsuspecting residents who fled remote parts of northwestern Ontario. Now they want to know why officials weren’t prepared.",
-      "url": "https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html",
-      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20int-canada-fires-evacuees-promo/20int-canada-fires-evacuees-whbt-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-20T20:38:54.000Z"
     },
     {
       "id": "rss-b70f1d7a1fc0",
@@ -4153,6 +4153,26 @@
       "publishedAt": "2026-07-17T04:00:00.000Z"
     },
     {
+      "id": "rss-4415c8a09185",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T19:16:48.000Z"
+    },
+    {
+      "id": "rss-62d7128b208d",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T19:02:38.000Z"
+    },
+    {
       "id": "rss-484b4e0f1cb4",
       "title": "This “exotic weirdo” exoplanet has a rocky surface and an atmosphere",
       "description": "Astronomers found a helium atmosphere around a rocky exoplanet — a good sign for the search for life outside the solar system.",
@@ -4171,6 +4191,26 @@
       "source": "New York Times",
       "category": "health",
       "publishedAt": "2026-07-16T17:28:00.000Z"
+    },
+    {
+      "id": "rss-fbd1a6a5b51c",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T17:06:08.000Z"
+    },
+    {
+      "id": "rss-95dda60400be",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "description": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T16:40:48.000Z"
     },
     {
       "id": "rss-3442863f2d23",
@@ -4221,6 +4261,16 @@
       "source": "Fox News Health",
       "category": "health",
       "publishedAt": "2026-07-16T11:00:29.000Z"
+    },
+    {
+      "id": "rss-afa7fbb79c7e",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-15T22:24:17.000Z"
     },
     {
       "id": "rss-5751f33093b8",
