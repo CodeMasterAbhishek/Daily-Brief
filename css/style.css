@@ -362,7 +362,7 @@
 }
 
 /* Modifiers for Cards */
-.card.read-article, .hero-slide.read-article {
+.card.read-article, .hero-slide.active.read-article {
   opacity: 0.55;
   filter: grayscale(40%);
 }
