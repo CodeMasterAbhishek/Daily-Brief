@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-07-21T07:19:21.423Z",
-  "count": 441,
+  "lastUpdated": "2026-07-21T07:27:33.637Z",
+  "count": 466,
   "articles": [
+    {
+      "id": "rss-4c1abb4e05ea",
+      "title": "We Owe You an Apology... But We Think It Was Worth the Wait.",
+      "description": "By Omni Freelance Hub\nContinue reading on ILLUMINATION’S MIRROR »",
+      "url": "https://medium.com/illuminations-mirror/we-owe-you-an-apology-but-we-think-it-was-worth-the-wait-263536d446e5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/768/1*jLF2r_MsDbHqfHWasRYr0g.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:21:36.000Z"
+    },
+    {
+      "id": "rss-92021647d915",
+      "title": "The Real Reason Your AI Side Hustle Still Feels Stuck",
+      "description": "Your AI side hustle probably does not feel stuck because you chose the wrong tool.\nContinue reading on Medium »",
+      "url": "https://medium.com/@aisidehustlelabs/the-real-reason-your-ai-side-hustle-still-feels-stuck-710595f41d4e?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2000/0*eiNvs5gqG_kfeSUO.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:21:29.000Z"
+    },
+    {
+      "id": "rss-b5fcdf861d10",
+      "title": "The New Battle Begun: When Service Providers Use AI and Service Buyers Use AI",
+      "description": "When AI Is Available to Everyone, the Real War Begins Between Service Providers and Buyers.\nContinue reading on Medium »",
+      "url": "https://medium.com/@sandyswadeshi/the-new-battle-begun-when-service-providers-use-ai-and-service-buyers-use-ai-b5d745b0e382?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/752/1*1JZyvOUCjtwGNAMIL0pjmQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:20:38.000Z"
+    },
     {
       "id": "rss-3443b56a3179",
       "title": "Evacuees of Ontario’s Wildfires Wait and Worry",
@@ -11,6 +41,56 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-21T07:15:58.000Z"
+    },
+    {
+      "id": "rss-4aac27814f2f",
+      "title": "Mixture Density Networks",
+      "description": "Imagine a self-driving car approaching an obstacle in the middle of the road.\nContinue reading on Medium »",
+      "url": "https://oxotall.medium.com/mixture-density-networks-bccf48edb4c3?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1618/1*FA24u996mV_Rqj0xLpggEQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:15:38.000Z"
+    },
+    {
+      "id": "rss-360b3ee301a8",
+      "title": "From Idea to Production in Five Days: How One Enterprise Standardized AI Agent Development",
+      "description": "A mid-market logistics operator spent eleven months trying to get a single automation pilot into production. Then it rebuilt its entire…\nContinue reading on Medium »",
+      "url": "https://medium.com/@xcceleraai/from-idea-to-production-in-five-days-how-one-enterprise-standardized-ai-agent-development-b174e2d0acf9?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*kTagyEB9lCvy4VX0xHRIEw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:14:41.000Z"
+    },
+    {
+      "id": "rss-4233af379c44",
+      "title": "Video Killed the Banner Ad: Why Short-Form & CTV Are Dominating Digital Marketing in 2026",
+      "description": "Somewhere, a banner ad is still blinking away in the corner of a webpage, begging for a click it will never get. Nobody’s watching. That’s…\nContinue reading on Medium »",
+      "url": "https://medium.com/@SERPKolkata/video-killed-the-banner-ad-why-short-form-ctv-are-dominating-digital-marketing-in-2026-611fdd8e2ab3?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/904/1*VsqDwfkwiv8slYfV5DzO0Q.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:13:16.000Z"
+    },
+    {
+      "id": "rss-2f9308c06eb2",
+      "title": "Real-Time AI Pipelines: Building a Kafka + Kubernetes + Databricks Stack for Agentic AI Systems",
+      "description": "Imagine an AI agent automating the stock replenishment process for a medium-sized distributor. This agent is deployed in a batch ETL…\nContinue reading on Medium »",
+      "url": "https://medium.com/@seaflux/real-time-ai-pipelines-building-a-kafka-kubernetes-databricks-stack-for-agentic-ai-systems-ac5da016b1dd?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*kxaCVz2Io513XAcJ2-r2iA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:12:52.000Z"
+    },
+    {
+      "id": "rss-b8af32993518",
+      "title": "AI Won’t Just Replace Jobs. It Will Expose Fragile Career Systems.",
+      "description": "Why some high-income professionals can rebuild after disruption while others have to start from zero\nContinue reading on Technology Hits »",
+      "url": "https://medium.com/technology-hits/ai-wont-just-replace-jobs-it-will-expose-fragile-career-systems-3a4a08e3eeec?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*IBJ-9d1LRnxFECu4BbUiIA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:11:28.000Z"
     },
     {
       "id": "rss-af1104ae0e1e",
@@ -23,6 +103,46 @@
       "publishedAt": "2026-07-21T07:10:24.000Z"
     },
     {
+      "id": "rss-0059f291aad5",
+      "title": "World’s First Axiomatic AI Operating System Achieves 2,000× Compute Efficiency",
+      "description": "The history of computing is a history of constraints accepted as permanent. Quadratic scaling, the mathematical property that causes AI…\nContinue reading on Medium »",
+      "url": "https://medium.com/@TawfikiAI/worlds-first-axiomatic-ai-operating-system-achieves-2-000-compute-efficiency-ae7e04d99844?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1983/1*BI7NKIYllpnNqHCORYS-Gw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:09:24.000Z"
+    },
+    {
+      "id": "rss-d9db9da35406",
+      "title": "Free Fire MAX Redeem Codes July 21: Grab Exclusive Bundles, Emotes",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gaming/free-fire-max-redeem-codes-july-21-grab-exclusive-bundles-emotes",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/qv2gdl0b/Garena-Free-Fire-MAX-Codes-for-July-21-2026",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:08:24.000Z"
+    },
+    {
+      "id": "rss-f8e31320c240",
+      "title": "Why AI Needs to Learn More and Remember Less",
+      "description": "Understanding memorisation in Large Language Models and its implications for privacy, security, and trust.\nContinue reading on Medium »",
+      "url": "https://medium.com/@rasheedatsikiru/why-ai-needs-to-learn-more-and-remember-less-258d7fa61e8c?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*HxsAslcX0wkJwBHHqX102A.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:01:03.000Z"
+    },
+    {
+      "id": "rss-0e03938466ad",
+      "title": "The AI Learning Trap: Why Fundamentals Matter More Than Frameworks",
+      "description": "Artificial Intelligence has never been more accessible.\nContinue reading on Medium »",
+      "url": "https://medium.com/@s.aditya1317/the-ai-learning-trap-why-fundamentals-matter-more-than-frameworks-1d218cee7715?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*T0GFSbAz0BSTf5aUV-qmPA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:00:58.000Z"
+    },
+    {
       "id": "rss-46845d3957a1",
       "title": "Giant, milky-green vortex swirls across massive 'cryptodepression' lake in Southern Europe — Earth from space",
       "description": "A 2020 astronaut photo shows a massive, milky-green vortex in Lake Skadar, which lies on the border between Montenegro and Albania.",
@@ -31,6 +151,26 @@
       "source": "Live Science",
       "category": "science",
       "publishedAt": "2026-07-21T07:00:00.000Z"
+    },
+    {
+      "id": "rss-27fa0f42abe8",
+      "title": "Embeddings และ Vector Database: ทำไม AI ถึงรู้ว่า “หมา” กับ “สุนัข” คือเรื่องเดียวกัน",
+      "description": "เคยสงสัยมั้ยว่าทำไม search แบบเดิม พิมพ์ “สุนัข” แล้วหาเอกสารที่เขียนว่า “หมา” ไม่เจอ แต่พวก RAG หรือ semantic search…\nContinue reading on Medium »",
+      "url": "https://medium.com/@chalothorn.cha/embeddings-%E0%B9%81%E0%B8%A5%E0%B8%B0-vector-database-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1-ai-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2-%E0%B8%AB%E0%B8%A1%E0%B8%B2-%E0%B8%81%E0%B8%B1%E0%B8%9A-%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%82-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99-4d820ea283f2?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*YBSrJUptbnxarBquSYEnXQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T06:54:16.000Z"
+    },
+    {
+      "id": "rss-1d7b0825459f",
+      "title": "The AI Architecture Behind FIFA World Cup 2026",
+      "description": "How Generative AI, Computer Vision, Edge Computing, and IoT Worked Together Behind the World’s Biggest Football Tournament.\nContinue reading on Medium »",
+      "url": "https://medium.com/@ahibafnan99/the-ai-architecture-behind-fifa-world-cup-2026-26fffb63b18d?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*1EO-OrGx0IDVCa0p2iD5fQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T06:52:15.000Z"
     },
     {
       "id": "rss-4d81b0ceea38",
@@ -43,6 +183,16 @@
       "publishedAt": "2026-07-21T06:40:49.000Z"
     },
     {
+      "id": "rss-11c6b31d5d81",
+      "title": "Colossal Targets $20 Billion Valuation Amid Woolly Mammoth Revival Push",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/colossal-targets-20-billion-valuation-amid-woolly-mammoth-revival-push",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/gm78ljf1/Wooly-Mammoth-startup-Colossal-seeking-at-least-20B-valuation.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T06:34:36.000Z"
+    },
+    {
       "id": "rss-56c75b81a787",
       "title": "A.R. Rahman Launches ARR Immersive App for Apple Vision Pro (EXCLUSIVE)",
       "description": "A.R. Rahman, the two-time Oscar-winning Indian composer behind “Slumdog Millionaire” and “127 Hours,” is launching ARR Immersive, an app bringing his decade of immersive storytelling work to Apple Vis",
@@ -51,6 +201,26 @@
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-07-21T06:30:00.000Z"
+    },
+    {
+      "id": "rss-a81544ab1ca6",
+      "title": "Best Web3 Browsers for Faster Crypto and dApp Access in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/cryptocurrency-analytics-insight/best-web3-browsers-for-faster-crypto-and-dapp-access-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/y4lfclcu/Best-Web3-Browsers-for-Faster-Crypto-and-dApp-Access-in-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T06:30:00.000Z"
+    },
+    {
+      "id": "rss-f917e523e1a3",
+      "title": "Crypto Prices Today: Bitcoin Recovers Above $65,500 as ETF Inflows Extend to Five Sessions Ahead of Fed Meeting",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-recovers-above-65500-as-etf-inflows-extend-to-five-sessions-ahead-of-fed-meeting",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/bvbz22de/Crypto-Prices-Today-Bitcoin-Recovers-Above-65500-as-ETF-Inflows-Extend-to-Five-Sessions-Ahead-of-Fed-Meeting.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T06:23:45.000Z"
     },
     {
       "id": "rss-03f26a81f6c1",
@@ -83,6 +253,66 @@
       "publishedAt": "2026-07-21T06:00:03.000Z"
     },
     {
+      "id": "rss-7619778e621b",
+      "title": "ChatGPT vs Gemini vs Claude: Which AI is Actually Better for Research",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/photo/chatgpt-vs-gemini-vs-claude-which-ai-is-actually-better-for-research",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/9yd5qrm5/ChatGPT-vs-Gemini-vs-Claude-Which-AI-is-Actually-Better-for-Research.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:38:13.000Z"
+    },
+    {
+      "id": "rss-51c3579ee4d1",
+      "title": "How to Fix Google Maps When the Start Button Is Missing",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/information-technology/how-to-fix-google-maps-when-the-start-button-is-missing",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/i3ef08mt/How-to-Fix-Google-Maps-When-the-Start-Button-Is-Missing.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:33:00.000Z"
+    },
+    {
+      "id": "rss-6f650a8e5802",
+      "title": "Top News Today: Google AI Chip, Transition VC Fund, Indian IT Firm Recruitments and More",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/top-news-today-google-ai-chip-transition-vc-fund-indian-it-firm-recruitments-and-more",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/02sw00ww/Top-News-Today-Google-AI-Chip-Transition-VC-Fund-Indian-IT-Firm-Recruitments-and-More.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:32:54.000Z"
+    },
+    {
+      "id": "rss-21f566e67d5f",
+      "title": "Gold Price Today: MCX Gold Rises 0.65% to Rs. 1,42,300 Amid Decline in Brent Crude Prices",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/gold-price-today-mcx-gold-rises-065-to-rs-142300-amid-decline-in-brent-crude-prices",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/4ad1ms9j/Gold-Price-Today-MCX-Gold-Rises-0.65-to-Rs.-142300-Amid-Decline-in-Brent-Crude-Prices.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:30:00.000Z"
+    },
+    {
+      "id": "rss-ea2f3dbad904",
+      "title": "California Institute for Human Science Launches First Accredited Graduate Program Dedicated to AGI",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/press-release/california-institute-for-human-science-launches-first-accredited-graduate-program-dedicated-to-agi",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/zcv75a0z/California-Institute-for-Human-Science.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:18:33.000Z"
+    },
+    {
+      "id": "rss-811d01995a7b",
+      "title": "Stock Market Update: Nifty Opens 0.09% Lower, Sensex Falls 91.25 points Amid Tensions in the Middle East",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/stock-market-update-nifty-opens-009-lower-sensex-falls-9125-points-amid-tensions-in-the-middle-east",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/y31uvyne/Stock-Market-Update-Nifty-Opens-0.09-Lower-Sensex-Falls-91.25-points-Amid-Tensions-in-the-Middle-East-Pls-share-asap.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:11:34.000Z"
+    },
+    {
       "id": "rss-a390b1f424e1",
       "title": "Chloe Fineman Says ‘SNL’ Boss Lorne Michaels Was at World Cup Match When She Called to Say She Was Leaving the Show",
       "description": "“Saturday Night Live” boss Lorne Michaels was a bit tied up when Chloe Fineman called to say she was leaving the show. “In classic form, he was watching England vs. Argentina,” Fineman told Variety at",
@@ -103,6 +333,16 @@
       "publishedAt": "2026-07-21T04:30:54.000Z"
     },
     {
+      "id": "rss-7c87ec82bbb4",
+      "title": "Best Altcoins to Buy Before Bitcoin's Next Bull Run",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/altcoins/best-altcoins-to-buy-before-bitcoins-next-bull-run",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-20/pw8ldvw3/Best-Altcoins-to-Buy-Before-Bitcoins-Next-Bull-Run.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T04:30:00.000Z"
+    },
+    {
       "id": "rss-bdbaa31efacd",
       "title": "What time does Splatoon Raiders release in your time zone?",
       "description": "The Splatoon Raiders release time is just around the corner, and you can preload Splatoon Raiders if you pre-order it before launch",
@@ -111,6 +351,16 @@
       "source": "Polygon",
       "category": "gaming",
       "publishedAt": "2026-07-21T04:01:12.000Z"
+    },
+    {
+      "id": "rss-33bd85d77b4e",
+      "title": "Countries Leading the Global AI Race in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/countries-leading-the-global-ai-race-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-20/5zdm9blt/Countries-Leading-the-Global-AI-Race-in-2026-1.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T04:00:00.000Z"
     },
     {
       "id": "rss-b7b99ee7a89b",
