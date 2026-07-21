@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-07-21T07:39:08.280Z",
-  "count": 439,
+  "lastUpdated": "2026-07-21T07:41:47.939Z",
+  "count": 503,
   "articles": [
+    {
+      "id": "rss-1acf70efe8c9",
+      "title": "I Built a Prototype with AI and tested it with users.",
+      "description": "Lately, I’ve found myself thinking about a simple question:\nContinue reading on Medium »",
+      "url": "https://medium.com/@margaretgatwiri/i-built-a-prototype-with-ai-and-tested-it-with-users-8780f14e8c60?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*AbYx6Y8CCXsY4ZRtjy15vg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:38:01.000Z"
+    },
+    {
+      "id": "rss-ed29940696ba",
+      "title": "RoPE: ทำไม LLM ถึงรู้ว่าคำไหนมาก่อน-หลัง",
+      "description": "ต่อจากเรื่อง embeddings คราวที่แล้ว — เรารู้แล้วว่าโมเดลมองคำเป็นเวกเตอร์ แต่มีเรื่องนึงที่หลายคนไม่ทันสังเกต: กลไก attention ใน…\nContinue reading on Medium »",
+      "url": "https://medium.com/@chalothorn.cha/rope-%E0%B8%97%E0%B8%B3%E0%B9%84%E0%B8%A1-llm-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%84%E0%B8%B3%E0%B9%84%E0%B8%AB%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B9%88%E0%B8%AD%E0%B8%99-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%87-ef82847d88cd?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*mdGDtcqQXt4tF5PIO5Y_1g.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:37:54.000Z"
+    },
+    {
+      "id": "rss-248755b1d1bf",
+      "title": "Most People Use AI Wrong. Here’s a Better Way.",
+      "description": "When ChatGPT became mainstream, millions of people started asking it questions.\nContinue reading on Medium »",
+      "url": "https://medium.com/@bhavik.champ/most-people-use-ai-wrong-heres-a-better-way-fc9172f33b0c?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*1v3V-1MPAw3A1A49iHKOmw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:37:20.000Z"
+    },
+    {
+      "id": "rss-81c1d30dc3df",
+      "title": "“Vibe Coding” Is Dead. Long Live Spec-Driven Development (SDD)",
+      "description": "Source from Author\nContinue reading on Coffee☕ And Code »",
+      "url": "https://medium.com/techtrends-digest/vibe-coding-is-dead-long-live-spec-driven-development-sdd-e15a64aee06b?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1524/1*ukoNYJyofpL2EMZnXaBWvw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:36:02.000Z"
+    },
+    {
+      "id": "rss-ebf7aac34d8a",
+      "title": "7 Signs Your Company Needs an ERP System",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@digitalmawai/7-signs-your-company-needs-an-erp-system-5a3880604167?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*v0tMhNJrADtwAejPYaZz3Q.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:34:38.000Z"
+    },
+    {
+      "id": "rss-d75518f644d2",
+      "title": "The Abyss: Why I Believe Artificial General Intelligence Won’t Arrive Soon",
+      "description": "An engineer’s perspective on why the gap between today’s AI and true general intelligence is far wider than we imagine.\nContinue reading on Medium »",
+      "url": "https://medium.com/@emili.314/the-abyss-why-i-believe-artificial-general-intelligence-wont-arrive-soon-07ea55f7b120?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*W-lZIcRL0H6PvpSljUjqXw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:33:07.000Z"
+    },
+    {
+      "id": "rss-585ffdb201f5",
+      "title": "WebMCP: What Google Calls “Optional” Rarely Stays Optional for Long",
+      "description": "Every time Google introduces an “optional” standard, I think of Mark Twain:\nContinue reading on Medium »",
+      "url": "https://paradigma-digital.medium.com/webmcp-what-google-calls-optional-rarely-stays-optional-for-long-21f6289d2fa8?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*eXUWVj-HSQ8FKuh7r8bhdg.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:31:01.000Z"
+    },
+    {
+      "id": "rss-92d0f8645359",
+      "title": "Every Day ChatGPT Tips Most People Don’t Know",
+      "description": "The first time I used ChatGPT, I treated it like a search engine. I typed a short question, got a short answer, and moved on. It was…\nContinue reading on Medium »",
+      "url": "https://medium.com/@pervezpriscilla/every-day-chatgpt-tips-most-people-dont-know-640e43747f11?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*HkB04jSl0rJl46sZt7oPXA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:29:57.000Z"
+    },
+    {
+      "id": "rss-5c165f2413d7",
+      "title": "The Future of Electric Vehicles and Self-Driving Cars",
+      "description": "A few years ago, seeing an electric vehicle on the road felt unusual. Today, it’s becoming part of everyday life. Charging stations are…\nContinue reading on Medium »",
+      "url": "https://medium.com/@safdersgd/the-future-of-electric-vehicles-and-self-driving-cars-d886850f4fd9?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*Gx0i_CLlY7gQiZlMy4UxZA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:28:43.000Z"
+    },
+    {
+      "id": "rss-e9d5913b2f08",
+      "title": "From Math, I Know You Deeply That You Are Not Like What They Talk About",
+      "description": "About Math Becomes The Best Moment\nContinue reading on Medium »",
+      "url": "https://medium.com/@adityasatriaperdana01/from-math-i-know-you-deeply-that-you-are-not-like-what-they-talk-about-a88791e017ea?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2385/1*uBu4FinW2TFnmRFlHLVNgQ@2x.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:28:30.000Z"
+    },
+    {
+      "id": "rss-fae74ee61f59",
+      "title": "AI-Designed DNA Binders: Machine Learning Crafts Novel Proteins!",
+      "description": "Researchers designed DNA-binding proteins from scratch, using new machine learning tools.\nContinue reading on Plenty of Room »",
+      "url": "https://medium.com/plenty-of-room/ai-designed-dna-binders-machine-learning-crafts-novel-proteins-c0a54ed20b7a?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1000/0*M9Sdo2Mt4VERC-Wp.jpg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:25:56.000Z"
+    },
     {
       "id": "rss-3443b56a3179",
       "title": "Evacuees of Ontario’s Wildfires Wait and Worry",
@@ -13,6 +123,26 @@
       "publishedAt": "2026-07-21T07:15:58.000Z"
     },
     {
+      "id": "rss-4aac27814f2f",
+      "title": "Mixture Density Networks",
+      "description": "Imagine a self-driving car approaching an obstacle in the middle of the road.\nContinue reading on Medium »",
+      "url": "https://oxotall.medium.com/mixture-density-networks-bccf48edb4c3?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1618/1*FA24u996mV_Rqj0xLpggEQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:15:38.000Z"
+    },
+    {
+      "id": "rss-7f5200a2c11d",
+      "title": "Real-Time AI Pipelines: Building a Kafka + Kubernetes + Databricks Stack for Agentic AI Systems",
+      "description": "Imagine an AI agent automating the stock replenishment process for a medium-sized distributor. This agent is deployed in a batch ETL…\nContinue reading on Medium »",
+      "url": "https://medium.com/@seaflux/real-time-ai-pipelines-building-a-kafka-kubernetes-databricks-stack-for-agentic-ai-systems-ac5da016b1dd?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*kxaCVz2Io513XAcJ2-r2iA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:12:52.000Z"
+    },
+    {
       "id": "rss-af1104ae0e1e",
       "title": "‘The Odyssey’ Breaks Records With Massive Debut at U.K. and Ireland Box Office",
       "description": "The U.K. and Ireland box office experienced a massive tentpole shift as Universal’s “The Odyssey” captured the top spot, storming the market with a spectacular debut weekend of £12.5 million ($16.8 mi",
@@ -21,6 +151,46 @@
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-07-21T07:10:24.000Z"
+    },
+    {
+      "id": "rss-0059f291aad5",
+      "title": "World’s First Axiomatic AI Operating System Achieves 2,000× Compute Efficiency",
+      "description": "The history of computing is a history of constraints accepted as permanent. Quadratic scaling, the mathematical property that causes AI…\nContinue reading on Medium »",
+      "url": "https://medium.com/@TawfikiAI/worlds-first-axiomatic-ai-operating-system-achieves-2-000-compute-efficiency-ae7e04d99844?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1983/1*BI7NKIYllpnNqHCORYS-Gw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:09:24.000Z"
+    },
+    {
+      "id": "rss-d9db9da35406",
+      "title": "Free Fire MAX Redeem Codes July 21: Grab Exclusive Bundles, Emotes",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gaming/free-fire-max-redeem-codes-july-21-grab-exclusive-bundles-emotes",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/qv2gdl0b/Garena-Free-Fire-MAX-Codes-for-July-21-2026",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:08:24.000Z"
+    },
+    {
+      "id": "rss-f8e31320c240",
+      "title": "Why AI Needs to Learn More and Remember Less",
+      "description": "Understanding memorisation in Large Language Models and its implications for privacy, security, and trust.\nContinue reading on Medium »",
+      "url": "https://medium.com/@rasheedatsikiru/why-ai-needs-to-learn-more-and-remember-less-258d7fa61e8c?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*HxsAslcX0wkJwBHHqX102A.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:01:03.000Z"
+    },
+    {
+      "id": "rss-0e03938466ad",
+      "title": "The AI Learning Trap: Why Fundamentals Matter More Than Frameworks",
+      "description": "Artificial Intelligence has never been more accessible.\nContinue reading on Medium »",
+      "url": "https://medium.com/@s.aditya1317/the-ai-learning-trap-why-fundamentals-matter-more-than-frameworks-1d218cee7715?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*T0GFSbAz0BSTf5aUV-qmPA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T07:00:58.000Z"
     },
     {
       "id": "rss-46845d3957a1",
@@ -73,6 +243,16 @@
       "publishedAt": "2026-07-21T06:40:49.000Z"
     },
     {
+      "id": "rss-11c6b31d5d81",
+      "title": "Colossal Targets $20 Billion Valuation Amid Woolly Mammoth Revival Push",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/colossal-targets-20-billion-valuation-amid-woolly-mammoth-revival-push",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/gm78ljf1/Wooly-Mammoth-startup-Colossal-seeking-at-least-20B-valuation.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T06:34:36.000Z"
+    },
+    {
       "id": "rss-56c75b81a787",
       "title": "A.R. Rahman Launches ARR Immersive App for Apple Vision Pro (EXCLUSIVE)",
       "description": "A.R. Rahman, the two-time Oscar-winning Indian composer behind “Slumdog Millionaire” and “127 Hours,” is launching ARR Immersive, an app bringing his decade of immersive storytelling work to Apple Vis",
@@ -81,6 +261,26 @@
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-07-21T06:30:00.000Z"
+    },
+    {
+      "id": "rss-a81544ab1ca6",
+      "title": "Best Web3 Browsers for Faster Crypto and dApp Access in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/cryptocurrency-analytics-insight/best-web3-browsers-for-faster-crypto-and-dapp-access-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/y4lfclcu/Best-Web3-Browsers-for-Faster-Crypto-and-dApp-Access-in-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T06:30:00.000Z"
+    },
+    {
+      "id": "rss-f917e523e1a3",
+      "title": "Crypto Prices Today: Bitcoin Recovers Above $65,500 as ETF Inflows Extend to Five Sessions Ahead of Fed Meeting",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-recovers-above-65500-as-etf-inflows-extend-to-five-sessions-ahead-of-fed-meeting",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/bvbz22de/Crypto-Prices-Today-Bitcoin-Recovers-Above-65500-as-ETF-Inflows-Extend-to-Five-Sessions-Ahead-of-Fed-Meeting.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T06:23:45.000Z"
     },
     {
       "id": "rss-03f26a81f6c1",
@@ -113,6 +313,66 @@
       "publishedAt": "2026-07-21T06:00:03.000Z"
     },
     {
+      "id": "rss-7619778e621b",
+      "title": "ChatGPT vs Gemini vs Claude: Which AI is Actually Better for Research",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/photo/chatgpt-vs-gemini-vs-claude-which-ai-is-actually-better-for-research",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/9yd5qrm5/ChatGPT-vs-Gemini-vs-Claude-Which-AI-is-Actually-Better-for-Research.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:38:13.000Z"
+    },
+    {
+      "id": "rss-51c3579ee4d1",
+      "title": "How to Fix Google Maps When the Start Button Is Missing",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/information-technology/how-to-fix-google-maps-when-the-start-button-is-missing",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/i3ef08mt/How-to-Fix-Google-Maps-When-the-Start-Button-Is-Missing.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:33:00.000Z"
+    },
+    {
+      "id": "rss-6f650a8e5802",
+      "title": "Top News Today: Google AI Chip, Transition VC Fund, Indian IT Firm Recruitments and More",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/top-news-today-google-ai-chip-transition-vc-fund-indian-it-firm-recruitments-and-more",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/02sw00ww/Top-News-Today-Google-AI-Chip-Transition-VC-Fund-Indian-IT-Firm-Recruitments-and-More.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:32:54.000Z"
+    },
+    {
+      "id": "rss-21f566e67d5f",
+      "title": "Gold Price Today: MCX Gold Rises 0.65% to Rs. 1,42,300 Amid Decline in Brent Crude Prices",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/gold-price-today-mcx-gold-rises-065-to-rs-142300-amid-decline-in-brent-crude-prices",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/4ad1ms9j/Gold-Price-Today-MCX-Gold-Rises-0.65-to-Rs.-142300-Amid-Decline-in-Brent-Crude-Prices.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:30:00.000Z"
+    },
+    {
+      "id": "rss-ea2f3dbad904",
+      "title": "California Institute for Human Science Launches First Accredited Graduate Program Dedicated to AGI",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/press-release/california-institute-for-human-science-launches-first-accredited-graduate-program-dedicated-to-agi",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/zcv75a0z/California-Institute-for-Human-Science.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:18:33.000Z"
+    },
+    {
+      "id": "rss-811d01995a7b",
+      "title": "Stock Market Update: Nifty Opens 0.09% Lower, Sensex Falls 91.25 points Amid Tensions in the Middle East",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/stock-market-update-nifty-opens-009-lower-sensex-falls-9125-points-amid-tensions-in-the-middle-east",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/y31uvyne/Stock-Market-Update-Nifty-Opens-0.09-Lower-Sensex-Falls-91.25-points-Amid-Tensions-in-the-Middle-East-Pls-share-asap.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T05:11:34.000Z"
+    },
+    {
       "id": "rss-a390b1f424e1",
       "title": "Chloe Fineman Says ‘SNL’ Boss Lorne Michaels Was at World Cup Match When She Called to Say She Was Leaving the Show",
       "description": "“Saturday Night Live” boss Lorne Michaels was a bit tied up when Chloe Fineman called to say she was leaving the show. “In classic form, he was watching England vs. Argentina,” Fineman told Variety at",
@@ -133,6 +393,16 @@
       "publishedAt": "2026-07-21T04:30:54.000Z"
     },
     {
+      "id": "rss-7c87ec82bbb4",
+      "title": "Best Altcoins to Buy Before Bitcoin's Next Bull Run",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/altcoins/best-altcoins-to-buy-before-bitcoins-next-bull-run",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-20/pw8ldvw3/Best-Altcoins-to-Buy-Before-Bitcoins-Next-Bull-Run.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T04:30:00.000Z"
+    },
+    {
       "id": "rss-bdbaa31efacd",
       "title": "What time does Splatoon Raiders release in your time zone?",
       "description": "The Splatoon Raiders release time is just around the corner, and you can preload Splatoon Raiders if you pre-order it before launch",
@@ -141,6 +411,16 @@
       "source": "Polygon",
       "category": "gaming",
       "publishedAt": "2026-07-21T04:01:12.000Z"
+    },
+    {
+      "id": "rss-33bd85d77b4e",
+      "title": "Countries Leading the Global AI Race in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/countries-leading-the-global-ai-race-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-20/5zdm9blt/Countries-Leading-the-Global-AI-Race-in-2026-1.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T04:00:00.000Z"
     },
     {
       "id": "rss-b7b99ee7a89b",
@@ -2863,6 +3143,16 @@
       "publishedAt": "2026-07-20T15:03:48.000Z"
     },
     {
+      "id": "rss-e8a5d9aa31f7",
+      "title": "At SIGGRAPH, NVIDIA Advances Graphics and Simulation With Agentic and Physical AI",
+      "description": "From open models to real-time simulation, AI and graphics breakthroughs are transforming media, content creation and robotics.",
+      "url": "https://blogs.nvidia.com/blog/siggraph-news-2026/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/siggraph-featured-still-1920x1080-1.jpg",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-20T15:00:53.000Z"
+    },
+    {
       "id": "rss-4cee3d87b26e",
       "title": "Australia has embraced sauna culture. It’s time to do it naked | Kate Hennessy",
       "description": "With new saunas popping up apace, getting our gear off should be normalised. Sweating into towels feels more  hygienic than a mandatory swimsuit\nDo as the Germans do, I say. Or the rational Scandinavi",
@@ -3263,6 +3553,16 @@
       "publishedAt": "2026-07-20T14:00:50.000Z"
     },
     {
+      "id": "rss-a60cbdec5df7",
+      "title": "A Beginner’s Guide to Setting Up Claude Code for High Performance Agentic Programming",
+      "description": "This article walks through the actual configuration, permissions, hooks, and command habits that separate a fresh install from a setup that holds up under real, sustained agentic work.",
+      "url": "https://www.kdnuggets.com/a-beginners-guide-to-setting-up-claude-code-for-high-performance-agentic-programming",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/KDN-Shittu-A-Beginners-Guide-to-Setting-Up-Claude-Code-for-High-Performance-Agentic-Programming-scaled.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-20T14:00:23.000Z"
+    },
+    {
       "id": "rss-92f4e3c447f4",
       "title": "Tarik Skubal landing spots: Eight teams that could land ace at deadline (and why the Tigers may just keep him)",
       "description": "The Tigers ace is the hottest commodity on the market leading up to Aug. 3, but his availability isn't a sure thing",
@@ -3633,6 +3933,16 @@
       "publishedAt": "2026-07-20T12:10:50.000Z"
     },
     {
+      "id": "rss-7cdc037ceb8a",
+      "title": "Top 5 MCP Servers for High-Performance Agentic Development",
+      "description": "Here are five that are genuinely worth wiring into a high-performance agent development setup, chosen for what they do to an agent's actual capability rather than their star count.",
+      "url": "https://www.kdnuggets.com/top-5-mcp-servers-for-high-performance-agentic-development",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/kdn-top-5-mcp-servers-for-high-performance-agentic-development.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-20T12:00:25.000Z"
+    },
+    {
       "id": "rss-fe12a5b0a3c5",
       "title": "Did Viking 1 find life on Mars 50 years ago? Here's why the debate continues",
       "description": "Did Viking 1 find evidence of life on Mars? Fifty years after the NASA lander touched down, the jury is still out.",
@@ -3641,6 +3951,16 @@
       "source": "Space.com",
       "category": "science",
       "publishedAt": "2026-07-20T12:00:00.000Z"
+    },
+    {
+      "id": "rss-f0f20d68d8c8",
+      "title": "Building Agentic Workflows in Python with LangGraph",
+      "description": "In this article, you will learn how to build a complete agentic workflow in Python with LangGraph, from a single model call to a tool-using...",
+      "url": "https://machinelearningmastery.com/building-agentic-workflows-in-python-with-langgraph/",
+      "image": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-langgraph-cover.png",
+      "source": "ML Mastery",
+      "category": "ai",
+      "publishedAt": "2026-07-20T11:27:18.000Z"
     },
     {
       "id": "rss-ecbfdb29804a",
@@ -3681,6 +4001,16 @@
       "source": "Live Science",
       "category": "science",
       "publishedAt": "2026-07-20T11:00:00.000Z"
+    },
+    {
+      "id": "rss-fd7ea40b3f55",
+      "title": "Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+      "description": "Erin Davis calls it the “SuperDuperPOD.” That’s two things in one name: pharmaceutical giant Bristol Myers Squibb (BMS) already runs one of the largest AI clusters in life sciences, with serious resul",
+      "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Image-7.png",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-20T10:59:23.000Z"
     },
     {
       "id": "rss-3fa7e6c1e6db",
@@ -3913,6 +4243,16 @@
       "publishedAt": "2026-07-19T10:00:00.000Z"
     },
     {
+      "id": "rss-c2e871ffbdda",
+      "title": "Could Your AI Systems Already Be High-Risk Under the EU AI Act?",
+      "description": "Access the on-demand webinar to understand what the latest guidance means for your AI governance program and what your organization should do next.",
+      "url": "https://www.kdnuggets.com/2026/07/airia/could-your-ai-systems-already-be-high-risk-under-the-eu-ai-act",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/16-by-9-image.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-19T09:50:14.000Z"
+    },
+    {
       "id": "rss-ad0abd3a5cc8",
       "title": "What's the oldest weapon in the world?",
       "description": "There are a few contenders for the world's oldest weapon, and one is over 400,000 years old.",
@@ -3991,6 +4331,16 @@
       "source": "Fox News Health",
       "category": "health",
       "publishedAt": "2026-07-18T13:00:50.000Z"
+    },
+    {
+      "id": "rss-fb390593458f",
+      "title": "KDnuggets Weekly Roundup: Week of July 13, 2026",
+      "description": "Stop Using If-Else Chains: Use the Registry Pattern in Python Instead • 5 Real-World SQL Projects to Build Your Data Portfolio • 10 YouTube Channels Keeping You Ahead in AI • Structured Language Model",
+      "url": "https://www.kdnuggets.com/kdnuggets-weekly-roundup-2026-07-13",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/kdnuggets-weekly-roundup-feature.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-18T13:00:05.000Z"
     },
     {
       "id": "rss-0b216ea1c32f",
@@ -4113,6 +4463,16 @@
       "publishedAt": "2026-07-17T17:36:24.000Z"
     },
     {
+      "id": "rss-04e440601568",
+      "title": "Following the questions where they lead",
+      "description": "Assistant Professor Bailey Flanigan has arrived at complex computational methods for helping democracy thrive.",
+      "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bailey-Flanigan.jpg?itok=DtZFVT8B",
+      "source": "MIT AI News",
+      "category": "ai",
+      "publishedAt": "2026-07-17T17:25:00.000Z"
+    },
+    {
       "id": "rss-1a1880c97ca0",
       "title": "No, SpudCells aren’t alive. But they’re a step toward the first synthetic life",
       "description": "The lab-made cells open a window into what’s possible for synthetic life, researchers say.",
@@ -4121,6 +4481,16 @@
       "source": "Science News",
       "category": "science",
       "publishedAt": "2026-07-17T16:00:00.000Z"
+    },
+    {
+      "id": "rss-ec918276a710",
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "description": "Lowest cost per token from extreme codesign maximizes intelligence per dollar for post-training in the agentic era.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/inline-1784235912807.png",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-17T15:00:14.000Z"
     },
     {
       "id": "rss-c2e25a3250eb",
@@ -4133,6 +4503,16 @@
       "publishedAt": "2026-07-17T14:31:05.000Z"
     },
     {
+      "id": "rss-c205002ba2c4",
+      "title": "Git Worktrees for AI Development",
+      "description": "A Git worktree is a separate directory checked out from the same repository. You can have as many as you need, each on its own branch, all coexisting simultaneously on your filesystem.",
+      "url": "https://www.kdnuggets.com/git-worktrees-for-ai-development",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/KDN-Shittu-Git-Worktrees-for-AI-Development-scaled.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-17T14:00:33.000Z"
+    },
+    {
       "id": "rss-be2673ee85f1",
       "title": "Many universities hold seized human remains. What should they do with them?",
       "description": "Biological anthropologist Fatimah Jackson is leading an effort to prevent history from repeating.",
@@ -4141,6 +4521,26 @@
       "source": "Science News",
       "category": "science",
       "publishedAt": "2026-07-17T14:00:00.000Z"
+    },
+    {
+      "id": "rss-936f88499725",
+      "title": "Agentic AI Security: Defending Against Prompt Injection and Tool Misuse",
+      "description": "In this article, you will learn what prompt injection and tool misuse are in the context of agentic AI systems, and which defense strategies experts...",
+      "url": "https://machinelearningmastery.com/agentic-ai-security-defending-against-prompt-injection-and-tool-misuse/",
+      "image": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-agentic-ai-security-defending-against-prompt-injection-and-tool-misuse-feature.png",
+      "source": "ML Mastery",
+      "category": "ai",
+      "publishedAt": "2026-07-17T12:00:32.000Z"
+    },
+    {
+      "id": "rss-9dc0ec5f8e74",
+      "title": "5 FREE Resources on Agentic AI",
+      "description": "Here are 5 curated resources to help you progress your agentic AI learning for FREE.",
+      "url": "https://www.kdnuggets.com/5-free-resources-on-agentic-ai",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/kdn-5-free-resources-on-agentic-ai-feature.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-17T12:00:22.000Z"
     },
     {
       "id": "rss-61a5c9c08abd",
@@ -4183,6 +4583,26 @@
       "publishedAt": "2026-07-17T04:00:00.000Z"
     },
     {
+      "id": "rss-4415c8a09185",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "description": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T19:16:48.000Z"
+    },
+    {
+      "id": "rss-62d7128b208d",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "description": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T19:02:38.000Z"
+    },
+    {
       "id": "rss-484b4e0f1cb4",
       "title": "This “exotic weirdo” exoplanet has a rocky surface and an atmosphere",
       "description": "Astronomers found a helium atmosphere around a rocky exoplanet — a good sign for the search for life outside the solar system.",
@@ -4203,6 +4623,46 @@
       "publishedAt": "2026-07-16T17:28:00.000Z"
     },
     {
+      "id": "rss-fbd1a6a5b51c",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "description": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T17:06:08.000Z"
+    },
+    {
+      "id": "rss-95dda60400be",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "description": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T16:40:48.000Z"
+    },
+    {
+      "id": "rss-5936c03b32d1",
+      "title": "Connect more of your apps to Search",
+      "description": "You’ll be able to securely link and interact with your go-to services directly in AI Mode.",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
+      "source": "Google AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T16:00:00.000Z"
+    },
+    {
+      "id": "rss-f3a8d7621b42",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "description": "Gemini Omni and personal avatars in Google Vids make video creation easier than ever.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
+      "source": "Google AI",
+      "category": "ai",
+      "publishedAt": "2026-07-16T16:00:00.000Z"
+    },
+    {
       "id": "rss-3442863f2d23",
       "title": "Our sensitive teen daughter’s self-worth is tested by social media and peers. What should we do? | Leading questions",
       "description": "The more unusual you are, the more unusual it is to find people like you, advice columnist Eleanor Gordon-Smith writes. With time, her world will expand\n\nRead more Leading questions\n\nOur teen daughter",
@@ -4211,6 +4671,16 @@
       "source": "The Guardian Health",
       "category": "health",
       "publishedAt": "2026-07-16T15:00:42.000Z"
+    },
+    {
+      "id": "rss-0936cf6ca591",
+      "title": "Working with Pi Coding Agents",
+      "description": "The most interesting thing about Pi isn't any single feature; it's that the project treats \"what we didn't build\" as documentation worth writing, which is rare enough on its own to take seriously.",
+      "url": "https://www.kdnuggets.com/working-with-pi-coding-agents",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/KDN-Shittu-Working-with-Pi-Coding-Agents-scaled.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-16T14:00:16.000Z"
     },
     {
       "id": "rss-e0cfdb969e0b",
@@ -4233,6 +4703,36 @@
       "publishedAt": "2026-07-16T13:35:08.000Z"
     },
     {
+      "id": "rss-57493ae2540c",
+      "title": "Sharpen the Sword, Skip the Downloads — ‘Onimusha: Way of the Sword’ Is Coming to GeForce NOW",
+      "description": "Onimusha: Way of the Sword is coming to GeForce NOW at launch, with the playable demo available this week. It’s joined by Denshattack! rolling in with five new games arriving in the cloud. Plus, GeFor",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/blog-1920x1080-no-copy.jpg",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-16T13:00:34.000Z"
+    },
+    {
+      "id": "rss-49bc04044cec",
+      "title": "Run a Local AI Model with Ollama in 15 Minutes",
+      "description": "In this article, you will learn how to get a small language model running locally on your own machine in under 15 minutes using Ollama....",
+      "url": "https://machinelearningmastery.com/run-a-local-ai-model-with-ollama-in-15-minutes/",
+      "image": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-chugani-local-ai-ollama-setup-feature-b-scaled.png",
+      "source": "ML Mastery",
+      "category": "ai",
+      "publishedAt": "2026-07-16T12:25:41.000Z"
+    },
+    {
+      "id": "rss-8d01fd574509",
+      "title": "10 YouTube Channels Keeping You Ahead in AI",
+      "description": "Explore 10 YouTube channels for AI engineers covering paper breakdowns, coding tutorials, and industry analysis.",
+      "url": "https://www.kdnuggets.com/10-youtube-channels-keeping-you-ahead-in-ai",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/kdn-10-youtube-channels-keeping-you-ahead-in-ai-feature.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-16T12:11:23.000Z"
+    },
+    {
       "id": "rss-3f1b757eacc4",
       "title": "An ancient Maya astronomer finally has a name",
       "description": "A Maya calendar formula bears the name Sak Tahn Waax, the first known Classic Maya mathematician-astronomer directly credited for such work.",
@@ -4253,6 +4753,36 @@
       "publishedAt": "2026-07-16T11:00:29.000Z"
     },
     {
+      "id": "rss-22a6d91e6558",
+      "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+      "description": "Researchers developed an automated framework that helps AI models generate CAD programs more accurately and efficiently.",
+      "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-Geometric-Tuning-01-press.jpg?itok=y_aKzkkP",
+      "source": "MIT AI News",
+      "category": "ai",
+      "publishedAt": "2026-07-16T04:00:00.000Z"
+    },
+    {
+      "id": "rss-b69a9de8cb3c",
+      "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+      "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running fou",
+      "url": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1.jpg",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-15T23:00:54.000Z"
+    },
+    {
+      "id": "rss-afa7fbb79c7e",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "description": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/3YcL8Sbx04RQsgnRvbYfs5/0567154029abc3d37ccfad9b6cc5f370/VentureBeat-Research-1.png?w=300&q=30",
+      "source": "VentureBeat AI",
+      "category": "ai",
+      "publishedAt": "2026-07-15T22:24:17.000Z"
+    },
+    {
       "id": "rss-5751f33093b8",
       "title": "Canada Wildfire Air Pollution and Heat Wave Combo Pose Heightened Health Risks",
       "description": "Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health hazards.",
@@ -4261,6 +4791,16 @@
       "source": "New York Times",
       "category": "health",
       "publishedAt": "2026-07-15T21:24:38.000Z"
+    },
+    {
+      "id": "rss-60a20c49e1ea",
+      "title": "3 Questions: Neural transparency and the future of AI design",
+      "description": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word.",
+      "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-medialab-pataranutaporn.jpg?itok=i96QeKNW",
+      "source": "MIT AI News",
+      "category": "ai",
+      "publishedAt": "2026-07-15T20:25:00.000Z"
     },
     {
       "id": "rss-628c99c0d851",
@@ -4333,6 +4873,16 @@
       "publishedAt": "2026-07-15T15:00:59.000Z"
     },
     {
+      "id": "rss-63d9524d6c9b",
+      "title": "Stop Using If-Else Chains: Use the Registry Pattern in Python Instead",
+      "description": "Learn a cleaner, more extensible way to dispatch logic in Python.",
+      "url": "https://www.kdnuggets.com/stop-using-if-else-chains-use-the-registry-pattern-in-python-instead",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/kdn-stop-using-if-else-chains-use-the-registry-pattern-in-python-instead-feature.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-15T14:00:06.000Z"
+    },
+    {
       "id": "rss-260e76cf9938",
       "title": "AI is not ready to fly solo in space",
       "description": "In sci-fi, AI can navigate the unknowns and — ideally — keep human travelers safe. But it’s not intelligent enough to do that yet.",
@@ -4343,6 +4893,26 @@
       "publishedAt": "2026-07-15T14:00:00.000Z"
     },
     {
+      "id": "rss-3122d45d7cfe",
+      "title": "7 Python Frameworks for Orchestrating Local AI Agents",
+      "description": "This article contains seven Python tools that engineers are actually using in 2026 to build, coordinate, and run agents on local infrastructure.",
+      "url": "https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents",
+      "image": "https://www.kdnuggets.com/wp-content/uploads/KDN-Shittu-7-Python-Frameworks-for-Orchestrating-Local-AI-Agents-scaled.png",
+      "source": "KDnuggets",
+      "category": "ai",
+      "publishedAt": "2026-07-15T12:00:56.000Z"
+    },
+    {
+      "id": "rss-6c2f03be0fcd",
+      "title": "Scikit-Ollama for Scikit-LLM/Ollama Integration",
+      "description": "In this article, you will learn how scikit-ollama bridges the scikit-learn interface with locally running Ollama models to perform zero-shot text classification; no cloud API...",
+      "url": "https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/",
+      "image": "https://machinelearningmastery.com/wp-content/uploads/2026/07/mlm-scikit-ollama-for-scikit-llm-ollama-integration-feature.png",
+      "source": "ML Mastery",
+      "category": "ai",
+      "publishedAt": "2026-07-15T12:00:34.000Z"
+    },
+    {
       "id": "rss-837abe53447c",
       "title": "Popular diet trend could boost mental health among older adults, study finds",
       "description": "Older adults who followed a Mediterranean diet during COVID-19 lockdowns reported less decline in happiness and life satisfaction than their peers.",
@@ -4351,6 +4921,16 @@
       "source": "Fox News Health",
       "category": "health",
       "publishedAt": "2026-07-15T11:00:47.000Z"
+    },
+    {
+      "id": "rss-150dc2d4461f",
+      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
+      "description": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/0715-Physical-AI-Activation-and-BaC-LDA_8618.jpg",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-15T10:51:37.000Z"
     },
     {
       "id": "rss-ff9e5574fa66",
@@ -4391,6 +4971,66 @@
       "source": "New York Times",
       "category": "health",
       "publishedAt": "2026-07-14T20:28:16.000Z"
+    },
+    {
+      "id": "rss-a3cee3f7add1",
+      "title": "Helping AI models to meet the real world",
+      "description": "Through research and entrepreneurship, Professor Devavrat Shah is helping to design methods that can handle constant decision-making using limited computational resources.",
+      "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/devavrat-shah-mit-00_0.jpg?itok=A3yCxNyV",
+      "source": "MIT AI News",
+      "category": "ai",
+      "publishedAt": "2026-07-14T20:25:00.000Z"
+    },
+    {
+      "id": "rss-1f6625826bf1",
+      "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
+      "description": "MIT students designed, built, and tested a jet engine with AI copilots, assessing AI’s usefulness in developing high-performance aerospace systems.",
+      "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/jarvis-competition-fired-engine-00.jpg?itok=fB5FluyQ",
+      "source": "MIT AI News",
+      "category": "ai",
+      "publishedAt": "2026-07-14T18:00:00.000Z"
+    },
+    {
+      "id": "rss-898bba31bbe1",
+      "title": "Nemotron Labs: How Open Models Give Enterprises and Nations AI They Can Trust, Control and Customize",
+      "description": "Enterprises have plenty of powerful models to choose from. The real test is whether the AI an enterprise builds uniquely addresses the needs of the business: improving workflows, tapping into domain k",
+      "url": "https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nemotron-labs-open-models-blog-feature-image.jpg",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-14T16:45:13.000Z"
+    },
+    {
+      "id": "rss-66c5237bd0ab",
+      "title": "Celebrating 25 years of visual search innovation",
+      "description": "Google Images is turning 25. Here’s a look back at some major milestones — and new ways to explore and create visual content.",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
+      "source": "Google AI",
+      "category": "ai",
+      "publishedAt": "2026-07-14T16:00:00.000Z"
+    },
+    {
+      "id": "rss-119e71f3b6f4",
+      "title": "Why Performance per Watt Is the Ultimate Metric for AI Infrastructure Efficiency",
+      "description": "Power is AI infrastructure’s inescapable constraint. How many tokens an AI factory can generate within a fixed power budget determines its revenue and profitability. Because of this, performance per w",
+      "url": "https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/performance-per-watt-ai-infra-efficiency.jpg",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-14T15:00:20.000Z"
+    },
+    {
+      "id": "rss-b644e77d14d4",
+      "title": "LLM Evaluation Frameworks Compared: How to Actually Measure What Your Model Does",
+      "description": "In this article, you will learn how to evaluate LLM applications using the three dominant open-source frameworks — RAGAS, DeepEval, and Promptfoo — and why...",
+      "url": "https://machinelearningmastery.com/llm-evaluation-frameworks-compared-how-to-actually-measure-what-your-model-does/",
+      "image": "https://machinelearningmastery.com/wp-content/uploads/2026/06/MLM-Shittu-LLM-Evaluation-Frameworks-Compared.png",
+      "source": "ML Mastery",
+      "category": "ai",
+      "publishedAt": "2026-07-14T12:00:29.000Z"
     }
   ]
 }
