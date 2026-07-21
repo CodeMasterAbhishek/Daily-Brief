@@ -188,5 +188,8 @@
   { "url": "https://www.gamespot.com/feeds/news/", "category": "gaming", "source": "GameSpot" },
   { "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "ai", "source": "TechCrunch AI" },
   { "url": "https://www.theverge.com/rss/artificial-intelligence/index.xml", "category": "ai", "source": "The Verge AI" },
-  { "url": "https://venturebeat.com/category/ai/feed/", "category": "ai", "source": "VentureBeat AI" }
+  { "url": "https://venturebeat.com/category/ai/feed/", "category": "ai", "source": "VentureBeat AI" },
+  { "url": "https://medium.com/feed/tag/artificial-intelligence", "category": "ai", "source": "Medium AI" },
+  { "url": "https://medium.com/feed/tag/machine-learning", "category": "ai", "source": "Medium ML" },
+  { "url": "https://www.analyticsinsight.net/feed/", "category": "ai", "source": "Analytics Insight" }
 ]
