@@ -1,7 +1,967 @@
 {
-  "lastUpdated": "2026-07-21T17:53:32.978Z",
-  "count": 984,
+  "lastUpdated": "2026-07-21T19:22:04.020Z",
+  "count": 1076,
   "articles": [
+    {
+      "id": "rss-c866ad816413",
+      "title": "Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",
+      "description": "A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.",
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21met-nj-vote-zkvb/21met-nj-vote-zkvb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T19:19:21.000Z"
+    },
+    {
+      "id": "rss-6c7736bb3cf5",
+      "title": "Wyatt Russell’s Monsterverse Series Casts Corey Stoll, Ralph Ineson, Nyasha Hatendi",
+      "description": "The upcoming “Monarch: Legacy of Monsters” prequel at Apple TV has added three new cast members. Variety has confirmed that Corey Stoll (“Imperfect Women,” “Appropriate,” “Billions”), Ralph Inneson (“",
+      "url": "https://variety.com/2026/tv/news/wyatt-russell-monsterverse-series-corey-stoll-ralph-ineson-1236817481/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Apple-TV-Monsterverse.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-21T19:18:09.000Z"
+    },
+    {
+      "id": "rss-7d3ca203f8e3",
+      "title": "Apple’s new hardware subscription sounds great, except for one limitation",
+      "description": "Today Bloomberg reported that Apple is about to launch a new ‘Apple Upgrade’ leasing program for hardware. It will let you buy new Apple products on a monthly subscription, but there’s one reported li",
+      "url": "https://9to5mac.com/2026/07/21/apples-new-hardware-subscription-sounds-great-except-for-one-limitation/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/iphone-17-pro-blue-rear-hold.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-21T19:17:04.000Z"
+    },
+    {
+      "id": "rss-55a15a7cae5d",
+      "title": "Senate Panel Advances Jay Clayton as Next Spy Chief on Party-Line Vote",
+      "description": "Assuming he is confirmed by the full Senate as expected, Mr. Clayton will take command of the Office of National Intelligence from Bill Pulte, a housing official with little national security experien",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/senate-panel-jay-clayton-spy-chief.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-clayton-photo-bhvp/21dc-clayton-photo-bhvp-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T19:15:19.000Z"
+    },
+    {
+      "id": "rss-72b88a178490",
+      "title": "Newsom admin faces questions over $6.2M diaper contract after touting 'competitive' process",
+      "description": "State records reportedly list the $6.2 million Baby2Baby contract as \"noncompetitively bid\" despite Newsom’s earlier claim that the process was competitive.",
+      "url": "https://www.foxnews.com/politics/newsom-admin-faces-questions-6-2m-diaper-contract-touting-competitive-process",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/newsom-announces-baby2baby-partnership.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T19:12:23.000Z"
+    },
+    {
+      "id": "rss-7ff20b778097",
+      "title": "Credit Card Fraud Detection",
+      "description": "How Logistic Regression and Decision Thresholds outperformed modern resampling techniques in an extremely imbalanced scenario (1.7% fraud)\nContinue reading on Medium »",
+      "url": "https://medium.com/@fabionguedes/credit-card-fraud-detection-cf5c8e3d1ca2?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*UBZE-dEfy99T2YfxybH1Aw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T19:09:21.000Z"
+    },
+    {
+      "id": "rss-6a521a45513f",
+      "title": "Nintendo customers have no legal right to tariff refunds, company tells judge",
+      "description": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-07-21T19:09:19.000Z"
+    },
+    {
+      "id": "rss-2385e46acc5d",
+      "title": "They Gave Me 'Senior' at Year 4 and I'm Still Paying for It",
+      "description": "The math on what Senior DE and AI Engineer titles actually cost you in 2026.\nContinue reading on Medium »",
+      "url": "https://dataexpert.medium.com/they-gave-me-senior-at-year-4-and-i-m-still-paying-for-it-acce4227ea6c?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*Krrfx4oaGw3cz9F05GM_5g.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T19:08:34.000Z"
+    },
+    {
+      "id": "rss-19c53475ecf3",
+      "title": "Trump just expanded his tariff playbook with a powerful trade weapon no president has ever used",
+      "description": "Trump invoked Section 338 of the 1930 Tariff Act for the first time in history, imposing 50% tariffs on Canadian goods from wine to hockey sticks.",
+      "url": "https://www.foxnews.com/politics/trump-expanded-tariff-playbook-powerful-trade-weapon-no-president-used",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trump-tariffs-economy.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T19:08:12.000Z"
+    },
+    {
+      "id": "rss-61a36d9bf3ac",
+      "title": "The Story of a Broken Machine",
+      "description": "A Memoir on Survival, Sacrifice, and Healing\nContinue reading on Medium »",
+      "url": "https://medium.com/@z.w.meags/the-story-of-a-broken-machine-59d034d25b22?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*2Zjon17ZZQPz_XBVyCVeHg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T19:07:45.000Z"
+    },
+    {
+      "id": "rss-4a0cf4e369e9",
+      "title": "America bashed as 'disgusting' fascist regime during progressive call with Abdul El-Sayed, Cori Bush",
+      "description": "Video captures progressive activist Kyle Kulinski comparing the U.S. and Israel to the 'fourth Reich' on a call joined by Rep. Ro Khanna, Cori Bush and Hasan Piker.",
+      "url": "https://www.foxnews.com/politics/america-bashed-disgusting-fascist-regime-progressive-call-abdul-el-sayed-cori-bush",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/bush-el-sayed-khanna.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T19:05:17.000Z"
+    },
+    {
+      "id": "rss-3549ef21af8a",
+      "title": "How to get Red Bull community rewards in Assassin's Creed Black Flag Resynced",
+      "description": "Here's where to find the Red Bull community challenge items in Assassin's Creed Black Flag Resynced.",
+      "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-red-bull-community-rewards-how-to-get/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/acblackflagresynced-red-bull-rewards-1.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T19:04:42.000Z"
+    },
+    {
+      "id": "rss-18835909220b",
+      "title": "Stop Delegating. Start Architecting.",
+      "description": "Five questions every Tuesday morning that turn “the AI did it” into a named owner. · Architecting the AI Coworker · 22/22\nContinue reading on Medium »",
+      "url": "https://medium.com/@peter.mccann.strain/stop-delegating-start-architecting-dbb1584c4d3d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*7Ry3DKTCY4W4lcjqVoaINg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T19:01:01.000Z"
+    },
+    {
+      "id": "rss-4c5866b5d1f0",
+      "title": "Google AI Is Killing The Human Internet, According To A New Report",
+      "description": "More than '50% of traffic on the Internet is now non-human,' according to Cloudflare's report, which also highlights Google's 'unique role' in AI-sloppifying cyberspace",
+      "url": "https://kotaku.com/google-ai-overview-web-traffic-cloudflare-human-internet-2000718023",
+      "image": "https://kotaku.com/app/uploads/2026/07/Image-from-Balancing-Screentime-blogpost-from-Google-1280x722.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T19:00:13.000Z"
+    },
+    {
+      "id": "rss-8d3525505c15",
+      "title": "Space Force orders 36 more Golden Dome missile-tracking satellites, for $1.75 billion",
+      "description": "The Space Development Agency announced partnerships with two companies worth up to $1.75 billion total, to develop 36 satellites for the Trump administration’s Golden Dome missile-defense initiative.",
+      "url": "https://www.space.com/space-exploration/satellites/space-force-orders-36-more-golden-dome-missile-tracking-satellites-for-usd1-75-billion",
+      "image": "https://cdn.mos.cms.futurecdn.net/F65e8M7RCQHK2RPLQ2ECp5-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-21T19:00:00.000Z"
+    },
+    {
+      "id": "rss-41fc87b5dd45",
+      "title": "Claude Has a Secret Room, Anthropic Just Found the Door.",
+      "description": "The Chitti Moment:\nContinue reading on Medium »",
+      "url": "https://medium.com/@vighu1610/claude-has-a-secret-room-anthropic-just-found-the-door-0643334d04a9?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*N24ykpFdOBuWwvTfkP0NrQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:59:40.000Z"
+    },
+    {
+      "id": "rss-7413d45addd5",
+      "title": "AI Automations Should Know When Not to Run",
+      "description": "The best workflow is not the one that runs forever. It is the one that knows when to pause, explain itself, and wait for a human.\nContinue reading on Medium »",
+      "url": "https://medium.com/@michael.stables1991/ai-automations-should-know-when-not-to-run-4e1eb2d56875?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*bmQtf8OO3HRrDGOE2fIUfA.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:58:59.000Z"
+    },
+    {
+      "id": "rss-dab9398d4144",
+      "title": "Trump's DNI pick clears key hurdle, reviving path for nation's top anti-terror surveillance program",
+      "description": "Jay Clayton advanced by the Senate Intelligence Committee in a 9-8 vote, setting up a full Senate battle over the Director of National Intelligence role.",
+      "url": "https://www.foxnews.com/politics/trumps-dni-pick-clears-key-hurdle-reviving-path-nations-top-anti-terror-surveillance-program",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/jay-clayton-june-2026.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:58:12.000Z"
+    },
+    {
+      "id": "rss-1689777fd26c",
+      "title": "HackExpo Infinity CTF WriteUp (Winning Story)",
+      "description": "So life is nothing but Zero & Won! 😄\nContinue reading on Medium »",
+      "url": "https://medium.com/@sagnik17/hackexpo-infinity-ctf-writeup-winning-story-f98202e85fe4?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/600/0*qdUKyJ5dYcSGUOWa.gif",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:57:15.000Z"
+    },
+    {
+      "id": "rss-3ea94b1a38fa",
+      "title": "G.O.P. Lawmakers Join White House in Challenging a Smithsonian Museum",
+      "description": "A House subcommittee questioned the director of the National Museum of American History after a scathing White House report characterized it as insufficiently patriotic.",
+      "url": "https://www.nytimes.com/2026/07/21/arts/design/trump-republicans-smithsonian-american-history.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21cul-SMITHSONIAN-HEARING-tfgh/21cul-SMITHSONIAN-HEARING-tfgh-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:57:13.000Z"
+    },
+    {
+      "id": "rss-95c1a7b482e6",
+      "title": "How Netflix Decides Your % Match",
+      "description": "Introduction\nContinue reading on Medium »",
+      "url": "https://medium.com/@maanas.punuru/how-netflix-decides-your-match-6075241fb966?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*NL14pEARzVxUGdXD",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:56:01.000Z"
+    },
+    {
+      "id": "rss-728cd12bea58",
+      "title": "Substack is adding an AI detection feature",
+      "description": "Substack is partnering with Pangram to add an AI detection feature.",
+      "url": "https://www.engadget.com/2220064/substack-is-adding-an-ai-detection-feature/",
+      "image": "https://www.engadget.com/img/gallery/substack-is-adding-an-ai-detection-feature/l-intro-1784660001.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:54:20.000Z"
+    },
+    {
+      "id": "rss-0a61f70ff7a5",
+      "title": "The Boring SEO Cleanup That Actually Matters for a Small AI Site",
+      "description": "I spent the day fixing the unglamorous parts of GetPrompting. The lesson was simple: better content helps, but better paths help people…\nContinue reading on Medium »",
+      "url": "https://medium.com/@michael.stables1991/the-boring-seo-cleanup-that-actually-matters-for-a-small-ai-site-0781a23b2f57?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*O5VeYDh9OSi9zo8rwaXXQg.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:52:56.000Z"
+    },
+    {
+      "id": "rss-55069d06eec4",
+      "title": "Darkest Dungeon Is Getting New DLC, Even Though It Has A Sequel",
+      "description": "Red Hook Studios surprised Darkest Dungeon fans by announcing new DLC for the first game years after a sequel was already released. It's titled The Fire's Edge and will be out in August.\nDarkest Dunge",
+      "url": "https://www.gamespot.com/articles/darkest-dungeon-is-getting-new-dlc-even-though-it-has-a-sequel/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Darkest-Dungeon-The-Fires-Edge.webp?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:52:17.000Z"
+    },
+    {
+      "id": "rss-1e45d32de7fc",
+      "title": "Marketers Aren’t Choosing AI Models. They’re Choosing Systems.",
+      "description": "Google has overtaken OpenAI as agencies’ preferred AI partner, according to recent research from our friends at Forrester. Predictably…\nContinue reading on Medium »",
+      "url": "https://medium.com/@francisanderson/marketers-arent-choosing-ai-models-they-re-choosing-systems-7f83dfbe80e2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/720/1*-pX-XgkWpvALMV7ImclZTQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:52:09.000Z"
+    },
+    {
+      "id": "rss-d75463bb50f3",
+      "title": "‘Too Rare to Care’? A New Center for Rare Diseases Hopes to Change That",
+      "description": "A new nonprofit wants to streamline gene therapy for diseases often avoided by pharmaceutical companies — making treatment more like a routine procedure than a bespoke drug.",
+      "url": "https://www.nytimes.com/2026/07/21/health/gene-therapy-rare-diseases-epilepsy.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21sci-gene-therapy-promo-vqpw/21sci-gene-therapy-promo-vqpw-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T18:52:06.000Z"
+    },
+    {
+      "id": "rss-c20dbceb4b74",
+      "title": "Apple has reportedly fixed its Hide My Email vulnerability",
+      "description": "Apple reportedly fixed the Hide My Email vulnerability that left iCloud+ users' emails not especially hidden.",
+      "url": "https://www.engadget.com/2220057/apple-has-reportedly-fixed-its-hide-my-email-vulnerability/",
+      "image": "https://www.engadget.com/img/gallery/apple-has-reportedly-fixed-its-hide-my-email-vulnerability/l-intro-1784659756.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:51:19.000Z"
+    },
+    {
+      "id": "rss-cb7ef1fe81e6",
+      "title": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
+      "description": "The administration accused California and Minnesota of fraudulent activity in their public health insurance programs.",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-medicaid-topart1-kwhv/21dc-medicaid-topart1-kwhv-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:50:22.000Z"
+    },
+    {
+      "id": "rss-ba16f35f0908",
+      "title": "Your AI Is Getting Dumber. Here Is Why",
+      "description": "The hidden performance killer that no one talks about and the engineering discipline that fixes it.\nContinue reading on Medium »",
+      "url": "https://medium.com/@vaibhavkkr24/your-ai-is-getting-dumber-here-is-why-2ef6cc4fb8fb?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1698/1*ZKwxcmfBo6vtO03zmCLn1A.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:49:39.000Z"
+    },
+    {
+      "id": "rss-01fdf0026400",
+      "title": "Best Buy Offers $160 Off All iPhone Air Models During Black Friday in July",
+      "description": "Best Buy today is offering customers a chance to get $160 off every model of the iPhone Air during its Black Friday in July event.\r\n\r\nNote: MacRumors is an affiliate partner with Best Buy. When you cl",
+      "url": "https://www.macrumors.com/2026/07/21/best-buy-iphone-air-models/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-air-silver.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:47:16.000Z"
+    },
+    {
+      "id": "rss-75ccfb2a5fbf",
+      "title": "How to customize armor appearance with Palworld’s transmog system",
+      "description": "The cosmetic armor system allows players to customize their armor in Palworld. Here’s how to change equipment appearance with its take on transmog.",
+      "url": "https://www.polygon.com/palworld-guides/542643/customize-armor-equipment-appearance-transmog-cosmetic/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/03/AntiqueDresser_PW.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:45:21.000Z"
+    },
+    {
+      "id": "rss-6fe940c0c689",
+      "title": "Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave",
+      "description": "Expectations were raised for a raft of pardons in connection with the country’s 250th birthday but the president granted fewer than 20 on July 3.",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html",
+      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20dc-pardons-ctbl/20dc-pardons-ctbl-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:45:18.000Z"
+    },
+    {
+      "id": "rss-38545e3f3438",
+      "title": "10 Technologies Revolutionizing Classrooms",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/education/10-technologies-revolutionizing-classrooms",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/3jatp9rm/10-Technologies-Revolutionizing-Classrooms-1.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:45:00.000Z"
+    },
+    {
+      "id": "rss-dd11f3f5da99",
+      "title": "France adopts bill to ban kids under 15 from using social media",
+      "description": "Macron wants the movie active by September, but it faces a constitutional review and thorny questions over age verification and existing accounts.",
+      "url": "https://fortune.com/2026/07/21/france-becomes-first-eu-nation-to-ban-social-media-for-kids-under-15/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2261615238-e1784659187342.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T18:44:05.000Z"
+    },
+    {
+      "id": "rss-5ad19d57eea5",
+      "title": "Johnson scores commanding victory in fight to ram SAVE America Act through Democrat opposition",
+      "description": "Mike Johnson's plan attaches voter ID and proof-of-citizenship requirements to a $95 billion budget reconciliation bill, which would bypass the Senate filibuster.",
+      "url": "https://www.foxnews.com/politics/johnson-scores-commanding-victory-fight-ram-save-america-act-through-democrat-opposition",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/hakeem-jeffries-mike-johnson.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:41:40.000Z"
+    },
+    {
+      "id": "rss-d16d086c0907",
+      "title": "2026 SEC Media Days schedule, where to watch: When coaches, teams take stage during four-day kickoff event",
+      "description": "The rundown for the unofficial kickoff to SEC football season ahead of fall camp",
+      "url": "\n                                                https://www.cbssports.com/college-football/news/2026-sec-media-days-schedule-where-to-watch/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/15/fff1c04c-1d34-47c1-9629-62d5162464bc/sec-media-days-1.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T18:40:48.000Z"
+    },
+    {
+      "id": "rss-b83e337fb5a0",
+      "title": "How I Built a Plant Disease Detector with 99% Accuracy",
+      "description": "Last week I decided to work on a simple question: could a farmer point their phone at a leaf and get an instant, reliable diagnosis? That…\nContinue reading on Medium »",
+      "url": "https://medium.com/@aryanhemangbhaivakharia/how-i-built-a-plant-disease-detector-with-99-accuracy-96c611079644?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1907/1*gefx8a3ez2_-uhI6hjM49g.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:38:13.000Z"
+    },
+    {
+      "id": "rss-b121307b57f6",
+      "title": "Playstation Plus is saying goodbye to these games in August 2026",
+      "description": "Dead Island 2, Harold Halibut and seven others will be gone soon.",
+      "url": "https://www.engadget.com/2220034/playstation-plus-saying-goodbye-to-games-august-2026/",
+      "image": "https://www.engadget.com/img/gallery/playstation-plus-is-saying-goodbye-to-these-games-in-august-2026/l-intro-1784658927.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:37:50.000Z"
+    },
+    {
+      "id": "rss-6ec4dbe789bf",
+      "title": "Lesson 8 The Python Standard Library",
+      "description": "The Python Standard Library is a collection of modules included with every Python installation. It provides a robust toolkit for a wide…\nContinue reading on Medium »",
+      "url": "https://medium.com/@Hassane_01/lesson-8-the-python-standard-library-6760983052d0?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*9dYrqtr5um3yNpNp",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:36:53.000Z"
+    },
+    {
+      "id": "rss-c1d511749ff0",
+      "title": "[CCAI] Day 2— How we can analyse climate data with ML — and what happens when the content drifts…",
+      "description": "I took the second session of CCAI virtual summer school programme. But overall, I got a bit disappointed about today’s lecture. To better…\nContinue reading on Medium »",
+      "url": "https://medium.com/@eunypark/ccai-day-2-how-we-can-analyse-climate-data-with-ml-and-what-happens-when-the-content-drifts-3b36fa51a07b?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*y6OymfI8z-Q5bSyPRezWkg.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:36:46.000Z"
+    },
+    {
+      "id": "rss-971559954594",
+      "title": "Lesson 7: Python Modules and Packages: Organizing Your Code",
+      "description": "As projects grow, organizing code becomes crucial. Python’s module and package system, along with virtual environments, provides a robust…\nContinue reading on Medium »",
+      "url": "https://medium.com/@Hassane_01/lesson-7-python-modules-and-packages-organizing-your-code-366b4ac24008?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*h1SMvjESbtR-s2hH",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:36:16.000Z"
+    },
+    {
+      "id": "rss-6867b64c4a6e",
+      "title": "Excuse Me, Wait, We’re Getting A Flukeman From X-Files Lego Minifig?!",
+      "description": "This new $200 X-Files Lego set includes perhaps the weirdest minifig character I've seen in a long time...",
+      "url": "https://kotaku.com/excuse-me-wait-were-getting-a-flukeman-from-x-files-lego-minifig-2000718082",
+      "image": "https://kotaku.com/app/uploads/2026/07/xfilesset-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:35:57.000Z"
+    },
+    {
+      "id": "rss-85532494c2e4",
+      "title": "Top Crypto Investments for July 2026: The Largest Coins by Market Cap",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/cryptocurrency-analytics-insight/top-crypto-investments-for-july-2026-the-largest-coins-by-market-cap",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/s7e2m5qr/Top-Crypto-Investments-for-July-2026-The-Largest-Coins-by-Market-Cap.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:35:00.000Z"
+    },
+    {
+      "id": "rss-4852cffaf160",
+      "title": "US counterintelligence ‘way behind,’ post-9/11 record ‘extraordinarily negligent’, fmr Trump WH official warns",
+      "description": "H.R. McMaster accused Washington of being \"extraordinarily negligent\" on counterintelligence while China and Russia exploited America's post-9/11 focus.",
+      "url": "https://www.foxnews.com/politics/us-counterintelligence-way-behind-post-9-11-record-extraordinarily-negligent-fmr-trump-wh-official-warns",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/h-r-mcmaster-testifying-house-select-committee.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:31:55.000Z"
+    },
+    {
+      "id": "rss-1d179a6e58c8",
+      "title": "Architecting SDAR on AWS: The Decision Log Behind a Series I Deliberately Didn’t Benchmark",
+      "description": "The series showed HOW. This post shows WHY.\nContinue reading on Medium »",
+      "url": "https://shoaibalimir.medium.com/architecting-sdar-on-aws-the-decision-log-behind-a-series-i-deliberately-didnt-benchmark-2e33aeee9613?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*9lRTmBD4ba9YzI_kFzTbSQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:31:01.000Z"
+    },
+    {
+      "id": "rss-767844fb253a",
+      "title": "Expedia Reveals 2026 ‘Island Hot List,’ With St. Lucia, Porto Santo and Cape Verde, Following Country’s Cinderella World Cup Run",
+      "description": "St. Lucia, Porto Santo, Praslin and Syros are the among the top island escapes to travel to this year, according to Expedia’s 2026 Island Hot List, an annual ranking of the most popular island destina",
+      "url": "https://variety.com/2026/shopping/news/best-island-travel-destinations-2026-expedia-booking-reviews-1236812514/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/cape-verde-expedia-booking-copy.avif",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-21T18:30:03.000Z"
+    },
+    {
+      "id": "rss-daaaae82f6a5",
+      "title": "We tested dozens of free CarPlay apps, here are the best ones",
+      "description": "After using CarPlay for years and testing dozens of apps, we've narrowed down the list of CarPlay apps you really need.",
+      "url": "https://www.engadget.com/2214992/free-apple-carplay-apps-tested/",
+      "image": "https://www.engadget.com/img/gallery/we-tested-dozens-of-free-carplay-apps-here-are-the-best-ones/l-intro-1784051668.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:30:00.000Z"
+    },
+    {
+      "id": "rss-5476ffc85b71",
+      "title": "SpaceX Falcon 9 rocket sends Starlink satellites to orbit a day after rare launch abort",
+      "description": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites launched from Vandenberg Space Force Base in California on Tuesday (July 21), a day after aborting its first liftoff attempt.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-39-b1082-vsfb-ocisly",
+      "image": "https://cdn.mos.cms.futurecdn.net/pyyoH23WYaEQechaGoUB4o-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-21T18:30:00.000Z"
+    },
+    {
+      "id": "rss-5ade37d259f5",
+      "title": "Dogecoin Accumulation Reaches 100 as Breakout Pressure Builds",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/dogecoin-accumulation-reaches-100-as-breakout-pressure-builds",
+      "image": "https://media.assettype.com/analyticsinsight/2025-02-12/zq8wof8u/Dogecoin-DOGE.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:30:00.000Z"
+    },
+    {
+      "id": "rss-d50ce3fd4333",
+      "title": "France Joins a Global Move Toward Restricting Social Media for Children",
+      "description": "Its new law, the first of its kind enacted by a European country, will ban access to some accounts for anyone under 15.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-france-social-hclw/21int-france-social-hclw-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T18:29:17.000Z"
+    },
+    {
+      "id": "rss-b0b9410eb2e0",
+      "title": "Apple just improved TestFlight for users with a lot of beta apps",
+      "description": "Sometimes a small change can make a big impact. That’s especially true for Apple’s latest TestFlight update for users with a lot of pre-release software.",
+      "url": "https://9to5mac.com/2026/07/21/apple-just-improved-testflight-for-users-with-a-lot-of-beta-apps/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/testflight-app.webp?w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:28:58.000Z"
+    },
+    {
+      "id": "rss-85b08f4563fb",
+      "title": "Trump Pushes Chinese Election Threat, but Files Show Russia’s Heavy Hand",
+      "description": "Intelligence documents that the White House released to back up President Trump’s claims about China highlight Russian efforts to influence U.S. elections.",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-china-russia-election.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-russia-photo-tphf/21dc-russia-photo-tphf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T18:27:44.000Z"
+    },
+    {
+      "id": "rss-bd42a0346de6",
+      "title": "Cumulative 2026 major leaderboard shows Sam Burns' rise, Rory McIlroy and Scottie Scheffler's consistency",
+      "description": "A total of 14 players made the cut in all four major championships this season with McIlroy chief among that group as Masters champion",
+      "url": "\n                                                https://www.cbssports.com/golf/news/cumulative-2026-major-leaderboard-sam-burns-rory-mcilroy-scottie-scheffler/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/fc2d6ede-c59a-4a2e-8509-71b39fb8f38d/sam-burns-rory-mcilroy-masters-g.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T18:27:07.000Z"
+    },
+    {
+      "id": "rss-23933b784986",
+      "title": "Georgia has its QB in Gunner Stockton, but does Kirby Smart have enough playmakers elsewhere?",
+      "description": "Georgia's unheralded WR room and oft-questioned offensive coordinator have a lot to prove in 2026",
+      "url": "\n                                                https://www.cbssports.com/college-football/news/georgia-qb-gunner-stockton-playmakers-wr-kirby-smart/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/4f509aa0-95a8-456c-83d4-e372d7c58dd3/dawgs.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T18:26:46.000Z"
+    },
+    {
+      "id": "rss-90dd81568cc6",
+      "title": "'I think it'll happen': MLB stars have high hopes for 2028 Olympics and high hurdles to clear with the league",
+      "description": "MLB players have expressed interest in suiting up for the 2028 Summer Games in L.A., but there are a lot of logistics to figure out",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/mlb-players-2028-olympics-logistical-hurdles/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/7bdf6684-b345-4ab8-8df6-987ea486c757/bryce-harper-usa-getty-1.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T18:23:47.000Z"
+    },
+    {
+      "id": "rss-e669da112d7e",
+      "title": "Ubisoft Reacts To Ghost Recon Leaks, Promises News In August",
+      "description": "Ubisoft has confirmed that it will share what's next for Ghost Recon when it celebrates the series' 25th anniversary on August 6. This comes after several reports and rumors about upcoming Ghost Recon",
+      "url": "https://www.gamespot.com/articles/ubisoft-reacts-to-ghost-recon-leaks-promises-news-in-august/",
+      "image": "https://www.gamespot.com/wp-content/uploads/original/1578/15789366/3600422-3583974-ghost%20recon%20breakpoint.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:23:03.000Z"
+    },
+    {
+      "id": "rss-ae25fcba7a61",
+      "title": "Darkest Dungeon follows The Witcher 3 and announces new DLC years after release",
+      "description": "The Fire's Edge marks the roguelike dungeon crawler's first major update in 6 years",
+      "url": "https://www.polygon.com/the-original-darkest-dungeon-is-getting-new-dlc/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/6094951/darkest-dungeon-review-header_1920.0.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:21:37.000Z"
+    },
+    {
+      "id": "rss-598e5f47faa6",
+      "title": "Melinda French Gates says it took 3 doctors to diagnose the condition she was suffering from",
+      "description": "Melinda French Gates says it took three doctors to diagnose her perimenopause, revealing a startling gap in OB-GYN menopause training nationwide.",
+      "url": "https://www.foxnews.com/health/melinda-french-gates-took-3-doctors-diagnose-condition-suffering",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/melinda-gates-speaking.jpg?ve=1&tl=1",
+      "source": "Fox News Health",
+      "category": "health",
+      "publishedAt": "2026-07-21T18:18:18.000Z"
+    },
+    {
+      "id": "rss-c9833c6e640f",
+      "title": "Discriminatory 'shadow' review process locks White, Asian students out of California med school, DOJ alleges",
+      "description": "Harmeet Dhillon says UC San Diego Med used hardship essays as a proxy for race, admitting Black applicants at twice the rate of White applicants.",
+      "url": "https://www.foxnews.com/politics/discriminatory-shadow-review-process-locks-white-asian-students-california-med-school-doj-alleges",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/split-UCDiego-Harmeet.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:17:58.000Z"
+    },
+    {
+      "id": "rss-9e21ab1c4f6a",
+      "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
+      "description": "NatGeo's Pompeii: Out of Time fuses historical fact and imagination to bring city's last 24 hours to life.",
+      "url": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/pompeii1-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:17:55.000Z"
+    },
+    {
+      "id": "rss-8e1c11932ff0",
+      "title": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
+      "description": "Find the best Arkansas sports betting apps in July 2026, and all you need to know about Arkansas sports betting.",
+      "url": "\n                                                https://www.cbssports.com/betting/news/arkansas/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/03/25/62c41a06-a221-41ee-949a-6b3f0f51b0d4/arkansas-sports-betting.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T18:17:37.000Z"
+    },
+    {
+      "id": "rss-42ea0784c8f8",
+      "title": "Jamie Dimon says insecurity, not ego, is what destroys the careers of top CEOs",
+      "description": "The JPMorgan CEO says leaders get into trouble when their insecurity discourages employees from delivering bad news.",
+      "url": "https://fortune.com/2026/07/21/jamie-dimon-insecure-ceos-hide-bad-news-leadership-careers-jpmorgan-csuite-leadership-success/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2283873133-e1784657156705.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T18:17:31.000Z"
+    },
+    {
+      "id": "rss-34644c799250",
+      "title": "Evals are the new PRD, Expedia’s AI chief tells VB Transform 2026",
+      "description": "“The new PRD are the evals,” Xavi Amatriain, Expedia Group’s first chief AI and data officer, told the VB Transform 2026 audience last week in Menlo Park. “So basically, you encode what you want the p",
+      "url": "https://venturebeat.com/security/evals-are-the-new-prd-expedia-ai-chief-tells-vb-transform-2026",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5fBxiihzljjYOT3rPsCVpB/e5a820f94eeb6cf131a386225884831c/ba3b3a60-35e3-47e4-8003-584ee1d03068.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:15:46.000Z"
+    },
+    {
+      "id": "rss-e059a6e43cdd",
+      "title": "‘He’s an analog man in a digital AI world’: Nolan’s ‘The Odyssey’ made back its $250M budget in 3 days without industrywide AI cost cutting",
+      "description": "The three-hour epic and Nolan’s $6 billion personal box office record show how the director is his own franchise and a counter to the AI age.",
+      "url": "https://fortune.com/2026/07/21/nolan-the-odyssey-250m-budget-3-days-no-ai/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285246938-e1784657536203.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T18:15:42.000Z"
+    },
+    {
+      "id": "rss-2d5c76e2d1a4",
+      "title": "Threads is getting new parental control features",
+      "description": "Parental Supervision is coming to Meta's Threads.",
+      "url": "https://www.engadget.com/2219977/threads-is-getting-new-parental-control-features/",
+      "image": "https://www.engadget.com/img/gallery/threads-is-getting-new-parental-control-features/l-intro-1784656701.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:15:00.000Z"
+    },
+    {
+      "id": "rss-c070c1fb2728",
+      "title": "Top 10 High-Speed PCIe Gen4, Gen5 SSDs",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gadgets/buying-guides/top-10-high-speed-pcie-gen4-gen5-ssds",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/awlev33f/Top-10-High-Speed-PCIe-Gen4-and-Gen5-SSDs-1.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:15:00.000Z"
+    },
+    {
+      "id": "rss-aaa144014d6e",
+      "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
+      "description": "Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.",
+      "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21nat-soldier17-named-mkbj/21nat-soldier17-named-mkbj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T18:12:57.000Z"
+    },
+    {
+      "id": "rss-a833185771cb",
+      "title": "The most overlooked element of the LeBron James free agency saga? This season doesn't need to be his last",
+      "description": "If the thinking is that this will be LeBron's last season, we all might want to think again",
+      "url": "\n                                                https://www.cbssports.com/nba/news/lebron-james-rumors-free-agency-next-team/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/7795d36a-8f6d-4507-8a2b-9d258445093a/lebron-the-shop-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T18:11:54.000Z"
+    },
+    {
+      "id": "rss-2605fc7f99c8",
+      "title": "Greenland meltwater will drive a 'strong weakening, but not a shutdown' of key Atlantic currents, study finds",
+      "description": "New modeling suggests meltwater from the Greenland ice sheet has a big weakening influence on the Atlantic Meridional Overturning Circulation, but the runoff likely won't cause a complete and irrevers",
+      "url": "https://www.livescience.com/planet-earth/rivers-oceans/greenland-meltwater-will-drive-a-strong-weakening-but-not-a-shutdown-of-key-atlantic-currents-study-finds",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZSaTu67uS6r7bQkzhriURk-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-21T18:10:03.000Z"
+    },
+    {
+      "id": "rss-03705088b4ea",
+      "title": "A Free Dungeon Crawler Carl Flash Game Is Now Available to Play Online",
+      "description": "Dungeon Crawler Carl just got its first free Flash game that stars none other than Princess Donut.",
+      "url": "https://www.ign.com/articles/a-free-dungeon-crawler-carl-flash-game-is-now-available-to-play-online",
+      "image": "https://assets-prd.ignimgs.com/2026/07/21/screenshot-2026-07-21-104908-1784656158181.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:09:49.000Z"
+    },
+    {
+      "id": "rss-6f53eab73ac2",
+      "title": "Democrat New Jersey governor says thousands of noncitizens discovered on voter rolls, purged",
+      "description": "Gov. Mikie Sherrill says a software error in New Jersey's motor vehicle system registered roughly 6,600 noncitizens to vote, and some cast ballots.",
+      "url": "https://www.foxnews.com/politics/democrat-new-jersey-governor-thousands-noncitizens-discovered-voter-rolls-purged",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/mikie-sherrill-1.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:09:23.000Z"
+    },
+    {
+      "id": "rss-ffed17988be3",
+      "title": "Black Myth: Wukong Live In Concert Takes The Series Beyond The Screen",
+      "description": "Two successful live concerts in North America are the best evidence yet that Black Myth can transcend video games alone.",
+      "url": "https://www.polygon.com/black-myth-wukong-live-concerts-north-america/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/new-project-2026-07-21t185638-644.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:09:03.000Z"
+    },
+    {
+      "id": "rss-79dcf47ed299",
+      "title": "A FINRA for AI? The idea from Google DeepMind CEO Demis Hassabis is gaining momentum. But is it any good?",
+      "description": "The self-regulatory body for financial brokerages has been plagued by concerns about conflict of interest, raising questions about whether it's the right model for AI.",
+      "url": "https://fortune.com/2026/07/21/google-deepmind-ceo-demis-hassabis-finra-for-ai-proposal-gains-momentum-but-is-it-any-good/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2273112134-e1784653976807.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T18:08:18.000Z"
+    },
+    {
+      "id": "rss-0dda4dce2bf5",
+      "title": "Apple TV’s new comedy from Ben Stiller is almost here, and reviews are in",
+      "description": "The Dink is a new film premiering on Apple TV later this week from producer Ben Stiller, and the first reviews have just arrived. Here’s what reviewers are saying.",
+      "url": "https://9to5mac.com/2026/07/21/apple-tvs-new-comedy-from-ben-stiller-is-almost-here-and-reviews-are-in/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/the-dink-johnson-chen.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:07:04.000Z"
+    },
+    {
+      "id": "rss-ccc87df4bfb2",
+      "title": "Fantasy football rankings 2026: Busts by model that called Terry McLaurin's down season",
+      "description": "SportsLine simulated the new NFL season 10,000 times and identified Fantasy football busts 2026 to fade during your Fantasy football draft prep",
+      "url": "\n                                                https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-busts-by-model-that-called-terry-mclaurins-down-season/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/71924b98-548f-4e7a-9d6f-5234b41326df/malik-nabers-new-york-giants-getty-images.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T18:06:42.000Z"
+    },
+    {
+      "id": "rss-4bdda3ef9784",
+      "title": "Robocop Gets New Reboot Series Coming to Prime Video",
+      "description": "An eight-episode Robocop series is coming to Prime Video, with The Conjuring creator James Wan set to executive produce.",
+      "url": "https://www.ign.com/articles/robocop-gets-new-reboot-series-coming-to-prime-video",
+      "image": "https://assets-prd.ignimgs.com/2025/07/17/robothumb-1752760551216.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:04:48.000Z"
+    },
+    {
+      "id": "rss-0fea918f8fe7",
+      "title": "The U.S. Is Pulling Back on Energy Efficiency",
+      "description": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
+      "url": "https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/climate/21cli-efficiency-01/21cli-efficiency-01-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:03:47.000Z"
+    },
+    {
+      "id": "rss-bb0970a0d7d4",
+      "title": "A Family’s Daring Escape From North Korea",
+      "description": "Their resolve for freedom hardened during the pandemic, when they lived through a crippling food shortage and were forced to witness frequent public executions.",
+      "url": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
+      "image": "https://static01.nyt.com/images/2026/07/17/multimedia/00int-nkorea-escape-01-mtzk/00int-nkorea-escape-01-mtzk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T18:02:12.000Z"
+    },
+    {
+      "id": "rss-6f26ffacd0e2",
+      "title": "L.J. Cason transfers to Miami: Michigan PG only player to leave after Mike Boynton replaces Dusty May",
+      "description": "Cason isn't expected to play this season for the Hurricanes after tearing his ACL earlier this year",
+      "url": "\n                                                https://www.cbssports.com/college-basketball/news/l-j-cason-miami-transfer-portal-michigan-dusty-may-mike-boynton/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/596b179c-8df4-4e93-ad3e-bf6fe1b7bfc0/untitled-design-386.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T18:02:11.000Z"
+    },
+    {
+      "id": "rss-c097525a92c9",
+      "title": "Warner Bros. Acquisition Is Stuck In Legal Limbo Again",
+      "description": "Paramount Skydance's plan to acquire Warner Bros. Discovery has hit yet another snag, as a judge has issued a two-week pause on its planned acquisition. After a coalition of 12 state attorneys--led by",
+      "url": "https://www.gamespot.com/articles/warner-bros-acquisition-is-stuck-in-legal-limbo-again/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/05/mortal-kombat-2.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:01:20.000Z"
+    },
+    {
+      "id": "rss-3af764084c62",
+      "title": "NASA Langley Celebrates Community through Music with ‘Symphony Under the Stars’ Event",
+      "description": "NASA Langley’s “Stars, Stripes, and Supernovas – Symphony Under the Stars” event brought employees, families, and community members together for an evening filled with music, connection, and celebrati",
+      "url": "https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/",
+      "image": "https://www.nasa.gov/wp-content/uploads/2026/07/concertforsocial.mp4",
+      "source": "NASA",
+      "category": "science",
+      "publishedAt": "2026-07-21T18:00:43.000Z"
+    },
+    {
+      "id": "rss-b948934f98df",
+      "title": "Inside the Fight to Rid South Africa of Black Immigrants",
+      "description": "As immigration surges in the country, activists are going to extreme lengths to expel foreign nationals, often taking the law into their own hands.",
+      "url": "https://www.nytimes.com/2026/07/21/world/africa/south-africa-migrants.html",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/00int-safrica-xenophobia-promo/00int-safrica-xenophobia-pzbg-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T18:00:20.000Z"
+    },
+    {
+      "id": "rss-5b7d66e8dc06",
+      "title": "King of the Hill showrunner says Jonathan Joss’ passing was not the reason for John Redcorn’s big change this season",
+      "description": "Saladin Patterson talks about the death of Jonathan Joss and says that isn't why Nancy breaks up with John Redcorn this season",
+      "url": "https://www.polygon.com/king-of-the-hill-jonathan-joss-john-redcorn/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/178183_0011.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T18:00:12.000Z"
+    },
+    {
+      "id": "rss-533dff41c5bd",
+      "title": "The Xteink X4 Pro is a tiny ereader with more features than you might expect",
+      "description": "The Xteink X4 Pro is a tiny ereader for DRM-free books.",
+      "url": "https://www.engadget.com/2219947/the-xteink-x4-pro-is-a-tiny-ereader-with-more-features-than-you-might-expect/",
+      "image": "https://www.engadget.com/img/gallery/the-xteink-x4-pro-is-a-tiny-ereader-with-more-features-than-you-might-expect/l-intro-1784655455.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-21T18:00:00.000Z"
+    },
+    {
+      "id": "rss-f0cdc86a2b11",
+      "title": "Trump may have endorsed Darline Graham, but GOP Senate hopefuls aren’t backing down",
+      "description": "Trump's endorsement of Darline Graham faces a major test as Russell Fry, Ralph Norman and others jump into the South Carolina GOP Senate nomination race.",
+      "url": "https://www.foxnews.com/politics/trump-may-have-endorsed-darline-graham-gop-senate-hopefuls-arent-backing-down",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/donald-trump-pointing-finger-in-oval-office-remarks.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T18:00:00.000Z"
+    },
+    {
+      "id": "rss-23748abd047d",
+      "title": "Billions of miles and thousands of years in the making: This is the life of a Perseid shooting star",
+      "description": "A story billions of miles and thousands of years in the making.",
+      "url": "https://www.space.com/stargazing/meteor-showers/billions-of-miles-and-thousands-of-years-in-the-making-this-is-the-life-of-a-perseid-shooting-star",
+      "image": "https://cdn.mos.cms.futurecdn.net/GDr978vcfUNjpF8Ag9KVY3-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-21T18:00:00.000Z"
+    },
+    {
+      "id": "rss-a67207521bae",
+      "title": "Russia Nears Formal Crypto Framework as State Duma Reviews Final Bill",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/russia-nears-formal-crypto-framework-as-state-duma-reviews-final-bill",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/qztmi5hx/Russia-Nears-Formal-Crypto-Framework-as-State-Duma-Reviews-Final-Bill.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T18:00:00.000Z"
+    },
+    {
+      "id": "rss-b930ad025c1c",
+      "title": "Jimothy the Raccoon is already in Skyrim and Stardew Valley",
+      "description": "Seattle celebrity raccoon Jimothy is winning hearts and minds and a spot in games, thanks to modders and World of Warcraft.",
+      "url": "https://www.polygon.com/jimothy-the-raccoon-game-mods-skyrim-stardew-valley/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/jimothy-skyrim.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T17:59:18.000Z"
+    },
+    {
+      "id": "rss-5098f9a6c5e1",
+      "title": "The real reason behind Hegseth's viral military testosterone screening order",
+      "description": "The Pentagon now requires annual testosterone screening for service members 30 and older, raising questions about treatment and fertility risks.",
+      "url": "https://www.foxnews.com/politics/real-reason-behind-hegseths-viral-military-testosterone-screening-order",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/marines-training.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T17:58:31.000Z"
+    },
+    {
+      "id": "rss-f0656540232d",
+      "title": "Texas Gov Abbott signs executive order cracking down on 'birth tourism,’ says US citizenship not for sale",
+      "description": "Greg Abbott's executive order empowers Texas agencies to investigate hospitals and providers accused of advertising birth tourism packages.",
+      "url": "https://www.foxnews.com/politics/texas-gov-abbott-signs-executive-order-cracking-down-birth-tourism-says-us-citizenship-not-sale",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/greg-abbott.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T17:57:07.000Z"
+    },
+    {
+      "id": "rss-7a100422a079",
+      "title": "Christopher Nolan’s ‘The Odyssey’ Movie Is Making Gen Z Listen to the Book (EXCLUSIVE)",
+      "description": "Christopher Nolan’s film adaptation of “The Odyssey” is a bona fide cultural phenomenon (sorry, trolls!), shattering box office projections with a $264.1 million worldwide gross its opening weekend, e",
+      "url": "https://variety.com/2026/film/news/the-odyssey-christopher-nolan-movie-book-spotify-streams-gen-z-homer-1236817374/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/CT-54129_MSG_3b52e1.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-21T17:55:25.000Z"
+    },
+    {
+      "id": "rss-d29be62a821d",
+      "title": "Even sexy Skyrim mods aren't safe from AI slop anymore",
+      "description": "Bethesda's popular RPG is seeing a surge of AI-generated content, some of which has been downloaded millions of times",
+      "url": "https://www.polygon.com/skyrim-ai-mods-sex-downloads-popular-best-slop-nexus/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/skyrimmods1.JPG",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T17:53:57.000Z"
+    },
+    {
+      "id": "rss-9a1931304ccd",
+      "title": "New Jersey removes 6,600 people from voter rolls who were eligible to cast a ballot for 2024 election",
+      "description": "New Jersey announced that it removed 6,600 noncitizens from its voter rolls who were registered to vote between June 2023 and June 2024.",
+      "url": "https://www.foxnews.com/politics/new-jersey-removes-6600-people-voter-rolls-who-were-eligible-cast-ballot-2024-election",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/mikie-sherrill.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T17:52:56.000Z"
+    },
+    {
+      "id": "rss-8ef3f870bfeb",
+      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
+      "description": "Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21pol-jackson-schumer-cjlm/21pol-jackson-schumer-cjlm-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T17:52:33.000Z"
+    },
+    {
+      "id": "rss-0d062c1efb53",
+      "title": "Naked mole-rat queens use a chemical signal to suppress fertility in rivals",
+      "description": "A single chemical made by mole-rat queens enforces the social order.",
+      "url": "https://arstechnica.com/science/2026/07/naked-mole-rat-queens-keep-their-colonies-in-line-with-a-scent/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2276125539-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-07-21T17:51:52.000Z"
+    },
+    {
+      "id": "rss-41fe8728ef7b",
+      "title": "How Localized Messaging Platforms Support Cross-Border Digital Communities",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/how-localized-messaging-platforms-support-cross-border-digital-communities",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/dw2x6x4h/Localized-Messaging-Platforms.png",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T17:51:25.000Z"
+    },
     {
       "id": "rss-54d6b0337670",
       "title": "OpenAI launches small business program as it touts 10M ChatGPT Work and Codex users",
@@ -71,6 +1031,16 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-21T17:43:35.000Z"
+    },
+    {
+      "id": "rss-610a9499f6a3",
+      "title": "Republican Rep María Elvira Salazar declares, 'After Cuba, Nicaragua is next'",
+      "description": "Criticizing Nicaragua's Daniel Ortega, U.S. Rep. María Elvira Salazar, R-Fla., said in a post on X that \"After Cuba, Nicaragua is next.\"",
+      "url": "https://www.foxnews.com/politics/republican-rep-maria-elvira-salazar-declares-after-cuba-nicaragua-next",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/maria-elvira-salazar-may-2026.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T17:43:28.000Z"
     },
     {
       "id": "rss-fd9a7c01eabd",
@@ -193,6 +1163,16 @@
       "publishedAt": "2026-07-21T17:35:32.000Z"
     },
     {
+      "id": "rss-2ac88cae817e",
+      "title": "Georgia RB Dante Dowdell suffers serious injuries in ATV accident; Kirby Smart unsure of return timeline",
+      "description": "Dowdell transferred to Georgia from Kentucky, where he was the Wildcats' second-leading rusher in 2025",
+      "url": "\n                                                https://www.cbssports.com/college-football/news/dante-dowdell-georgia-atv-accident-injuries-kirby-smart/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/e9e0f121-5941-42cb-bafa-5d189be05126/dowdell.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T17:35:26.000Z"
+    },
+    {
       "id": "rss-47f69a2cbf18",
       "title": "Manual vs Electric Chopper: Which One Should You Buy in 2026?",
       "description": "",
@@ -231,6 +1211,16 @@
       "source": "Engadget",
       "category": "technology",
       "publishedAt": "2026-07-21T17:34:22.000Z"
+    },
+    {
+      "id": "rss-eef3788aa88b",
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "description": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-592014704-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-07-21T17:33:14.000Z"
     },
     {
       "id": "rss-f7476531ef85",
@@ -367,7 +1357,7 @@
       "title": "NYC Legionnaires' disease outbreak kills fourth victim, 76 cases reported",
       "description": "A fourth person has died as 76 Legionnaires' disease cases are now linked to cooling towers in Upper East Side buildings, including the Guggenheim Museum.",
       "url": "https://www.foxnews.com/health/nyc-legionnaires-disease-outbreak-kills-fourth-victim-76-cases-reported",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Legionella-stock-photo.jpg?ve=1&tl=1",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/legionnares.jpg?ve=1&tl=1",
       "source": "Fox News Health",
       "category": "health",
       "publishedAt": "2026-07-21T17:22:48.000Z"
@@ -381,6 +1371,36 @@
       "source": "CNET",
       "category": "technology",
       "publishedAt": "2026-07-21T17:22:08.000Z"
+    },
+    {
+      "id": "rss-0331d6d6d4ac",
+      "title": "Ranking the NFL's greatest farewell seasons as Aaron Rodgers looks to join an iconic list",
+      "description": "Rodgers says 2026 will be the final season of his Hall of Fame career. Before he takes his last snap, we ranked the greatest farewell campaigns in NFL history",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/greatest-farewell-seasons-nfl-history/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/20/573df1b9-5aec-44ca-bd9f-59431c138fef/bettissbxl.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T17:20:15.000Z"
+    },
+    {
+      "id": "rss-a1d152897daf",
+      "title": "Fantasy football rankings 2026: Breakouts via model that called Tetairoa McMillan's huge season",
+      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football breakouts for 2026 Fantasy football draft prep",
+      "url": "\n                                                https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-via-model-that-called-tetairoa-mcmillans-huge-season/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/8dc52143-3106-4f3a-b0ac-72b4912aa654/omarion-hampton-los-angeles-chargers-getty-images.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T17:19:49.000Z"
+    },
+    {
+      "id": "rss-3a5997b7c0eb",
+      "title": "Free MLB home run picks, odds for July 21: Drake Baldwin in expert's best bets for Tuesday HR player props",
+      "description": "SportsLine's Jacob Fetner reveals his best MLB home run props picks for Tuesday, July 21",
+      "url": "\n                                                https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-for-july-21-drake-baldwin-experts-best-bets-tuesday-hr-player-props/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/04/19/312776a6-ee2a-4973-953d-009963d81bfd/olson.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T17:18:53.000Z"
     },
     {
       "id": "rss-264d7fefb513",
@@ -521,16 +1541,6 @@
       "source": "CBS Sports",
       "category": "sports",
       "publishedAt": "2026-07-21T17:09:15.000Z"
-    },
-    {
-      "id": "rss-239a606f90f0",
-      "title": "D.M.V. Error Led to 400 Noncitizens Voting in New Jersey, Governor Says",
-      "description": "A software glitch in 2023 at the New Jersey Department of Motor Vehicles led to roughly 6,600 noncitizens being registered to vote, Gov. Mikie Sherrill announced on Tuesday.",
-      "url": "https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21met-nj-vote-zkvb/21met-nj-vote-zkvb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T17:08:26.000Z"
     },
     {
       "id": "rss-e208d712cae7",
@@ -703,16 +1713,6 @@
       "publishedAt": "2026-07-21T16:56:51.000Z"
     },
     {
-      "id": "rss-cb7ef1fe81e6",
-      "title": "Trump Officials Withhold $1 Billion in Medicaid Funds From California and Minnesota Over Suspected Fraud",
-      "description": "The administration accused California and Minnesota of fraudulent activity in their public health insurance programs.",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-medicaid-topart-wfhz/21dc-medicaid-topart-wfhz-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-21T16:56:29.000Z"
-    },
-    {
       "id": "rss-7896c8c97b9a",
       "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
       "description": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. ",
@@ -783,16 +1783,6 @@
       "publishedAt": "2026-07-21T16:43:11.000Z"
     },
     {
-      "id": "rss-6fe940c0c689",
-      "title": "Trump Rejected Nearly 6,000 Clemency Applications Amid Hope of Pardon Wave",
-      "description": "Expectations were raised for a raft of pardons in connection with the country’s 250th birthday but the president granted fewer than 20 on July 3.",
-      "url": "https://www.nytimes.com/2026/07/20/us/politics/trump-rejected-clemency-applications.html",
-      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/20dc-pardons-ctbl/20dc-pardons-ctbl-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-21T16:42:55.000Z"
-    },
-    {
       "id": "rss-aea1b3a0bcb0",
       "title": "Neill Blomkamp’s AI Film Has Fans Asking For District 10 Instead",
       "description": "A handful of filmmakers have begun testing the waters of AI-generated movies, and this week, Gran Turismo director Neill Blomkamp showed off a 14-minute short that was made entirely with the technolog",
@@ -833,16 +1823,6 @@
       "publishedAt": "2026-07-21T16:31:51.000Z"
     },
     {
-      "id": "rss-aaa144014d6e",
-      "title": "Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton",
-      "description": "Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.",
-      "url": "https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21nat-soldier17-named-mkbj/21nat-soldier17-named-mkbj-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T16:31:26.000Z"
-    },
-    {
       "id": "rss-befee0e084e7",
       "title": "The Odyssey’s Critical And Box Office Success Has Completely Broken Online Chuds Who Forgot Twitter Isn’t Real Life",
       "description": "High box office numbers and user reviews are all fake according to angry people online",
@@ -871,16 +1851,6 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-21T16:30:00.000Z"
-    },
-    {
-      "id": "rss-0fea918f8fe7",
-      "title": "The U.S. Is Pulling Back on Energy Efficiency",
-      "description": "The Trump administration is undoing fuel-saving efforts even as war in Iran, data centers and heat waves are pushing up gasoline and electricity costs.",
-      "url": "https://www.nytimes.com/2026/07/21/climate/trump-energy-efficiency-standards.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/climate/21cli-efficiency-01/21cli-efficiency-01-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-21T16:28:39.000Z"
     },
     {
       "id": "rss-9e9d85bb5476",
@@ -1151,16 +2121,6 @@
       "source": "Kotaku",
       "category": "gaming",
       "publishedAt": "2026-07-21T16:02:01.000Z"
-    },
-    {
-      "id": "rss-72e05314a44f",
-      "title": "France Is Poised to Restrict Social Media for Children",
-      "description": "Its new law, which would be the first of its kind enacted by a European country, would ban access to some accounts for anyone under 15.",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-france-social-hclw/21int-france-social-hclw-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T16:01:59.000Z"
     },
     {
       "id": "rss-e8b376b0b41a",
@@ -1973,16 +2933,6 @@
       "publishedAt": "2026-07-21T14:48:14.000Z"
     },
     {
-      "id": "rss-8ef3f870bfeb",
-      "title": "Democrats’ Top Senate Candidate in Maine Won’t Support Schumer for Leader",
-      "description": "Troy Jackson, who is set to become the party’s nominee, also said in an interview that he was not sure he wanted the support of Senator Chuck Schumer in the general election.",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/troy-jackson-schumer-maine-senate.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21pol-jackson-schumer-cjlm/21pol-jackson-schumer-cjlm-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T14:48:09.000Z"
-    },
-    {
       "id": "rss-0b28f918d7b7",
       "title": "The UK will legalize plug-in solar on August 27",
       "description": "The UK has finally set a date for the legalization of plug-in solar panels.",
@@ -2763,16 +3713,6 @@
       "publishedAt": "2026-07-21T13:32:01.000Z"
     },
     {
-      "id": "rss-bb0970a0d7d4",
-      "title": "A Family’s Daring Escape From North Korea",
-      "description": "Their resolve for freedom hardened during the pandemic, when they lived through a crippling food shortage and were forced to witness frequent public executions.",
-      "url": "https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html",
-      "image": "https://static01.nyt.com/images/2026/07/17/multimedia/00int-nkorea-escape-01-mtzk/00int-nkorea-escape-01-mtzk-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T13:31:22.000Z"
-    },
-    {
       "id": "rss-612bbb7193c6",
       "title": "Watch Spider-Man: Brand New Day Actor Sadie Sink Expertly Avoid The Jean Grey Question",
       "description": "Fans have been speculating that the Stranger Things actor may be playing one of the most powerful X-Men",
@@ -2921,16 +3861,6 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-21T13:11:44.000Z"
-    },
-    {
-      "id": "rss-d16d086c0907",
-      "title": "2026 SEC Media Days schedule, where to watch: When coaches, teams take stage during four-day kickoff event",
-      "description": "The rundown for the unofficial kickoff to SEC football season ahead of fall camp",
-      "url": "\n                                                https://www.cbssports.com/college-football/news/2026-sec-media-days-schedule-where-to-watch/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/15/fff1c04c-1d34-47c1-9629-62d5162464bc/sec-media-days-1.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-21T13:11:02.000Z"
     },
     {
       "id": "rss-07b169fdd3bd",
@@ -3983,6 +4913,16 @@
       "publishedAt": "2026-07-21T11:30:00.000Z"
     },
     {
+      "id": "rss-da6169b54c24",
+      "title": "‘We all failed’: Former Disney CEO Michael Eisner on Hollywood, video games and the big question of IP",
+      "description": "At a panel in New York, Eisner said he went from thinking sequels were overrated to the Lucasfilm masterstroke, before Disney \"overstepped its bounds.\"",
+      "url": "https://fortune.com/2026/07/21/michael-eisner-disney-hollywood-gaming-fifa-franchise/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/SA703764.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-21T11:30:00.000Z"
+    },
+    {
       "id": "rss-bfc99a94fc5c",
       "title": "Top 5 Bambu Lab Alternatives for High-Performance 3D Printing",
       "description": "",
@@ -4691,16 +5631,6 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-21T09:07:29.000Z"
-    },
-    {
-      "id": "rss-d75463bb50f3",
-      "title": "‘Too Rare to Care’? A New Center for Rare Diseases Hopes to Change That",
-      "description": "A new nonprofit wants to streamline gene therapy for diseases often avoided by pharmaceutical companies — making treatment more like a routine procedure than a bespoke drug.",
-      "url": "https://www.nytimes.com/2026/07/21/health/gene-therapy-rare-diseases-epilepsy.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21sci-gene-therapy-promo-vqpw/21sci-gene-therapy-promo-vqpw-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "health",
-      "publishedAt": "2026-07-21T09:03:33.000Z"
     },
     {
       "id": "rss-dfa8489be4b9",
@@ -6709,7 +7639,7 @@
       "url": "https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html",
       "image": "https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X-v2.jpg",
       "source": "New York Times",
-      "category": "health",
+      "category": "trending",
       "publishedAt": "2026-07-20T19:07:44.000Z"
     },
     {
@@ -9831,16 +10761,6 @@
       "source": "MIT AI News",
       "category": "ai",
       "publishedAt": "2026-07-14T20:25:00.000Z"
-    },
-    {
-      "id": "rss-1f6625826bf1",
-      "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
-      "description": "MIT students designed, built, and tested a jet engine with AI copilots, assessing AI’s usefulness in developing high-performance aerospace systems.",
-      "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/jarvis-competition-fired-engine-00.jpg?itok=fB5FluyQ",
-      "source": "MIT AI News",
-      "category": "ai",
-      "publishedAt": "2026-07-14T18:00:00.000Z"
     }
   ]
 }
