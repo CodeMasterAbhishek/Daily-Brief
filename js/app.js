@@ -42,7 +42,7 @@ themeToggle.addEventListener('click', () => {
 
 // Pagination State
 let allArticles = [];
-let currentCategory = 'all';
+let currentCategory = sessionStorage.getItem('currentCategory') || 'all';
 const ITEMS_PER_PAGE = 30;
 let currentPage = 1;
 
@@ -50,6 +50,12 @@ const paginationSection = document.getElementById('pagination');
 
 // Main Initialization
 async function init() {
+    // Restore active state to the correct chip on page load
+    const filterChips = document.querySelectorAll('.chip');
+    filterChips.forEach(c => c.classList.remove('active'));
+    const activeChip = document.querySelector(`.chip[data-category="${currentCategory}"]`);
+    if (activeChip) activeChip.classList.add('active');
+
     try {
         allArticles = await fetchNewsData();
         
@@ -98,6 +104,7 @@ filterChips.forEach(chip => {
         
         // Filter the UI and reset pagination
         currentCategory = e.target.dataset.category;
+        sessionStorage.setItem('currentCategory', currentCategory);
         currentPage = 1;
         renderPage(false); // don't append, replace
     });
