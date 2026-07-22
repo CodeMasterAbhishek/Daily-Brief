@@ -1,7 +1,327 @@
 {
-  "lastUpdated": "2026-07-22T04:25:01.212Z",
-  "count": 1318,
+  "lastUpdated": "2026-07-22T07:10:44.464Z",
+  "count": 1350,
   "articles": [
+    {
+      "id": "rss-212f574f1e74",
+      "title": "Semantic Routing Protocol: How AI Agents Are Starting to Talk to Each Other Directly (Not Through…",
+      "description": "You’ve built an AI agent that works perfectly in development.\nContinue reading on Towards AI »",
+      "url": "https://pub.towardsai.net/semantic-routing-protocol-how-ai-agents-are-starting-to-talk-to-each-other-directly-not-through-1fa64c7a8d24?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*eY_SSMy5JDEJLgfnWpFMRA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T07:04:08.000Z"
+    },
+    {
+      "id": "rss-708cff444d95",
+      "title": "A Field Guide to My Data Science Internship at Zepto",
+      "description": "🎙️ The Observer’s Log: Entry #01\n“We arrive at the bustling, hyper velocity habitat known as Zepto.\nContinue reading on Zepto TechXPress »",
+      "url": "https://blog.zepto.com/a-field-guide-to-my-data-science-internship-at-zepto-1cf0ea7ae928?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1050/0*WhfNq7cfyVMByVb4.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T07:03:44.000Z"
+    },
+    {
+      "id": "rss-defde463362f",
+      "title": "The Rule I Set for Myself: The Stage Gate",
+      "description": "The Engineer’s Journey: Part nine of a series on building a real-world AI system from scratch.\nContinue reading on Medium »",
+      "url": "https://medium.com/@mjmoughtin/the-rule-i-set-for-myself-the-stage-gate-f952f5bdbb25?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1535/1*18lR7xqM0Cqe9CH6chmBuQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T07:01:04.000Z"
+    },
+    {
+      "id": "rss-9bdb9be3d8e1",
+      "title": "Star Trek: Strange New Worlds season 4 review: Gimmicks over character development",
+      "description": "Star Trek: Strange New Worlds continues to deliver some standout moments in season 4, but it too often driven by tropes rather than story",
+      "url": "https://www.polygon.com/star-trek-strange-new-worlds-season-4-review/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/snw_403_jt_0320_2147_rt.JPG",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T07:00:12.000Z"
+    },
+    {
+      "id": "rss-055f807ab35a",
+      "title": "The RAM “Shortage” of 2026 Isn’t a Shortage.",
+      "description": "The same three companies that make your memory also make the AI industry’s memory. Guess which customer they stopped prioritizing.\nContinue reading on Medium »",
+      "url": "https://medium.com/@marryy1515m/the-ram-shortage-of-2026-isnt-a-shortage-fde6af58b3c1?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*XQ6tCjPeuSraKh-n",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:59:23.000Z"
+    },
+    {
+      "id": "rss-ca37d9fac5b5",
+      "title": "Will AI Replace the Data Analyst?",
+      "description": "Every time a new foundation model drops or an autonomous data agent is showcased on tech Twitter, a collective shiver runs through the…\nContinue reading on Medium »",
+      "url": "https://medium.com/@indiaslaconsultants/will-ai-replace-the-data-analyst-fdb44a1d6b0e?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2560/1*HHe-gG5XmHFbc72d5e47NQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:56:18.000Z"
+    },
+    {
+      "id": "rss-543346a07943",
+      "title": "Engineering Management: The Smallest Trade Route You’ll Ever Run",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@aludanyi/engineering-management-the-smallest-trade-route-youll-ever-run-4cf58fcc5179?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*vpxkzdZxn80kisebwbIjLA@2x.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:55:11.000Z"
+    },
+    {
+      "id": "rss-8739eafa7bc0",
+      "title": "Why Better Data Beats Bigger Models in Real-World AI Projects",
+      "description": "Most AI discussions revolve around one question:\nContinue reading on Medium »",
+      "url": "https://medium.com/@stalin.samuel/why-better-data-beats-bigger-models-in-real-world-ai-projects-02b42e64e313?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*3CDsidAeBL0HmhswCKgMLg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:54:16.000Z"
+    },
+    {
+      "id": "rss-0327b2ded4f2",
+      "title": "Clasificando sentimientos en reseñas de películas: lo que Naive Bayes sí ve, y lo que se le escapa",
+      "description": "Cuando pensamos en clasificación de sentimientos, es fácil imaginar que el modelo “entiende” si una reseña es positiva o negativa. En este…\nContinue reading on Medium »",
+      "url": "https://medium.com/@gysel.medina.cosio/clasificando-sentimientos-en-rese%C3%B1as-de-pel%C3%ADculas-lo-que-naive-bayes-s%C3%AD-ve-y-lo-que-se-le-escapa-db328de7959a?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/738/0*TDIQBYl3cmDr6xE6",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:53:44.000Z"
+    },
+    {
+      "id": "rss-ef8f6df05db2",
+      "title": "Your Design Tools Just Got a Model Picker — And That Changes How You Work",
+      "description": "The frontier-model race usually reads like sports scores — bigger benchmarks, cheaper tokens, another Thursday launch. But this week the…\nContinue reading on Medium »",
+      "url": "https://medium.com/@sivakowsik/your-design-tools-just-got-a-model-picker-and-that-changes-how-you-work-f6009aeae2a4?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*GIMDIHkK27_KxrDGwdvU-g.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:52:39.000Z"
+    },
+    {
+      "id": "rss-c8b84e6b5608",
+      "title": "The Question You Delete Before the Interview",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@reclaimingdignitygmailcom/the-question-you-delete-before-the-interview-43be48129a14?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*LGd8GEuVIe03IoNmEUrHkQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:52:15.000Z"
+    },
+    {
+      "id": "rss-543b51104e00",
+      "title": "Why AI Tools Confidently Give Wrong Answers (And How You Can Spot Them)",
+      "description": "A simple guide to understanding AI hallucination — and a checklist you can use before trusting any AI answer.\nContinue reading on Medium »",
+      "url": "https://medium.com/@garimakansal22/why-ai-tools-confidently-give-wrong-answers-and-how-you-can-spot-them-72c9db82b5a7?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*V9V89-t59lhnOa0Ftsy_eQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:51:11.000Z"
+    },
+    {
+      "id": "rss-d41e56845154",
+      "title": "AI Knowledge Systems for Biotech Manufacturing Operations",
+      "description": "The amount of knowledge needed to run a biotech manufacturing facility is almost unquantifiable. Each production run, quality check…\nContinue reading on Medium »",
+      "url": "https://medium.com/@venkatprasadvadla/ai-knowledge-systems-for-biotech-manufacturing-operations-624d9f3b51e8?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*9LXmYda3oZ-vSZP75fkZiA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:44:51.000Z"
+    },
+    {
+      "id": "rss-8298fc0ea288",
+      "title": "What is AI-powered email segmentation?",
+      "description": "AI-powered email segmentation is the use of artificial intelligence to automatically group email subscribers based on their behavior…\nContinue reading on Medium »",
+      "url": "https://medium.com/@sharetonschool/what-is-ai-powered-email-segmentation-8a668b2c752e?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*LVEndV8Kz85Q6aN7wVCDgw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:43:53.000Z"
+    },
+    {
+      "id": "rss-ecf55bd57aad",
+      "title": "The Day the Machine Accepted Imperfection",
+      "description": "Wisdom isn’t eliminating mistakes. It’s learning which mistakes are worth making.\nContinue reading on Medium »",
+      "url": "https://medium.com/@vishwash.patidar.2003/the-day-the-machine-accepted-imperfection-0f4b412c90b3?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*IybefCB5eoedxIRNSVBWpA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:42:23.000Z"
+    },
+    {
+      "id": "rss-50d9771a0ba5",
+      "title": "What Happens When AI Meets Agriculture?",
+      "description": "How machine learning helps farmers catch disease early, predict harvests, save water, and stay ahead of pests\nContinue reading on Artificial Intelligence in Plain English »",
+      "url": "https://ai.plainenglish.io/what-happens-when-ai-meets-agriculture-4559be4b45a4?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*xGDXJIcLbl5aJ3IxROA3wQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:41:49.000Z"
+    },
+    {
+      "id": "rss-c25326533490",
+      "title": "Crypto Prices Today: Bitcoin Climbs Above $66,000 as ETF Inflows Extend to Five Sessions Ahead of Fed Meeting",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-climbs-above-66000-as-etf-inflows-extend-to-five-sessions-ahead-of-fed-meeting",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/rljojrdg/Crypto-Prices-Today-Bitcoin-Climbs-Above-66000-as-ETF-Inflows-Extend-to-Five-Sessions-Ahead-of-Fed-Meeting.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:37:26.000Z"
+    },
+    {
+      "id": "rss-334ca0ac2fe0",
+      "title": "Looking for a Web Development Partner? These Indian Companies Lead the Market",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/tech-news/looking-for-a-web-development-partner-these-indian-companies-lead-the-market",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/rigutnaa/Looking-for-a-Web-Development-Partner-These-Indian-Companies-Lead-the-Market.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:30:00.000Z"
+    },
+    {
+      "id": "rss-583bd47a8f4f",
+      "title": "DHS issues $84B in fines to illegal immigrants under Trump administration",
+      "description": "DHS has issued 103,000 civil fines totaling roughly $84 billion to illegal immigrants since Trump took office, collecting $1.2 billion in payments.",
+      "url": "https://www.foxnews.com/politics/dhs-issues-84-billion-fines-illegal-immigrants-under-trump-administration",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/trump-debuts-america-is-back-hat.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T06:29:43.000Z"
+    },
+    {
+      "id": "rss-8b2cba2d49cc",
+      "title": "Trump’s Generic Drug Tariffs May Hit India’s Pharma Exports Hard",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/trumps-generic-drug-tariffs-may-hit-indias-pharma-exports-hard",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/p3as2ap0/Trump-Announces-Upto-200-Tariffs-On-Generic-Drugs-Move-May-Impact-India.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T06:29:05.000Z"
+    },
+    {
+      "id": "rss-39af62c3a677",
+      "title": "State of play: Dems battle for shot at crucial Arizona House seat amid GOP's razor-thin majority",
+      "description": "Amish Shah and Marlene Galán-Woods are locked in a tight Arizona 1st congressional district primary rematch that could decide House control.",
+      "url": "https://www.foxnews.com/politics/state-play-democrats-battle-shot-crucial-arizona-house-seat-gops-razor-thin-majority",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/rep-amish-shah.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T06:03:26.000Z"
+    },
+    {
+      "id": "rss-3c1c9004ca37",
+      "title": "Top News Today: Nvidia's Vera CPU, Balance Coin Crash, Climate Tech Funding & More",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/top-news-today-nvidias-vera-cpu-balance-coin-crash-climate-tech-funding-more",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/6uvpkyoz/Top-News-Today-Nvidias-Vera-CPU-Balance-Coin-Crash-Climate-Tech-Funding-More.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T05:57:11.000Z"
+    },
+    {
+      "id": "rss-1524f8c79f9b",
+      "title": "6 Takeaways From Arizona’s Tense, Trump-Dominated Primaries",
+      "description": "Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21pol-arizona-takeaways-tbvj/21pol-arizona-takeaways-tbvj-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T05:49:06.000Z"
+    },
+    {
+      "id": "rss-990e049cf480",
+      "title": "Best 350cc Motorcycles for Long Rides in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/photo/best-350cc-motorcycles-for-long-rides-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/0tiv5hzn/Best-350cc-Motorcycles-for-Long-Rides-in-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T05:45:28.000Z"
+    },
+    {
+      "id": "rss-7fbc83d07b4e",
+      "title": "How to Grow Your X (Twitter) Followers Organically in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/tech-news/how-to-grow-your-x-twitter-followers-organically-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/6c9vq7ej/How-to-Grow-Your-X-Twitter-Followers-Organically-in-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T05:32:44.000Z"
+    },
+    {
+      "id": "rss-ff2001842943",
+      "title": "Gold Price Today: Gold Climbs 1.07% to Rs. 1,44,408 on MCX as Brent Crude Advances 1.20% to $92.10",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/gold-price-today-gold-climbs-107-to-rs-144408-on-mcx-as-brent-crude-advances-120-to-9210",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/am3jao8z/Gold-Price-Today-Gold-Climbs-1.07-to-Rs.-144408-on-MCX-as-Brent-Crude-Advances-1.20-to-92.10.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T05:30:16.000Z"
+    },
+    {
+      "id": "rss-eb6321fc39f8",
+      "title": "Stock Market Update: Nifty 50 Opens 0.15% Lower, Sensex Falls 210 points Amid Ongoing Geopolitical Tensions",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/stock-market-update-nifty-50-opens-015-lower-sensex-falls-210-points-amid-ongoing-geopolitical-tensions",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/j5r9ynou/Stock-Market-Update-Nifty-50-Opens-0.15-Lower-Sensex-Falls-210-points-Amid-Ongoing-Geopolitical-Tensions.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T05:12:31.000Z"
+    },
+    {
+      "id": "rss-52d770863520",
+      "title": "PAX Aus 2026 Guest Lineup Includes Former WWE superstar Austin Creed, Doom Composer Mick Gordon, and More",
+      "description": "The only thing they fear is you. And Mick Gordon’s guitar, probably.",
+      "url": "https://www.ign.com/articles/pax-aus-2026-guest-lineup-includes-former-wwe-superstar-austin-creed-doom-composer-mick-gordon-and-more",
+      "image": "https://assets-prd.ignimgs.com/2026/07/22/pax-2026-guests-1280-1784696514946.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T05:02:16.000Z"
+    },
+    {
+      "id": "rss-0892bc0156bd",
+      "title": "Smart Budgeting Apps Worth Trying",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/apps/smart-budgeting-apps-worth-trying",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/fbd1ad0q/Smart-Budgeting-Apps-Worth-Trying.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T04:44:26.000Z"
+    },
+    {
+      "id": "rss-042e1b29bdd1",
+      "title": "Wreckreation 2 Announced Despite Studio Closure, Just Nine Months After the Original Arrived",
+      "description": "Former Burnout boss Fiona Sperry has established a new studio to develop the sequel.",
+      "url": "https://www.ign.com/articles/wreckreation-2-announced-despite-studio-closure-just-nine-months-after-the-original-arrived",
+      "image": "https://assets-prd.ignimgs.com/2026/07/22/wreckreation-2-1280-1784693073739.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T04:39:26.000Z"
+    },
+    {
+      "id": "rss-3e7f0ff14f7e",
+      "title": "OpenAI's models broke containment and cyberattacked Hugging Face — what enterprises need to know",
+      "description": "Yesterday afternoon, OpenAI and Hugging Face published a joint disclosure outlining a cybersecurity event that redefines the threat landscape for enterprise technology. \nDuring an internal benchmark e",
+      "url": "https://venturebeat.com/security/openais-models-broke-containment-and-cyberattacked-hugging-face-what-enterprises-need-to-know",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5T1jRqO0ZcT7MeHaDY07CQ/2c7374c1edee4f3292307be027060455/exec-f6451c12-50a2-4f4b-97f1-5f2bc5c59fed.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "technology",
+      "publishedAt": "2026-07-22T04:39:00.000Z"
+    },
+    {
+      "id": "rss-5be753b8b1ca",
+      "title": "Companies that Built Their Tech Stack with Python",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/programming/companies-that-built-their-tech-stack-with-python",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/43byinee/Companies-That-Built-Their-Tech-Stack-With-Python.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T04:30:00.000Z"
+    },
     {
       "id": "rss-2f8109f0cdb7",
       "title": "Copyright Law Is the New Competitive Moat?",
@@ -60,7 +380,7 @@
       "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21MET-MAMDANI-NETANYAHU-jmlt/21MET-MAMDANI-NETANYAHU-jmlt-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-22T03:49:07.000Z"
+      "publishedAt": "2026-07-22T03:49:08.000Z"
     },
     {
       "id": "rss-afb78dfe1941",
@@ -231,6 +551,16 @@
       "source": "Fox News Politics",
       "category": "politics",
       "publishedAt": "2026-07-22T03:10:57.000Z"
+    },
+    {
+      "id": "rss-51189526a4b3",
+      "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+      "description": "Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+      "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html",
+      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/META-AI-1-06-jgcb/META-AI-1-06-jgcb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T03:10:17.000Z"
     },
     {
       "id": "rss-8e08952446ee",
@@ -1211,6 +1541,16 @@
       "source": "Kotaku",
       "category": "gaming",
       "publishedAt": "2026-07-21T21:58:24.000Z"
+    },
+    {
+      "id": "rss-c65b449eef58",
+      "title": "Meet Jimothy, the Seattle Raccoon Who Is Taking Over the Internet",
+      "description": "The stout raccoon, which has a spinal condition, is “an example to all of us that you don’t have to be perfect to be loved,” a Seattle City Council member said.",
+      "url": "https://www.nytimes.com/2026/07/21/style/jimothy-raccoon-seattle-videos.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/fashion/21JIMOTHY/21JIMOTHY-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T21:52:56.000Z"
     },
     {
       "id": "rss-87baadd90818",
@@ -2416,7 +2756,7 @@
       "id": "rss-27adb5f9d88c",
       "title": "Best Wireless Keyboards in 2026: Ultimate Buying Guide",
       "description": "",
-      "url": "https://www.analyticsinsight.net/gadgets/best-wireless-keyboards-in-2026-ultimate-buying-guide",
+      "url": "https://www.analyticsinsight.net/gadgets/buying-guides/best-wireless-keyboards-in-2026-ultimate-buying-guide",
       "image": "https://media.assettype.com/analyticsinsight/2026-07-21/y633lylc/Best-Wireless-Keyboards-in-2026-Ultimate-Buying-Guide-1.jpg",
       "source": "Analytics Insight",
       "category": "ai",
@@ -4231,16 +4571,6 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-21T16:46:11.000Z"
-    },
-    {
-      "id": "rss-51189526a4b3",
-      "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
-      "description": "Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
-      "url": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html",
-      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/META-AI-1-06-jgcb/META-AI-1-06-jgcb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T16:46:01.000Z"
     },
     {
       "id": "rss-d33542811e68",
@@ -13171,16 +13501,6 @@
       "source": "NVIDIA AI Blog",
       "category": "ai",
       "publishedAt": "2026-07-15T10:51:37.000Z"
-    },
-    {
-      "id": "rss-ff9e5574fa66",
-      "title": "A moment that changed me: I started yoga – and saw my scoliosis in a surprising new light",
-      "description": "As a teenager I declined a painful operation to straighten my spinal curvature, and it was a decision I sometimes regretted. But through daily stretching and exercise, my relationship with my body was",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/15/a-moment-that-changed-me-i-started-yoga-and-saw-my-scoliosis-in-a-surprising-new-light",
-      "image": "https://i.guim.co.uk/img/media/e8546079fcb1d0e900103825f300a5f4f37ed4c9/0_835_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=6cd82683e50dd394d9ef0a9642c67ae2",
-      "source": "The Guardian Health",
-      "category": "health",
-      "publishedAt": "2026-07-15T05:45:46.000Z"
     }
   ]
 }
