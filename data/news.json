@@ -1,7 +1,587 @@
 {
-  "lastUpdated": "2026-07-22T09:59:34.639Z",
-  "count": 1408,
+  "lastUpdated": "2026-07-22T11:57:01.614Z",
+  "count": 1465,
   "articles": [
+    {
+      "id": "rss-82556b0caa45",
+      "title": "Expected U.S.-Saudi Nuclear Deal Fuels Israeli Concerns of Regional Arms Race",
+      "description": "An Israeli minister sought to downplay the deal, but critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
+      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-reax-Israel-saudi-tpfk/22int-reax-Israel-saudi-tpfk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T11:55:35.000Z"
+    },
+    {
+      "id": "rss-8644154ae0ec",
+      "title": "AgriScore: An Explainable AI Credit Scoring System for Smallholder Farmers",
+      "description": "Every year, millions of smallholder farmers struggle to access loans — not because they lack the ability to repay, but because they lack a…\nContinue reading on Medium »",
+      "url": "https://medium.com/@maurinechemutai818/agriscore-an-explainable-ai-credit-scoring-system-for-smallholder-farmers-91d649ca1e0c?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1728/1*-EfwcpvlzcDFge7rWQHoWQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:52:07.000Z"
+    },
+    {
+      "id": "rss-48518ae3df72",
+      "title": "The Sophistication Trap: Why the Smarter AI Technique Keeps Losing",
+      "description": "What a 2B model beating a 90B model and a JetBrains context-management study have in common — and what it means for how you should…\nContinue reading on Medium »",
+      "url": "https://medium.com/@durraniabdullah567/the-sophistication-trap-why-the-smarter-ai-technique-keeps-losing-c65057101f78?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*Qq3oo9XYG2NJ5r1HZumckQ.avif",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:47:47.000Z"
+    },
+    {
+      "id": "rss-0d30e9d87b88",
+      "title": "Not Just an Engineer, A Systems Thinker: Why ADAS Needs Cross-Disciplinary Minds",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/not-just-an-engineer-a-systems-thinker-why-adas-needs-cross-disciplinary-minds",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/p0788o8a/Gaurav-Baban-Pokharkar.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:46:09.000Z"
+    },
+    {
+      "id": "rss-6350568bc755",
+      "title": "Vanessa Marano to Produce and Star in Frontières Horror Comedy ‘Ring Leader’: ‘It’s ‘Bridesmaids’ Meets ‘Self Help’’ (EXCLUSIVE)",
+      "description": "Vanessa Marano, a prolific actor known for leading roles and guest turns in numerous notable TV series throughout the 2000s, will both produce and star in the bridal-party horror comedy “Ring Leader.”",
+      "url": "https://variety.com/2026/film/global/vanessa-marano-horror-comedy-ring-leader-frontieres-1236817810/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Vanessa-Marano-Headshot.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T11:45:00.000Z"
+    },
+    {
+      "id": "rss-0220b2dda88a",
+      "title": "How to actually test if your LLM app is working",
+      "description": "TL;DR\nContinue reading on Medium »",
+      "url": "https://medium.com/@okoliryan50/how-to-actually-test-if-your-llm-app-is-working-100512d4f856?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2000/0*oQG-4MtVjUr2bTfv.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:44:44.000Z"
+    },
+    {
+      "id": "rss-19c40e27cdfa",
+      "title": "Why Most AI Products Fail (And How to Build One That Succeeds in 2026)",
+      "description": "Every week, another company announces an AI-powered product.\nContinue reading on Evangelist Apps Blog »",
+      "url": "https://medium.com/evangelist-apps/why-most-ai-products-fail-and-how-to-build-one-that-succeeds-in-2026-dbb1278c6203?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*zXz7dofx4m4YLmVGIxA83w.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:44:43.000Z"
+    },
+    {
+      "id": "rss-6af85e02ae6c",
+      "title": "HEMN Technologies",
+      "description": "Most Businesses Are Trying to Adapt to AI. We Think That’s Backwards.\nContinue reading on Medium »",
+      "url": "https://medium.com/@skkjuniorofficial/hemn-technologies-c3261dd7af29?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*_v07Qoe3Y-vnIWoUrTvQHw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:44:18.000Z"
+    },
+    {
+      "id": "rss-b43e6051576b",
+      "title": "Find the GPU Built for Your Workload",
+      "description": "Theta EdgeCloud runs enterprise GPUs that genuinely earn their place for the most ambitious workloads. But not every job needs top-end…\nContinue reading on Theta Network »",
+      "url": "https://medium.com/theta-network/find-the-gpu-built-for-your-workload-4b48ceb19ddd?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1287/1*13Si-2DGjWn9VWySRgiMdQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:43:32.000Z"
+    },
+    {
+      "id": "rss-c05a4d160fdf",
+      "title": "Ukraine’s New Military Chief Faces a Monumental Test",
+      "description": "Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy.",
+      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-ukraine-military-assess-cmkv/22int-ukraine-military-assess-cmkv-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T11:43:04.000Z"
+    },
+    {
+      "id": "rss-b2ee1540496c",
+      "title": "iPhone 18 Pro reportedly enters mass production ahead of September launch",
+      "description": "A supply chain report says that the iPhone 18 Pro and Pro Max models have now entered mass production ahead of their launch in September.\nAssembly partner Foxconn is said to be offering significant bo",
+      "url": "https://9to5mac.com/2026/07/22/iphone-18-pro-reportedly-enters-mass-production-ahead-of-september-launch/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iphone-18-pro-pro-max-mockup-di.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-22T11:42:08.000Z"
+    },
+    {
+      "id": "rss-10bfd2bca5e1",
+      "title": "Why AI Sometimes Gives Great Answers to the Wrong Question",
+      "description": "A detailed response isn’t always a useful response.\nContinue reading on Medium »",
+      "url": "https://medium.com/@guntarajanuar1/why-ai-sometimes-gives-great-answers-to-the-wrong-question-a5bd67ad4429?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*8Nx5DZ_A8G7x45oqsEU7pw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:42:06.000Z"
+    },
+    {
+      "id": "rss-f392b7fa2783",
+      "title": "Which AI Companions Actually Remember You? The Memory Problem, Explained",
+      "description": "If you have used an AI companion for more than a week, you know the frustration: you build a real rapport, share details that matter, and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@bernardaisolutions/which-ai-companions-actually-remember-you-the-memory-problem-explained-98b7f485850f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1500/1*PGOfq_YxqYAUDByjuEhNNQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:41:28.000Z"
+    },
+    {
+      "id": "rss-3750d56ec9b4",
+      "title": "Claude Opus 4.1 vs Sonnet 4 vs Haiku: Which Model Should Developers Actually Use?",
+      "description": "Choosing the right Claude model is less about finding the smartest AI — and more about solving the right problem.\nContinue reading on Medium »",
+      "url": "https://noncodersuccess.medium.com/claude-opus-4-1-vs-sonnet-4-vs-haiku-which-model-should-developers-actually-use-ad8db667e8d8?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*p0mNCh5CSFTUE1gCeDMuoA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:40:25.000Z"
+    },
+    {
+      "id": "rss-9f64f8b72868",
+      "title": "PaddleOCR-VL with vLLM: A Complete Performance Benchmark (76× Faster)",
+      "description": "I Ran PaddleOCR-VL on vLLM — and the 273s/page Became 3.6s\nContinue reading on Medium »",
+      "url": "https://adityamangal98.medium.com/paddleocr-vl-with-vllm-a-complete-performance-benchmark-76-faster-2d1ddad90365?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*Y00V-4oY68Q-SGAeUV_Rvg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:39:39.000Z"
+    },
+    {
+      "id": "rss-8ad8d2c75b31",
+      "title": "Best AI Tools for SEO (2026): 20 AI SEO Tools to Boost Rankings & Organic Traffic",
+      "description": "SEO is changing faster than ever, and AI is becoming an essential part of every successful SEO strategy. In this article, I review 20 of…\nContinue reading on Medium »",
+      "url": "https://medium.com/@rashidahmedtahir/best-ai-tools-for-seo-2026-20-ai-seo-tools-to-boost-rankings-organic-traffic-679b0b93591f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*0eSr43y0Gva6VzrkSacmUQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:37:33.000Z"
+    },
+    {
+      "id": "rss-68544411e039",
+      "title": "How Developers Are Using AI to Debug Faster and Keep Documentation Up to Date",
+      "description": "Using AI to Speed Up Debugging and Documentation\nContinue reading on Medium »",
+      "url": "https://medium.com/@harristarstech/how-developers-are-using-ai-to-debug-faster-and-keep-documentation-up-to-date-5eb9bc3d4d7b?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*Su-JzQL1PLPxj5sa7PjfEQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:37:31.000Z"
+    },
+    {
+      "id": "rss-c581e1db33da",
+      "title": "Spider-Man Producer Hopes Tom Holland Sticks Around in His Role 'Forever' — Even Though He's Already Discussed Handing Over the Marvel Character to a Younger Star",
+      "description": "Veteran Spider-Man producer Amy Pascal has said she hopes Tom Holland will play the role \"forever\" — despite the actor having already discussed handing over the part to a younger star.",
+      "url": "https://www.ign.com/articles/spider-man-producer-hopes-tom-holland-sticks-around-in-his-role-forever-even-though-hes-already-discussed-handing-over-the-marvel-character-to-a-younger-star",
+      "image": "https://assets-prd.ignimgs.com/2026/07/22/gettyimages-2286375413-1784719480859.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:34:36.000Z"
+    },
+    {
+      "id": "rss-27cfe7737f9f",
+      "title": "Why Fresh Graduates Should Join a Data Science Course in Hyderabad",
+      "description": "As the pace of renewal in the global workplace continues to accelerate, a new generation of technologies including artificial intelligence…\nContinue reading on Medium »",
+      "url": "https://medium.com/@supriyadasari899/why-fresh-graduates-should-join-a-data-science-course-in-hyderabad-ab30baa5f2b9?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1731/1*6SzoKen0EkREeI5ZZ-EqZA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:33:02.000Z"
+    },
+    {
+      "id": "rss-2e4dfb8e5db2",
+      "title": "OpenAI's models hacked Hugging Face to cheat their own benchmark.",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@monkfromearth/openai-hugging-face-breach-d646bbdaf50f?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1129/0*wsslWvAaCyoUbZYr",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:30:47.000Z"
+    },
+    {
+      "id": "rss-9fc05ad83456",
+      "title": "Introduction to Machine Intelligence",
+      "description": "Stop Memorizing AI, ML, and Deep Learning\nContinue reading on Medium »",
+      "url": "https://openshantanu.medium.com/introduction-to-machine-intelligence-546e0781da44?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*jzqh_b7flpDU8GQc",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:30:45.000Z"
+    },
+    {
+      "id": "rss-77bcf9a65b7e",
+      "title": "BAFTA Tweaks Film Awards Rules, Expands Outstanding British Film Longlist and Updates AI Guidance",
+      "description": "The British Academy has unveiled new changes to its film awards eligibility and voting rules going into the 2027 awards, which are small tweaks compared to the substantial edits recently made by AMPAS",
+      "url": "https://variety.com/2026/film/awards/bafta-tweaks-film-awards-rules-updates-ai-guidance-1236817925/",
+      "image": "https://variety.com/wp-content/uploads/2025/05/bafta-award-placeholder.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T11:30:28.000Z"
+    },
+    {
+      "id": "rss-7ce3fda914b4",
+      "title": "XRP Rallies as Whale Accumulation, Clarity Act Hopes Lift Demand",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/xrp-rallies-as-whale-accumulation-clarity-act-hopes-lift-demand",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/r9vtfbfj/XRP-Rallies-as-Whale-Accumulation-Clarity-Act-Hopes-Lift-Demand.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:30:00.000Z"
+    },
+    {
+      "id": "rss-bf901dec6f83",
+      "title": "Decision Tree",
+      "description": "Decision Trees are one of the easiest algorithms to visualize because they work like nested if–else conditions.\nContinue reading on Medium »",
+      "url": "https://medium.com/@ankitamohanty1919191/decision-tree-39902a45776b?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/0*-Bc9jew7_9c8ci6z",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:21:19.000Z"
+    },
+    {
+      "id": "rss-e733fe60b43a",
+      "title": "The reported Apple Upgrade program raises a very big concern",
+      "description": "A Bloomberg report yesterday suggested that Apple is about to launch a new Apple Upgrade leasing contract to replace the iPhone Upgrade Program.\nThere appear to be two significant differences between ",
+      "url": "https://9to5mac.com/2026/07/22/the-reported-apple-upgrade-program-raises-a-very-big-concern/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/The-reported-Apple-Upgrade-program-raises-a-very-big-concern.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-22T11:19:45.000Z"
+    },
+    {
+      "id": "rss-2e0ccc227a44",
+      "title": "Count Binface Is Making A Campaign Promise That Every Sega Fan Can Get Behind",
+      "description": "The campaign season is heating up, and by now, you're probably used to politicians making grand promises that won't be fulfilled. Across the pond in England, at least one \"independent space warrior\" i",
+      "url": "https://www.gamespot.com/articles/count-binface-is-making-a-campaign-promise-that-every-sega-fan-can-get-behind/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Binface-2.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:18:41.000Z"
+    },
+    {
+      "id": "rss-49a5da077e62",
+      "title": "Foxconn Ramps Up Hiring as iPhone 18 Pro Enters Mass Production",
+      "description": "Apple's iPhone 18 Pro models have entered mass production and are now in a production ramp-up phase, according to China Securities News.\r\n\r\n\r\nIn a new report citing industry chain sources (via MyDrive",
+      "url": "https://www.macrumors.com/2026/07/22/iphone-18-pro-enters-mass-production/",
+      "image": "https://images.macrumors.com/article-new/2026/01/Dynamic-Island-iPhone-18-Pro-Feature.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-22T11:16:33.000Z"
+    },
+    {
+      "id": "rss-a227c84d5fa9",
+      "title": "The best place to see the Odyssey is at your local theater",
+      "description": "Christopher Nolan's The Odyssey is offered in many premium formats, including IMAX 70mm. But don't let FOMO spoil a great experience for everyone",
+      "url": "https://www.polygon.com/the-odyssey-imax-70mm-premium-formats-local-theater/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/the-odyssey-6.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:13:57.000Z"
+    },
+    {
+      "id": "rss-9cfb6b934091",
+      "title": "Total War: Warhammer 40,000 Named Character List Swells With Another Ork Warboss — and a Hint at How They Will Work in the Game",
+      "description": "Games Workshop has confirmed that Ork Warboss Nazdreg Ug Urdgrub is not only getting a new miniature for the Warhammer 40,000 tabletop game, but that he’s also in Creative Assembly’s upcoming strategy",
+      "url": "https://www.ign.com/articles/total-war-warhammer-40000-named-character-list-swells-with-another-ork-warboss-and-a-hint-at-how-they-will-work-in-the-game",
+      "image": "https://assets-prd.ignimgs.com/2026/07/22/image5-3uhgo3xrfv-1784718463088.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:11:54.000Z"
+    },
+    {
+      "id": "rss-8ad9ef2eec32",
+      "title": "A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak",
+      "description": "In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands.",
+      "url": "https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/00int-mexico-cyclospora-promo/00int-mexico-cyclospora-bplz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T11:09:54.000Z"
+    },
+    {
+      "id": "rss-c677f975d77b",
+      "title": "Michelin-star chef reveals what's replacing hospital food Americans love to hate",
+      "description": "Chef Geoffrey Zakarian reveals how he overhauled Tampa General Hospital's menu on a budget while eliminating seed oils and sugar and improving patient health.",
+      "url": "https://www.foxnews.com/health/michelin-star-chef-reveals-whats-replacing-hospital-food-americans-love-hate",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/hospital-food-zakarian.jpg?ve=1&tl=1",
+      "source": "Fox News Health",
+      "category": "health",
+      "publishedAt": "2026-07-22T11:00:19.000Z"
+    },
+    {
+      "id": "rss-3a358fa57f4b",
+      "title": "Say goodbye to Tom Holland’s forgotten disaster thriller leaving free streaming very soon",
+      "description": "The Impossible was Tom Holland's first live-action debut and is also one of the most gripping disaster movies of all time.",
+      "url": "https://www.polygon.com/tom-holland-first-movie-the-impossible/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/21886395/DaTT_Unit_03797r.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T11:00:12.000Z"
+    },
+    {
+      "id": "rss-ca4921443e8c",
+      "title": "New report uncovers education groups' DEI push to shape how artificial intelligence is used in classrooms",
+      "description": "A report alleges top teachers unions are embedding DEI principles into AI guidance for classrooms through equity and algorithmic bias frameworks.",
+      "url": "https://www.foxnews.com/politics/report-uncovers-education-groups-dei-push-shape-artificial-intelligence-used-classrooms",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/AI-Classroom.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T11:00:01.000Z"
+    },
+    {
+      "id": "rss-84745b198cc8",
+      "title": "Meta made its own AI detection system. It should have just used Google’s",
+      "description": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge\t\n\nIIn March, Meta's Oversight Board called on the company to \"meet its public commitments an",
+      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Meta-Content-Seal-AI-detector.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-22T11:00:00.000Z"
+    },
+    {
+      "id": "rss-da2089ef9935",
+      "title": "The 2026 Honda Prelude is a marvel of hybrid technology",
+      "description": "When it comes to enthusiast-geared Honda hardware, the Civic Si, Civic Type R, and Acura NSX often come to mind first for their revvy VTEC (Honda's form of variable valve timing) engines and playful c",
+      "url": "https://www.theverge.com/transportation/968772/honda-prelude-hybrid-2026-review-specs-price",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/2026HondaPrelude_PeterNelson9.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-22T11:00:00.000Z"
+    },
+    {
+      "id": "rss-acd6077735fb",
+      "title": "9to5Mac Daily: July 22, 2026 – iOS 27 beta 4 and iOS 26.6 RC",
+      "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca",
+      "url": "https://9to5mac.com/2026/07/22/daily-july-22-2026/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-22T11:00:00.000Z"
+    },
+    {
+      "id": "rss-944f4284f8b7",
+      "title": "Google AI Certifications: Best Courses to Learn Artificial Intelligence",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/courses/google-ai-certifications-best-courses-to-learn-artificial-intelligence",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/3ex2b10r/Google-AI-Certifications-Best-Courses-to-Learn-Artificial-Intelligence.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T11:00:00.000Z"
+    },
+    {
+      "id": "rss-e9c146a1637c",
+      "title": "Tak Sakaguchi Joins Iko Uwais in ‘Pendekar: Warrior’ as Nemesis (EXCLUSIVE)",
+      "description": "Japanese cult action star Tak Sakaguchi has signed on to play the nemesis of Iko Uwais in “Pendekar: Warrior,” an upcoming martial-arts feature marking Sakaguchi’s first major screen role outside his ",
+      "url": "https://variety.com/2026/film/news/tak-sakaguchi-iko-uwais-pendekar-warrior-1236817923/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Iko-Uwais-Tak-Sakaguchi.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T10:58:32.000Z"
+    },
+    {
+      "id": "rss-59c3b0493bdd",
+      "title": "Bitcoin Price Trades Near $65,700 After Rejection at $66,921",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/bitcoin/bitcoin-price-trades-near-65700-after-rejection-at-66921",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/rszort4d/Bitcoin-Price-Analysis-7.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T10:48:40.000Z"
+    },
+    {
+      "id": "rss-7abc12251d0d",
+      "title": "Firing of Ukraine’s Top General Signals the End of an Era",
+      "description": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
+      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/world/22int-ukraine-syrskyi-profile-oonn/22int-ukraine-syrskyi-profile-oonn-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T10:46:16.000Z"
+    },
+    {
+      "id": "rss-775c1026b72c",
+      "title": "Catherine Zeta-Jones Revenge Thriller ‘Kill Jackie’ Acquired by AMC in the U.S.",
+      "description": "AMC Global Media has acquired the U.S. rights to Catherine Zeta-Jones’ upcoming revenge thriller series “Kill Jackie.” Starring and executive produced by Zeta-Jones and co-produced by Steel Springs Pi",
+      "url": "https://variety.com/2026/tv/global/catherine-zeta-jones-kill-jackie-acquired-amc-us-1236817910/",
+      "image": "https://variety.com/wp-content/uploads/2025/10/KillJackie_FIRST-LOOK_FINAL-.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T10:33:33.000Z"
+    },
+    {
+      "id": "rss-047c6bbd043e",
+      "title": "Big Tech’s Off-Book AI Spending Hits $1.65 Trillion: Report",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/big-techs-off-book-ai-spending-hits-165-trillion-report",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/mv98iemq/The-AI-Illusion-Big-Techs-Invisible-Debt-Surges-To-1.65-Trillion-On-Opaque-Funding.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T10:30:34.000Z"
+    },
+    {
+      "id": "rss-2d866c0fde10",
+      "title": "Hegseth turns tables on Dems as sparks fly during hearing clash: 'I put this on you'",
+      "description": "Secretary of War Pete Hegseth clashed with Democratic senators over Iran war strategy and military funding amid a record $1.5 trillion budget request.",
+      "url": "https://www.foxnews.com/politics/hegseth-turns-tables-dems-sparks-fly-hearing-clash",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/defense-hegseth-senate-committee-capitol-hill-04-30-2026-fox-news.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T10:30:28.000Z"
+    },
+    {
+      "id": "rss-89f3855b1b97",
+      "title": "Is the AI Investment Race Creating the Next Financial Bubble?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/is-the-ai-investment-race-creating-the-next-financial-bubble",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/qdifkc06/Is-the-AI-Investment-Race-Creating-the-Next-Financial-Bubble.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T10:30:00.000Z"
+    },
+    {
+      "id": "rss-dd74cabcf333",
+      "title": "AI world stunned by OpenAI model that secretly escaped secure environment and hacked into a rival company",
+      "description": "Everything you need to know before you reach the office this morning.",
+      "url": "https://fortune.com/2026/07/22/openai-model-secretly-escaped-hacked-into-hugging-face/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2197505310-e1784691174467.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T10:28:32.000Z"
+    },
+    {
+      "id": "rss-23612e02ec64",
+      "title": "Share Market Closing Bell: Sensex Falls, Nifty Slips Below 24,100 Amid Broad Sell-Off",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/share-market-closing-bell-sensex-falls-nifty-slips-below-24100-amid-broad-sell-off",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/qwsjff59/AI-Share-Market-Closing-Bell-Sensex-Falls-Nifty-Slips-Below-24100-Amid-Broad-Sell-Off-315-1.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T10:25:38.000Z"
+    },
+    {
+      "id": "rss-1d9c50e8cb70",
+      "title": "Starfield Modder is Trying to Make The Game's Spaceship Take-Offs as Seamless as Possible, But Admits Landings 'Probably Won't Ever Happen'",
+      "description": "A talented Starfield modder is working to improve one of the game's most disappointing features — its disjointed spaceship take-off and flight sequence.",
+      "url": "https://www.ign.com/articles/starfield-modder-is-trying-to-make-the-games-spaceship-take-offs-as-seamless-as-possible-but-admits-landings-probably-wont-ever-happen",
+      "image": "https://assets-prd.ignimgs.com/2026/04/14/ss-4887dc140a637684ddcfca518458668409f946dc-1920x1080-1776156916847.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T10:22:17.000Z"
+    },
+    {
+      "id": "rss-021296670d33",
+      "title": "Utility companies promise to spare us from AI’s energy bill",
+      "description": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn the face of backlash to concerns the AI boom will increase consu",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-22T10:12:13.000Z"
+    },
+    {
+      "id": "rss-891467d896d0",
+      "title": "Guillermo del Toro, Kim Novak, Ari Aster Lined Up for ‘The Fall,’ Investigating Hitchcock’s ‘Biggest Mystery’ – the Stunning ‘Vertigo’ Finale (EXCLUSIVE)",
+      "description": "Guillermo del Toro, Kim Novak, and Ari Aster are among several star “witnesses” already lined up for Alexandre O. Philippe’s two-parter doc feature “The Fall,” which is set to be unveiled July 22 at F",
+      "url": "https://variety.com/2026/film/global/vertigo-doc-alexandre-philippe-fantasia-frontieres-1236817584/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Alexandre-O.-Philippe.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T10:11:52.000Z"
+    },
+    {
+      "id": "rss-dc471b9e5443",
+      "title": "Meta Tests ‘StoryKit’; Aims to Create Personalised Tales for Children",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/meta-tests-storykit-aims-to-create-personalised-tales-for-children",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/f4nzeizp/Out-Of-Bedtime-Stories-Meta-Is-Testing-An-AI-App-To-Do-The-Job-For-You.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T10:10:40.000Z"
+    },
+    {
+      "id": "rss-0367c428c6a5",
+      "title": "Current price of oil as of July 22, 2026",
+      "description": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "url": "https://fortune.com/article/price-of-oil-07-22-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Price-of-Oil-July-22.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T10:05:08.000Z"
+    },
+    {
+      "id": "rss-f1c29b5cfd64",
+      "title": "GOP gov claims swing-state opponent's agenda carries $18B price tag in explosive report as key midterm nears",
+      "description": "Aaron Ford's policy proposals carry an estimated $18.1 billion price tag over four years, requiring billions in new taxes, a Lombardo report claims.",
+      "url": "https://www.foxnews.com/politics/gop-gov-claims-swing-state-opponents-agenda-carries-18b-price-tag-explosive-report-key-midterm-nears",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Aaron-Ford-2.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T10:00:47.000Z"
+    },
+    {
+      "id": "rss-e39495193989",
+      "title": "State Department rips revolutionary socialist Nicaraguan regime as far-left leader ends country's elections",
+      "description": "Daniel Ortega declared Nicaragua will never hold elections again, prompting the State Department to condemn the Murillo-Ortega dictatorship.",
+      "url": "https://www.foxnews.com/politics/state-department-rips-revolutionary-socialist-nicaraguan-regime-far-left-leader-ends-countrys-elections",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/daniel-ortega-revolution.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T10:00:24.000Z"
+    },
+    {
+      "id": "rss-93748468dff9",
+      "title": "Trump Reaches Contentious New Nuclear Deal, and A.I. Models Go Rogue",
+      "description": "Plus, what is a Jimothy?",
+      "url": "https://www.nytimes.com/2026/07/22/podcasts/the-headlines/trump-nuclear-deal-ai-model-rogue.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22theheadlines-saudi-lbhj/22theheadlines-saudi-lbhj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T10:00:07.000Z"
+    },
+    {
+      "id": "rss-d68ab15e41d3",
+      "title": "Venice Days Unveils Female-Centric Selection, Kicking Off With Lili Horvát’s ‘My Notes on Mars’ Starring Mackenzie Davis and Rupert Friend",
+      "description": "Hungarian filmmaker Lili Horvát’s first English-language feature, “My Notes on Mars,” starring Mackenzie Davis and Rupert Friend, will open the Venice Film Festival’s independently run Giornate Degli ",
+      "url": "https://variety.com/2026/film/festivals/venice-days-lineup-lili-horvat-my-notes-on-mars-open-1236817239/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/My-Notes-on-Mars.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "id": "rss-0e8c2eaf8436",
+      "title": "Metal spheres found in Australia show how little we still know about falling space debris, experts say",
+      "description": "The latest space debris incident in Australia shows just how much we still don't know about what happens to rockets and other debris when it falls from space.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/metal-spheres-found-in-australia-show-how-little-we-still-know-about-falling-space-debris-experts-say",
+      "image": "https://cdn.mos.cms.futurecdn.net/VJTPDjBRcoUBdVgVyNBM7J-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "id": "rss-443bc08f9641",
+      "title": "Diagnostic dilemma: 6-year-old develops life-threatening allergic reaction after blood transfusion",
+      "description": "A 6-year-old cancer patient was receiving a blood transfusion when he developed a potentially deadly allergic reaction.",
+      "url": "https://www.livescience.com/health/diagnostic-dilemma-6-year-old-develops-life-threatening-allergic-reaction-after-blood-transfusion",
+      "image": "https://cdn.mos.cms.futurecdn.net/pZmnFtVeMryEdn6qe2zjPP-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-22T10:00:00.000Z"
+    },
+    {
+      "id": "rss-5000c360fe03",
+      "title": "MEXC Appoints Robert MacDonald as Chief Compliance Officer to Lead Global Regulatory Strategy",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/mexc-appoints-robert-macdonald-as-chief-compliance-officer-to-lead-global-regulatory-strategy",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/ocqmcleg/MEXC-Appoints-Robert-MacDonald.png",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T10:00:00.000Z"
+    },
     {
       "id": "rss-925f1d159f3e",
       "title": "The Global Second-Hand Video Game Market Is Valued at $7.2 Billion, but Sony's Decision to Kill PlayStation Discs Threatens to Destroy It, Analysts Say",
@@ -11,6 +591,16 @@
       "source": "IGN",
       "category": "gaming",
       "publishedAt": "2026-07-22T09:51:47.000Z"
+    },
+    {
+      "id": "rss-8624111f316d",
+      "title": "Fantasy Baseball Injury Rankings: Top 50 IL stashes with Adley Rutschman, Max Meyer recently going down",
+      "description": "Fantasy baseball injury rankings: Rutschman nears return from the IL",
+      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/httpswww-cbssports-comfantasybaseballnewsfantasy-baseball-injury-rankings-top-50-il-stashes-with-adley-rutschman/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/5227258d-e3b8-4e2d-a5cc-3879d9480417/max-meyer.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-22T09:50:21.000Z"
     },
     {
       "id": "rss-b5cf7d09d95d",
@@ -265,9 +855,9 @@
     {
       "id": "rss-381a595a28f8",
       "title": "Elon Musk Says Grok Will Make an AI ‘Odyssey’ Film That Is ‘Historically Accurate’ by the End of the Year",
-      "description": "Elon Munk has — finally — broken his silence on “The Odyssey” (well, at least since Christopher Nolan’s epic was released and started breaking various box office records). The tech mogul and recently-",
+      "description": "Elon Musk has — finally — broken his silence on “The Odyssey” (well, at least since Christopher Nolan’s epic was released and started breaking various box office records). The tech mogul and recently-",
       "url": "https://variety.com/2026/film/global/elon-musk-grok-ai-odyssey-film-historically-accurate-1236817856/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/MCDODYS_UV018-1.jpg",
+      "image": "https://variety.com/wp-content/uploads/2026/07/elon-odyssey.jpg",
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-07-22T09:07:19.000Z"
@@ -307,7 +897,7 @@
       "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
       "description": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
       "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/2026-07-21-middle-east-chokepoints-index/2026-07-21-middle-east-chokepoints-index-mediumSquareAt3X-v8.png",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/2026-07-21-middle-east-chokepoints-index/2026-07-21-middle-east-chokepoints-index-mediumSquareAt3X-v9.png",
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-07-22T09:02:31.000Z"
@@ -331,6 +921,16 @@
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-07-22T09:01:47.000Z"
+    },
+    {
+      "id": "rss-2e59ca8efdc2",
+      "title": "He’s the Last Great Land Artist You’ve Never Heard of",
+      "description": "Charles Ross spent 50 years building  “Star Axis,” a naked-eye observatory in New Mexico. Now his masterwork is ready. How to share it with a changed world?",
+      "url": "https://www.nytimes.com/2026/07/22/arts/design/hes-the-last-great-land-artist-youve-never-heard-of.html",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26cul-charles-ross-01-kqlv/26cul-charles-ross-01-kqlv-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T09:01:42.000Z"
     },
     {
       "id": "rss-4f609af9a830",
@@ -359,7 +959,7 @@
       "url": "https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html",
       "image": "https://static01.nyt.com/images/2026/07/15/us/dc-teen-pregnancy/dc-teen-pregnancy-mediumSquareAt3X.jpg",
       "source": "New York Times",
-      "category": "health",
+      "category": "trending",
       "publishedAt": "2026-07-22T09:00:50.000Z"
     },
     {
@@ -8183,16 +8783,6 @@
       "publishedAt": "2026-07-21T11:49:45.000Z"
     },
     {
-      "id": "rss-8624111f316d",
-      "title": "Fantasy Baseball Injury Rankings: Top 50 IL stashes with Adley Rutschman, Max Meyer recently going down",
-      "description": "Ronald Acuna and Edwin Diaz are among those nearing a return",
-      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/httpswww-cbssports-comfantasybaseballnewsfantasy-baseball-injury-rankings-top-50-il-stashes-with-adley-rutschman/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/5227258d-e3b8-4e2d-a5cc-3879d9480417/max-meyer.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-21T11:45:43.000Z"
-    },
-    {
       "id": "rss-f3abb179f40a",
       "title": "Trump-backed hopeful to succeed DeSantis unveils plan to protect local water, electricity from data centers",
       "description": "Rep. Byron Donalds said the data centers are \"more than willing\" to pick up extra costs.",
@@ -14061,26 +14651,6 @@
       "source": "ML Mastery",
       "category": "ai",
       "publishedAt": "2026-07-15T12:00:34.000Z"
-    },
-    {
-      "id": "rss-837abe53447c",
-      "title": "Popular diet trend could boost mental health among older adults, study finds",
-      "description": "Older adults who followed a Mediterranean diet during COVID-19 lockdowns reported less decline in happiness and life satisfaction than their peers.",
-      "url": "https://www.foxnews.com/health/popular-diet-trend-boost-mental-health-older-adults-study-finds",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/older-adults-salad-wine.jpg?ve=1&tl=1",
-      "source": "Fox News Health",
-      "category": "health",
-      "publishedAt": "2026-07-15T11:00:47.000Z"
-    },
-    {
-      "id": "rss-150dc2d4461f",
-      "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-      "description": "Home to leading manufacturers, robotics pioneers, infrastructure builders and iconic gaming companies, of course, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA",
-      "url": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/0715-Physical-AI-Activation-and-BaC-LDA_8618.jpg",
-      "source": "NVIDIA AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-07-15T10:51:37.000Z"
     }
   ]
 }
