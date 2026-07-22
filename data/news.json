@@ -1,7 +1,537 @@
 {
-  "lastUpdated": "2026-07-22T07:10:44.464Z",
-  "count": 1350,
+  "lastUpdated": "2026-07-22T09:59:34.639Z",
+  "count": 1408,
   "articles": [
+    {
+      "id": "rss-925f1d159f3e",
+      "title": "The Global Second-Hand Video Game Market Is Valued at $7.2 Billion, but Sony's Decision to Kill PlayStation Discs Threatens to Destroy It, Analysts Say",
+      "description": "Sony’s decision to end production of PlayStation discs for new games from 2028 threatens to destroy the second-hand market, analysts have said.",
+      "url": "https://www.ign.com/articles/the-global-second-hand-video-game-market-is-valued-at-72-billion-but-sonys-decision-to-kill-playstation-discs-threatens-to-destroy-it-analysts-say",
+      "image": "https://assets-prd.ignimgs.com/2026/07/22/gettyimages-566041779-1784713697260.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T09:51:47.000Z"
+    },
+    {
+      "id": "rss-b5cf7d09d95d",
+      "title": "Why Your AI Is Slow: Understanding the Inference KV Cache",
+      "description": "How language models avoid rereading the entire conversation — and why longer contexts still increase infrastructure costs.\nContinue reading on Medium »",
+      "url": "https://medium.com/@mrschneider/why-your-ai-is-slow-understanding-the-inference-kv-cache-07d9ea779b95?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1280/0*E93O3JRfA4piAzBG.jpg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:45:41.000Z"
+    },
+    {
+      "id": "rss-bc5138aa535d",
+      "title": "Property-Based Testing and Design by Contract: Lightweight Formal Methods in SDD",
+      "description": "Property-based testing and design by contract are the practical midpoint between a test and a proof — a class of confidence example tests…\nContinue reading on Medium »",
+      "url": "https://medium.com/@wasowski.jarek/property-based-testing-and-design-by-contract-lightweight-formal-methods-in-sdd-a5289c615450?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*H9eP41JDIRe9v9qzCl6pdA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:45:02.000Z"
+    },
+    {
+      "id": "rss-c65087d2552a",
+      "title": "The Next Generation of Manufacturing Knowledge Systems",
+      "description": "The competitive nature of the food and beverage manufacturing market means operational excellence can’t rely on automated systems and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@rrathnakar707/the-next-generation-of-manufacturing-knowledge-systems-7cf90367a140?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/903/1*GPtxoTfNtDz8rkm5aEjM2Q.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:44:06.000Z"
+    },
+    {
+      "id": "rss-f35c8efc04ca",
+      "title": "Adding Thousands of Lines to Your Codebase Isn’t Impressive.",
+      "description": "It’s Actually Bad.\nContinue reading on Medium »",
+      "url": "https://brennanbrown.medium.com/adding-thousands-of-lines-to-your-codebase-isnt-impressive-f15e728083e3?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2500/1*GRk9U8XbKrXZ1I1osUyxKA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:42:53.000Z"
+    },
+    {
+      "id": "rss-e483296924a9",
+      "title": "Gemini Generate Content API on Ace Data Cloud: Google’s Native Format with Search, Code Execution…",
+      "description": "The native Gemini API, not the OpenAI-compatible one: built-in Google Search grounding, code execution, JSON mode, and a thinking budget…\nContinue reading on Medium »",
+      "url": "https://acedatacloud.medium.com/gemini-generate-content-api-on-ace-data-cloud-googles-native-format-with-search-code-execution-483cb55e2e17?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1752/1*AqN6QEMB6NQ3tfryfmn6dg.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:42:45.000Z"
+    },
+    {
+      "id": "rss-5f1f80528598",
+      "title": "Everything I Believed About Python Threads Was Wrong — Until I Built a Scraper",
+      "description": "The GIL isn’t the villain everyone makes it out to be. Here’s what finally clicked when I stopped reciting the folklore and actually used…\nContinue reading on Medium »",
+      "url": "https://mohansagark.medium.com/everything-i-believed-about-python-threads-was-wrong-until-i-built-a-scraper-a11604159c44?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*MrZekxrZd8YQrvH-TghoTQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:41:58.000Z"
+    },
+    {
+      "id": "rss-5fd1730c363b",
+      "title": "Top Trumps Panel Show, New Seasons of ‘Mock the Week’ Unveiled as Part of Warner Bros. Discovery U.K.’s TLC Comedy Slate",
+      "description": "TLC in the U.K. has ordered a Top Trumps-themed panel show set to be hosted by comedian Katherine Ryan. Based on the card game and tentatively titled “Top Trumps: The Comedy Pack,” it will see Ryan in",
+      "url": "https://variety.com/2026/tv/global/top-trumps-panel-show-mock-the-week-tlc-uk-1236817874/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Katherine-Ryan.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T09:40:36.000Z"
+    },
+    {
+      "id": "rss-375305e95196",
+      "title": "Magic designers know what fans want, and that's more fantasy Universes Beyond",
+      "description": "Magic's Universes Beyond will focus more on fantasy settings, according to top designers and Hasbro's CEO.",
+      "url": "https://www.polygon.com/magic-mtg-universes-beyond-more-fantasy/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/the-preview-panel-magiccon_-las-vegas-2026-9-13-screenshot.png",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T09:38:27.000Z"
+    },
+    {
+      "id": "rss-4da40f149d03",
+      "title": "The $80 Billion AI Capex Shift: How Big Tech Earnings Are Driving Markets",
+      "description": "As Big Tech heavyweights like Alphabet and Tesla report their Q2 2026 earnings, global financial markets are undergoing a crucial…\nContinue reading on Medium »",
+      "url": "https://medium.com/@umaarrsaleem/the-80-billion-ai-capex-shift-how-big-tech-earnings-are-driving-markets-a2a89f9f148d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*jjFU2uIekqh3tiKGw89fbA.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:37:36.000Z"
+    },
+    {
+      "id": "rss-b4174ebcf105",
+      "title": "How to Fund CMC Markets with BTC: Real-Life Crypto Payment Scenario for Traders",
+      "description": "In this extended article, we’ll provide a step-by-step practical guide on how to use a cold wallet, primarily based on Bitcoin, to pay for…\nContinue reading on Medium »",
+      "url": "https://medium.com/@bitcoinchatgpt/how-to-fund-cmc-markets-with-btc-real-life-crypto-payment-scenario-for-traders-318ee4d9c7f2?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/0*HSS3KXCiYdQwFJ2u.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:36:59.000Z"
+    },
+    {
+      "id": "rss-eaef2af35897",
+      "title": "Stop Comparing AWS Bedrock and SageMaker. Ask This Instead.",
+      "description": "The decision framework I now use to choose the right LLM inference platform without overengineering my AI infrastructure.\nContinue reading on Medium »",
+      "url": "https://cloudwithazeem.medium.com/stop-comparing-aws-bedrock-and-sagemaker-ask-this-instead-8b9529208c49?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/738/0*1XH6nlyr6rRi_L7r",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:36:53.000Z"
+    },
+    {
+      "id": "rss-b35842d0ab09",
+      "title": "How AI Is Changing SEO Forever",
+      "description": "As we all know, AI is now all over in every field, so far in the IT field. A few years ago, SEO was limited to finding the right keywords…\nContinue reading on Medium »",
+      "url": "https://medium.com/@sharma.shailja359/how-ai-is-changing-seo-forever-bff2b44b53c6?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*YDHvud3QgOEIp_LmBejpfg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:36:43.000Z"
+    },
+    {
+      "id": "rss-a754114710a9",
+      "title": "Kimi K3: The Chinese Model That Just Beat Claude at Its Own Game",
+      "description": "China Beat America’s Best Coding AI, and Almost Nobody Saw It Coming\nContinue reading on Medium »",
+      "url": "https://medium.com/@mayhemcode/kimi-k3-the-chinese-model-that-just-beat-claude-at-its-own-game-8eab00b0029b?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1535/1*mU-Ke8O7gI9rC2zRO_p3Rg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:32:16.000Z"
+    },
+    {
+      "id": "rss-a56d7876a34c",
+      "title": "Quordle Today: Hints, Answers, Strategies Guide for July 22",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gaming/quordle-today-hints-answers-strategies-guide-for-july-22",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/9rom5xog/Quordle-137.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:30:24.000Z"
+    },
+    {
+      "id": "rss-575b36b60847",
+      "title": "Best Google Docs Tips and Tricks for Android Users in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/tech-news/best-google-docs-tips-and-tricks-for-android-users-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/25gl2i6h/Best-Google-Docs-Tips-and-Tricks-for-Android-Users-in-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:30:00.000Z"
+    },
+    {
+      "id": "rss-34789894940b",
+      "title": "With Pokémon in Fortnite Seemingly Off the Table, Palworld Looks Likely to Crossover Instead",
+      "description": "Steam hit Palworld looks likely to crossover with Fortnite in the future, while Pokémon seemingly remains off the table.",
+      "url": "https://www.ign.com/articles/with-pokemon-in-fortnite-seemingly-off-the-table-palworld-looks-likely-to-crossover-instead",
+      "image": "https://assets-prd.ignimgs.com/2026/06/05/palworld10-1780700486756.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T09:23:52.000Z"
+    },
+    {
+      "id": "rss-1524f8c79f9b",
+      "title": "6 Takeaways From Arizona’s Tense, Trump-Dominated Primaries",
+      "description": "Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21pol-arizona-takeaways-tbvj/21pol-arizona-takeaways-tbvj-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T09:17:02.000Z"
+    },
+    {
+      "id": "rss-8f201d7810b7",
+      "title": "FTSE 100 Live: Markets Defy Inflation Data, Brent Jumps to $94.22",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/ftse-100-live-markets-defy-inflation-data-brent-jumps-to-9422",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/xds9lz3m/FTSE-7.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:15:30.000Z"
+    },
+    {
+      "id": "rss-5686de7da48f",
+      "title": "The iPhone 18 Pro's Rumored Camera Upgrade, Explained",
+      "description": "Apple's upcoming iPhone 18 Pro and iPhone 18 Pro Max are expected to feature a variable-aperture camera. The upgrade has been rumored repeatedly and would be a first for Apple's smartphone lineup, but",
+      "url": "https://www.macrumors.com/2026/07/22/the-iphone-18-pro-variable-camera-aperture/",
+      "image": "https://images.macrumors.com/article-new/2025/09/iphone-17-cameras-zoom.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-22T09:15:05.000Z"
+    },
+    {
+      "id": "rss-455185a469a7",
+      "title": "'It's a really poor quality of life': Once a 'miracle in the desert,' California's Salton Sea now spreads toxic dust on vulnerable communities",
+      "description": "Medical anthropologist Ann Cheney speaks to Live Science writer Sascha Pare about the heavy toll toxic dust from California's largest inland lake takes on marginalized communities.",
+      "url": "https://www.livescience.com/health/its-a-really-poor-quality-of-life-once-a-miracle-in-the-desert-californias-salton-sea-now-spreads-toxic-dust-on-vulnerable-communities",
+      "image": "https://cdn.mos.cms.futurecdn.net/ydQ3CsLQQrisWSziWZzPrc-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-22T09:14:58.000Z"
+    },
+    {
+      "id": "rss-e5243fdb3c8f",
+      "title": "Designing AI Guardrails as Systems: Towards a More Adaptive Approach to Safety",
+      "description": "As AI systems move into real-world, regulated environments, safety stops being something we can pre-set once at the model level.\nContinue reading on AI at Lloyds Banking Group »",
+      "url": "https://medium.com/ai-at-lloyds-banking-group/designing-ai-guardrails-as-systems-towards-a-more-adaptive-approach-to-safety-93bcdb1ff222?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*ZCAE7gML6BnVDmMWl7C1IA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:11:04.000Z"
+    },
+    {
+      "id": "rss-68fd4e52111e",
+      "title": "Top-Rated Survival Movies Based on True Stories",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/photo/top-rated-survival-movies-based-on-true-stories",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/yw94cobl/Top-Rated-Survival-Movies-Based-on-True-Stories.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:09:17.000Z"
+    },
+    {
+      "id": "rss-086eac147a36",
+      "title": "Candid Health raises $120 million to take on America’s $280 billion medical billing mess",
+      "description": "The healthcare infrastructure startup tripled its valuation in 18 months as revenue grew nearly 200 percent.",
+      "url": "https://fortune.com/2026/07/22/candid-health-raises-120-million-to-take-on-americas-280-billion-medical-billing-mess/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/candid_nick_doug_2.jpeg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T09:09:05.000Z"
+    },
+    {
+      "id": "rss-3892d011ed4e",
+      "title": "Cracking Gandalf: A Walkthrough of Lakera’s AI Security Challenge",
+      "description": "How I tricked an AI into revealing its secrets — and what it taught me about prompt engineering\nContinue reading on Medium »",
+      "url": "https://medium.com/@k.bonev1993/cracking-gandalf-a-walkthrough-of-lakeras-ai-security-challenge-f4ddd3ed3017?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/639/1*q25FZkyr_TJ6aJpbTSZz-w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:08:36.000Z"
+    },
+    {
+      "id": "rss-50230f9e194a",
+      "title": "Top Countries Leading the Cashless Payments Revolution",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/top-countries-leading-the-cashless-payments-revolution",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/o7ombzjk/Countries-Leading-Cashless-Payments.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:07:35.000Z"
+    },
+    {
+      "id": "rss-381a595a28f8",
+      "title": "Elon Musk Says Grok Will Make an AI ‘Odyssey’ Film That Is ‘Historically Accurate’ by the End of the Year",
+      "description": "Elon Munk has — finally — broken his silence on “The Odyssey” (well, at least since Christopher Nolan’s epic was released and started breaking various box office records). The tech mogul and recently-",
+      "url": "https://variety.com/2026/film/global/elon-musk-grok-ai-odyssey-film-historically-accurate-1236817856/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/MCDODYS_UV018-1.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T09:07:19.000Z"
+    },
+    {
+      "id": "rss-eb5aac92fdc8",
+      "title": "Samsung’s North America CEO says the smartphone is just an entry point to ambient AI of the home",
+      "description": "Also: All the news and watercooler chat from Fortune.",
+      "url": "https://fortune.com/2026/07/22/samsung-smartphone-entry-point-ambient-ai-home/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Yoonie-Joung-Final-Headshot-2025-scaled-1.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T09:07:14.000Z"
+    },
+    {
+      "id": "rss-5132d0678863",
+      "title": "Beyond Building a Classifier: What I Actually Learned Building an ML Classification Project",
+      "description": "This is not a tutorial. It is a documentation of what I built, what broke, what surprised me, and what I would do differently, written…\nContinue reading on Medium »",
+      "url": "https://medium.com/@khadeejah1065/beyond-building-a-classifier-what-i-actually-learned-building-an-ml-classification-project-4aa6d2e4db03?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*HSzwh9PxVAwbx8zg8g1Lwg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:06:14.000Z"
+    },
+    {
+      "id": "rss-6b899f9db4d9",
+      "title": "I Tested 25 AI Coding Models on 100 Real Python Bugs. Here’s the Leaderboard.",
+      "description": "I broke my own codebase on purpose. One hundred times.\nContinue reading on UX Planet »",
+      "url": "https://uxplanet.org/i-tested-25-ai-coding-models-on-100-real-python-bugs-heres-the-leaderboard-725ab72a56b3?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*Pd1ZSJ4n6jO7x12hdjIeGA.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T09:05:48.000Z"
+    },
+    {
+      "id": "rss-faca51aec404",
+      "title": "See How Houthis Put the Red Sea at Risk as an Alternative Oil Route",
+      "description": "Saudi Arabia has diverted huge amounts of oil to the Red Sea since the Iran war began, but now the Iranian-backed Houthi militants say that they intend to block that route.",
+      "url": "https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/2026-07-21-middle-east-chokepoints-index/2026-07-21-middle-east-chokepoints-index-mediumSquareAt3X-v8.png",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T09:02:31.000Z"
+    },
+    {
+      "id": "rss-fe017eb8642d",
+      "title": "At a Utah Campus, an Emotional Odyssey After Charlie Kirk’s Death",
+      "description": "Since Mr. Kirk was gunned down at Utah Valley University, the school and its students have struggled to find a way forward.",
+      "url": "https://www.nytimes.com/2026/07/22/us/charlie-kirk-utah-valley-university.html",
+      "image": "https://static01.nyt.com/images/2026/07/17/multimedia/dc-uvu-31-mbzh/dc-uvu-31-mbzh-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T09:02:04.000Z"
+    },
+    {
+      "id": "rss-2cc7c0ed1217",
+      "title": "Laredo’s Future Rides on Trump’s Next Trade Move",
+      "description": "The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.",
+      "url": "https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-laredo-trade-vid-cover-2-zpmj/21dc-laredo-trade-vid-cover-2-zpmj-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T09:01:47.000Z"
+    },
+    {
+      "id": "rss-4f609af9a830",
+      "title": "See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok",
+      "description": "Now halfway through the year, we’ve made it to 11 of our picks, uncovering lesser-known spots where the American Revolution was fought, all-night parties in Poland and more.",
+      "url": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/00trav-places-visited-lkcb/00trav-places-visited-lkcb-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T09:01:06.000Z"
+    },
+    {
+      "id": "rss-71feb6e3ddcd",
+      "title": "The battle for Congress gets a Wall Street-style scoreboard powered by real-money bets",
+      "description": "Kalshi's new Midterms Hub combines live prediction markets with polling, fundraising data and historical results to track House, Senate and governor races.",
+      "url": "https://www.foxnews.com/politics/battle-congress-wall-street-style-scoreboard-powered-real-money-bets",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/f7721b60-capitol-dome-statue.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T09:00:57.000Z"
+    },
+    {
+      "id": "rss-6d90eb709c17",
+      "title": "Government Overhauls Teen Pregnancy Program to Focus on Marriage and Starting Families",
+      "description": "The administration canceled federal grants to organizations across the country, accusing them of encouraging premarital sex. New criteria say programs should stress abstinence.",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html",
+      "image": "https://static01.nyt.com/images/2026/07/15/us/dc-teen-pregnancy/dc-teen-pregnancy-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "health",
+      "publishedAt": "2026-07-22T09:00:50.000Z"
+    },
+    {
+      "id": "rss-4254bde988c3",
+      "title": "Avengers: Doomsday Off to Huge Start in Advance Ticket Sales, Second-Biggest Trailer Launch Ever Behind Only Spider-Man: Brand New Day",
+      "description": "Avengers: Doomsday released its first proper trailer yesterday alongside the start of advance ticket sales, and both were a huge success.",
+      "url": "https://www.ign.com/articles/avengers-doomsday-off-to-huge-start-in-advance-ticket-sales-second-biggest-trailer-launch-ever-behind-only-spider-man-brand-new-day",
+      "image": "https://assets-prd.ignimgs.com/2026/07/21/avengers-blog-1784629994881.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T08:55:43.000Z"
+    },
+    {
+      "id": "rss-e3a9e9099451",
+      "title": "Paytm Money Over Bonus Shares: What Prompted The Shift?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/paytm-money-over-bonus-shares-what-prompted-the-shift",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/tabbqnt1/Paytm-at-Rs.-1265-Why-it-Chose-Paytm-Money-Over-Bonus-Shares.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T08:45:00.000Z"
+    },
+    {
+      "id": "rss-3681cdafe1a9",
+      "title": "Indian Pharma Stocks Slide as Trump Unveils Tariffs of Up to 200% on Generic Drug Imports",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/indian-pharma-stocks-slide-as-trump-unveils-tariffs-of-up-to-200-on-generic-drug-imports",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/p1r3okh8/Indian-Pharma-Stocks-Slide-as-Trump-Unveils-Tariffs-of-Up-to-200-on-Generic-Drug-Imports.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T08:34:49.000Z"
+    },
+    {
+      "id": "rss-fec2547bfc4c",
+      "title": "'Star Trek: Strange New Worlds' fourth season takes big swings",
+      "description": "'Strange New Worlds' is uneven in tone, erratic in quality and sometimes gratuitous. But when it works, it works so well.",
+      "url": "https://www.engadget.com/2220481/star-trek-strange-new-worlds-sesason-four-preview/",
+      "image": "https://www.engadget.com/img/gallery/star-trek-strange-new-worlds-fourth-season-takes-big-swings/l-intro-1784708973.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-22T08:32:02.000Z"
+    },
+    {
+      "id": "rss-6c2823b1baaf",
+      "title": "Han Chae Young Scores a Hit With FlareFlow Korean Remake of Global Microdrama ‘Raising His Mistress’s Child’",
+      "description": "Han Chae Young, the actor behind some of K-drama’s most recognized titles, has scored a hit with “Raising His Mistress’s Child,” a Korean-language remake of a global microdrama that generated more tha",
+      "url": "https://variety.com/2026/tv/news/han-chae-young-raising-his-mistresss-child-korean-remake-flareflow-1236817114/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Raising-His-Mistresss-Child.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T08:15:00.000Z"
+    },
+    {
+      "id": "rss-5a7466e336b1",
+      "title": "X-Men 97 just brought back a little-known villain created 21 years ago by a controversial writer",
+      "description": "X-Men '97 season 2 episode 6 introduces Danger, originally created by Joss Whedon for his early 2000s comic book run",
+      "url": "https://www.polygon.com/x-men-97-season-2-episode-6-danger-room-evil-ai/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/23442382/x_men_movie_screencaps.com_3409.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T08:00:11.000Z"
+    },
+    {
+      "id": "rss-20c078044b2e",
+      "title": "Trump flexes GOP muscle in Arizona primaries as Dems dodge far-left upset",
+      "description": "Arizona’s primaries put Trump’s GOP influence on display and set the stage for high-stakes governor and House races in November.",
+      "url": "https://www.foxnews.com/politics/trump-flexes-gop-muscle-arizona-primaries-dems-dodge-left-wing-upset",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/president-donald-trump-july-1-2026.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T08:00:10.000Z"
+    },
+    {
+      "id": "rss-5d8cced277c4",
+      "title": "Science word of the day: Abiogenesis",
+      "description": "Pronunciation: Ay-bye-oh-JEN'-ih-sis",
+      "url": "https://www.livescience.com/planet-earth/evolution/science-word-of-the-day-abiogenesis",
+      "image": "https://cdn.mos.cms.futurecdn.net/8LYrAzXaUaZZr3G8c3RQKS-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-22T08:00:00.000Z"
+    },
+    {
+      "id": "rss-3ce78752bdd1",
+      "title": "Altcoin Season Index Falls to 50: Is the Crypto Market Entering a New Phase?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/altcoins/altcoin-season-index-falls-to-50-is-the-crypto-market-entering-a-new-phase",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/nduc9vds/Altcoin-Season-Index-Falls-to-50-Is-the-Crypto-Market-Entering-a-New-Phase.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T08:00:00.000Z"
+    },
+    {
+      "id": "rss-664c8038a29c",
+      "title": "AI is Already Inside Indian Enterprises; is Security Catching Up?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/ai-is-already-inside-indian-enterprises-is-security-catching-up",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/696w4dru/AI-is-Already-Inside-Indian-Enterprises-is-Security-Catching-Up.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T07:48:53.000Z"
+    },
+    {
+      "id": "rss-008dca08f602",
+      "title": "Advanced Anomaly Detection Stops Unplanned Outages Before They Occur",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/advanced-anomaly-detection-stops-unplanned-outages-before-they-occur",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/uitvg9wi/Jasvitha-Buggana.png",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T07:45:00.000Z"
+    },
+    {
+      "id": "rss-9362cf6f38b4",
+      "title": "The Role of Media in Spreading Kenneth Copeland's Message",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/media-market/the-role-of-media-in-spreading-kenneth-copelands-message",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/7dl5vl0w/Kenneth-Copeland.png",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T07:31:41.000Z"
+    },
+    {
+      "id": "rss-a94639367656",
+      "title": "How to Start a Career in Blockchain Without Coding",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/blockchain/how-to-start-a-career-in-blockchain-without-coding",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/lhwit28p/How-to-Start-a-Career-in-Blockchain-Without-Coding.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T07:19:36.000Z"
+    },
+    {
+      "id": "rss-43ac646e62ff",
+      "title": "Rebel Wilson Wins Defamation Case Against Charlotte MacInnes Over ‘The Deb’ Bath Dispute",
+      "description": "Rebel Wilson has prevailed in a defamation case brought by Charlotte MacInnes, the lead actor in Wilson’s feature directorial debut, “The Deb.” Justice Elizabeth Raper of the Federal Court of Australi",
+      "url": "https://variety.com/2026/film/news/rebel-wilson-wins-defamation-case-charlotte-macinnes-1236817821/",
+      "image": "https://variety.com/wp-content/uploads/2025/06/GettyImages-2220143169.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T07:16:01.000Z"
+    },
+    {
+      "id": "rss-3b7c28fab46e",
+      "title": "Free Fire MAX Redeem Codes for July 22, 2026: Grab Exclusive Skins, Bundles",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gaming/free-fire-max-redeem-codes-for-july-22-2026-grab-exclusive-skins-bundles",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/cpl9kc7a/Free-Fire-Max-Codes-7.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T07:14:25.000Z"
+    },
+    {
+      "id": "rss-5859eccaa7be",
+      "title": "Rubio says US remains open to Iran talks but warns there 'will be consequences'",
+      "description": "Secretary of State Marco Rubio warned Iran faces consequences for violating commitments, saying Tehran demands illegal control over the Strait of Hormuz.",
+      "url": "https://www.foxnews.com/politics/rubio-says-us-remains-open-iran-talks-warns-will-be-consequences",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/marco-rubio-middle-east-american-flag.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T07:11:15.000Z"
+    },
+    {
+      "id": "rss-f333caf00b0e",
+      "title": "How Does Social Media Scheduling Improve Marketing Productivity?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/how-does-social-media-scheduling-improve-marketing-productivity",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/w93grlvg/How-Does-Social-Media-Scheduling-Improve-Marketing-Productivity.png",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T07:10:53.000Z"
+    },
     {
       "id": "rss-212f574f1e74",
       "title": "Semantic Routing Protocol: How AI Agents Are Starting to Talk to Each Other Directly (Not Through…",
@@ -23,6 +553,16 @@
       "publishedAt": "2026-07-22T07:03:44.000Z"
     },
     {
+      "id": "rss-4638d4b2bfeb",
+      "title": "George Soros never signed the Giving Pledge. He’s given away more of his fortune than the billionaires who did",
+      "description": "The 95-year-old investor has given away an estimated 76% of his fortune without ever making the promise.",
+      "url": "https://fortune.com/2026/07/22/george-soros-never-signed-giving-pledge-has-committed-32-billion-to-philanthropy/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1240879563-e1784658864411.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T07:02:00.000Z"
+    },
+    {
       "id": "rss-defde463362f",
       "title": "The Rule I Set for Myself: The Stage Gate",
       "description": "The Engineer’s Journey: Part nine of a series on building a real-world AI system from scratch.\nContinue reading on Medium »",
@@ -31,6 +571,16 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-22T07:01:04.000Z"
+    },
+    {
+      "id": "rss-6f24a7cd1a13",
+      "title": "Sam Altman and Jony Ive formed a dream team to reinvent hardware. Now it’s at the center of a battle for OpenAI’s future",
+      "description": "Betting that a new breed of tech gadgets will give it an edge over its AI rivals, the ChatGPT maker tapped Apple’s former design guru last year. A legal fight with Apple is just one of the challenges ",
+      "url": "https://fortune.com/2026/07/22/sam-altman-and-jony-ive-formed-a-dream-team-to-reinvent-hardware-now-its-at-the-center-of-a-battle-for-openais-future/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/OpenAI-Gadget.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T07:01:00.000Z"
     },
     {
       "id": "rss-9bdb9be3d8e1",
@@ -43,6 +593,26 @@
       "publishedAt": "2026-07-22T07:00:12.000Z"
     },
     {
+      "id": "rss-5ac4b1a1b92b",
+      "title": "After SpaceX’s $2 trillion debut, investors are eyeing Anthropic and OpenAI. Market experts share how to play the next trillion-dollar IPO",
+      "description": "Before buying into the hype, pros say to skip the first-day frenzy, follow the revenue, and read the prospectus.",
+      "url": "https://fortune.com/2026/07/22/trillion-dollar-ipo-investing-spacex-anthropic-openai/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/FORTUNE-IPO-WEB.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T07:00:00.000Z"
+    },
+    {
+      "id": "rss-81f70695e8b7",
+      "title": "Panera founder and Cava chairman Ron Shaich bets $100 million on Level99, bringing his restaurant industry playbook to entertainment",
+      "description": "Act III Holdings doubles its stake in Level99 after the Disney Springs opening, betting restaurant-industry category discipline can build a dominant player in entertainment.",
+      "url": "https://fortune.com/2026/07/22/panera-founder-cava-chairman-ron-shaich-100-million-level99-entertainment-restaurant-industry/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Bar-at-Level99-at-Disney-Springs-1-e1784671112363.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T07:00:00.000Z"
+    },
+    {
       "id": "rss-055f807ab35a",
       "title": "The RAM “Shortage” of 2026 Isn’t a Shortage.",
       "description": "The same three companies that make your memory also make the AI industry’s memory. Guess which customer they stopped prioritizing.\nContinue reading on Medium »",
@@ -51,6 +621,16 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-22T06:59:23.000Z"
+    },
+    {
+      "id": "rss-1a14bfa2e06a",
+      "title": "The American Heart Association has a new number for daily coffee—and a warning if you go over it",
+      "description": "New research suggests drinking one cup of coffee a day is actually worse for your health than drinking four—but that fifth shot could cause heart failure.",
+      "url": "https://fortune.com/2026/07/22/coffee-cups-per-day-heart-attack-risk-health-study-american-heart-association/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2160881005-e1784630800850.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T06:59:00.000Z"
     },
     {
       "id": "rss-ca37d9fac5b5",
@@ -213,6 +793,16 @@
       "publishedAt": "2026-07-22T06:03:26.000Z"
     },
     {
+      "id": "rss-a8b6fc49be5b",
+      "title": "Samsung Galaxy Unpacked July 2026: Live updates from the Z Fold 8 and Flip 8 launch event",
+      "description": "Join us as we bring you live coverage from Samsung's Unpacked event in London, where it's expected to reveal new foldables and wearables.",
+      "url": "https://www.engadget.com/2219690/samsung-galaxy-unpacked-july-2026-live-blog-z-fold-8-launch/",
+      "image": "https://www.engadget.com/img/gallery/samsung-galaxy-unpacked-july-2026-liveblog/l-intro-1784646116.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-22T06:00:00.000Z"
+    },
+    {
       "id": "rss-3c1c9004ca37",
       "title": "Top News Today: Nvidia's Vera CPU, Balance Coin Crash, Climate Tech Funding & More",
       "description": "",
@@ -221,16 +811,6 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-22T05:57:11.000Z"
-    },
-    {
-      "id": "rss-1524f8c79f9b",
-      "title": "6 Takeaways From Arizona’s Tense, Trump-Dominated Primaries",
-      "description": "Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21pol-arizona-takeaways-tbvj/21pol-arizona-takeaways-tbvj-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-22T05:49:06.000Z"
     },
     {
       "id": "rss-990e049cf480",
@@ -3625,7 +4205,7 @@
     {
       "id": "rss-23748abd047d",
       "title": "Billions of miles and thousands of years in the making: This is the life of a Perseid shooting star",
-      "description": "A story billions of miles and thousands of years in the making.",
+      "description": "Exile, an interplanetary odyssey and a fateful encounter, this is the journey taken by each Perseid meteor.",
       "url": "https://www.space.com/stargazing/meteor-showers/billions-of-miles-and-thousands-of-years-in-the-making-this-is-the-life-of-a-perseid-shooting-star",
       "image": "https://cdn.mos.cms.futurecdn.net/GDr978vcfUNjpF8Ag9KVY3-1280-80.jpg",
       "source": "Space.com",
