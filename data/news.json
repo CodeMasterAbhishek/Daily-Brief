@@ -1,7 +1,347 @@
 {
-  "lastUpdated": "2026-07-21T23:28:21.774Z",
-  "count": 1239,
+  "lastUpdated": "2026-07-22T00:59:14.272Z",
+  "count": 1272,
   "articles": [
+    {
+      "id": "rss-3f7fcafafa00",
+      "title": "Sony Music Files Another Lawsuit Against Udio, Alleges AI Music Generator Copied 30,000 Songs to Train Models",
+      "description": "Sony Music Entertainment has once again sued the AI music generator Udio, alleging the startup illegally copied more than 30,000 songs from the likes of Beyoncé, Harry Styles and Elvis Presley to trai",
+      "url": "https://variety.com/2026/music/news/sony-music-new-lawsuit-udio-ai-music-generator-1236817746/",
+      "image": "https://variety.com/wp-content/uploads/2018/01/social-1200.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T00:57:16.000Z"
+    },
+    {
+      "id": "rss-e28a84387f45",
+      "title": "Your Business Already Has a Digital Identity—AI Is Building It",
+      "description": "AI doesn't just read your website—it builds confidence by connecting information from across the web.\nContinue reading on Medium »",
+      "url": "https://medium.com/@sasutton82/your-business-already-has-a-digital-identity-ai-is-building-it-f0309251fa66?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*7NRMgbqfcJDNnpZz6hswCg.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:53:07.000Z"
+    },
+    {
+      "id": "rss-0cb0d1f5b59b",
+      "title": "Claude Code brings live iOS app testing into its Mac app",
+      "description": "Claude Code’s Mac app now lets users test iOS apps in an interactive simulator pane, provided they have Xcode with the iOS platform installed. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/21/claude-code-brings-live-ios-app-testing-into-its-mac-app/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-22T00:52:43.000Z"
+    },
+    {
+      "id": "rss-c1dd9a963a4e",
+      "title": "Marked as Deprecated",
+      "description": "An analysis of headcount reduction, AI adoption, and the social role of the enterprise\nContinue reading on Medium »",
+      "url": "https://medium.com/@TheDeprecated/marked-as-deprecated-fd863c42cecc?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*PCP5sXCTA0vH9_rw0g0gLQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:48:29.000Z"
+    },
+    {
+      "id": "rss-8e50333fffe4",
+      "title": "Your Model Vendor Had a Bad Week. Your Users Never Felt It.",
+      "description": "The open-weight window and a flagship slip turned single-model dependency into a reliability risk. Staying calm through it is an…\nContinue reading on Medium »",
+      "url": "https://medium.com/@yagmur.sahin/your-model-vendor-had-a-bad-week-your-users-never-felt-it-c31d4c4f2a47?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1944/1*jx4Q2TCa-TQ1yfrjgvF3tQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:47:45.000Z"
+    },
+    {
+      "id": "rss-88e9f1a855ef",
+      "title": "Viktor AI Explained: How This AI Employee Works",
+      "description": "A practical look at Viktor, the AI coworker that works inside Slack and Microsoft Teams\nContinue reading on Medium »",
+      "url": "https://medium.com/@gregjeffries/viktor-ai-explained-how-this-ai-employee-works-df2c8fc5a922?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*rXghLElPKLhRSqt-aNgE7A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:45:02.000Z"
+    },
+    {
+      "id": "rss-05fbe187596e",
+      "title": "I Built Trailie Crew in One Week for the OpenAI Hackathon",
+      "description": "I just submitted Trailie Crew to the OpenAI hackathon, and I am still trying to process the entire experience.\nContinue reading on Medium »",
+      "url": "https://medium.com/@codebykrishna/i-built-trailie-crew-in-one-week-for-the-openai-hackathon-278cb0acbbd9?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*MBdi1liv6VNDJyZkOlREyQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:36:02.000Z"
+    },
+    {
+      "id": "rss-72cc2371e319",
+      "title": "Essential Skills Every Data Science Professional Should Learn",
+      "description": "Introduction\nContinue reading on Medium »",
+      "url": "https://medium.com/@skprasadblogs/essential-skills-every-data-science-professional-should-learn-ba496f7b0225?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1774/1*57YOZMqifPc5QFMRNIVncg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:34:11.000Z"
+    },
+    {
+      "id": "rss-30d811ba4545",
+      "title": "What a Psychiatric Hospital Taught Me About AI Music",
+      "description": "A week without music left me asking what shared songs actually give us — and whether AI-generated music can ever replace it.\nContinue reading on Medium »",
+      "url": "https://medium.com/@J.S.Matkowski/what-a-psychiatric-hospital-taught-me-about-ai-music-29d631e1b631?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*GlQ6YbDrsj7mrxQev3GmSg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:33:37.000Z"
+    },
+    {
+      "id": "rss-82759b7953f5",
+      "title": "INGINIR: Why AI Is Essential for Autonomous Building Management Systems",
+      "description": "Moving Beyond Automation to Autonomous Buildings\nContinue reading on Medium »",
+      "url": "https://medium.com/@djfromla/inginir-why-ai-is-essential-for-autonomous-building-management-systems-6981490d5243?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*-deCnarLV84FdiEmMiz9yg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:33:05.000Z"
+    },
+    {
+      "id": "rss-c8448cbb23b2",
+      "title": "Unlearning at the Representation Level: Oxford’s POUR and the Geometry of Forgetting",
+      "description": "This CVPR 2026 paper from an Oxford group tackles machine unlearning: removing a class or concept from an already-trained vision model…\nContinue reading on Medium »",
+      "url": "https://medium.com/@zljdanceholic/unlearning-at-the-representation-level-oxfords-pour-and-the-geometry-of-forgetting-95c0700c2f20?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1275/1*Ml48Xi-bCaVtMeEoS63GDQ.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:31:24.000Z"
+    },
+    {
+      "id": "rss-60c509def8b8",
+      "title": "Crypto Market Analysis: SHIB, SOL, XRP and Hyperliquid Face Mixed Momentum",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/crypto-market-analysis-shib-sol-xrp-and-hyperliquid-face-mixed-momentum",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/9bbaddb0/Crypto-Market-Analysis-SHIB-SOL-XRP-and-Hyperliquid-Face-Mixed-Momentum.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:30:00.000Z"
+    },
+    {
+      "id": "rss-17e7e09aa43f",
+      "title": "Jennifer Garner and Judy Greer to Appear in Netflix’s ’13 Going on 30′ Reboot",
+      "description": "Jennifer Garner and Judy Greer were spotted on set of Netflix’s “13 Going on 30,” filming a scene with Emily Bader, who stars in the new reimagining with Logan Lerman. Garner — who played Jenna Rink, ",
+      "url": "https://variety.com/2026/film/news/jennifer-garner-judy-greer-netflix-13-going-on-30-reboot-cameo-1236817722/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/2261349082.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T00:29:03.000Z"
+    },
+    {
+      "id": "rss-0df2e6e315b6",
+      "title": "Trump Lifts Ban on Direct Flights to Lebanon",
+      "description": "The prohibition had been in place since 1985, when it was imposed in response to Hezbollah’s hijacking of TWA Flight 847.",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-lebanon-flights-ban.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-trump-flights-photo-ghmv/21dc-trump-flights-photo-ghmv-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T00:23:11.000Z"
+    },
+    {
+      "id": "rss-b4d6624e2abb",
+      "title": "Whitney Cummings’s Trump Joke at Kennedy Center Is Cut From Netflix Special",
+      "description": "At the Mark Twain Prize ceremony, the comedian Whitney Cummings made a joke about the president that seemed to refer to Jeffrey Epstein.",
+      "url": "https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21cul-kennedy-joke-ptfw/21cul-kennedy-joke-ptfw-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T00:22:02.000Z"
+    },
+    {
+      "id": "rss-d8cd928bc9ce",
+      "title": "What absolutely cannot happen: designing systems by their failure boundaries",
+      "description": "In a recent comment on my post about declarative systems and higher abstraction, Scott Edwards raised a critical challenge:\nContinue reading on Medium »",
+      "url": "https://medium.com/@jodhernandezbemj/what-absolutely-cannot-happen-designing-systems-by-their-failure-boundaries-08435251507e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*ouy0LOPgKr28FYu19Ns8NA@2x.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T00:04:46.000Z"
+    },
+    {
+      "id": "rss-154b8c675875",
+      "title": "Apple Raised Mac Prices. Now It Might Lease You One",
+      "description": "",
+      "url": "https://www.cnet.com/tech/computing/apple-raised-mac-prices-now-it-might-lease-you-one/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/91cfc710-5e06-4946-a571-82b955a062e3.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-22T00:03:38.000Z"
+    },
+    {
+      "id": "rss-7f1d7e0382ed",
+      "title": "IRS in the hot seat over potential cash grab from Spain's World Cup winnings: 'It's a rip-off'",
+      "description": "Spain's $50 million World Cup prize money could face up to 30% federal withholding tax under IRS rules for nonresident foreign athletes in America.",
+      "url": "https://www.foxnews.com/politics/irs-hot-seat-over-potential-cash-grab-spains-world-cup-winnings-ripoff",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/IRS-fifa-spain-winner-split.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T00:00:57.000Z"
+    },
+    {
+      "id": "rss-f12c3bc78576",
+      "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
+      "description": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-prexy-gzjm/21dc-prexy-gzjm-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T00:00:14.000Z"
+    },
+    {
+      "id": "rss-ffa878d391aa",
+      "title": "NASA’s Psyche Spacecraft Sent Back Some Awesome Photos of Mars",
+      "description": "",
+      "url": "https://www.cnet.com/science/space/nasas-psyche-spacecraft-sent-back-some-awesome-photos-of-mars/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Mars-Composite-Image-from-Psyche.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-21T23:56:51.000Z"
+    },
+    {
+      "id": "rss-6cc6762f3240",
+      "title": "Nintendo Thinks Your Portion of Its Tariff Refund Windfall Should Be $0",
+      "description": "",
+      "url": "https://www.cnet.com/tech/gaming/nintendo-tariff-refund-none-customers/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/1ae81287-9b44-4c85-b442-4c466caa233c.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-21T23:51:14.000Z"
+    },
+    {
+      "id": "rss-67f05deae4ba",
+      "title": "EXCLUSIVE: Nick Shirley fires back at Minnesota critics: 'Numbers don't lie, and convictions don't lie'",
+      "description": "YouTube independent journalist Nick Shirley has dominated the national conversation with his unorthodox investigations into daycare fraud, the border crisis and the fentanyl epidemic.",
+      "url": "https://www.foxnews.com/politics/exclusive-nick-shirley-fires-minnesota-critics-numbers-dont-lie-convictions-dont-lie",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/nick-shirley-white-house-fox-news-001.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T23:51:14.000Z"
+    },
+    {
+      "id": "rss-7b2a7bdb6b67",
+      "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
+      "description": "The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.",
+      "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21biz-openai-security-gwch/21biz-openai-security-gwch-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T23:50:59.000Z"
+    },
+    {
+      "id": "rss-282e69f28202",
+      "title": "Mike Preston, ‘Mad Max 2: The Road Warrior’ and ‘Hot Pursuit’ Actor, Dies at 93",
+      "description": "Mike Preston, known for playing settler leader Pappagallo in “Mad Max 2: The Road Warrior” and Detective Bob Delaney in the Australian series “Homicide,” died June 8 in Florida. He was 93. Preston’s d",
+      "url": "https://variety.com/2026/film/news/mike-preston-dead-mad-max-2-the-road-warrior-1236817624/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Mike-Preston-Obit-Dead.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-21T23:47:40.000Z"
+    },
+    {
+      "id": "rss-7bc1eb5e34c0",
+      "title": "Claude Code Can Now Build and Test iOS Apps in Apple's Simulator",
+      "description": "Anthropic today said Claude Code for desktop has been updated to work with the iOS Simulator, with the integration available in public beta.\r\n\r\n\r\nClaude Code can open in-progress apps in the iOS Simul",
+      "url": "https://www.macrumors.com/2026/07/21/claude-code-ios-simulator/",
+      "image": "https://images.macrumors.com/article-new/2026/07/claude-code-ios-simulator.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-21T23:46:44.000Z"
+    },
+    {
+      "id": "rss-5cc14b6b0841",
+      "title": "Yankees' Max Fried scheduled to start in Wednesday doubleheader in major boost to New York's rotation",
+      "description": "Fried has been on the injured list since May 16 due to a bone bruise on his elbow",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/max-fried-injury-timeline-new-york-yankees-rotation/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/4f8f208a-9e59-4db9-a8d8-9487f1d70b0c/fried-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-21T23:43:16.000Z"
+    },
+    {
+      "id": "rss-404b9efff127",
+      "title": "Garmin’s Screenless Cirqa Health Tracker Will Be Available This Week",
+      "description": "",
+      "url": "https://www.cnet.com/tech/mobile/garmin-screenless-cirqa-fitness-tracker-available-this-week/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Garmin-Cirqa-pink.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-21T23:40:00.000Z"
+    },
+    {
+      "id": "rss-21b5faa3f6ca",
+      "title": "Mykhailo Drapatyi: What to Know About Ukraine’s New Top General",
+      "description": "Maj. Gen. Mykhailo Drapatyi, a decorated commander, is popular both inside and outside of his country.",
+      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-mykhailo-drapatyi.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-ukraine-who-is-drapatyi-qjzk/22int-ukraine-who-is-drapatyi-qjzk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T23:39:36.000Z"
+    },
+    {
+      "id": "rss-386c9aafe8ef",
+      "title": "Duke AI PM 學習筆記（六）：AI 模型不是部署就結束，建立可持續演進的 Machine Learning Lifecycle",
+      "description": "提到 Machine Learning，許多人第一個想到的是訓練模型（Model Training）。\nContinue reading on Medium »",
+      "url": "https://1zhi-lily.medium.com/duke-ai-pm-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E5%85%AD-ai-%E6%A8%A1%E5%9E%8B%E4%B8%8D%E6%98%AF%E9%83%A8%E7%BD%B2%E5%B0%B1%E7%B5%90%E6%9D%9F-%E5%BB%BA%E7%AB%8B%E5%8F%AF%E6%8C%81%E7%BA%8C%E6%BC%94%E9%80%B2%E7%9A%84-machine-learning-lifecycle-7ecb4c38297f?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1260/0*KGfY7Qp8427akIK_.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-21T23:31:01.000Z"
+    },
+    {
+      "id": "rss-ad7138f243da",
+      "title": "Seamless No-Load-Screen Takeoffs Come To Starfield Three Years Later Thanks To Modder",
+      "description": "A long-requested feature makes exploration look more immersive",
+      "url": "https://kotaku.com/seamless-no-load-screen-takeoffs-come-to-starfield-three-years-later-thanks-to-modder-2000718146",
+      "image": "https://kotaku.com/app/uploads/2024/06/de6637b15951f66cf3e203948a12314e-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T23:30:30.000Z"
+    },
+    {
+      "id": "rss-d7b9f41eb5dc",
+      "title": "Cyclospora Cases in the U.S. Hit Record High",
+      "description": "Federal health officials have confirmed another 2,500 cases of the parasitic infection.",
+      "url": "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21WELL-CYCLO-CASES-vjzl/21WELL-CYCLO-CASES-vjzl-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-21T23:30:24.000Z"
+    },
+    {
+      "id": "rss-e43bfe5c671a",
+      "title": "Solana Price Prediction: E*Trade Listing and Network Growth Put SOL in Focus",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/solana-price-prediction-etrade-listing-and-network-growth-put-sol-in-focus",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/aakq6goe/Solana-Price-Prediction-ETrade-Listing-and-Network-Growth-Put-SOL-in-Focus.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-21T23:30:00.000Z"
+    },
+    {
+      "id": "rss-c329cb03e3aa",
+      "title": "Indie LGBTQ Dramedy ‘Actual Nobodies’ Acquired by Scatena & Rosner Films, Sets Early 2027 Release (EXCLUSIVE)",
+      "description": "Scatena & Rosner Films has acquired distribution rights for North America, Australia and New Zealand for the LGBTQ indie dramedy “Actual Nobodies,” written and directed by Alex Wyse. S&R picked the fi",
+      "url": "https://variety.com/2026/film/columns/lgbtq-dramedy-actual-nobodies-scatena-rosner-films-sets-release-1236817706/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Actual-Nobodies-Didi-Conn-L-Austin-McKenzie-R-courtesy-Actual-Nobodies.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-21T23:28:24.000Z"
+    },
+    {
+      "id": "rss-ff70cf922a5d",
+      "title": "House Republicans move to make Trump's border policies permanent",
+      "description": "The Permanent Trump Secure Border Act would criminalize visa overstays, end catch and release and tighten asylum eligibility if it clears the House floor.",
+      "url": "https://www.foxnews.com/politics/house-republicans-move-make-trumps-border-policies-permanent",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/building-border-wall-in-2026.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-21T23:25:07.000Z"
+    },
     {
       "id": "rss-2576b9f1210e",
       "title": "The “Permanent Underclass” is a myth",
@@ -43,6 +383,16 @@
       "publishedAt": "2026-07-21T23:18:42.000Z"
     },
     {
+      "id": "rss-c45fd08a869a",
+      "title": "Ed Harris Reveals Dutton Ranch Scene Producers Cut That Made Him Want to Quit the Yellowstone Spinoff",
+      "description": "Ed Harris felt “misled” by his role on Yellowstone spinoff series Dutton Ranch, saying he nearly wanted to void his contract over issues with how his character, Everett McKinney, was used… or rather, ",
+      "url": "https://www.ign.com/articles/ed-harris-reveals-dutton-ranch-scene-producers-cut-that-made-him-want-to-quit-the-yellowstone-spinoff",
+      "image": "https://assets-prd.ignimgs.com/2026/07/21/ed-harris-frustrated-dutton-ranch-role-1784675315650.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-21T23:15:55.000Z"
+    },
+    {
       "id": "rss-11f16a55ec1c",
       "title": "CareConnect AI: Turning “What’s Wrong With Me?” Into a Guided Conversation, With Google Gemini",
       "description": "Building an AI-Powered Clinical Decision Intelligence Platform for Patients, Doctors, and Medical Students\nContinue reading on Medium »",
@@ -67,20 +417,10 @@
       "title": "‘The Odyssey’ Anoints Christopher Nolan as Hollywood’s Most Powerful Director — Here’s How Universal Thwarted Warner Bros. to Land Him",
       "description": "Greek mythology is riddled with humans who become immortal, many as punishment for tangling with the gods. But not Christopher Nolan, the toast of the mortal world’s Mount Olympus — Hollywood. The ope",
       "url": "https://variety.com/2026/film/news/christopher-nolan-odyssey-success-donna-langley-universal-1236817681/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2271528815.jpg",
+      "image": "https://variety.com/wp-content/uploads/2026/07/IMG_0807.jpg",
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-07-21T23:08:22.000Z"
-    },
-    {
-      "id": "rss-743fd468fe6c",
-      "title": "Cyclosporiasis Cases in the United States Hit Record High",
-      "description": "Federal health officials have confirmed another 2,500 cases of the parasitic infection.",
-      "url": "https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21WELL-CYCLO-CASES-vjzl/21WELL-CYCLO-CASES-vjzl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T23:07:52.000Z"
     },
     {
       "id": "rss-8c7703d460c7",
@@ -661,16 +1001,6 @@
       "source": "Fortune",
       "category": "business",
       "publishedAt": "2026-07-21T21:27:50.000Z"
-    },
-    {
-      "id": "rss-7b2a7bdb6b67",
-      "title": "OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library",
-      "description": "The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.",
-      "url": "https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21biz-openai-security-gwch/21biz-openai-security-gwch-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-21T21:27:32.000Z"
     },
     {
       "id": "rss-1a627f629eb7",
