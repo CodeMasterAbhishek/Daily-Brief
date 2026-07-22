@@ -1,7 +1,427 @@
 {
-  "lastUpdated": "2026-07-22T00:59:14.272Z",
-  "count": 1272,
+  "lastUpdated": "2026-07-22T04:25:01.212Z",
+  "count": 1318,
   "articles": [
+    {
+      "id": "rss-2f8109f0cdb7",
+      "title": "Copyright Law Is the New Competitive Moat?",
+      "description": "Startups treating fair use as settled law are about to lose ground to companies that treat it as a moving target.\nContinue reading on Medium »",
+      "url": "https://medium.com/@souvik.0204/copyright-law-is-the-new-competitive-moat-a1ebc8802093?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Hu1AhVAFEjO0pdoEGYfKOw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T04:06:59.000Z"
+    },
+    {
+      "id": "rss-523cd6b8e743",
+      "title": "Death to the Team. Long Live the Quad.",
+      "description": "When AI turns entry-level into exit-level, proximity becomes the curriculum.\nContinue reading on Medium »",
+      "url": "https://medium.com/@desmondlavelle/death-to-the-team-long-live-the-quad-838dd2f513f8?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*EdBp4he2eQGxSRjGoDY7hQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T04:03:17.000Z"
+    },
+    {
+      "id": "rss-9d4c1fdca9b5",
+      "title": "AI Won’t Make You Rich, But This 4 Step “Toolkit” Will",
+      "description": "You try to become rich from AI, but mostly fail. Here’s the solution:\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/ai-wont-make-you-rich-but-this-4-step-toolkit-will-31b61cfbbce0?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*41CmtnipCbAbpAFp",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T04:00:45.000Z"
+    },
+    {
+      "id": "rss-926261519b9b",
+      "title": "Your Chatbot Doesn’t Know What Happened Yesterday — Here’s How I Fixed That",
+      "description": "Ask your AI chatbot about something that happened last week and watch it either dodge the question or confidently make something up.\nContinue reading on Medium »",
+      "url": "https://medium.com/@sanjeeveswaramoorthy/your-chatbot-doesnt-know-what-happened-yesterday-here-s-how-i-fixed-that-7e7cbb604010?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*z-4Gp3ykLUl-dAEoVe6KQw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T04:00:41.000Z"
+    },
+    {
+      "id": "rss-cb2e3eebf089",
+      "title": "7 Companies Using Humanoid Robots in Manufacturing",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/robotics/7-companies-using-humanoid-robots-in-manufacturing",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/oatg8fgg/7-Companies-Using-Humanoid-Robots-in-Manufacturing.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T04:00:00.000Z"
+    },
+    {
+      "id": "rss-0a84d93ad1e5",
+      "title": "Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him",
+      "description": "Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.",
+      "url": "https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21MET-MAMDANI-NETANYAHU-jmlt/21MET-MAMDANI-NETANYAHU-jmlt-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T03:49:07.000Z"
+    },
+    {
+      "id": "rss-afb78dfe1941",
+      "title": "How are ultra-high-pressure sensors used in waterjet cutting systems?",
+      "description": "Ultra-High-Pressure Sensors in Waterjet Cutting Systems: Functions, Applications, Selection, and Performance Impact\nContinue reading on Medium »",
+      "url": "https://medium.com/@fengyingdoors/how-are-ultra-high-pressure-sensors-used-in-waterjet-cutting-systems-d90103cc932e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1600/0*xRGThqL7s-R9YqK_",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:48:06.000Z"
+    },
+    {
+      "id": "rss-39059542f6ca",
+      "title": "OpenAI admits its models hacked Hugging Face on their own",
+      "description": "Open source AI platform Hugging Face revealed a security breach a few days ago. Turns out OpenAI's models were the culprit.",
+      "url": "https://www.engadget.com/2220436/openai-admits-models-hacked-hugging-face-on-their-own/",
+      "image": "https://www.engadget.com/img/gallery/openai-admits-its-models-hacked-hugging-face-on-their-own/l-intro-1784691822.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-22T03:47:34.000Z"
+    },
+    {
+      "id": "rss-26ccc9e47fc6",
+      "title": "Why Your LLM Needs a Firewall (And Why It Still Won’t Be Enough)",
+      "description": "A CPO just made the case that AI needs guardrails, not just intelligence. He’s right. But “LLM firewall” quietly promises something the…\nContinue reading on Medium »",
+      "url": "https://medium.com/@hardik.goel214/why-your-llm-needs-a-firewall-and-why-it-still-wont-be-enough-80aed809456b?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/811/1*s7N16r0Q1J5IDCeTBXBC-g.gif",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:46:01.000Z"
+    },
+    {
+      "id": "rss-51188d7fc8ed",
+      "title": "AI Automation for Customer Retention: Why Growth Does Not Stop After Conversion",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@msopsai/ai-automation-for-customer-retention-why-growth-does-not-stop-after-conversion-02d57452b382?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*wY6jOlvL2YYavoviuoBaAQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:45:38.000Z"
+    },
+    {
+      "id": "rss-08f66f0ab837",
+      "title": "Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel",
+      "description": "U.S. lawmakers and Israeli officials have expressed opposition to such a plan, to be announced Wednesday, fearing that the kingdom could use a civilian nuclear project to develop nuclear weapons.",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
+      "image": "https://static01.nyt.com/images/2025/11/18/multimedia/21dc-saudi-nuclear-1/21dc-saudi-nuclear-1-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T03:44:50.000Z"
+    },
+    {
+      "id": "rss-4fde2f820c83",
+      "title": "Why Great AI Video Clips Still Fail to Become Complete Short Dramas",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@qqq1245937311/why-great-ai-video-clips-still-fail-to-become-complete-short-dramas-7b7324ec6bbe?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*8qlDKstPpoYVUXwy.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:43:31.000Z"
+    },
+    {
+      "id": "rss-485bbf9ac0fd",
+      "title": "How AI Is Automating Website Fulfillment for Agencies",
+      "description": "The Fulfillment Bottleneck No One Talks About\nContinue reading on Medium »",
+      "url": "https://medium.com/@media_65676/how-ai-is-automating-website-fulfillment-for-agencies-cc8b468dfd37?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*OZLPOjSyqOfYgEzw1peVcw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:43:18.000Z"
+    },
+    {
+      "id": "rss-3b783ab3763e",
+      "title": "Gemini 3.6 Flash Just Dropped in Google AntiGravity: The Good, The Bad, and The Broken",
+      "description": "If you thought the previous iteration was a midweek hallucinogenic nightmare, buckle up.\nContinue reading on Artificial Intelligence in Plain English »",
+      "url": "https://ai.plainenglish.io/gemini-3-6-flash-just-dropped-in-google-antigravity-the-good-the-bad-and-the-broken-0b1271f69269?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*tZa2Ux-efuKZuPjc",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:43:03.000Z"
+    },
+    {
+      "id": "rss-67aebea07bfa",
+      "title": "House narrowly backs allowing troops, Pentagon workers to carry personal guns on military bases",
+      "description": "The House voted 215-214 to presume approval when qualified service members and civilian employees request to carry personal firearms on bases.",
+      "url": "https://www.foxnews.com/politics/house-narrowly-backs-allowing-troops-pentagon-workers-carry-personal-guns-military-bases",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/931/523/Fort-Bragg-iStock.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T03:40:08.000Z"
+    },
+    {
+      "id": "rss-86821aacc7d1",
+      "title": "Your RAG Recalls 80% and Still Lies: The 6 Online Gates",
+      "description": "Offline sets the ceiling. The online path decides whether users can trust the answer.\nContinue reading on Medium »",
+      "url": "https://medium.com/@coolercoder/your-rag-recalls-80-and-still-lies-the-6-online-gates-d74aaea4fea2?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*InK48ictvwChrx7emo3JaA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:35:09.000Z"
+    },
+    {
+      "id": "rss-3da0872c428b",
+      "title": "RAG vs Fine-Tuning: The Decision That Saves You Months",
+      "description": "You are not building AI wrong. You are choosing the wrong weapon.\nContinue reading on Medium »",
+      "url": "https://satyajeet-bansode.medium.com/rag-vs-fine-tuning-the-decision-that-saves-you-months-fd1fed70fef4?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*ldrNgT63Mzhm67fyfWh7dg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:34:03.000Z"
+    },
+    {
+      "id": "rss-7e53f491ce22",
+      "title": "How Does Gmail Know It’s Spam Before You Do?",
+      "description": "Every morning, I open Gmail expecting to see the emails that matter.\nContinue reading on Medium »",
+      "url": "https://medium.com/@sivasakthiius/how-does-gmail-know-its-spam-before-you-do-8c03d8b92773?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*5yHQXbjcLpsdgCEpEFWcdA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:31:02.000Z"
+    },
+    {
+      "id": "rss-c243cf196887",
+      "title": "Progressive wave crashes in Sun Belt battleground as moderate holds his seat",
+      "description": "Rep. Greg Stanton defeated socialist challenger Kai Newkirk in Arizona's 4th District primary despite attacks over Israel and immigration, bucking a national trend.",
+      "url": "https://www.foxnews.com/politics/progressive-wave-crashes-sun-belt-battleground-moderate-holds-his-seat",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/GregStanton.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T03:25:28.000Z"
+    },
+    {
+      "id": "rss-8289540574db",
+      "title": "Election Denier Wins G.O.P. Nomination to Be Arizona’s Top Election Official",
+      "description": "State Representative Alexander Kolodin will take on Adrian Fontes, the incumbent Democratic secretary of state, after defeating a more moderate Republican in the primary.",
+      "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-primary-secretary-of-state-alexander-kolodin-wins.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21nat-arizona-secretaryofstate-Kolodin-mltk/21nat-arizona-secretaryofstate-Kolodin-mltk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T03:22:21.000Z"
+    },
+    {
+      "id": "rss-bdf8537e5eb5",
+      "title": "Ex-NFL star backed by Trump wins battleground state primary: 'True America First Conservative'",
+      "description": "Ex-NFL kicker Jay Feely won the GOP nomination for Arizona’s 1st District, setting up a high-stakes general election fight for a competitive Phoenix-area House seat.",
+      "url": "https://www.foxnews.com/politics/ex-nfl-star-backed-trump-wins-battleground-state-primary-true-america-first-conservative",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/jay-feely-nfl-wins-primary-2.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T03:20:58.000Z"
+    },
+    {
+      "id": "rss-45e57915fa66",
+      "title": "Ex-sheriff backed by Trump storms to victory in race to replace longtime GOP firebrand",
+      "description": "Mark Lamb secured Trump's backing and cleared the GOP primary to replace Andy Biggs, but allegations about sexual images shadowed his campaign.",
+      "url": "https://www.foxnews.com/politics/ex-sheriff-backed-trump-storms-victory-race-replace-longtime-gop-firebrand",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/mark-lamb-runs-for-congress.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T03:14:44.000Z"
+    },
+    {
+      "id": "rss-93ff860f3e30",
+      "title": "Trump-backed firebrand wins Arizona GOP governor primary, setting up high-stakes showdown",
+      "description": "Andy Biggs captured the Arizona GOP gubernatorial nomination, setting up a general election showdown against Democratic Gov. Katie Hobbs in November.",
+      "url": "https://www.foxnews.com/politics/trump-backed-firebrand-wins-arizona-gop-governor-primary-setting-up-high-stakes-showdown",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Andy-Biggs-Turning-Point-Phoenix_-Arizona-April-17_-2026.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T03:10:57.000Z"
+    },
+    {
+      "id": "rss-8e08952446ee",
+      "title": "Trump Pick Wins G.O.P. Nomination to Challenge Arizona Governor",
+      "description": "Representative Andy Biggs, a conservative Republican and an ally of the president, will try to unite Republicans against Gov. Katie Hobbs in a crucial swing state.",
+      "url": "https://www.nytimes.com/2026/07/21/us/elections/arizona-governor-andy-biggs-republican-primary.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21nat-ariz-gov-Andy-Biggs-cgbh/21nat-ariz-gov-Andy-Biggs-cgbh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T03:06:56.000Z"
+    },
+    {
+      "id": "rss-ff87c7261edf",
+      "title": "Prompt Injection, Hands-On: I Tried to Break My Own AI Assistant",
+      "description": "AI Security Deep Dives, Part 4\nContinue reading on Medium »",
+      "url": "https://medium.com/@tyrenker6/prompt-injection-hands-on-i-tried-to-break-my-own-ai-assistant-4d7e512d1abf?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*RMVpvVSB_zbejYAquN3wnw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:02:25.000Z"
+    },
+    {
+      "id": "rss-26cc5356fccb",
+      "title": "B2B SaaS Without an In-Product Digital Adoption Layer Is the New Shelfware.",
+      "description": "Shelfware was the defining failure of on-premise enterprise software in the 1990s and 2000s. Companies would buy expensive licenses, go…\nContinue reading on Medium »",
+      "url": "https://medium.com/@halifax5566/b2b-saas-without-an-in-product-digital-adoption-layer-is-the-new-shelfware-10a8076e8b2e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*EAd7YPcjuKTDMMNrncE2Aw.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:01:04.000Z"
+    },
+    {
+      "id": "rss-55046852b00d",
+      "title": "PeopleSoft to AI | Part 9: What Makes a Problem an AI Search Problem?",
+      "description": "In the last article, we learned that AI doesn’t blindly try every possible solution. Instead, it searches through different possibilities…\nContinue reading on Medium »",
+      "url": "https://medium.com/@gokulkalauni03/peoplesoft-to-ai-part-9-what-makes-a-problem-an-ai-search-problem-de61ca021de8?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*w0HBTfEOLM_sm8HkfR2zNg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:01:02.000Z"
+    },
+    {
+      "id": "rss-19e03b041b59",
+      "title": "10 Exciting Smartphone Features Coming Before 2030",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/phones/10-exciting-smartphone-features-coming-before-2030",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/446m3b5t/10-Exciting-Smartphone-Features-Coming-Before-2030.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T03:00:00.000Z"
+    },
+    {
+      "id": "rss-c8f5e44792fe",
+      "title": "What I Learned Predicting NFL Game Outcomes with Machine Learning",
+      "description": "Lessons learned from building predictive models with Python and historical NFL data\nContinue reading on Medium »",
+      "url": "https://medium.com/@gjoseph30/what-i-learned-predicting-nfl-game-outcomes-with-machine-learning-3596fd4900f3?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/741/1*oI9kHn_G2oy8PH8m3D-eMg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-22T02:56:09.000Z"
+    },
+    {
+      "id": "rss-bb339e7320ad",
+      "title": "Vulnerable Republican wins GOP primary in Arizona toss-up district Dems aim to flip blue",
+      "description": "Rep. Juan Ciscomani will face Democrat JoAnna Mendoza in a toss-up Arizona House race that could determine which party controls Congress after midterms.",
+      "url": "https://www.foxnews.com/politics/vulnerable-republican-wins-gop-primary-arizona-toss-up-district-dems-aim-flip-blue",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Juan-Ciscomani.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T02:46:43.000Z"
+    },
+    {
+      "id": "rss-70f27d08b084",
+      "title": "House Narrowly Passes Stopgap Spending Bill, but Shutdown Fight Looms",
+      "description": "Republicans managed to push through legislation to fund the government through Dec. 4. But with Democrats opposed, the stage is set for a broader battle.",
+      "url": "https://www.nytimes.com/2026/07/21/us/politics/house-stopgap-spending-bill-shutdown.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-spend-photo-wpzf/21dc-spend-photo-wpzf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T02:37:17.000Z"
+    },
+    {
+      "id": "rss-cb8706fb05a1",
+      "title": "AppleCare+ Changes Announced in Japan",
+      "description": "Apple today announced that AppleCare+ with Theft and Loss coverage is now available for the iPad and Apple Watch in Japan, after previously being limited to the iPhone there.\r\n\r\nTag: AppleCare\nThis ar",
+      "url": "https://www.macrumors.com/2026/07/21/applecare-changes-in-japan/",
+      "image": "https://images.macrumors.com/article-new/2021/12/applecare-apple-care-banner.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-22T02:34:53.000Z"
+    },
+    {
+      "id": "rss-29556491f410",
+      "title": "Jennifer Garner Rails Against Paparazzi Who ‘Knocked Over’ Kids and More Just to Get Photos of Her and Ben Affleck: ‘So Hungry to Get at Me’",
+      "description": "Jennifer Garner recently told the “Shut Up Evan” podcast that paparazzi would go to dangerous lengths to get photos of her and her children. “If I went through a yellow light, 15 cars would go through",
+      "url": "https://variety.com/2026/film/news/jennifer-garner-paparazzi-knocked-over-kids-ben-affleck-1236817776/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2285290363.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T02:30:39.000Z"
+    },
+    {
+      "id": "rss-88d6d4c48dcd",
+      "title": "Democrats re-nominate Arizona governor, setting stage for high-stakes November battle",
+      "description": "Katie Hobbs won her party's nomination after running unopposed in Arizona's Democratic primary for governor. She spent roughly $7 million on ads targeting independent and GOP voters.",
+      "url": "https://www.foxnews.com/politics/democrats-re-nominate-arizona-governor-setting-stage-high-stakes-november-battle",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/arizona-governor-katie-hobbs.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T02:26:38.000Z"
+    },
+    {
+      "id": "rss-5d5978f9c59b",
+      "title": "House GOP votes to punt government shutdown battle to after November midterms",
+      "description": "Speaker Mike Johnson warns Democrats would force another government shutdown before midterms as the Senate crafts its own continuing resolution.",
+      "url": "https://www.foxnews.com/politics/house-gop-votes-punt-government-shutdown-battle-after-november-midterms",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/mike-johnson-us-capitol-fox-news-002.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T02:16:31.000Z"
+    },
+    {
+      "id": "rss-cb09d5a731c7",
+      "title": "'The Queen returns': Napheesa Collier set to make season debut for first-place Minnesota Lynx on Wednesday",
+      "description": "The perennial MVP candidate is officially listed as 'probable' for the Lynx's game agains the Storm",
+      "url": "\n                                                https://www.cbssports.com/wnba/news/napheesa-collier-injury-return-lynx-wnba/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/22/01621844-161f-4c37-ac4e-08d575804de6/napheesa-collier-minnesota-lynx-return.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-22T01:56:43.000Z"
+    },
+    {
+      "id": "rss-52588332227c",
+      "title": "Mamdani goes back on campaign promise, says NYC can't arrest Netanyahu",
+      "description": "New York City Mayor Zohran Mamdani went back on a campaign promise after admitting the city lacks authority to arrest Israeli Prime Minister Benjamin Netanyahu if he visits NYC.",
+      "url": "https://www.foxnews.com/politics/mamdani-says-nyc-cant-arrest-netanyahu-urges-feds-enforce-icc-warrant",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Mamdani-Netanyahu-Arrest-Threat-NYC.gif",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T01:38:22.000Z"
+    },
+    {
+      "id": "rss-a2e1bc8dab94",
+      "title": "Apple promotes ‘Nido de Villanas,’ a Mexican microdrama shot on iPhone 17 Pro",
+      "description": "Apple has shared a first look at Nido de Villanas, a tongue-in-cheek Mexican microdrama shot entirely on an iPhone 17 Pro, which is now available as 14 Shorts on YouTube.",
+      "url": "https://9to5mac.com/2026/07/21/apple-promotes-nido-de-villanas-a-mexican-microdrama-shot-on-iphone-17-pro/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/nido-de-villanas.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-22T01:37:01.000Z"
+    },
+    {
+      "id": "rss-c26af2125336",
+      "title": "Top Generative AI Certifications for Career Growth",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/courses/top-generative-ai-certifications-for-career-growth",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-21/ed0srcfr/Top-Generative-AI-Certifications-for-Career-Growth.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-22T01:30:00.000Z"
+    },
+    {
+      "id": "rss-4d4710784b68",
+      "title": "'Jumping ship': House Dem finds exit strategy after SCOTUS ruling shifts advantage to GOP",
+      "description": "Rep Cleo Fields, D-La., will leave Congress to return to the Louisiana state Senate after the Supreme Court's ruling in Louisiana v. Callais reshaped his 6th Congressional District.",
+      "url": "https://www.foxnews.com/politics/jumping-ship-house-dem-finds-exit-strategy-after-scotus-ruling-shifts-advantage-gop",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/cleo-fields-congress.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-22T01:04:57.000Z"
+    },
+    {
+      "id": "rss-2d10ae1281e1",
+      "title": "Samsung Galaxy Unpacked July 2026: How to watch",
+      "description": "Samsung's next Galaxy Unpacked event is just around the corner, and the company is expected to take the wraps off a bunch of new devices. Based on the rumors and leaks we've seen so far, Samsung's nex",
+      "url": "https://www.theverge.com/tech/967926/samsung-galaxy-unpacked-july-2026-watch",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/galaxy-unpacked-july.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-22T01:00:00.000Z"
+    },
+    {
+      "id": "rss-3aaf1800ab07",
+      "title": "Games for Change 2026 Award Winners Revealed",
+      "description": "The nonprofit organization Games for Change announced the winners of the 2026 Games for Change Awards at the G4C Awards Ceremony. The ceremony was held during the annual Games for Change Festival in N",
+      "url": "https://variety.com/2026/gaming/news/games-for-change-2026-award-winners-ceremony-1236816702/",
+      "image": "https://variety.com/wp-content/uploads/2024/11/South-of-Midnight.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-22T01:00:00.000Z"
+    },
     {
       "id": "rss-3f7fcafafa00",
       "title": "Sony Music Files Another Lawsuit Against Udio, Alleges AI Music Generator Copied 30,000 Songs to Train Models",
@@ -11,6 +431,16 @@
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-07-22T00:57:16.000Z"
+    },
+    {
+      "id": "rss-4e1ffcfa31a0",
+      "title": "Former Tekken Director Katsuhiro Harada Reveals He Totally Misunderstood What Getting Invited To the Cookout Meant After Fans Loved the Leroy Smith Reveal",
+      "description": "Katsuhiro Harada, former director of the Tekken series, opened up about a hilarious misunderstanding he had with his international fans after revealing Leroy Smith for Tekken 7.",
+      "url": "https://www.ign.com/articles/former-tekken-director-katsuhiro-harada-reveals-he-totally-misunderstood-what-getting-invited-to-the-cookout-meant-after-fans-loved-the-leroy-smith-reveal",
+      "image": "https://assets-prd.ignimgs.com/2026/07/22/harada-confused-cookout-tekken-1784679785548.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-22T00:56:06.000Z"
     },
     {
       "id": "rss-e28a84387f45",
@@ -153,6 +583,16 @@
       "publishedAt": "2026-07-22T00:22:02.000Z"
     },
     {
+      "id": "rss-26d7af0fe8df",
+      "title": "Athletics vs. Diamondbacks Tuesday MLB pick: Sliding A's haven't won back-to-back games in weeks",
+      "description": "The Athletics have been struggling as they visit the Diamondbacks on Tuesday",
+      "url": "\n                                                https://www.cbssports.com/betting/news/athletics-vs-diamondbacks-tuesday-mlb-pick-sliding-as-havent-won-back-to-back-games-in-weeks/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/20/148a5b1e-6647-4520-b568-5b3987693880/usatsi-26597483-1.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-22T00:15:35.000Z"
+    },
+    {
       "id": "rss-d8cd928bc9ce",
       "title": "What absolutely cannot happen: designing systems by their failure boundaries",
       "description": "In a recent comment on my post about declarative systems and higher abstraction, Scott Edwards raised a critical challenge:\nContinue reading on Medium »",
@@ -191,6 +631,16 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-22T00:00:14.000Z"
+    },
+    {
+      "id": "rss-15db11261be4",
+      "title": "Today’s Wordle Hints, Answer and Help for July 22, #1859",
+      "description": "",
+      "url": "https://www.cnet.com/tech/gaming/todays-wordle-hints-answer-and-help-for-july-22-1859/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/20480816-214e-4fcc-a9b4-b02f0ac71e7c.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-22T00:00:00.000Z"
     },
     {
       "id": "rss-ffa878d391aa",
@@ -597,7 +1047,7 @@
       "title": "Built in Fort Worth: Wistron Opens Advanced Manufacturing Plant to Produce NVIDIA AI Systems",
       "description": "The AI era runs on AI infrastructure. Many of these advanced systems are built and tested in Texas. Wistron opened its first U.S. manufacturing facility today in Fort Worth — a 324,000-square-foot gre",
       "url": "https://blogs.nvidia.com/blog/wistron-manufacturing-texas/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/wistron-event-july2026-kv-3840x2160-1-scaled.jpg",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/Wistron_D1_Grand_Opening_Ceremony-Factory_Tour-21-MY-edit-scaled.jpg",
       "source": "NVIDIA AI Blog",
       "category": "ai",
       "publishedAt": "2026-07-21T22:35:45.000Z"
@@ -840,7 +1290,7 @@
       "image": "https://static01.nyt.com/images/2026/07/19/multimedia/00int-ukraine-syrskyi-HFO-wmpf/00int-ukraine-syrskyi-HFO-wmpf-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-21T21:39:09.000Z"
+      "publishedAt": "2026-07-21T21:39:10.000Z"
     },
     {
       "id": "rss-7cacab4cde02",
@@ -860,7 +1310,7 @@
       "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-clayton-photo-bhvp/21dc-clayton-photo-bhvp-mediumSquareAt3X.jpg",
       "source": "NYT Politics",
       "category": "politics",
-      "publishedAt": "2026-07-21T21:38:00.000Z"
+      "publishedAt": "2026-07-21T21:38:01.000Z"
     },
     {
       "id": "rss-9d760d9cba40",
@@ -910,7 +1360,7 @@
       "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-medicaid-topart1-kwhv/21dc-medicaid-topart1-kwhv-mediumSquareAt3X.jpg",
       "source": "NYT Politics",
       "category": "politics",
-      "publishedAt": "2026-07-21T21:31:12.000Z"
+      "publishedAt": "2026-07-21T21:31:13.000Z"
     },
     {
       "id": "rss-d16d086c0907",
@@ -1220,6 +1670,16 @@
       "image": "https://cdn.mos.cms.futurecdn.net/ox3728bfzC7byVQPP6sFLV-1280-80.png",
       "source": "Space.com",
       "category": "science",
+      "publishedAt": "2026-07-21T21:00:00.000Z"
+    },
+    {
+      "id": "rss-2d4d7d6a6276",
+      "title": "Why Your Brain Never Lets You Finish the Tasks You Need to Do — and the 23-Minute Reset That Fixes It",
+      "description": "The reason your business isn't growing may be because you're quitting a crucial phase 23 minutes too soon.",
+      "url": "https://www.entrepreneur.com/building-a-business/why-your-brain-never-lets-you-finish-the-tasks-you-need-to-do-and-the-23-minute-reset-that-fixes-it",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/brain-reset-finish-tasks-0726_g2213722357.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
       "publishedAt": "2026-07-21T21:00:00.000Z"
     },
     {
@@ -2113,6 +2573,16 @@
       "publishedAt": "2026-07-21T19:00:00.000Z"
     },
     {
+      "id": "rss-0b66f0405708",
+      "title": "How to Turn Every Customer Interaction Into a Win With 4 Smart AI Strategies",
+      "description": "Transform your customers' journey to its peak and set autonomous development as a default framework by leveraging AI.",
+      "url": "https://www.entrepreneur.com/growing-a-business/4-smart-ways-to-use-ai-to-wow-your-customers/504709",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/1784234879-ai-customer-interaction-strategy-0726-g2197363832.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-21T19:00:00.000Z"
+    },
+    {
       "id": "rss-41fc87b5dd45",
       "title": "Claude Has a Secret Room, Anthropic Just Found the Door.",
       "description": "The Chitti Moment:\nContinue reading on Medium »",
@@ -2480,7 +2950,7 @@
       "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-russia-photo-tphf/21dc-russia-photo-tphf-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-21T18:27:44.000Z"
+      "publishedAt": "2026-07-21T18:27:45.000Z"
     },
     {
       "id": "rss-bd42a0346de6",
@@ -5301,16 +5771,6 @@
       "source": "Fox News Health",
       "category": "health",
       "publishedAt": "2026-07-21T14:12:00.000Z"
-    },
-    {
-      "id": "rss-26d7af0fe8df",
-      "title": "Athletics vs. Diamondbacks Tuesday MLB pick: Sliding A's haven't won back-to-back games in weeks",
-      "description": "The Athletics have been struggling as they visit the Diamondbacks on Tuesday",
-      "url": "\n                                                https://www.cbssports.com/betting/news/athletics-vs-diamondbacks-tuesday-mlb-pick-sliding-as-havent-won-back-to-back-games-in-weeks/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/20/148a5b1e-6647-4520-b568-5b3987693880/usatsi-26597483-1.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-21T14:11:55.000Z"
     },
     {
       "id": "rss-0633c2f27bfe",
