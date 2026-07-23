@@ -1,7 +1,397 @@
 {
-  "lastUpdated": "2026-07-23T01:05:32.127Z",
-  "count": 2068,
+  "lastUpdated": "2026-07-23T04:50:49.568Z",
+  "count": 2115,
   "articles": [
+    {
+      "id": "rss-660d838456e2",
+      "title": "I Replaced My Daily 4-Hour Administrative Grind with AI Tools (And What Happened Next)",
+      "description": "For nearly two years, my workday started at 7:00 AM with a sinking feeling in my stomach.\nContinue reading on Medium »",
+      "url": "https://medium.com/@beenishzeeshan71/i-replaced-my-daily-4-hour-administrative-grind-with-ai-tools-and-what-happened-next-0b6620d163af?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*RjA8vJCeRLJNNIUOBzz6DA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:50:04.000Z"
+    },
+    {
+      "id": "rss-40fb528a1146",
+      "title": "Constraint Satisfaction Techniques in AI Planning and Scheduling",
+      "description": "Flight schedulers assigning pilots, exam schedulers in universities, and conveyor belt job assigners in factories are all trying to solve…\nContinue reading on Medium »",
+      "url": "https://medium.com/@murali.nishant24/constraint-satisfaction-techniques-in-ai-planning-and-scheduling-c9a6fb8de578?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*nV3Y-3f3-lcdXSS9JTCNNg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:43:59.000Z"
+    },
+    {
+      "id": "rss-e76d906ad6ed",
+      "title": "There’s One GenAI Engineer for Every Ten Open Roles (And It’s Now a Real Estate Problem)",
+      "description": "India has one qualified GenAI engineer for every ten roles. Here’s why the talent shortage is now a workspace-and-location decision.\nContinue reading on Medium »",
+      "url": "https://qdesq.medium.com/theres-one-genai-engineer-for-every-ten-open-roles-and-it-s-now-a-real-estate-problem-8735a1b170bd?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*Shs0-QIzijbXBCMr",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:41:01.000Z"
+    },
+    {
+      "id": "rss-3160e65d4f9c",
+      "title": "Why Your Next Laptop Costs 20% More in 2026?",
+      "description": "Your next laptop just got 20% more expensive. And no, it’s not inflation. It’s not tariffs. It’s not “just a supply chain stuff.”\nContinue reading on DataDrivenInvestor »",
+      "url": "https://medium.datadriveninvestor.com/why-your-next-laptop-costs-20-more-in-2026-91577ff28983?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*aqeGI42WpikNL1tyYp2Qzg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:37:28.000Z"
+    },
+    {
+      "id": "rss-ad2887f2c9ca",
+      "title": "The Expanding Engineering Stack: Why AI Keeps Creating New Engineering Disciplines",
+      "description": "Over the past few years, we’ve watched a steady stream of new “engineering” disciplines emerge.\nContinue reading on Medium »",
+      "url": "https://medium.com/@dave-patten/the-expanding-engineering-stack-why-ai-keeps-creating-new-engineering-disciplines-a8f7a63f0a27?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*sUhTA_Q_C2uwOrg90eJnpQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:36:36.000Z"
+    },
+    {
+      "id": "rss-4b6966b39bd3",
+      "title": "Fact Check: Did Claude Mythos Really “Escape”? The Truth Is More Complicated — and More Important",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@fahey_james/fact-check-did-claude-mythos-really-escape-the-truth-is-more-complicated-and-more-important-d7a19ec0022f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*EwdzMfrUQOmqw-Ozv376kA@2x.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:36:16.000Z"
+    },
+    {
+      "id": "rss-17d52ba05c9e",
+      "title": "conversion focused website design services",
+      "description": "Affordable Web Development for Startups\nContinue reading on Medium »",
+      "url": "https://medium.com/@njtechnos1/conversion-focused-website-design-services-8f48641dbd2d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*5IVSB_GsdY4vplljCXI0Xg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:35:55.000Z"
+    },
+    {
+      "id": "rss-6afad5896d78",
+      "title": "Poor AI Design Becomes Expensive AI",
+      "description": "The biggest AI costs of 2026 aren’t sitting in your API invoice. They’re hiding in architectural decisions nobody is measuring.\nContinue reading on Medium »",
+      "url": "https://drijeshppatel.medium.com/poor-ai-design-becomes-expensive-ai-136d77b5c170?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*WSVongdfG6LrOnLLo9__pg.gif",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:33:41.000Z"
+    },
+    {
+      "id": "rss-d85fca05224e",
+      "title": "Marketing Jobs that Didn't Exist Five Years Ago",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/jobs/marketing-jobs-that-didnt-exist-five-years-ago",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/dcxemngq/Marketing-Jobs-That-Didnt-Exist-Five-Years-Ago.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:30:00.000Z"
+    },
+    {
+      "id": "rss-b659519d3bbc",
+      "title": "Bias vs. Variance — Why Good Models Still Fail",
+      "description": "Two models. Two different ways of being wrong.\nContinue reading on Medium »",
+      "url": "https://medium.com/@banerjeevictor06/bias-vs-variance-why-good-models-still-fail-9456ad4a4341?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*DdyEOHsgP6Qnxo_J43wy9g.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:28:51.000Z"
+    },
+    {
+      "id": "rss-9f8d0c70448c",
+      "title": "Amish Shah Wins Democratic Primary in Swing Arizona House District",
+      "description": "Dr. Amish Shah, who beat the choice of the party’s House campaign arm, will face Jay Feely, a Republican, in a battleground district that covers parts of Phoenix.",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/amish-shah-arizona-house-democrats.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22pol-arizona-dem-upset-kfjh/22pol-arizona-dem-upset-kfjh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T04:25:41.000Z"
+    },
+    {
+      "id": "rss-4891411756e5",
+      "title": "The Unnamed War",
+      "description": "A field ledger from inside the collision — everything verified, everything missing, and the date circled on the calendar\nContinue reading on Medium »",
+      "url": "https://medium.com/@signaloftheeye/the-unnamed-war-8f685757576a?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1168/1*nKTsiBxxv_rPo8fXCuiJnw.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:23:57.000Z"
+    },
+    {
+      "id": "rss-c7e1e9df02ea",
+      "title": "How GraphRAG & Kimi K3 Are Killing Basic AI Apps",
+      "description": "Want to fix AI hallucinations? Graph Engineering combined with Kimi K3 cuts token costs by 75% and boosts accuracy by storing data as…\nContinue reading on Artificial Intelligence in Plain English »",
+      "url": "https://ai.plainenglish.io/how-graphrag-kimi-k3-are-killing-basic-ai-apps-2916a393d020?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*81PeORq2O3rTLVf_",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:20:39.000Z"
+    },
+    {
+      "id": "rss-8be39ab921f1",
+      "title": "Precision Annotation for Poultry Health Monitoring: Powering Smarter Farms with AI",
+      "description": "Modern poultry farming is rapidly evolving. With the increasing demand for efficiency, sustainability, and animal welfare, farmers and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@wisepl/precision-annotation-for-poultry-health-monitoring-powering-smarter-farms-with-ai-09f577ca3f69?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1749/1*5Qg_0nRwR6K-_yZwyLr0Fg.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:11:41.000Z"
+    },
+    {
+      "id": "rss-97bac1734059",
+      "title": "Feed-forward Neural Networks",
+      "description": "In the previous article, we discussed the differences between embeddings and activation’s in detail, but only briefly covered the overall…\nContinue reading on Medium »",
+      "url": "https://medium.com/@jp.mak44/feed-forward-neural-networks-7f8dd62946f9?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*mjbgpk_8JAA3_OLTbVaunQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:04:45.000Z"
+    },
+    {
+      "id": "rss-48c8ed207651",
+      "title": "Diesel Crisis Puts Poor Farmers Around the World at Risk",
+      "description": "The closure of the Strait of Hormuz has limited the shipment of diesel, depriving farmers of fuel for irrigation pumps and threatening the food supply.",
+      "url": "https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/Biz-Bangladesh-Irrigation-video-still-gmlc/Biz-Bangladesh-Irrigation-video-still-gmlc-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T04:01:17.000Z"
+    },
+    {
+      "id": "rss-629e54f665ed",
+      "title": "How to play with friends in Splatoon Raiders",
+      "description": "You can play with friends in Splatoon Raiders' multiplayer, even though it's a single-player game. Here's how to play with friends in Splatoon Raiders",
+      "url": "https://www.polygon.com/splatoon-raiders-multiplayer-how-to-play-with-friends/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/splatoon-raiders-multiplayer-play-with-friends.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T04:01:12.000Z"
+    },
+    {
+      "id": "rss-27f577deb420",
+      "title": "Which gadget tank should you pick in Splatoon Raiders?",
+      "description": "Splatoon Raiders' gadget tanks are an important part of each raid. Here's which gadget tank you should pick in Splatoon Raiders",
+      "url": "https://www.polygon.com/splatoon-raiders-gadget-tank-speed-power-technical/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/splatoon-raiders-gadget-tank-speed-power-technical.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T04:01:12.000Z"
+    },
+    {
+      "id": "rss-7bbe025a73b5",
+      "title": "10 Splatoon Raiders beginner tips to help you beat back the hordes in style",
+      "description": "Our Splatoon Raiders beginner guide includes 10 tips and tricks to get the most out of your weapons and gadgets",
+      "url": "https://www.polygon.com/splatoon-raiders-beginner-tips-tricks/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/splatoon-raiders-beginner-tips-tricks.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T04:01:12.000Z"
+    },
+    {
+      "id": "rss-719725f2412d",
+      "title": "Japan’s Leader Invokes Her Hero, Shinzo Abe, to Drive Nationalist Agenda",
+      "description": "Prime Minister Sanae Takaichi is leveraging her ties to Mr. Abe, the slain Japanese leader, as she pushes to reshape defense and the economy.",
+      "url": "https://www.nytimes.com/2026/07/23/world/asia/japan-sanae-takaichi-shinzo-abe.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-japan-abe-chzq/22int-japan-abe-chzq-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T04:01:09.000Z"
+    },
+    {
+      "id": "rss-cd3380a84544",
+      "title": "Droven.io AI News Portal: Exploring AI Trends, Tools, and Emerging Technologies in 2026",
+      "description": "Discover how Droven.io covers artificial intelligence, generative AI, automation, cybersecurity, and emerging technologies transforming…\nContinue reading on Medium »",
+      "url": "https://medium.com/@suprajatycoon/droven-io-ai-news-portal-exploring-ai-trends-tools-and-emerging-technologies-in-2026-25a5d6f6eab6?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/700/0*HHEtQQwXVE8NpuTd.jpg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:01:07.000Z"
+    },
+    {
+      "id": "rss-c2ed185bee46",
+      "title": "‘The Wild Robot’ VFX Studio STIM Sets Canary Islands Operation, Planning to Create More Than 100 Jobs",
+      "description": "French animation and visual effects company STIM – whose credits include “The Wild Robot,” “The Garfield Movie” and “Coyote vs. Acme” – is opening a production center in Spain’s Canary Islands, with p",
+      "url": "https://variety.com/2026/film/markets-festivals/stim-canary-islands-animation-studio-tenerife-zec-1236817891/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Wild-Robot.webp",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "id": "rss-34b8c3bbbada",
+      "title": "'It was unlike anything I'd witnessed before': Orcas seen headbutting a sunfish so hard that it exploded",
+      "description": "In two encounters in the Gulf of California, one orca held a dead sunfish in place while another rammed it at high speed, breaking the carcass into what appear to be bite-sized pieces for younger whal",
+      "url": "https://www.livescience.com/animals/orcas/it-was-unlike-anything-id-witnessed-before-orcas-seen-headbutting-a-sunfish-so-hard-that-it-exploded",
+      "image": "https://cdn.mos.cms.futurecdn.net/DSMCv6pzRGcVkrrohY4WC7-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "id": "rss-ae0742ddbbbb",
+      "title": "Watch an orca ram into a sunfish so hard it explodes",
+      "description": "This strategy expands orcas’ already broad repertoire for dispatching different types of prey.",
+      "url": "https://www.sciencenews.org/article/orca-ram-into-sunfish-explodes",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072126_MT_sunfish-pinatas_main.jpg?w=800",
+      "source": "Science News",
+      "category": "science",
+      "publishedAt": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "id": "rss-b54a9be4ab0e",
+      "title": "Data Science Tools Every Beginner Should Know",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/data-science/data-science-tools-every-beginner-should-know",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/h6p89gnj/Data-Science-Tools-Every-Beginner-Should-Know.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-23T04:00:00.000Z"
+    },
+    {
+      "id": "rss-6836f9d2e9a9",
+      "title": "Large Language Models Have Risk Personalities, and Product Teams Are Ignoring Them",
+      "description": "A recent study tested six LLMs alongside 100 humans in high-stakes scenarios. The results change how we should think about AI-assisted…\nContinue reading on Medium »",
+      "url": "https://medium.com/@souvik.0204/large-language-models-have-risk-personalities-and-product-teams-are-ignoring-them-bd3574361ab9?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*ZXhQ4430LyvQBkbwqyX4OQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T03:52:58.000Z"
+    },
+    {
+      "id": "rss-51d9320b26b5",
+      "title": "Your Vector Database Is Not the Product — Your Retrieval Strategy Is",
+      "description": "Everyone is obsessed with the wrong thing.\nContinue reading on Medium »",
+      "url": "https://satyajeet-bansode.medium.com/your-vector-database-is-not-the-product-your-retrieval-strategy-is-88bba3ff6012?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*odsG6AizH6eBsLB4kYmnrQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T03:46:19.000Z"
+    },
+    {
+      "id": "rss-b1c5beb448b5",
+      "title": "Beyond Sentiment: Building an AI That Talks Back Safely",
+      "description": "Why “positive vs. negative” is the wrong finish line for customer feedback — and what a responsible GenAI response system actually requires\nContinue reading on Medium »",
+      "url": "https://medium.com/@devamshah26/beyond-sentiment-building-an-ai-that-talks-back-safely-f50007f0b18a?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*xGNEa9me0OAC_WMhYzGVzw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T03:31:08.000Z"
+    },
+    {
+      "id": "rss-f94c8677ab7e",
+      "title": "I Replaced 5 Dev Tools With AI in 30 Days — Here’s What Actually Worked",
+      "description": "A 30-day experiment in swapping familiar dev tools for AI-powered alternatives — and the honest, unfiltered results of what stuck, what…\nContinue reading on Medium »",
+      "url": "https://medium.com/@kaklotarrahul79/i-replaced-5-dev-tools-with-ai-in-30-days-heres-what-actually-worked-09563e2083d1?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*oUa8TUa2_-5g_cYCeo_3wA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T03:31:07.000Z"
+    },
+    {
+      "id": "rss-426c2d54ab42",
+      "title": "Doom Co-Creator John Romero to Headline Gamescom Asia x Thailand Game Show 2026",
+      "description": "",
+      "url": "https://www.ign.com/articles/doom-co-creator-john-romero-to-headline-gamescom-asia-x-thailand-game-show-2026",
+      "image": "https://assets-prd.ignimgs.com/2024/05/30/gettyimages-614752764-1-1717084969339.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T03:24:34.000Z"
+    },
+    {
+      "id": "rss-d6f0ba0f3277",
+      "title": "50/50 Director Jonathan Levine in Talks to Direct Tom Cruise Sequel Days of Thunder 2",
+      "description": "Paramount prepares to drop the hammer on another high-speed Tom Cruise legacy sequel.",
+      "url": "https://www.ign.com/articles/5050-director-jonathan-levine-in-talks-to-direct-tom-cruise-sequel-days-of-thunder-2",
+      "image": "https://assets-prd.ignimgs.com/2024/11/01/days-of-thunder-1730498150132.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T03:10:51.000Z"
+    },
+    {
+      "id": "rss-8e966e42f038",
+      "title": "Best Business Intelligence Strategies for Modern Executives",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/best-business-intelligence-strategies-for-modern-executives",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/6y4d16ir/Best-Business-Intelligence-Strategies-for-Modern-Executives.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-23T03:00:00.000Z"
+    },
+    {
+      "id": "rss-34b920532eb6",
+      "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
+      "description": "The Saudi authorities confirmed a strike on one of the ships. These are the first claimed attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
+      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-oil-tankers-htqp/22mideast-live-oil-tankers-htqp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T02:59:44.000Z"
+    },
+    {
+      "id": "rss-fc6e51a40205",
+      "title": "Former Head of All-Girls School Indicted, Accused of Ignoring Abuse Reports",
+      "description": "Jean Norris, who ran Miss Hall’s School in Massachusetts, was charged with reckless endangerment of a child. A former teacher under her tenure faces three rape charges.",
+      "url": "https://www.nytimes.com/2026/07/22/us/head-of-miss-halls-school-indicted.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/us/22nat-hall-s-indictment-upload-from-desktop/22nat-hall-s-indictment-upload-from-desktop-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T02:24:29.000Z"
+    },
+    {
+      "id": "rss-46e7ff279457",
+      "title": "Republican Lawmaker Urges Charges Against Jack Smith",
+      "description": "The criminal referral could provide a catalyst for a prosecution of Mr. Smith, who as special counsel became a top target of the president’s retribution campaign.",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/jack-smith-jim-jordan-charges.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/00dc-smithHFO-photo-qmjb/00dc-smithHFO-photo-qmjb-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T02:08:48.000Z"
+    },
+    {
+      "id": "rss-a93d16f72f97",
+      "title": "Red Sox fall to Orioles, ending historic winning streak at 15 games, one shy of new franchise record",
+      "description": "Boston's 15-game winning streak was the second-longest of the decade",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/red-sox-winning-streak-ends-orioles/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/23/444e9e14-64ca-4040-b3f9-4d72c988c76c/bosox-streak-ends-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-23T02:03:18.000Z"
+    },
+    {
+      "id": "rss-0e5f4851d694",
+      "title": "NVIDIA AI Supercomputer Comes Online at Naval Postgraduate School",
+      "description": "NVIDIA founder and CEO Jensen Huang today visited the Naval Postgraduate School in Monterey, California, to commission an NVIDIA DGX GB300 system — bringing one of the world’s most powerful AI platfor",
+      "url": "https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/260722-N-UT641-7052-scaled.jpg",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-23T02:00:46.000Z"
+    },
+    {
+      "id": "rss-42decaa776cb",
+      "title": "Side Hustles that Turned into Tech Companies",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/side-hustles-that-turned-into-tech-companies",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-22/jre2sgur/Side-Hustles-That-Turned-into-Tech-Companies.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-23T01:30:00.000Z"
+    },
+    {
+      "id": "rss-481153718a7c",
+      "title": "House Passes Defense Bill Amid Iran War Divide",
+      "description": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22dc-defensebill-photo-gfvm/22dc-defensebill-photo-gfvm-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T01:10:29.000Z"
+    },
     {
       "id": "rss-a747c93b02fa",
       "title": "Where to Find a Commonwealth Games 2026 Livestream in the U.S. to Watch the Event for Free",
@@ -31,6 +421,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-23T01:01:01.000Z"
+    },
+    {
+      "id": "rss-78a69ca335fc",
+      "title": "Jack Smith hit with criminal referral as GOP moves testimony fight toward prosecution",
+      "description": "Jim Jordan issued a criminal referral against Jack Smith, accusing him of making false statements to Congress about accessing lawmakers' text messages.",
+      "url": "https://www.foxnews.com/politics/jack-smith-hit-criminal-referral-gop-moves-testimony-fight-toward-prosecution",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/special-counsel-jack-smith.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T01:00:33.000Z"
     },
     {
       "id": "rss-ef36a63043db",
@@ -183,16 +583,6 @@
       "publishedAt": "2026-07-23T00:18:35.000Z"
     },
     {
-      "id": "rss-34b920532eb6",
-      "title": "Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea",
-      "description": "The Saudi authorities had yet to confirm the hits, which would be the first attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.",
-      "url": "https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-oil-tankers-htqp/22mideast-live-oil-tankers-htqp-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-23T00:12:45.000Z"
-    },
-    {
       "id": "rss-7d05fd19a71e",
       "title": "I Trained Two CNNs on 101 Food Categories. The Gap Was 42%",
       "description": "What that number taught me about pretrained weights, building end-to-end AI systems, and why reading about deep learning is never enough.\nContinue reading on Towards AI »",
@@ -201,6 +591,16 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-23T00:01:02.000Z"
+    },
+    {
+      "id": "rss-f19d5194316e",
+      "title": "As a Startup Advisor, I See AI’s Limitations Daily. Here’s How to Refine Its Output So It Actually Attracts Investors.",
+      "description": "Artificial intelligence can help write a clean business plan, but it doesn’t create conviction. Here’s how to bridge the gap.",
+      "url": "https://www.entrepreneur.com/building-a-business/as-a-startup-advisor-i-see-ais-limitations-daily-heres-how-to-refine-its-output-so-it-actually-attracts-investors",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/ai-business-plan-attract-investors-0726_g2238898410.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-23T00:00:00.000Z"
     },
     {
       "id": "rss-000fb8c2a116",
@@ -240,7 +640,7 @@
       "image": "https://static01.nyt.com/images/2026/07/22/multimedia/00up-suprises-zwgc/00up-suprises-zwgc-mediumSquareAt3X.jpg",
       "source": "NYT Politics",
       "category": "politics",
-      "publishedAt": "2026-07-22T23:43:33.000Z"
+      "publishedAt": "2026-07-22T23:43:34.000Z"
     },
     {
       "id": "rss-11d61867986e",
@@ -250,7 +650,7 @@
       "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22met-mamdani-speech-vhlj/22met-mamdani-speech-vhlj-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-22T23:42:32.000Z"
+      "publishedAt": "2026-07-22T23:42:33.000Z"
     },
     {
       "id": "rss-917b63f6d563",
@@ -400,7 +800,7 @@
       "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22dc-trump-nuclear-photo-fclj/22dc-trump-nuclear-photo-fclj-mediumSquareAt3X.jpg",
       "source": "NYT Politics",
       "category": "politics",
-      "publishedAt": "2026-07-22T23:05:43.000Z"
+      "publishedAt": "2026-07-22T23:05:44.000Z"
     },
     {
       "id": "rss-e62dc5d82194",
@@ -603,16 +1003,6 @@
       "publishedAt": "2026-07-22T22:20:29.000Z"
     },
     {
-      "id": "rss-2b8556746a0b",
-      "title": "House Passes Defense Bill Amid Iran War Divide",
-      "description": "Republicans pushed through the $1.15 trillion bill over opposition from Democrats, who said backing it was akin to embracing the war.",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-defense-bill-iran-war.html",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22dc-defensebill-photo-gfvm/22dc-defensebill-photo-gfvm-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-22T22:19:56.000Z"
-    },
-    {
       "id": "rss-9e3f4cc1ab4d",
       "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
       "description": "Google’s parent company, which has spent heavily on artificial intelligence, also showed growth across its businesses, particularly in cloud computing.",
@@ -731,6 +1121,16 @@
       "source": "Fox News Politics",
       "category": "politics",
       "publishedAt": "2026-07-22T22:00:03.000Z"
+    },
+    {
+      "id": "rss-50b35722fb9f",
+      "title": "Are Your Prices Really Fair? There’s a Simple Formula to Find Out",
+      "description": "As AI speeds up financial analysis and valuation turns private, don't overlook innovative companies before prices reflect their potential.",
+      "url": "https://www.entrepreneur.com/building-a-business/are-your-prices-really-fair-theres-a-simple-formula-to-find-out",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/fair-pricing-0726-g-2219875458.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-22T22:00:00.000Z"
     },
     {
       "id": "rss-552a0a25919a",
@@ -1653,6 +2053,26 @@
       "publishedAt": "2026-07-22T20:00:00.000Z"
     },
     {
+      "id": "rss-c14f31f6e313",
+      "title": "What Every Founder Gets Wrong About Scaling — And the 4 Principles That Fix It",
+      "description": "Growth exposes every weakness in how you operate — here are the four principles I return to whenever the business starts to feel out of control.",
+      "url": "https://www.entrepreneur.com/starting-a-business/what-every-founder-gets-wrong-about-scaling-and-the-4/504473",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/1784640592-founders-scaling-business-0726-g912018754.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-22T20:00:00.000Z"
+    },
+    {
+      "id": "rss-d2f57fa4d09d",
+      "title": "If You Keep Getting Fired From Leadership Roles, It’s Time to Ask Yourself These 5 Questions",
+      "description": "If you keep getting fired, it’s worth reflecting before you pursue your next role. Here are five honest questions to ask yourself.",
+      "url": "https://www.entrepreneur.com/building-a-business/if-you-keep-getting-fired-from-leadership-roles-its-time-to-ask-yourself-these-5-questions",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/fired-from-leadership-roles-0726-g-1070990852.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-22T20:00:00.000Z"
+    },
+    {
       "id": "rss-4177cb5683eb",
       "title": "I tried Samsung’s Z Fold 8, Fold 8 Ultra, Z Flip 8 and Watch Ultra 2: Come along",
       "description": "Go hands-on with Samsung's Galaxy Z Fold 8, Fold 8 Ultra, Z Flip 8, and Watch Ultra 2 to see what's new.",
@@ -1661,6 +2081,26 @@
       "source": "Mashable",
       "category": "technology",
       "publishedAt": "2026-07-22T19:59:57.000Z"
+    },
+    {
+      "id": "rss-de5c6753f9ce",
+      "title": "Jordan Rothstein Is Building SmackTok for the Next Era of Social Sports Gaming",
+      "description": "After growing up with a family legacy in sports betting, Jordan Rothstein is building SmackTok around community, creators and game day",
+      "url": "https://www.entrepreneur.com/building-a-business/business-funding/jordan-rothstein-smacktok-social-sports-gaming",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/Untitled-design-11.png",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-22T19:55:23.000Z"
+    },
+    {
+      "id": "rss-4f40c5ae0416",
+      "title": "The Man Behind Boxing’s Biggest Media Brands",
+      "description": "He built boxing's biggest news site and sold it to a public company. Now Rick Reeno is doing it again with a magazine that has been around since 1922.",
+      "url": "https://www.entrepreneur.com/entrepreneurs/rick-reeno-boxing-media-the-ring-boxingscene",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/Untitled-design-10.png",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-22T19:53:43.000Z"
     },
     {
       "id": "rss-99a8bafdb5fa",
@@ -2111,6 +2551,16 @@
       "source": "Space.com",
       "category": "science",
       "publishedAt": "2026-07-22T19:00:00.000Z"
+    },
+    {
+      "id": "rss-57524722860d",
+      "title": "Sony Revives Cinerama Dome in Los Angeles as Box Office Sales Rebound",
+      "description": "The iconic Cinerama Dome and adjacent 14-screen theater complex will reopen in 2028 after a renovation. The venue closed in 2020 because of the pandemic.",
+      "url": "https://www.nytimes.com/2026/07/22/business/media/cinerama-dome-sony-pictures-hollywood.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/BIZ-ARCLIGHT-1-zvkc/BIZ-ARCLIGHT-1-zvkc-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-22T18:58:20.000Z"
     },
     {
       "id": "rss-d9a708385401",
@@ -2608,6 +3058,16 @@
       "description": "Here's why execution fixes fail after they start working.",
       "url": "https://www.entrepreneur.com/building-a-business/you-introduced-a-new-process-but-your-team-still-chose-the-safer-path-heres-why",
       "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/new-process-but-team-still-chose-safer-path-0726-g-2261996955.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-22T18:00:00.000Z"
+    },
+    {
+      "id": "rss-dfd2fc895bdd",
+      "title": "I Own a $1 Million Domain — Here’s the Checklist That Stands Between You and Losing Everything",
+      "description": "Most founders treat their domain like a marketing asset when it should be locked down like banking access and production credentials.",
+      "url": "https://www.entrepreneur.com/growing-a-business/i-own-a-1-million-domain-heres-the-checklist-that/504268",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/1784236260-domain-checklist-0726-g1329149194.jpg",
       "source": "Entrepreneur",
       "category": "business",
       "publishedAt": "2026-07-22T18:00:00.000Z"
@@ -3600,7 +4060,7 @@
       "image": "https://static01.nyt.com/images/2026/07/15/us/dc-teen-pregnancy/dc-teen-pregnancy-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "health",
-      "publishedAt": "2026-07-22T16:20:34.000Z"
+      "publishedAt": "2026-07-22T16:20:35.000Z"
     },
     {
       "id": "rss-63bf2226fe53",
@@ -4801,6 +5261,16 @@
       "source": "Fox News Politics",
       "category": "politics",
       "publishedAt": "2026-07-22T14:42:17.000Z"
+    },
+    {
+      "id": "rss-dbe6e9d9c84b",
+      "title": "Trump said Australia’s system ‘worked out very well’ with $200,000 saved by 67 — so why didn’t he apply that model to Trump Accounts?",
+      "description": "Australia's mandatory 12% employer contributions built that balance over a working lifetime. Trump's newborn accounts rely on a one-time $1,000 deposit.",
+      "url": "https://fortune.com/2026/07/22/trump-accounts-australia-superannuation-comparison/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2284350892-e1784731198892.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-22T14:40:43.000Z"
     },
     {
       "id": "rss-07b17523bea6",
@@ -20223,6 +20693,16 @@
       "publishedAt": "2026-07-18T20:27:48.000Z"
     },
     {
+      "id": "rss-be6d020f20c1",
+      "title": "Two U.S. troops are dead and another is missing after Iran attacks a base in Jordan as supreme leader calls Trump’s signature ‘worthless and invalid’",
+      "description": "Since the war began, 16 U.S. service members have now been killed and over 430 wounded.",
+      "url": "https://fortune.com/2026/07/18/us-troops-killed-missing-iran-attacks-base-jordan-supreme-leader-trump/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26199600019143-e1784397287207.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-18T18:02:42.000Z"
+    },
+    {
       "id": "rss-8086b1a68988",
       "title": "The Same 5G Network Your Phone Uses Can Identify and Track Rogue Drones",
       "description": "",
@@ -20671,16 +21151,6 @@
       "source": "Fox News Health",
       "category": "health",
       "publishedAt": "2026-07-16T11:00:29.000Z"
-    },
-    {
-      "id": "rss-22a6d91e6558",
-      "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
-      "description": "Researchers developed an automated framework that helps AI models generate CAD programs more accurately and efficiently.",
-      "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-Geometric-Tuning-01-press.jpg?itok=y_aKzkkP",
-      "source": "MIT AI News",
-      "category": "ai",
-      "publishedAt": "2026-07-16T04:00:00.000Z"
     }
   ]
 }
