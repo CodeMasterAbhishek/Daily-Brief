@@ -1,7 +1,707 @@
 {
-  "lastUpdated": "2026-07-23T20:35:41.340Z",
-  "count": 2747,
+  "lastUpdated": "2026-07-23T22:03:38.535Z",
+  "count": 2825,
   "articles": [
+    {
+      "id": "rss-96e100dc0e63",
+      "title": "10 iOS 27 Performance Improvements You'll Actually Notice",
+      "description": "With iOS 27, Apple focused on making improvements to iOS performance, optimizing everything from system animations to AirDrop transfer speeds. iPhone performance is smoother and faster on all iPhones ",
+      "url": "https://www.macrumors.com/guide/ios-27-performance-improvements/",
+      "image": "https://images.macrumors.com/article-new/2026/07/10-iOS-27-Performance-Improvements-Youll-Actually-Notice-Feature.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-23T22:02:58.000Z"
+    },
+    {
+      "id": "rss-adb8ff532d3e",
+      "title": "Palworld Players Fight Massive End Game Boss And It Almost Goes Terribly",
+      "description": "The Palworld 1.0 update has added a new boss named Kyogr–er, I mean, Panthalus–that some players are seemingly running into by mistake",
+      "url": "https://kotaku.com/palworld-players-fight-massive-end-game-boss-and-it-almost-goes-terribly-2000718798",
+      "image": "https://kotaku.com/app/uploads/2026/07/pal.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T22:00:58.000Z"
+    },
+    {
+      "id": "rss-e205efc4d7dc",
+      "title": "New Dragon Quest Monsters game reveals its weird new creatures",
+      "description": "Square Enix's catch-'em-all spinoff returns in December, promising plenty of monster collecting hijinks for Dragon Quest fans",
+      "url": "https://www.polygon.com/dragon-quest-monsters-withered-world-new-details/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/dqm4_02_07_en_web.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T22:00:12.000Z"
+    },
+    {
+      "id": "rss-c3535a9391ad",
+      "title": "Winners and losers of LeBron James' long free agency: Prediction markets cash in as NBA schedule makers wait",
+      "description": "The prediction markets and schedule makers are going crazy, for two very different reasons",
+      "url": "\n                                                https://www.cbssports.com/nba/news/lebron-james-free-agency-winners-losers-nba-rich-paul-heat/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/23/92efb2ef-5ce9-4549-aee7-f641f6a05719/lebron-fanatics-fest-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-23T21:59:24.000Z"
+    },
+    {
+      "id": "rss-2d391b607a5a",
+      "title": "Number of U.S. Troop Deaths Suddenly Appears Lower on Pentagon Website",
+      "description": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23dc-troops-cvgb/23dc-troops-cvgb-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T21:59:01.000Z"
+    },
+    {
+      "id": "rss-5ea0927cdf64",
+      "title": "Johnny Depp Makes Surprise Comic-Con Appearance as Ebenezer Scrooge",
+      "description": "Johnny Depp made a surprise appearance at San Diego Comic-Con on Thursday — in his full Ebenezer Scrooge regalia. Depp plays Scrooge in the upcoming Paramount movie, “Ebenezer,” which debuts in theate",
+      "url": "https://variety.com/2026/film/news/johnny-depp-comic-con-surprise-ebenezer-scrooge-1236819764/",
+      "image": "https://variety.com/wp-content/uploads/2026/04/GettyImages-2224147431.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-23T21:57:43.000Z"
+    },
+    {
+      "id": "rss-857d812d7e7a",
+      "title": "Democratic Voters Keep Defying the Party Establishment",
+      "description": "The House Democratic campaign arm has stepped up its interventions in high-profile contested primaries. But this week, it suffered its third primary defeat in two months.",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/democrats-dccc-house.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23pol-dems-house-shah-fbcm/23pol-dems-house-shah-fbcm-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T21:57:06.000Z"
+    },
+    {
+      "id": "rss-4636891ff866",
+      "title": "Today’s NYT Connections Hints and Answers for July 24, #1139",
+      "description": "",
+      "url": "https://www.cnet.com/news/todays-nyt-connections-hints-and-answers-for-july-24-1139/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Main-Connections-art.webp",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-23T21:54:40.000Z"
+    },
+    {
+      "id": "rss-e994f72301af",
+      "title": "RQLM Part 3: The Instruction Pointer Was Already There",
+      "description": "Toward a synchronous quantum-hybrid machine — Part 3: a six-address quantum microcode sequencer and the visible CPU instruction pointer\nContinue reading on Medium »",
+      "url": "https://medium.com/@rantnrave31/rqlm-part-3-the-instruction-pointer-was-already-there-ff8cb62a4a00?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*zQD2KHWm_HDBhd6YeHEz2w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:51:42.000Z"
+    },
+    {
+      "id": "rss-b5c312db8fd2",
+      "title": "What Public Health Data Science Actually Means — and Why It Is Not Just Healthcare Analytics",
+      "description": "Data science becomes public-health data science when it is grounded in epidemiology, population context, and action.\nContinue reading on Medium »",
+      "url": "https://medium.com/@bjanalytics/what-public-health-data-science-actually-means-and-why-it-is-not-just-healthcare-analytics-11fca014f226?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*xbG3RvIbwLTEK9OTfyIWmQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:50:40.000Z"
+    },
+    {
+      "id": "rss-bf4db8441ef3",
+      "title": "Do notebook ao deploy: por que tantos projetos de Machine Learning param no meio do caminho",
+      "description": "Treinar um modelo é apenas parte do trabalho. Entenda por que tantos projetos de Machine Learning nunca chegam à produção.\nContinue reading on Medium »",
+      "url": "https://medium.com/@clisciafontoura1/do-notebook-ao-deploy-por-que-tantos-projetos-de-machine-learning-param-no-meio-do-caminho-5cf461da1174?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*QeA8GNAV0RD42Ej4JH25kA@2x.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:49:30.000Z"
+    },
+    {
+      "id": "rss-37758a64014d",
+      "title": "The 'AAA' Soloist: How Zero-Budget Creators Are Beating Hollywood at Its Own Game in 2026)",
+      "description": "# The 'AAA' Soloist: How Zero-Budget Creators Are Beating Hollywood at Its Own Game in 2026\nContinue reading on Medium »",
+      "url": "https://medium.com/@kushanprabodha/the-aaa-soloist-how-zero-budget-creators-are-beating-hollywood-at-its-own-game-in-2026-932b4ba7e921?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*b7u9oILKG8ank7-3bcCw7Q.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:48:56.000Z"
+    },
+    {
+      "id": "rss-0505f2b66dc4",
+      "title": "El amanecer de los monstruos",
+      "description": "Continue reading on Medium »",
+      "url": "https://boscoarata.medium.com/el-amanecer-de-los-monstruos-6e609d219ae8?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2160/1*JJwBRfHM1BhSyteVwtdBaA@2x.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:48:09.000Z"
+    },
+    {
+      "id": "rss-f87d47fbe5a4",
+      "title": "After the Avengers Fall, Marvel Will Introduce the Maximum X-Men | Comic Con 2026",
+      "description": "With Avengers: Armageddon decimating Earth's Mightiest Heroes, a new team of mutant heroes will rise up to fil lthe void in Marvel's Maximum X-Men.",
+      "url": "https://www.ign.com/articles/after-the-avengers-fall-marvel-will-introduce-the-maximum-x-men-comic-con-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/07/23/mixcollage-23-jul-2026-12-08-pm-4938-1784822962910.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T21:45:00.000Z"
+    },
+    {
+      "id": "rss-7519a4027b16",
+      "title": "RQLM Part 2: The Coherent NAND Execution Loop",
+      "description": "Toward a synchronous quantum-hybrid machine — Part 2: path-indexed Rauf local execution\nContinue reading on Medium »",
+      "url": "https://medium.com/@rantnrave31/rqlm-part-2-the-coherent-nand-execution-loop-02e62fcf3b34?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*zQD2KHWm_HDBhd6YeHEz2w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:43:16.000Z"
+    },
+    {
+      "id": "rss-9c46b9c82d66",
+      "title": "Adaptive Reasoning: Why the Smartest AI Models Are Learning to Think Less",
+      "description": "The most expensive mistake in AI right now isn’t a bad model — it’s making a good one overthink everything\nContinue reading on Medium »",
+      "url": "https://medium.com/@AIbatros/adaptive-reasoning-why-the-smartest-ai-models-are-learning-to-think-less-204b45c60df9?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*otl0M94WIYyiWyfm",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:41:08.000Z"
+    },
+    {
+      "id": "rss-7bee451a7867",
+      "title": "China Supervises AI After It Ships",
+      "description": "I explore these themes in more detail in my upcoming book, From Lab to Life: How AI Works in China, on sale August 4 at…\nContinue reading on Medium »",
+      "url": "https://medium.com/@collin.a.spears/china-supervises-ai-after-it-ships-6392090f1931?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1279/0*jowJajn6C9k5mn4H",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:39:55.000Z"
+    },
+    {
+      "id": "rss-7de67f27d93f",
+      "title": "Trump-Thune Rift Intensifies Over Stalled Election Bill",
+      "description": "A White House spokeswoman said President Trump’s patience was running thin. The top Senate Republican said she should try finding the votes.",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/trump-thune-senate-election-bill.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23dc-senate-trump01-photo-jkbf/23dc-senate-trump01-photo-jkbf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T21:39:07.000Z"
+    },
+    {
+      "id": "rss-c9f6d8092eda",
+      "title": "I Turned GPT Ultra Into a 12-Team Crypto Quant Tournament",
+      "description": "I started because I was annoyed about token limits. I ended up with 124 research trials, a one-shot two-year historical championship, a…\nContinue reading on Medium »",
+      "url": "https://medium.com/@robertogonalves_71685/i-turned-gpt-ultra-into-a-12-team-crypto-quant-tournament-2a07914a0aa2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*AA2cFqszYoM3yOQvZIUuEA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:37:56.000Z"
+    },
+    {
+      "id": "rss-ba38c26f2c5f",
+      "title": "Practical Ways Small Businesses Can Use AI to Automate Work and Improve Efficiency",
+      "description": "Practical Ways Small Businesses Can Use AI to Save Time and Work Smarter\nContinue reading on Medium »",
+      "url": "https://medium.com/@harristarstech/practical-ways-small-businesses-can-use-ai-to-automate-work-and-improve-efficiency-a822a75ac38d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*I4kIoS20gldBKcPCdgq12w.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:31:08.000Z"
+    },
+    {
+      "id": "rss-1976afa7fff9",
+      "title": "I Love When Marvel Goes Full Anime Like In Tōkon’s Dope Opening",
+      "description": "Marvel is at its best when it’s got me believing in the power of friendship",
+      "url": "https://kotaku.com/marvel-tokon-fighting-souls-opening-movie-song-anime-op-2000718880",
+      "image": "https://kotaku.com/app/uploads/2026/07/tokon-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T21:30:20.000Z"
+    },
+    {
+      "id": "rss-59c5924244d4",
+      "title": "ArchPatterns v7.0: The Deterministic Tool AI Agents Consult",
+      "description": "Your AI assistant can now query ArchPatterns directly. Plus trait profiles, side-by-side comparison, decision diffs, and full ADR…\nContinue reading on Medium »",
+      "url": "https://medium.com/@waqaskhan.archpatterns/archpatterns-v7-0-the-deterministic-tool-ai-agents-consult-0963be81096a?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1478/1*i2PlDp5eIXcO7Wk7ZKge2Q.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:30:08.000Z"
+    },
+    {
+      "id": "rss-a9fd0aadebcb",
+      "title": "Odysseus Has Been Funko Pop-ed",
+      "description": "In a sentence that would surely leave Homer dumbfounded, Odysseus has been Funko Pop-ed. The epic Greek hero has been miniaturized into the popular collectible following the blockbuster release of “Th",
+      "url": "https://variety.com/2026/shopping/news/odyssey-funko-pops-odysseus-shop-online-1236819495/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/odyssey-funko-pop-shop-online.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-23T21:30:00.000Z"
+    },
+    {
+      "id": "rss-b65166b608d7",
+      "title": "XRP Nears Major Breakout as Bullish Chart Pattern Fuels Rally Hopes",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/xrp/xrp-nears-major-breakout-as-bullish-chart-pattern-fuels-rally-hopes",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-23/qh85iyov/XRP-Nears-Major-Breakout-as-Bullish-Chart-Pattern-Fuels-Rally-Hopes-2.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:30:00.000Z"
+    },
+    {
+      "id": "rss-6c66d3c2971b",
+      "title": "Judge Extends Order Blocking Paramount-Warner Bros. Merger for Another 14 Days",
+      "description": "A federal judge on Thursday extended the order blocking the Paramount-Warner Bros. merger for an additional 14 days, meaning the deal cannot close before Aug. 18. Judge Araceli Martinez-Olguin is sche",
+      "url": "https://variety.com/2026/film/news/judge-paramount-warner-bros-merger-14-days-1236819740/",
+      "image": "https://variety.com/wp-content/uploads/2026/02/Paramount-Warner-Bros-Water-Towers.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-23T21:28:12.000Z"
+    },
+    {
+      "id": "rss-33d7f991a074",
+      "title": "Fields Medal 2026 winners include mathematician Hong Wang — the third woman to ever win in the award's 90-year history",
+      "description": "Hong Wang, a mathematician at New York University, helped solve a decades-old geometry problem and is now the third woman to win math's most prestigious award.",
+      "url": "https://www.livescience.com/physics-mathematics/mathematics/fields-medal-2026-winners-include-mathematician-hong-wang-the-third-woman-to-ever-win-in-the-awards-90-year-history",
+      "image": "https://cdn.mos.cms.futurecdn.net/oxcGijeZYsWjJw542iwTrH-1280-80.png",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-23T21:19:23.000Z"
+    },
+    {
+      "id": "rss-94bd1d1b6df6",
+      "title": "How to play in third-person in Halo Campaign Evolved",
+      "description": "A guide on how to play Halo: Campaign Evolved in third-person mode by finding the Perspective skull.",
+      "url": "https://www.polygon.com/halo-campaign-evolved-third-person-camera-how-to-perspective-skull/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/halo-campaign-evolved-third-person-mode-header.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T21:17:37.000Z"
+    },
+    {
+      "id": "rss-55a8f25f85fa",
+      "title": "Agentic coding goes hands free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
+      "description": "Two weeks after debuting its more naturalistic GPT-Live audio AI model with full-duplex capabilities (listening and speaking at the same time), OpenAI is bringing it directly into developer workflows.",
+      "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4j8qxL7Wc3EDLHQPUQjpUD/90a64f52fbda243e304a6e28dc556320/ChatGPT_Image_Jul_23__2026__03_54_24_PM.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "technology",
+      "publishedAt": "2026-07-23T21:17:00.000Z"
+    },
+    {
+      "id": "rss-70266f97fcf1",
+      "title": "US to Impose New Global Tariffs of Around 10% After Previous Duties Lapse",
+      "description": "The administration announced new duties tied to countries’ imports of goods made with forced labor, replacing a global 10 percent tariff set to expire at midnight.",
+      "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23dc-tariffs-01-wfcz/23dc-tariffs-01-wfcz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T21:16:25.000Z"
+    },
+    {
+      "id": "rss-b3e7bb014fe8",
+      "title": "Turning Cosmology into Features: The Mathematics of Testing Astrology with Machine Learning",
+      "description": "Article of the MIVA Research Series: how pipes, gears, antennas, and chords become columns in a spreadsheet. The grammar every later…\nContinue reading on Medium »",
+      "url": "https://citlacom.medium.com/turning-cosmology-into-features-the-mathematics-of-testing-astrology-with-machine-learning-db50535d6ced?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*p5eKpFNVSsWzaBikIQJjSQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:15:45.000Z"
+    },
+    {
+      "id": "rss-a26d209b1859",
+      "title": "Six-figure private security bill for top Dem Senate hopeful fuels GOP hypocrisy claims",
+      "description": "Former North Carolina Gov. Roy Cooper spent more than a quarter-million-dollars this election cycle on private security, leading to calls of hypocrisy from critics citing his \"soft-on-crime\" record.",
+      "url": "https://www.foxnews.com/politics/six-figure-private-security-bill-top-dem-senate-hopeful-fuels-gop-hypocrisy-claims",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/931/523/North-Carolina-Governor-Roy-Cooper.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T21:15:27.000Z"
+    },
+    {
+      "id": "rss-95e3a8eaac80",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "description": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with t",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/8A0A3921.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-23T21:15:06.000Z"
+    },
+    {
+      "id": "rss-5ce9ae0c3c41",
+      "title": "Defense industry leaders align with Trump admin plans in closed-door strategy session on defense spending",
+      "description": "Susie Wiles and leaders from Raytheon, Lockheed Martin, Northrop Grumman and Palantir aligned on $73 billion in Pentagon and intelligence funding.",
+      "url": "https://www.foxnews.com/politics/defense-industry-leaders-align-with-trump-admin-plans-in-closed-door-strategy-session-on-defense-spending",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/trump-johnson-wiles-white-house.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T21:14:20.000Z"
+    },
+    {
+      "id": "rss-73244ceb4fde",
+      "title": "Xbox testing ad-supported game streaming in new rollout",
+      "description": "Xbox's cloud gaming service is getting an ad-supported tier, and Microsoft is testing it out now on Xbox and other devices with Xbox Insiders.",
+      "url": "https://www.polygon.com/xbox-starts-testing-ad-supported-streaming-cloud-gaming/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/21956452/jbareham_201012_0906_stock_xcloud_wht.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T21:12:44.000Z"
+    },
+    {
+      "id": "rss-48dc5157f58e",
+      "title": "Ravens cut Diego Pavia from Lamar Jackson's QB room before start of training camp",
+      "description": "Pavia already lost his shot at being the Ravens' QB3 behind Jackson and former Pro Bowler Tyler Huntley",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/ravens-cut-diego-pavia/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/23/e6881adf-8b26-46e2-bc41-a2f0f3c1a622/gettyimages-2280756632.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-23T21:10:56.000Z"
+    },
+    {
+      "id": "rss-7208b97a6b5d",
+      "title": "Smithsonian pushed ‘revolting’ social action training after ‘whiteness’ chart apology: expert",
+      "description": "Smithsonian staff co-authored a DEI training toolkit that calls objectivity part of white supremacy, years after the museum apologized for a similar chart.",
+      "url": "https://www.foxnews.com/politics/smithsonian-pushed-revolting-social-action-training-whiteness-chart-apology-expert",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/anthea-hartig-hearing-seated.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T21:09:38.000Z"
+    },
+    {
+      "id": "rss-863391ef768a",
+      "title": "From Solo Assistant to a Team: Multi-Agent AI Systems in 2026",
+      "description": "AI has stopped just answering questions — now it works like a coordinated team\nContinue reading on Medium »",
+      "url": "https://medium.com/@AIbatros/from-solo-assistant-to-a-team-multi-agent-ai-systems-in-2026-cfec34ab0574?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*gudBkx5dYbUbJhIm",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:08:51.000Z"
+    },
+    {
+      "id": "rss-db760962f239",
+      "title": "EU Slaps Google With $1 Billion Fine Over Search and Play Store",
+      "description": "",
+      "url": "https://www.cnet.com/tech/google-eu-billion-dollar-fine-search-play-store/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2285600344.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-23T21:08:15.000Z"
+    },
+    {
+      "id": "rss-77ff53216268",
+      "title": "Overfitting vs. Underfitting — Choosing the Model That Generalizes",
+      "description": "The diagnosis took five minutes. The fix took two weeks.\nContinue reading on Medium »",
+      "url": "https://medium.com/@banerjeevictor06/overfitting-vs-underfitting-choosing-the-model-that-generalizes-a729f2b8a329?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*6aD4ws_xRhkhdJFfJUIClQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T21:07:36.000Z"
+    },
+    {
+      "id": "rss-df15fd25a19c",
+      "title": "Gemini Gems: What They Are and How to Make One",
+      "description": "",
+      "url": "https://www.cnet.com/tech/services-and-software/gemini-gems-what-they-are-and-how-to-make-one/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Screenshot-2026-07-22-at-11.26.29-AM.png",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-23T21:06:00.000Z"
+    },
+    {
+      "id": "rss-3ba540360ecc",
+      "title": "Nevada GOP nominee Carrie Buck says she’s ‘coming to retire Dina Titus’",
+      "description": "Carrie Buck sits down at Freedom Fest to discuss her campaign to unseat veteran Democrat incumbent in Las Vegas-based swing district.",
+      "url": "https://www.foxnews.com/politics/nevada-gop-nominee-carrie-buck-says-shes-coming-retire-dina-titus",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Carrie-Buck.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T21:02:07.000Z"
+    },
+    {
+      "id": "rss-899b667f010d",
+      "title": "The Defining Image of India’s Gen Z Protests",
+      "description": "A new protest movement is spreading across India, and the video of a woman blocking a police van has captured the resolve of the young people leading it.",
+      "url": "https://www.nytimes.com/2026/07/23/world/asia/rhiya-ahir-mumbai-india-student-protests-genz.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-india-protests-1-pbkh/23int-india-protests-1-pbkh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T21:01:45.000Z"
+    },
+    {
+      "id": "rss-811dc096da16",
+      "title": "Ubisoft CEO Says PlayStation Ditching Discs Has ‘Pluses And Minuses’ But Won’t ‘Disturb’ The Game Industry That Much",
+      "description": "The Assassin's Creed maker was asked about physical games on its latest earnings call",
+      "url": "https://kotaku.com/ubisoft-says-playstation-ditching-discs-has-pluses-and-minuses-but-wont-disturb-the-game-industry-that-much-2000718878",
+      "image": "https://kotaku.com/app/uploads/2026/07/GettyImages-2205362189-1280x853.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T21:00:56.000Z"
+    },
+    {
+      "id": "rss-dbbaaacfc543",
+      "title": "Royals vs. Tigers Thursday MLB picks, parlay: Detroit pitcher Troy Melton gains strength as season progresses",
+      "description": "Tigers surprise Troy Melton takes the mound Thursday against the Royals",
+      "url": "\n                                                https://www.cbssports.com/betting/news/royals-vs-tigers-thursday-mlb-picks-parlay-detroit-pitcher-troy-melton-gains-strength-as-season-progresses/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/06/03/b53a555c-5a9b-481a-ac35-4005377a4da0/imagn-troy-melton-tigers.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-23T21:00:50.000Z"
+    },
+    {
+      "id": "rss-50b903c1dedc",
+      "title": "Read the list: 44 lawmakers swept into Jack Smith text sweep as his legal reckoning grows",
+      "description": "Jack Smith's probe secretly seized text messages from 44 lawmakers, including Jim Jordan and Chuck Grassley, tied to January 6 and classified documents.",
+      "url": "https://www.foxnews.com/politics/read-list-44-lawmakers-swept-jack-smith-text-sweep-his-legal-reckoning-grows",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/b06a8012-jack-smith.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T21:00:37.000Z"
+    },
+    {
+      "id": "rss-5b53ba84b233",
+      "title": "Peacock is finally profitable, thanks to the World Cup and Love Island",
+      "description": "Gooooooooooool!",
+      "url": "https://www.engadget.com/2222181/peacock-is-finally-profitable-thanks-to-the-world-cup-and-love-island/",
+      "image": "https://www.engadget.com/img/gallery/peacock-is-finally-profitable-thanks-to-the-world-cup-and-love-island/l-intro-1784840333.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-23T21:00:35.000Z"
+    },
+    {
+      "id": "rss-81bc53e920f9",
+      "title": "Avatar Seven Havens trailer breakdown: 5 huge theories based on the Comic Con reveal",
+      "description": "Evil Korra, Tenzin's son (?), and wonder twins abound in the Airbender sequel series Seven Havens",
+      "url": "https://www.polygon.com/5-key-takeaways-from-the-avatar-seven-havens-trailer/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/avatar-seven-havens-korra.png",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T21:00:13.000Z"
+    },
+    {
+      "id": "rss-98649b4be694",
+      "title": "Can Bangkok future-proof itself against the heat?",
+      "description": "As Bangkok heats up, the government's test will be planning ahead—not reacting—to protect the city's economy and workforce.",
+      "url": "https://fortune.com/2026/07/23/can-bangkok-future-proof-itself-against-the-heat/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2273120399-e1784727406418.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-23T21:00:00.000Z"
+    },
+    {
+      "id": "rss-f591d6436f3e",
+      "title": "Indian Epic ‘Ramayana’ Lands at Sony Pictures for International Distribution",
+      "description": "Sony Pictures has signed on as international distributor for “Ramayana,” the two-part Indian mythological epic directed by Nitesh Tiwari and produced by Namit Malhotra’s Prime Focus Studios, covering ",
+      "url": "https://variety.com/2026/film/news/ramayana-sony-pictures-international-distribution-1236819652/",
+      "image": "https://variety.com/wp-content/uploads/2026/04/Ramayana.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-23T21:00:00.000Z"
+    },
+    {
+      "id": "rss-9811fc224b2a",
+      "title": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission",
+      "description": "NASA's SunRISE mission has been assigned a new launch vehicle: It will now be delivered to orbit by a SpaceX Falcon Heavy rocket rather than a United Launch Alliance Vulcan Centaur.",
+      "url": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission",
+      "image": "https://cdn.mos.cms.futurecdn.net/EsCqmrahYDkMpHLgWiqqWF-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-23T21:00:00.000Z"
+    },
+    {
+      "id": "rss-6b92ea59ff96",
+      "title": "iPhone Driver's Licenses May Soon Expand to New State",
+      "description": "Driver's licenses and IDs may soon be available in Apple Wallet for iPhone and Apple Watch users who live in Utah. MacRumors discovered signs of a Utah ID in Apple's backend, suggesting Apple is movin",
+      "url": "https://www.macrumors.com/2026/07/23/iphone-drivers-licenses-utah/",
+      "image": "https://images.macrumors.com/article-new/2024/04/apple-wallet-drivers-license-feature-iPhone-15-pro.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-23T20:58:38.000Z"
+    },
+    {
+      "id": "rss-7ea8ec6a4e67",
+      "title": "Trump Administration Drops Subpoena Demanding List of Jews From Penn",
+      "description": "The move was a rare pullback for the administration, which has used inquiries as leverage. Few schools resisted as Penn did after it was pressed for antisemitism complaints and a list of campus groups",
+      "url": "https://www.nytimes.com/2026/07/23/us/eeoc-subpoena-penn-jewish-list.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23nat-penn-glvt/23nat-penn-glvt-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T20:58:30.000Z"
+    },
+    {
+      "id": "rss-b95e2fafde5f",
+      "title": "How Harneloop Turns Agent Failures Into Reusable Harness Improvements",
+      "description": "The open-source framework gives agents a structured way to inspect real outcomes, trace likely mistakes, and improve the system around\nContinue reading on Medium »",
+      "url": "https://medium.com/@jaaguplaudur/how-harneloop-turns-agent-failures-into-reusable-harness-improvements-37bce531bce8?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1535/1*ZLPbywjrJBUrSlPG2mnAZg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T20:55:13.000Z"
+    },
+    {
+      "id": "rss-c51696171c77",
+      "title": "‘Call us whatever the hell you want’: Mark Zuckerberg just launched an AI optimism blitz using nostalgia to sell Meta’s AI future amid backlash",
+      "description": "Marketing experts say Meta invokes Facebook-era optimism while leaving recent AI lawsuits and product backlash unaddressed.",
+      "url": "https://fortune.com/2026/07/23/zuckerberg-ai-ad-optimism-backlash/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2233062241-e1784840037534.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-23T20:52:07.000Z"
+    },
+    {
+      "id": "rss-087431b24fe7",
+      "title": "Disney's best time-travel show of the decade is making a comeback on streaming",
+      "description": "Following the first Avengers: Doomsday trailer, one of the Marvel Cinematic Universe's best shows has suddenly become essential viewing.",
+      "url": "https://www.polygon.com/loki-disney-plus-streaming-avengers-doomsday/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/maxresdefault-7.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T20:51:34.000Z"
+    },
+    {
+      "id": "rss-cc0de2f7f7b1",
+      "title": "Avatar: Seven Havens Gets Paramount+ Release Date and Teaser Trailer | Comic Con 2026",
+      "description": "Avatar: Seven Havens launches exclusively on Paramount+ on October 9. Paramount announced the release date alongside a teaser trailer at the Avatar Aang: The Last Airbender panel at San Diego Comic-Co",
+      "url": "https://www.ign.com/articles/avatar-seven-havens-gets-paramount-release-date-and-teaser-trailer-comic-con-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/07/23/screenshot-2026-07-23-212938-1784838606389.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T20:50:30.000Z"
+    },
+    {
+      "id": "rss-a727095c840b",
+      "title": "Avatar: The Last Airbender’s next show finally gets its first real look at SDCC",
+      "description": "Avatar: Seven Havens premiered first look teaser footage at SDCC 2026. Watch it here and how it connects to Korra.",
+      "url": "https://www.polygon.com/avatar-seven-havens-trailer-sdcc-2026/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/avatar_seven_havens_pavi.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T20:50:12.000Z"
+    },
+    {
+      "id": "rss-c20fc3999a28",
+      "title": "‘Avatar: Seven Havens’ Sets 2026 Release Date at Paramount+, Drops Apocalyptic First Teaser",
+      "description": "UPDATED: “Avatar: Seven Havens” has an official premiere date at Paramount+. And what a date it is. The new entry in the “Avatar” franchise will debut on Oct. 9 on the streaming service. That date sho",
+      "url": "https://variety.com/2026/tv/news/avatar-seven-havens-release-date-teaser-1236819641/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Avatar-Seven-Havens.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-23T20:50:00.000Z"
+    },
+    {
+      "id": "rss-efadce185a86",
+      "title": "Giving an agent a memory that knows how to forget",
+      "description": "Most of the “memory” bolted onto AI agents is a lie we tell ourselves. You take a markdown file, stuff it into the system prompt on every…\nContinue reading on Medium »",
+      "url": "https://medium.com/@gkgibeau/giving-an-agent-a-memory-that-knows-how-to-forget-1817b150c946?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/960/1*WbdWRaDPbT1ugKetEV_3fw.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T20:48:57.000Z"
+    },
+    {
+      "id": "rss-d0d31a53df3e",
+      "title": "'Pillar of Autumn' skulls and terminal locations in Halo Campaign Evolved",
+      "description": "All skull and terminal locations in the Pillar of Autumn mission in Halo: Campaign Evolved.",
+      "url": "https://www.polygon.com/halo-campaign-evolved-pillar-of-autumn-skulls-terminal-locations-where-to-find/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/halo-campaign-evolved-pillar-of-autumn-skulls-terminals-header.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T20:48:13.000Z"
+    },
+    {
+      "id": "rss-9ac4f38ea628",
+      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+      "description": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+      "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/lg-UltraGear-27GR95QE-B-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-07-23T20:47:33.000Z"
+    },
+    {
+      "id": "rss-3ba3fe22a901",
+      "title": "Patreon is laying off 20 percent of its staff",
+      "description": "While the company is trying to protect creators from AI, it still thinks the technology is changing how it does business.",
+      "url": "https://www.engadget.com/2222170/patreon-is-laying-off-20-percent-of-its-staff/",
+      "image": "https://www.engadget.com/img/gallery/patreon-is-laying-off-20-percent-of-its-staff/l-intro-1784839573.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-23T20:47:15.000Z"
+    },
+    {
+      "id": "rss-2b4f2de21fba",
+      "title": "AC Boise aim to turn record-breaking support, Spanish influence into long-term soccer success in USL",
+      "description": "Co-owned by NWSL legend Sofia Huerta, the USL League One expansion club are shattering attendance records while building a sustainable soccer community in Idaho",
+      "url": "\n                                                https://www.cbssports.com/soccer/news/ac-boise-usl-soccer-success-spanish-influence/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/17/cdf745ff-682d-4fa8-aa34-8202cc0a89fa/boise.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-23T20:46:45.000Z"
+    },
+    {
+      "id": "rss-f3b11937aaaa",
+      "title": "Black Ops 2 Players Can’t Believe How Good It Feels Not To Be Nickel-And-Dimed",
+      "description": "Remember when you could just make your own emblem in Call of Duty and didn't have to buy it from a store?",
+      "url": "https://kotaku.com/black-ops-2-players-cant-believe-how-good-it-feels-not-to-be-nickel-and-dimed-2000718855",
+      "image": "https://kotaku.com/app/uploads/2026/07/art-cod-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T20:45:38.000Z"
+    },
+    {
+      "id": "rss-971c7dd1c2cf",
+      "title": "'Star Trek: Strange New Worlds' Season 4: Release date & how to watch Paramount+’s sensational sci-fi series",
+      "description": "'We've seen a lot of strange new worlds, but we’ll never see something like this again'",
+      "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-4-release-date-and-how-to-watch-paramount-s-sensational-sci-fi-series",
+      "image": "https://cdn.mos.cms.futurecdn.net/rixtntQwePZcN5CpmJkrnE-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-23T20:45:15.000Z"
+    },
+    {
+      "id": "rss-bcb58bd4ff36",
+      "title": "Trump endorsement fails to clear GOP field as former governor joins South Carolina Senate race",
+      "description": "Mark Sanford joined a crowded GOP field challenging Trump-endorsed Darline Graham in South Carolina's special Senate primary set for Aug. 11.",
+      "url": "https://www.foxnews.com/politics/trump-endorsement-fails-clear-gop-field-former-governor-joins-south-carolina-senate-race",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/mark-sanford.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T20:44:17.000Z"
+    },
+    {
+      "id": "rss-86bf768d5fa1",
+      "title": "The best Pokémon anime is coming to more streaming services",
+      "description": "Pokémon: Indigo League is coming to both Hulu and Disney Plus soon, alongside episodes streaming daily on Disney XD.",
+      "url": "https://www.polygon.com/pokemon-indigo-league-hulu-disney-plus/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/pokemon-indigo-league-hulu-disney-plus.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T20:43:20.000Z"
+    },
+    {
+      "id": "rss-281c3baa7848",
+      "title": "Meta's pro-AI ad campaign is conspicuously light on AI",
+      "description": "The company wants people to be anti-doomer, but doesn't say why.",
+      "url": "https://www.engadget.com/2222159/meta-pro-ai-ad-campaign-is-conspicuously-light-on-ai/",
+      "image": "https://www.engadget.com/img/gallery/metas-pro-ai-ad-campaign-is-conspicuously-light-on-ai/l-intro-1784838855.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-23T20:37:45.000Z"
+    },
+    {
+      "id": "rss-0b1aa427b96e",
+      "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
+      "description": "Echo Show's 21 attached to the adjustable stand, which is sold separately (and also discounted). | Image: Amazon\t\n\nSplit between buying a smart calendar, a kitchen TV, a smart home hub, and a smart di",
+      "url": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Echo-Show-21-with-Amazon-Premium-Adjustable-Stand.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-23T20:36:40.000Z"
+    },
+    {
+      "id": "rss-730cdf8c2941",
+      "title": "Beach Boys Call Off Remainder of Summer Concerts ‘to Recharge’ Before Resuming in Fall",
+      "description": "The Beach Boys’ endless summer has run into a hitch. The touring version of the group, led by sole remaining original member Mike Love, has called off six weeks’ worth of concerts scheduled for this s",
+      "url": "https://variety.com/2026/music/news/beach-boys-cancel-postpone-summer-concerts-tour-1236819730/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/GettyImages-2236513034.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-23T20:36:03.000Z"
+    },
     {
       "id": "rss-ce024581b325",
       "title": "Opera One browser joins the vertical tab club, expands Google Lens integration",
@@ -33,9 +733,39 @@
       "publishedAt": "2026-07-23T20:33:59.000Z"
     },
     {
+      "id": "rss-1df94616ea51",
+      "title": "AMD Unveils Next-Generation AI Infrastructure in Direct NVIDIA Challenge",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/amd-unveils-next-generation-ai-infrastructure-in-direct-nvidia-challenge",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-23/biun4y4t/AMD-expected-to-launch-next-generation-of-AI-infrastructure-to-challenge-Nvidia.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-23T20:30:00.000Z"
+    },
+    {
+      "id": "rss-9788384c8ee0",
+      "title": "How AI is Reinventing Luxury Fashion Design",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/how-ai-is-reinventing-luxury-fashion-design",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-23/d4ncdwq2/How-AI-is-Reinventing-Luxury-Fashion-Design.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-23T20:30:00.000Z"
+    },
+    {
+      "id": "rss-53b348f70762",
+      "title": "Saudi Arabia takes center stage as oil hits $100 and the Iran war escalates amid Houthi attacks and nuclear expansion",
+      "description": "The Iran war is spreading from sea to sea as attacks erupt in the Bab al-Mandab strait.",
+      "url": "https://fortune.com/2026/07/23/saudi-arabia-center-stage-oil-hits-100-iran-war-escalates-houthi-nuclear/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286554410-e1784836515224.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-23T20:26:29.000Z"
+    },
+    {
       "id": "rss-d7cf5b183e95",
       "title": "Trump's patience 'running out' as Thune fires back over stalled election security bill",
-      "description": "Karoline Leavitt says Trump's patience is running thin with John Thune over the SAVE America Act as Senate Republicans face a 50-vote math problem.",
+      "description": "Karoline Leavitt says Trump's patience is wearing thin with John Thune over the SAVE America Act as Senate Republicans face a 50-vote math problem.",
       "url": "https://www.foxnews.com/politics/trumps-patience-running-out-thune-fires-back-stalled-election-bill",
       "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/thune-leavitt-split.jpg?ve=1&tl=1",
       "source": "Fox News Politics",
@@ -121,6 +851,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-23T20:12:57.000Z"
+    },
+    {
+      "id": "rss-a6642fc3f0d7",
+      "title": "Turns out Dead Internet Theory was right: AI agents are eating the Web, growing by nearly 8,000% and rewiring the Internet’s business model",
+      "description": "Multiple cyber firms agree: bots outnumber humans online, challenging advertising, analytics and security systems designed around human visitors.",
+      "url": "https://fortune.com/2026/07/23/dead-internet-theory-bots-agents-majority-web-traffic/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2031368235-e1784837395991.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-23T20:10:27.000Z"
     },
     {
       "id": "rss-53cefea90b9c",
@@ -213,16 +953,6 @@
       "publishedAt": "2026-07-23T20:04:55.000Z"
     },
     {
-      "id": "rss-7ea8ec6a4e67",
-      "title": "Trump Administration Drops Subpoena Demanding List of Jews From Penn",
-      "description": "The move was a rare pullback for the Trump administration, which has used investigations as leverage. Few schools resisted as Penn did after it was pressed for antisemitism complaints and a list of ca",
-      "url": "https://www.nytimes.com/2026/07/23/us/eeoc-subpoena-penn-jewish-list.html",
-      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23nat-penn-glvt/23nat-penn-glvt-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-23T20:04:33.000Z"
-    },
-    {
       "id": "rss-d98707f1d4f8",
       "title": "Free MLB home run odds, picks for July 23: Expert's best Thursday HR player props include Nolan Arenado",
       "description": "SportsLine MLB expert Adam Thompson shares his best home run props for Thursday, July 23",
@@ -303,6 +1033,16 @@
       "publishedAt": "2026-07-23T19:57:18.000Z"
     },
     {
+      "id": "rss-5abdeb8a82f7",
+      "title": "OpenAI debuts ChatGPT Voice so you can have ongoing conversations, ask the AI to complete tasks while hands-free",
+      "description": "OpenAI is leaning into voice technology, viewing it as a competitive advantage in a crowded field of AI model makers.",
+      "url": "https://fortune.com/2026/07/23/openai-launches-chatgpt-voice-desktop-programming/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2265445220_c96e80-e1784731003764.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-23T19:57:18.000Z"
+    },
+    {
       "id": "rss-3457b78aac7d",
       "title": "Clint Reilly, Political Consultant Known for Feuding, Dies at 79",
       "description": "As savvy as he could be volatile, he advised Nancy Pelosi and Dianne Feinstein, ran for mayor of San Francisco and bought The San Francisco Examiner.",
@@ -315,7 +1055,7 @@
     {
       "id": "rss-0fa98e007168",
       "title": "Justice Department sues Colorado over in-state tuition and financial aid for illegal immigrants",
-      "description": "The Trump administration filed its fourteenth lawsuit challenging in-state tuition for illegal immigrants, this time targeting Colorado's ASSET Act.",
+      "description": "The Trump administration filed its 14th lawsuit challenging in-state tuition for illegal immigrants, this time targeting Colorado's ASSET Act.",
       "url": "https://www.foxnews.com/politics/justice-department-sues-colorado-in-state-tuition-financial-aid-illegal-immigrants",
       "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/cu-students-university-hill-bridge.jpg?ve=1&tl=1",
       "source": "Fox News Politics",
@@ -331,6 +1071,16 @@
       "source": "Kotaku",
       "category": "gaming",
       "publishedAt": "2026-07-23T19:52:49.000Z"
+    },
+    {
+      "id": "rss-7f0e321bb166",
+      "title": "The Miami Heat, LeBron James and prediction markets: how a ‘mistake’ social media post turbo-charged a $245 million wager",
+      "description": "“There's a market for everything, and I think people have recognized that there's a market for everything,” Georgetown’s Marty Conway told Fortune.",
+      "url": "https://fortune.com/2026/07/23/miami-heat-lebron-james-prediction-markets-mistake-social-media-post/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-113416659-e1784834440349.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-23T19:50:02.000Z"
     },
     {
       "id": "rss-cc81b115ef37",
@@ -543,6 +1293,16 @@
       "publishedAt": "2026-07-23T19:23:08.000Z"
     },
     {
+      "id": "rss-33389e12d752",
+      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
+      "description": "The FDA hasn't said where the cases are or how they're linked.",
+      "url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores-700x648.jpg",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-07-23T19:22:36.000Z"
+    },
+    {
       "id": "rss-9a50b32d8b39",
       "title": "Agent's Take: How high can Jahmyr Gibbs and Bijan Robinson take a resurgent RB market?",
       "description": "After years of depressed salaries, the running back market has rebounded with deals for Christian McCaffrey, Saquon Barkley and others",
@@ -633,6 +1393,16 @@
       "publishedAt": "2026-07-23T19:15:00.000Z"
     },
     {
+      "id": "rss-5ba017746108",
+      "title": "Forgot your Google password? Now you can log in with a selfie.",
+      "description": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+      "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/look-here-1152x648.png",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-07-23T19:14:25.000Z"
+    },
+    {
       "id": "rss-ee85439bc3ff",
       "title": "Universal secures rights for film adaptations of 10 Atari games",
       "description": "Gear up for the Atari Cinematic Universe.",
@@ -641,6 +1411,16 @@
       "source": "Engadget",
       "category": "technology",
       "publishedAt": "2026-07-23T19:10:56.000Z"
+    },
+    {
+      "id": "rss-9ce01fd122b8",
+      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "description": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-07-23T19:08:01.000Z"
     },
     {
       "id": "rss-0e5bfb7bcace",
@@ -889,7 +1669,7 @@
       "url": "https://www.nytimes.com/2026/07/23/health/erica-schwartz-cdc-vote.html",
       "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23dc-cdc-director-photo-fhmj/23dc-cdc-director-photo-fhmj-mediumSquareAt3X.jpg",
       "source": "New York Times",
-      "category": "health",
+      "category": "trending",
       "publishedAt": "2026-07-23T18:51:07.000Z"
     },
     {
@@ -1661,16 +2441,6 @@
       "source": "Fox News Politics",
       "category": "politics",
       "publishedAt": "2026-07-23T17:18:21.000Z"
-    },
-    {
-      "id": "rss-b88572641670",
-      "title": "Trump Prepares Yet Another Strategy to Resurrect Global Tariffs",
-      "description": "The administration’s 10 percent global tariffs are set to expire at midnight, but officials have been preparing replacements.",
-      "url": "https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html",
-      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23dc-tariffs-01-wfcz/23dc-tariffs-01-wfcz-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-23T17:18:13.000Z"
     },
     {
       "id": "rss-6a5a492e3e64",
@@ -2931,6 +3701,16 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-23T15:45:00.000Z"
+    },
+    {
+      "id": "rss-2b79c94f97b5",
+      "title": "Amazon’s Jeff Bezos could be the latest American billionaire to buy into European soccer clubs—he’s eyeing up a stake in Liverpool FC",
+      "description": "The Amazon founder worth $267 billion may chip in for a minority purchase of the British soccer team, while a wave of U.S. billionaires buy up clubs abroad.",
+      "url": "https://fortune.com/2026/07/23/amazons-jeff-bezos-could-be-latest-american-billionaire-buy-stake-european-soccer-clubs-eyeing-stake-liverpool-fc/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2244887999-e1784820838217.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-23T15:44:25.000Z"
     },
     {
       "id": "rss-fa193d26af1b",
@@ -8275,7 +9055,7 @@
     {
       "id": "rss-59fc5a7536f5",
       "title": "OpenAI’s rogue hacking incident was a warning shot. Will it be a wake-up call to finally create AI safety regulation?",
-      "description": "AI policy experts and safety researchers call the AI agents' attack on Hugging Face \"a wake up call.\"",
+      "description": "AI policy experts and safety researchers call the AI agents’ attack on Hugging Face “a wake-up call.”",
       "url": "https://fortune.com/2026/07/22/openais-rogue-hacking-incident-was-a-warning-shot-will-it-be-a-wake-up-call-to-finally-create-ai-safety-regulation/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281424331-e1784747314978.jpg?w=2048",
       "source": "Fortune",
