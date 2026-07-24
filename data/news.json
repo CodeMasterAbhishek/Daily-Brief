@@ -1,7 +1,397 @@
 {
-  "lastUpdated": "2026-07-23T23:28:11.971Z",
-  "count": 2864,
+  "lastUpdated": "2026-07-24T00:58:33.019Z",
+  "count": 2903,
   "articles": [
+    {
+      "id": "rss-4d38cbe9614f",
+      "title": "Image Models",
+      "description": "Have you ever wondered how LLM’s predict what an image is about as you enter it into the prompt? In this article, we are going to be…\nContinue reading on Medium »",
+      "url": "https://medium.com/@jp.mak44/image-models-631201838640?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1033/1*StCo-pOuiFIAVOidjp7q0w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:58:03.000Z"
+    },
+    {
+      "id": "rss-dcc449c1fc6a",
+      "title": "The Greatest Transformation of Future Civilization Is Not AI, but Organization",
+      "description": "When Intelligence Becomes Abundant, the True Competitive Advantage Will Be How Humanity Organizes It\nContinue reading on Medium »",
+      "url": "https://medium.com/@zhaodongming2026/the-greatest-transformation-of-future-civilization-is-not-ai-but-organization-83ae1d033733?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*kWo6YU7zTOlXplwp0rHi6A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:53:01.000Z"
+    },
+    {
+      "id": "rss-4de67b52933e",
+      "title": "Crowdstrike & Datadog",
+      "description": "23.7.26\nContinue reading on Medium »",
+      "url": "https://medium.com/@cr070q/crowdstrike-datadog-431ce73a3712?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1057/1*KLQzWwS0JAyqqWVe6a76lA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:52:10.000Z"
+    },
+    {
+      "id": "rss-0647e986e9e2",
+      "title": "When AI Goes Off-Script: What the OpenAI-Hugging Face Incident Teaches Us About Cybersecurity…",
+      "description": "This week, the AI industry got a preview of a threat model that security researchers have been warning about for years, and it wasn’t a…\nContinue reading on Thescorton »",
+      "url": "https://blog.scorton.pro/when-ai-goes-off-script-what-the-openai-hugging-face-incident-teaches-us-about-cybersecurity-4225cccf862d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1402/1*bziJZ88DQaFzPiZ2kISVGg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:48:13.000Z"
+    },
+    {
+      "id": "rss-6f62fcf80913",
+      "title": "Men Flock to Microdramas, Romance Stories Rule and Sunday Nights are Prime Time for Viewing",
+      "description": "Microdrama viewership has grown 28-fold over the past two years, and it’s not just for women of a certain age anymore. More than two-thirds of users, male and female, watch romance-based series. And j",
+      "url": "https://variety.com/2026/tv/news/microdramas-men-romance-sunday-holywater-my-drama-my-muse-1236819953/",
+      "image": "https://variety.com/wp-content/uploads/2025/10/Microdrama-collage.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T00:40:37.000Z"
+    },
+    {
+      "id": "rss-4ed645ca79c9",
+      "title": "10 Best Free AI Tools in 2026 (And Exactly What You Get for $0)",
+      "description": "\"10 Free AI Tools You Actually Need in 2026\"\nContinue reading on Medium »",
+      "url": "https://medium.com/@muhammadans430/10-best-free-ai-tools-in-2026-and-exactly-what-you-get-for-0-4496a30aed00?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1904/1*gQApM1TiyCGWjRI-qYIGIQ.webp",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:40:16.000Z"
+    },
+    {
+      "id": "rss-1af56d703554",
+      "title": "Level 5: When was the last time you scolded your LLM friend?",
+      "description": "Layer 5: Calibrating the Partnership\nContinue reading on Medium »",
+      "url": "https://medium.com/@ensleytan/level-5-when-was-the-last-time-you-scolded-your-llm-friend-74c0f2786b99?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/600/0*Jtvvz3ZCrisQSdvG",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:36:01.000Z"
+    },
+    {
+      "id": "rss-a533ad441e92",
+      "title": "How Artificial Intelligence Is Changing Everyday Life",
+      "description": "Artificial Intelligence (AI) is no longer something we only see in science fiction movies. Today, it has become part of our daily routines…\nContinue reading on Medium »",
+      "url": "https://medium.com/@jacarmbwale/how-artificial-intelligence-is-changing-everyday-life-345d48013e72?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*A_vtM9VmnBiWq8q9y9ElhQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:34:17.000Z"
+    },
+    {
+      "id": "rss-d503c54db363",
+      "title": "Apple’s trade secrets lawsuit against OpenAI reassigned to new judge",
+      "description": "Apple’s trade secrets lawsuit against OpenAI has been reassigned to U.S. District Judge Edward Davila, replacing the magistrate judge initially assigned to the case. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/23/apples-trade-secrets-lawsuit-against-openai-reassigned-to-new-judge/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/apple-vs-openai.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-24T00:33:42.000Z"
+    },
+    {
+      "id": "rss-6f9eb7d202a9",
+      "title": "Differences Between Junior and Senior Software Engineers",
+      "description": "The junior vs senior software engineer distinction is usually explained in terms of years of experience, but years are a weak proxy for…\nContinue reading on Fonzi AI »",
+      "url": "https://medium.com/fonzi-ai/differences-between-junior-and-senior-software-engineers-7a1eb84df70f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1411/1*oR0Sv2Ti9vDDB6aPEZyCIQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:32:05.000Z"
+    },
+    {
+      "id": "rss-b33fd36b3ce0",
+      "title": "Decoy Font — Experiment for AI",
+      "description": "Long time no post, and suddenly I saw a post on social media several days ago where there is a Mixlab doing an experiment to create a font…\nContinue reading on Medium »",
+      "url": "https://medium.com/@yudiyusantosusanto/decoy-font-experiment-for-ai-c72bd3bd6896?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*NcBGfCvo5vgNiPIdWPN6og.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:31:33.000Z"
+    },
+    {
+      "id": "rss-7210cd19c1a5",
+      "title": "Top 10 AI Tools for DevOps That Will Transform Your Workflow",
+      "description": "Modern software development demands faster releases, better quality, and reliable deployments. Traditional DevOps tools help automate many…\nContinue reading on Medium »",
+      "url": "https://medium.com/@sunil17bbmp/top-10-ai-tools-for-devops-that-will-transform-your-workflow-76b3c717ec75?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*La2p5r6qJuMlqE6Zj68ROw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:31:01.000Z"
+    },
+    {
+      "id": "rss-3e29495676d4",
+      "title": "Bitcoin Reclaims $66K: Will the Rally Continue Despite Seasonal Slowdown Risks?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/bitcoin/bitcoin-reclaims-66k-will-the-rally-continue-despite-seasonal-slowdown-risks",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-23/0f4y6kn8/Bitcoin-Reclaims-66K-Will-the-Rally-Continue-Despite-Seasonal-Slowdown-Risks.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:30:00.000Z"
+    },
+    {
+      "id": "rss-a4614470667f",
+      "title": "Why I Dislike the Term “AI Hallucination”: Human Factors May Matter More",
+      "description": "“AI hallucination” may describe the visible symptom, but it rarely tells us which part of the system actually failed.\nContinue reading on Medium »",
+      "url": "https://medium.com/@tpa33.36.09.013/why-i-dislike-the-term-ai-hallucination-human-factors-may-matter-more-3f3eb513354e?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*pGa3bRDtrz0q2sra-ww23A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:28:46.000Z"
+    },
+    {
+      "id": "rss-899998859e38",
+      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
+      "description": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23dc-troops-cvgb/23dc-troops-cvgb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T00:15:18.000Z"
+    },
+    {
+      "id": "rss-745b3f25e4df",
+      "title": "What to Know About Peptides the FDA Is Considering for Use",
+      "description": "The agency is considering whether compounding pharmacies should be allowed to produce BPC-157, TB-500 and other previously banned peptides.",
+      "url": "https://www.nytimes.com/2026/07/23/well/peptides-fda-research.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/well/23WELL-PEPTIDES-EXPLAINER1/23WELL-PEPTIDES-EXPLAINER1-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "health",
+      "publishedAt": "2026-07-24T00:07:13.000Z"
+    },
+    {
+      "id": "rss-aa2ab93a3f26",
+      "title": "‘Marvelous Mrs. Maisel’ Set Decorator Mary Kate Golding Fatally Stabbed in N.Y.",
+      "description": "Mary Kate Golding, a set decorator for shows including “The Marvelous Mrs. Maisel,” “Goosebumps” and “Mr. and Mrs. Smith” died Tuesday in Queens, N.Y. after being stabbed. She was 34. Police were call",
+      "url": "https://variety.com/2026/tv/news/mary-kate-golding-dead-stabbed-mrs-maisel-1236819887/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Mary-Kate-Golding-Dead-Murder-Suicide.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T00:06:12.000Z"
+    },
+    {
+      "id": "rss-b3fbf54d2f4e",
+      "title": "Building a GTM Growth Engine Entirely Inside Snowflake",
+      "description": "I spend a lot of time helping teams figure out what to actually build with AI.\nContinue reading on Medium »",
+      "url": "https://avni-jain.medium.com/building-a-gtm-growth-engine-entirely-inside-snowflake-4e031ac66cef?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1462/1*AxyvcjbyJj1DkylE5cY5oQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:05:02.000Z"
+    },
+    {
+      "id": "rss-2f73c57e4fcc",
+      "title": "The ML Model Is Not Dead — It Is Becoming the Intelligence Layer of AI Systems",
+      "description": "Why the future of enterprise AI isn’t about replacing machine learning — it’s about turning models into reusable intelligence services…\nContinue reading on Medium »",
+      "url": "https://medium.com/@akshayadlakha1995/the-ml-model-is-not-dead-it-is-becoming-the-intelligence-layer-of-ai-systems-cf760c681f30?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*UMeA-SGIUdELj3drm1Lmkg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:04:38.000Z"
+    },
+    {
+      "id": "rss-61890b76782f",
+      "title": "Your AI Is Showing — Confident, wrong, and your users believed it",
+      "description": "LLM09: Misinformation — Confident, wrong, and your users believed it\nContinue reading on Medium »",
+      "url": "https://medium.com/@pdevs18/your-ai-is-showing-confident-wrong-and-your-users-believed-it-6b9b66573441?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*6IXwo3rPpzGwetFHhpZJxg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:03:02.000Z"
+    },
+    {
+      "id": "rss-369464537f40",
+      "title": "A Peptide Showdown: F.D.A. Scientists May Clash With R.F.K.’s Agenda",
+      "description": "In an all-day hearing, the agency’s scientists argued against allowing broad access to unproven drugs that the agency had banned three years ago.",
+      "url": "https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html",
+      "image": "https://static01.nyt.com/images/2026/07/06/multimedia/23dc-peptides/06trump-news-uspstf-qlkf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "health",
+      "publishedAt": "2026-07-24T00:01:14.000Z"
+    },
+    {
+      "id": "rss-cb8b3cf80953",
+      "title": "Mac Mini M4 vs RTX 5090 vs Cloud GPUs for Local AI in 2026",
+      "description": "The $1,799 box beats the $4,000 one for most local AI, and the reason is one number: 32.\nContinue reading on Towards AI »",
+      "url": "https://pub.towardsai.net/mac-mini-m4-vs-rtx-5090-vs-cloud-gpus-for-local-ai-in-2026-2eaf90402bbc?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*CftaDx2Bi5xsdIqfARwNDg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T00:01:02.000Z"
+    },
+    {
+      "id": "rss-e8901d5a7560",
+      "title": "2026 3M Open leaderboard: Scottie Scheffler finds putter as Ben Kohles sits on top after Round 1",
+      "description": "The world No. 1 was among the top putters Thursday, one week after struggling on the greens at The Open",
+      "url": "\n                                                https://www.cbssports.com/golf/news/2026-3m-open-leaderboard-scottie-scheffler-ben-kohles-round-1/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/23/7f3d3cf3-a444-481f-b55f-7d0f30bbbfce/scottie-scheffler-3m-r1-g.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T00:01:00.000Z"
+    },
+    {
+      "id": "rss-edbcf7f7eb80",
+      "title": "Dem’s stunning ideal standard for immigration detention conditions resurfaces amid Texas senate bid",
+      "description": "James Talarico's resurfaced 2019 comments on immigration detention conditions raise questions as he prepares to face Ken Paxton for Texas Senate.",
+      "url": "https://www.foxnews.com/politics/dems-stunning-ideal-standard-immigration-detention-conditions-resurfaces-texas-senate-bid",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/james-talarico-primary-election-2026-texas-midterms-002.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T00:00:57.000Z"
+    },
+    {
+      "id": "rss-2bde735c7610",
+      "title": "Motor City's director explains how he made the most unique revenge thriller of the year",
+      "description": "The filmmaker discusses Alan Ritchson, visual storytelling, unforgettable needle drops, and why \"the first person to speak usually loses.\"",
+      "url": "https://www.polygon.com/motor-city-director-potsy-ponciroli-interview/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/motor-city-alan-richson.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T00:00:11.000Z"
+    },
+    {
+      "id": "rss-ffe122c3f2dc",
+      "title": "Cardinals' Jacoby Brissett to participate in training camp amid contract talks, ends offseason hold-in",
+      "description": "Brissett did not practice during the mandatory minicamp while seeking an extension",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/cardinals-jacoby-brissett-to-participate-in-training-camp/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/23/68fd23fd-2bfe-4869-a65f-ccd87d0a66a9/gettyimages-2219842001-1.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-23T23:59:22.000Z"
+    },
+    {
+      "id": "rss-401114447af0",
+      "title": "‘Ebenezer: A Christmas Carol’ Trailer: Johnny Depp Transforms Into Grouchy, Snowball-Throwing Scrooge",
+      "description": "Paramount Pictures has released the first trailer for “Ebenezer: A Christmas Carol,” starring Johnny Depp in his first major Hollywood role since his 2022 trial against ex-wife Amber Heard. Directed b",
+      "url": "https://variety.com/2026/film/news/ebenezer-christmas-carol-trailer-johnny-depp-scrooge-1236801196/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/EBZR-02234R.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-23T23:59:02.000Z"
+    },
+    {
+      "id": "rss-f66b71c9f662",
+      "title": "Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: Improved Battery, Screen and a Higher Price",
+      "description": "",
+      "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-8-ultra-vs-z-fold-7-improved-battery-screen-and-a-higher-price/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Galaxy-Z-Fold-8-Ultra-vs-Galaxy-Z-Fold-7.png",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-23T23:50:17.000Z"
+    },
+    {
+      "id": "rss-5e24bec5e482",
+      "title": "A Study Found Asthma Improves After Switching From a Gas Stove to Electric",
+      "description": "",
+      "url": "https://www.cnet.com/health/a-study-found-asthma-improves-after-switching-from-a-gas-stove-to-electric/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/gas-stove-flame.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-23T23:47:49.000Z"
+    },
+    {
+      "id": "rss-bfe0e708171c",
+      "title": "Prominent Indian Activist Breaks Hunger Strike After 26 Days",
+      "description": "The activist, Sonam Wangchuk, said that he had broken his fast “after long negotiations” with officials and “in view of possible violence in the country.”",
+      "url": "https://www.nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html",
+      "image": "https://static01.nyt.com/images/2026/07/18/multimedia/23india-protests-wangchuk/18int-india-hunger-strike-02-tcpk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-23T23:46:34.000Z"
+    },
+    {
+      "id": "rss-ac0379f480f2",
+      "title": "Search Is Instant. Thinking Is the New Luxury.",
+      "description": "Information is a click away. Understanding still takes the long way home.\nContinue reading on Medium »",
+      "url": "https://medium.com/@luxdolorosa/search-is-instant-thinking-is-the-new-luxury-03b04800a91b?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*j1vLPJsEIojx0yhGlEeIVg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T23:39:43.000Z"
+    },
+    {
+      "id": "rss-8212ccb8cad8",
+      "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
+      "description": "Microsoft AI released two new in-house models into public preview on Wednesday — MAI-Image-2.5-Pro, its highest-fidelity image generator to date, and MAI-Voice-2-Flash, a speech model built for high-v",
+      "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/21LP7BYkYtNcUVP0RAuTq2/d6a298425c240d52da4e211885164c27/Nuneybits_Vector_art_of_Microsoft_logo_rerouting_AI_traffic_fro_0889d4d3-b42c-4858-a9dc-f77546ce9c6c.webp?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "technology",
+      "publishedAt": "2026-07-23T23:37:05.000Z"
+    },
+    {
+      "id": "rss-8be41be1d0f7",
+      "title": "Secret Service agent on JD Vance's detail investigated for allegedly leaking operational security info",
+      "description": "A Secret Service agent on JD Vance's protective division faces an administrative and potential criminal inquiry over compromising operational security.",
+      "url": "https://www.foxnews.com/politics/secret-service-agent-jd-vance-detail-investigated-allegedly-leaking-operational-security-info",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/jd-usha-vance-medal-of-freedom.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-23T23:35:48.000Z"
+    },
+    {
+      "id": "rss-d3782d4714a1",
+      "title": "House of the Dragon Larys Strong Actor Matthew Needham Voices Joker in Batman: Caped Crusader Season 2 | Comic Con 2026",
+      "description": "Matthew Needham is the voice of The Joker in Batman: Caped Crusader Season 2, Prime Video has announced. British actor Needham is most famous for playing Larys Strong in Game of Thrones prequel series",
+      "url": "https://www.ign.com/articles/house-of-the-dragon-larys-strong-actor-matthew-needham-voices-joker-in-batman-caped-crusader-season-2-comic-con-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/07/23/joker-1784842650766.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T23:30:42.000Z"
+    },
+    {
+      "id": "rss-e1de5c10379e",
+      "title": "Amazon Prime Has an Exclusive Batman Video Game Set to Launch Alongside Batman: Caped Crusader Season 2 | Comic Con 2026",
+      "description": "Amazon and Warner Bros. have announced Batman: Caped Crusader - Chronicles, a new Batman game exclusive to Amazon Prime set to launch on July 31 alongside Batman: Caped Crusader Season 2.",
+      "url": "https://www.ign.com/articles/amazon-prime-has-an-exclusive-batman-video-game-set-to-launch-alongside-batman-caped-crusader-season-2-comic-con-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/07/23/bccc-montoya-01-final-1920x1080-ct-000026630-1784822409347.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T23:30:05.000Z"
+    },
+    {
+      "id": "rss-53bb73a9a680",
+      "title": "‘Batman: Caped Crusader’ Season 2 Reveals Joker Voice Actor: ‘House of the Dragon’ Star Matthew Needham",
+      "description": "“Batman: Caped Crusader” has unmasked its Joker. “House of the Dragon” star Matthew Needham will voice the villain in Season 2 of the animated noir series after the Clown Prince of Crime was teased at",
+      "url": "https://variety.com/2026/tv/news/batman-caped-crusader-season-2-joker-voice-matthew-needham-1236819416/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/batman-e1784821115946.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-23T23:30:00.000Z"
+    },
+    {
+      "id": "rss-9380e1080d1b",
+      "title": "Batman Is Finally Getting A New Game, Just Not The One You Were Expecting",
+      "description": "The new season of Batman: The Caped Crusader kicks off on July 31, and anyone looking to join the world's greatest detective in solving some mysteries can also jump into a new game launching the same ",
+      "url": "https://www.gamespot.com/articles/batman-is-finally-getting-a-new-game-just-not-the-one-you-were-expecting/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Batman-CCC.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-23T23:30:00.000Z"
+    },
+    {
+      "id": "rss-4cabc16144a9",
+      "title": "Ethereum Surges Above $1.9K: Can ETH Rally to $2,100 Next?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ethereum/ethereum-surges-above-19k-can-eth-rally-to-2100-next",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-23/12k6rhgy/Ethereum-Surges-Above-1.9K-Can-ETH-Rally-to-2100-Next.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-23T23:30:00.000Z"
+    },
+    {
+      "id": "rss-dc13d9f2e100",
+      "title": "Today’s NYT Connections: Sports Edition Hints and Answers for July 24, #669",
+      "description": "",
+      "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-sports-edition-hints-and-answers-for-july-24-669/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Sports-Connections-main-art.webp",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-23T23:27:32.000Z"
+    },
     {
       "id": "rss-247486272e3e",
       "title": "AP post on USAID cuts backfires as critics question taxpayer-funded Nepal transgender jobs",
@@ -61,6 +451,16 @@
       "source": "Fox News Politics",
       "category": "politics",
       "publishedAt": "2026-07-23T23:09:06.000Z"
+    },
+    {
+      "id": "rss-fef2528e9ad5",
+      "title": "AMD’s Lisa Su defends open-source AI following Hugging Face security breach caused by OpenAI agents",
+      "description": "Speaking at AMD Advanced AI conference, the chip giant's CEO weighed in on the open source debate—and showcased its latest hardware offerings.",
+      "url": "https://fortune.com/2026/07/23/amd-lisa-su-keynote-open-source-helios-gpu-advanced-ai-conference/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/7-23-AMD-AI-Keynote-CEO-Photos-110_cd294e-e1784843882106.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-23T23:06:59.000Z"
     },
     {
       "id": "rss-b2fe6c6cf141",
@@ -153,6 +553,16 @@
       "publishedAt": "2026-07-23T22:56:42.000Z"
     },
     {
+      "id": "rss-05820e22e5ee",
+      "title": "I Built 10 AI Agents in 10 Days. Here's What I Actually Learned.",
+      "description": "I Built 10 AI Agents in 10 Days. Here’s\nContinue reading on Medium »",
+      "url": "https://medium.com/@ic3bl3u/i-built-10-ai-agents-in-10-days-heres-what-i-actually-learned-be5571b5000f?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*zDi9xDAeVipm93hDuZvjMg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-23T22:53:52.000Z"
+    },
+    {
       "id": "rss-6cffd06536ba",
       "title": "Trump DOJ expands religious liberty protections after major Supreme Court rulings",
       "description": "The guidance directs federal agencies to weigh religious liberty earlier in rulemaking, employment and grant decisions under new Supreme Court rulings.",
@@ -201,16 +611,6 @@
       "source": "Engadget",
       "category": "technology",
       "publishedAt": "2026-07-23T22:39:08.000Z"
-    },
-    {
-      "id": "rss-369464537f40",
-      "title": "A Peptide Showdown: F.D.A. Scientists May Clash With R.F.K.’s Agenda",
-      "description": "In an all-day hearing, the agency’s scientists argued against allowing broad access to unproven drugs that the agency had banned three years ago.",
-      "url": "https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html",
-      "image": "https://static01.nyt.com/images/2026/07/06/multimedia/23dc-peptides/06trump-news-uspstf-qlkf-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "health",
-      "publishedAt": "2026-07-23T22:38:31.000Z"
     },
     {
       "id": "rss-07128c240ca4",
@@ -296,7 +696,7 @@
       "id": "rss-a7ea55c1eba6",
       "title": "My FanCam Is My Favorite New AI Feature – Because It Doesn’t Generate Anything",
       "description": "",
-      "url": "https://www.cnet.com/uncategorized/my-fancam-is-my-favorite-new-ai-feature-because-it-doesnt-generate-anything/",
+      "url": "https://www.cnet.com/tech/mobile/my-fancam-is-my-favorite-new-ai-feature-because-it-doesnt-generate-anything/",
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/samsung-galaxy-z-fold-8-ultra-unpacked-cnet-lanxon-4.jpg",
       "source": "CNET",
       "category": "technology",
@@ -361,16 +761,6 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-23T22:05:14.000Z"
-    },
-    {
-      "id": "rss-899998859e38",
-      "title": "Number of U.S. Troop Deaths in Iran War Appears Lower on Pentagon Website",
-      "description": "Three military officials and a Pentagon spokesman gave conflicting explanations for why the number of Americans killed in the Iran war had changed.",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/iran-troop-deaths.html",
-      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23dc-troops-cvgb/23dc-troops-cvgb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-23T22:03:50.000Z"
     },
     {
       "id": "rss-96e100dc0e63",
