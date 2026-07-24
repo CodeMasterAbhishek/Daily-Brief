@@ -1,7 +1,997 @@
 {
-  "lastUpdated": "2026-07-24T17:05:13.636Z",
-  "count": 3345,
+  "lastUpdated": "2026-07-24T18:57:43.448Z",
+  "count": 3439,
   "articles": [
+    {
+      "id": "rss-e8f6338f67b9",
+      "title": "Preseason All-SEC Team takeaways: Texas, Georgia dominate, but where's Arch Manning?",
+      "description": "SEC voters showed plenty of respect to Texas in with their all-conference selections, but did they snub the Longhorns' spotlight QB?",
+      "url": "\n                                                https://www.cbssports.com/college-football/news/sec-preseason-all-sec-team-takeaways-texas-georgia-arch-manning/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2025/11/01/05fe6684-6fd2-4eaf-ae77-ace8d80e679a/arch-manning.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T18:54:12.000Z"
+    },
+    {
+      "id": "rss-7cc4101a18ae",
+      "title": "iOS 27 adds new Phone app feature that’s an instant favorite",
+      "description": "iOS 27 is packed with new features for apps like Notes, Wallet, Maps, Messages, and more. But one iOS 27 addition that’s especially impressed me is a new Phone feature: Call Context.",
+      "url": "https://9to5mac.com/2026/07/24/ios-27-adds-new-phone-app-feature-thats-an-instant-favorite/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/phone-app-icon-fi-ios-27.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-24T18:53:53.000Z"
+    },
+    {
+      "id": "rss-6fcc79928995",
+      "title": "SEC preseason poll takeaways: Georgia picked to win league, Ole Miss overrated in media rankings",
+      "description": "The media preseason poll results are in. Which teams are heading into 2026 flying under the radar? Which squads are due for a fall?",
+      "url": "\n                                                https://www.cbssports.com/college-football/news/sec-predicted-finish-2026-georgia-texas-ole-miss/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/09b86750-0133-4753-852a-bc88605e87ee/georiga-football-pick-1.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T18:53:15.000Z"
+    },
+    {
+      "id": "rss-6594e18f9ad2",
+      "title": "Building a Zero-Cloud, Privacy-First Clinical Agent Pipeline with LangGraph and OpenMed",
+      "description": "A weekend build combining LangGraph orchestration with OpenMed’s on-device NLP models for automated PHI redaction and clinical entity…\nContinue reading on Medium »",
+      "url": "https://medium.com/@kunalpardhi56/building-a-zero-cloud-privacy-first-clinical-agent-pipeline-with-langgraph-and-openmed-2dd695f5ef07?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*RMpU2DEXjJzuf4fDYldODQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:52:37.000Z"
+    },
+    {
+      "id": "rss-eeaaf684b4d0",
+      "title": "Trump Administration Admits Canceling Grants to States That Did Not Vote for Him",
+      "description": "Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.",
+      "url": "https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-trump-budget-01-wqlv/24dc-trump-budget-01-wqlv-mediumSquareAt3X-v2.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T18:51:06.000Z"
+    },
+    {
+      "id": "rss-eccdeebde762",
+      "title": "My Feed Is Already Full Of Claude Opus 5 Posts Telling Us That 99% Of People Are Using It Wrong.",
+      "description": "Bro, It Dropped 30 Mins Ago.\nContinue reading on Artificial Intelligence in Plain English »",
+      "url": "https://ai.plainenglish.io/my-feed-is-already-full-of-claude-opus-5-posts-telling-us-that-99-of-people-are-using-it-wrong-107a6a4c2ee8?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2400/0*Wq7mPcpgxapu5WAt",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:49:34.000Z"
+    },
+    {
+      "id": "rss-83ba76273ccc",
+      "title": "How Hugging Face Actually Got Hacked?",
+      "description": "The Malicious Dataset That Became Code\nContinue reading on Medium »",
+      "url": "https://medium.com/@Reiki32/how-hugging-face-actually-got-hacked-2917f75cf654?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/600/0*cnvMKQQ2jnqvaHfC",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:48:56.000Z"
+    },
+    {
+      "id": "rss-5fdce24ef29f",
+      "title": "Why the 76ers have the Celtics and Knicks to thank for landing LeBron James",
+      "description": "Philadelphia's two biggest rivals paved the way for the signing of the NBA's all-time leading scorer",
+      "url": "\n                                                https://www.cbssports.com/nba/news/lebron-james-signs-with-76ers-celtics-knicks-nba/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/51e3c243-75ef-4777-9f76-6879ec0ba051/lebron-sixers-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T18:48:01.000Z"
+    },
+    {
+      "id": "rss-0a5dbeead4dc",
+      "title": "Android Studio Quail 1 vs Quail 2: The Biggest AI-Powered Upgrade Android Devs Have Seen in Years",
+      "description": "Google just redesigned how you build Android apps — and if you haven’t updated yet, you’re leaving serious productivity on the table.\nContinue reading on Medium »",
+      "url": "https://medium.com/@siddharthmalviya18/android-studio-quail-1-vs-quail-2-the-biggest-ai-powered-upgrade-android-devs-have-seen-in-years-a192205a4060?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*cFGxeYWtvUvBula_HvV7NA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:47:07.000Z"
+    },
+    {
+      "id": "rss-a7bd98b25e02",
+      "title": "Best AI tools in 2026 that make your work easier",
+      "description": "Explore the best AI tools that simplify your work and speed up productivity in 2026. Read all the articles to use these tools.\nContinue reading on Medium »",
+      "url": "https://medium.com/@mehreensharafat65/best-ai-tools-in-2026-that-make-your-work-easier-14d6950d97be?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*fMcKzXttC7VOybReVJI-ag.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:47:07.000Z"
+    },
+    {
+      "id": "rss-139b6eac9c82",
+      "title": "Inside OM1: The Robot Runtime That Turns Sensor Data Into Sentences",
+      "description": "A layer-by-layer look at OpenMind’s hardware-agnostic architecture, its Natural Language Data Bus, and what it takes to run a language…\nContinue reading on DevOps.dev »",
+      "url": "https://blog.devops.dev/inside-om1-the-robot-runtime-that-turns-sensor-data-into-sentences-1741d1dad0d1?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*pd_hu5xJAhhDu5pksPXUJg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:46:18.000Z"
+    },
+    {
+      "id": "rss-5900f646805e",
+      "title": "From ₹0 to Your First AI Client: The Complete Developer Guide (2026)",
+      "description": "How I would go from zero clients to my first paid AI project using practical skills, a strong portfolio, and smart outreach.\nContinue reading on Medium »",
+      "url": "https://medium.com/@amanxnayak/from-0-to-your-first-ai-client-the-complete-developer-guide-2026-74456d8d5a62?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*o12aSS4Y_7_VSnrAMrEzBw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:46:02.000Z"
+    },
+    {
+      "id": "rss-784fcaa5d25c",
+      "title": "The Zero-Employee Company",
+      "description": "How close are digital businesses to running entirely on AI, and what’s actually stopping them\nContinue reading on Medium »",
+      "url": "https://medium.com/@arielzin33/the-zero-employee-company-af47d2176ac0?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*_N3MvR2J1bWTVFaGNa-TwA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:45:45.000Z"
+    },
+    {
+      "id": "rss-a56764fd877e",
+      "title": "Everything We Know About Pokémon Winds And Waves",
+      "description": "The Switch 2 RPGs are kicking off the 10th generation of Pokémon",
+      "url": "https://kotaku.com/pokemon-winds-waves-pokedex-region-starters-leaks-rumors-2000719174",
+      "image": "https://kotaku.com/app/uploads/2026/02/fuckoff.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:44:58.000Z"
+    },
+    {
+      "id": "rss-23d57692eb34",
+      "title": "Marvel's Latverian Witch costume introduces a mysterious character for Avengers: Doomsday",
+      "description": "Comic-Con attendees discovered a strange color changing costume at Marvel's booth that looks a lot like Doctor Doom",
+      "url": "https://www.polygon.com/avengers-doomsday-latverian-witches-sdcc/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/latverian-witch-featued-image-cropped.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:44:31.000Z"
+    },
+    {
+      "id": "rss-63bd87b54977",
+      "title": "AI Companies Care Deeply About “Open Source” (When It Benefits Them)",
+      "description": "A Heartwarming Story of Strategic Generosity\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/ai-companies-care-deeply-about-open-source-when-it-benefits-them-22481481d467?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*aBISsbnPM54bs_-UGkxJuQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:44:22.000Z"
+    },
+    {
+      "id": "rss-fcb089cdbd89",
+      "title": "Stripe vs Paddle vs Lemon Squeezy: Which Payment Platform Should Power Your AI SaaS in 2026?",
+      "description": "Stripe, Paddle, and Lemon Squeezy all handle SaaS payments, but only two of them handle your tax liability. Here’s the real 2026 breakdown…\nContinue reading on Medium »",
+      "url": "https://alihassanofficial1.medium.com/stripe-vs-paddle-vs-lemon-squeezy-ai-saas-2026-476c037ae81f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*oWh_EcudvT4xNFhr9gzYYg.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:44:19.000Z"
+    },
+    {
+      "id": "rss-61ae05a7d284",
+      "title": "ChatGPT Gone Rogue?",
+      "description": "I have read a lot of scary AI headlines. Most of them are hype. Most of them fall apart the second you look at the actual details. So when…\nContinue reading on Medium »",
+      "url": "https://medium.com/@Reiki32/chatgpt-gone-rogue-7b0e044882f2?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/800/0*zJJRWw0ILrlIJWGO.jpg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:43:48.000Z"
+    },
+    {
+      "id": "rss-174fe9889e00",
+      "title": "UFC Fight Night predictions -- Magomed Ankalaev vs. Bogdan Guskov: Fight card, odds and expert picks",
+      "description": "Light heavyweights take center stage in Abu Dhabi on Saturday night",
+      "url": "\n                                                https://www.cbssports.com/ufc/news/ufc-fight-night-card-predictions-magomed-ankalaev-bogdan-guskov-odds/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/d2b6963a-51ea-4ca1-b924-3be4e3d3c27d/magomed-ankalaev-weighins.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T18:43:19.000Z"
+    },
+    {
+      "id": "rss-25a8c87d021f",
+      "title": "The Rings of Power season 3 trailer shows Sauron becoming a real dark lord",
+      "description": "Prime Video offered a first look at the new season as it finally gets to the exciting stuff in Tolkien's epic fantasy series",
+      "url": "https://www.polygon.com/the-rings-of-power-season-3-teaser-trailer/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/lotr_s3_ut_250929_rotben_00250_r3_3000.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:40:24.000Z"
+    },
+    {
+      "id": "rss-08df6f718054",
+      "title": "LeBron James, against all odds, trusts the process -- and he's exactly what the title-starved 76ers need",
+      "description": "In a stunning move, LeBron is joining a 76ers team that hasn't been to the Finals in 25 years and hasn't won it all since 1983",
+      "url": "\n                                                https://www.cbssports.com/nba/news/lebron-james-trusts-the-process-76ers/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/10d81dcb-1e09-4f9c-8594-5eab7641d023/lebron-celebrates-imagn.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T18:40:22.000Z"
+    },
+    {
+      "id": "rss-471cc974f52b",
+      "title": "007 First Light free new DLC adds more missions and weapons",
+      "description": "James Bond origin story 007 First Light received its first big content update on Friday that added new TacSim missions and more.",
+      "url": "https://www.polygon.com/007-first-light-first-big-content-update-tacsim-missions-patch-notes-james-bond/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/05/007-first-light-cast-cameos-patrick-gibson.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:37:56.000Z"
+    },
+    {
+      "id": "rss-b553f6e70a84",
+      "title": "Netflix Executives Considered Pulling ‘Michael Jackson: The Verdict’ Docuseries a Week Before Its Release (EXCLUSIVE)",
+      "description": "Netflix almost pulled the streamer’s recent documentary “Michael Jackson: The Verdict” a week before its release for fear of reprisal, Variety has learned. The three-part docuseries re-examines Jackso",
+      "url": "https://variety.com/2026/tv/global/michael-jackson-docuseries-netflix-considered-pulling-1236817368/",
+      "image": "https://variety.com/wp-content/uploads/2026/06/EN-US_MJOT_Main_Vertical_4x5_RGB_PREDATE.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T18:37:12.000Z"
+    },
+    {
+      "id": "rss-8fac0656c889",
+      "title": "Morphological Operations: Erosion, Dilation, Opening, and Closing",
+      "description": "“Cleaning an image isn’t just about removing noise. Sometimes you need to eliminate small artifacts, connect broken characters, or fill…\nContinue reading on Medium »",
+      "url": "https://medium.com/@m.edakulahci/morphological-operations-erosion-dilation-opening-and-closing-5937ec11ed37?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*JFJ9fXtC-P_o-YF0Oo8V-w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:36:25.000Z"
+    },
+    {
+      "id": "rss-87a96a04969c",
+      "title": "For Star Wars 50th anniversary, Disney is officially remaking the original trilogy",
+      "description": "It's a great time to be a fan of the Star Wars original trilogy, with several novels and other material revealed.",
+      "url": "https://www.polygon.com/star-wars-lucasfilm-publishing-sdcc-2026/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/7809023/open_uri20150608_27674_1ly2wd_eb4b4064.jpeg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:35:58.000Z"
+    },
+    {
+      "id": "rss-82a7572d0969",
+      "title": "Small Businesses Sue Trump Administration Over Latest Tariffs",
+      "description": "The businesses are represented by the Liberty Justice Center, a legal group that has successfully challenged President Trump’s past duties.",
+      "url": "https://www.nytimes.com/2026/07/24/business/trump-tariffs-small-businesses-lawsuit.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-trump-trade-01-wmcp/24dc-trump-trade-01-wmcp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T18:35:43.000Z"
+    },
+    {
+      "id": "rss-76dee8b68b16",
+      "title": "Dispute Over Trump Tariffs Snarls Russia Sanctions Deal",
+      "description": "A bipartisan bill championed by the late Senator Lindsey Graham has become mired in a dispute over expanding President Trump’s tariff power.",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-tariffs-russia-sanctions.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-tariffs-qjmb/24dc-tariffs-qjmb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T18:33:20.000Z"
+    },
+    {
+      "id": "rss-516775023499",
+      "title": "IMAX vs IMAX 70mm: The difference between these two cinema formats",
+      "description": "The different IMAX filming and projection formats have a dramatic impact on the theater viewing experience.",
+      "url": "https://www.engadget.com/2220571/differences-between-imax-70mm/",
+      "image": "https://www.engadget.com/img/gallery/imax-vs-imax-70mm-the-difference-between-these-two-cinema-formats/l-intro-1784663785.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-24T18:30:00.000Z"
+    },
+    {
+      "id": "rss-b16c8ff51d1f",
+      "title": "‘Rings of Power’ Debuts Season 3 Trailer; Simon Pegg Joins Cast as the Balrog",
+      "description": "Amazon Studios has released the first look at the third season of “The Lord of the Rings: The Rings of Power,” the fantasy television series based on J.R.R. Tolkien’s Middle-earth. According to an off",
+      "url": "https://variety.com/2026/tv/news/lord-of-the-rings-rings-of-power-season-3-trailer-1236625486/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/MixCollage-24-Jul-2026-11-33-AM-4983.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T18:30:00.000Z"
+    },
+    {
+      "id": "rss-e11d9b542a37",
+      "title": "Building a Leakage-Safe, Fully Auditable ML Research Pipeline",
+      "description": "An open dataset for research on hurricane rapid intensification, built so that results derived from it can be checked: storm-level split…\nContinue reading on Medium »",
+      "url": "https://medium.com/@estefano.senhor/building-a-leakage-safe-fully-auditable-ml-research-pipeline-0513991aa788?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*cax8YZkyC13MkR7cbpYkwQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:28:42.000Z"
+    },
+    {
+      "id": "rss-a3095b2e85ec",
+      "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
+      "description": "French officials ordered the evacuation of the Cap Ferret Peninsula, a popular holiday destination. Fires west of Madrid were closing in on populated areas.",
+      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-spain-france-fires-mpkz/24int-spain-france-fires-mpkz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T18:28:27.000Z"
+    },
+    {
+      "id": "rss-c5f2bb06aa04",
+      "title": "Blizzard Employee Out Of A Job After Allegedly Helping Friends Cheat In WoW",
+      "description": "A Blizzard employee who used developer tools to allegedly help a group of friends complete a challenging Mythic+ dungeon in World of Warcraft is no longer with the company, Blizzard has confirmed.\nEar",
+      "url": "https://www.gamespot.com/articles/blizzard-employee-out-of-a-job-after-allegedly-helping-friends-cheat-in-wow/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Blizzard-Employee-Out-Of-A-Job-After-Helping-Friends-Cheat-In-WoW.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:27:31.000Z"
+    },
+    {
+      "id": "rss-a7255975046d",
+      "title": "DJI camera clone company Xtra is halting and refunding all preorders",
+      "description": "The Xtra Muse 2 Pro. | Image; Xtra\t\n\nAfter selling a barely disguised version of the hit DJI Osmo Pocket 3 in the United States last year, Xtra Technology seemed ready to sneak in its version of the n",
+      "url": "https://www.theverge.com/policy/970742/dji-camera-clone-company-xtra-is-halting-and-refunding-all-preorders",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/xtra-muse-2-pro.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-24T18:27:00.000Z"
+    },
+    {
+      "id": "rss-62133bfb5fdc",
+      "title": "Argentines Facing Surge of Criticism After World Cup Loss Have Something to Say",
+      "description": "Many Argentines condemned their players’ racist chants and aggressive behavior during the World Cup, but rejected what felt like a sweeping stigmatization of their entire nation.",
+      "url": "https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/00-int-argentina-hate-mqfz/00-int-argentina-hate-mqfz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T18:25:55.000Z"
+    },
+    {
+      "id": "rss-5c9d7ae386d7",
+      "title": "Halo: Campaign Evolved Secret Ending Seems To Tease A Halo 2 Remake",
+      "description": "The original Halo might not be the only entry in the series to get a full redo, with the secret ending of Halo: Campaign Evolved giving a wink and a nod to fans by hinting at a Halo 2 remake.\nSpoilers",
+      "url": "https://www.gamespot.com/articles/halo-campaign-evolved-secret-ending-seems-to-tease-a-halo-2-remake/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/Halo-Campaign-Evolved.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:24:59.000Z"
+    },
+    {
+      "id": "rss-0103008a3eb1",
+      "title": "Bombshell memo shows Biden planned to leave Trump with even more massive immigration crisis",
+      "description": "Sen. Eric Schmitt obtained a Biden White House memo revealing plans to expand TPS to over 3.1 million noncitizens in the administration's final days.",
+      "url": "https://www.foxnews.com/politics/bombshell-memo-shows-biden-planned-leave-trump-massive-immigration-crisis",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/joe-biden-at-podium-1.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T18:22:52.000Z"
+    },
+    {
+      "id": "rss-a13dce045d24",
+      "title": "Anthony Joshua vs. Kristian Prenga fight preview, predictions, card, date and expert picks",
+      "description": "The former heavyweight champion takes the next step toward a potential showdown with Tyson Fury on Saturday",
+      "url": "\n                                                https://www.cbssports.com/boxing/news/anthony-joshua-vs-kristian-prenga-fight-preview-predictions-odds-card-date/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/9d398e9f-a88b-47e2-9643-e501a8928f39/joshua-prenga-presser.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T18:20:16.000Z"
+    },
+    {
+      "id": "rss-90141437b311",
+      "title": "Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says",
+      "description": "The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-intel01-photo-vfhz/24dc-intel01-photo-vfhz-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T18:18:50.000Z"
+    },
+    {
+      "id": "rss-3c1a07fe2734",
+      "title": "How Anthropic Evaluates Claude Against the 14 Categories That Define AI Safety",
+      "description": "Meta codified AI safety into a precise 14-category taxonomy.\nContinue reading on Level Up Coding »",
+      "url": "https://levelup.gitconnected.com/how-anthropic-evaluates-claude-against-the-14-categories-that-define-ai-safety-623a958d37c2?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*eMLNuwr1LdPOpOV1",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:17:25.000Z"
+    },
+    {
+      "id": "rss-f7399ea5233d",
+      "title": "Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran",
+      "description": "President Trump has insisted the U.S.-Israeli war in Iran would be a relatively short “excursion,” although it has now lasted nearly five months, with no end in sight.",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-trump-iran-hjmc/24dc-trump-iran-hjmc-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T18:16:13.000Z"
+    },
+    {
+      "id": "rss-06754d422cac",
+      "title": "Top SSD Deals in July 2026 for Faster PC Performance",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gadgets/top-ssd-deals-in-july-2026-for-faster-pc-performance",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/psaxee06/Top-SSD-Deals-in-July-2026-for-Faster-PC-Performance.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:15:00.000Z"
+    },
+    {
+      "id": "rss-0085213f384a",
+      "title": "How the Brewers limiting Jacob Misiorowski's workload could affect the National League Cy Young race",
+      "description": "Misiorowski is a heavy favorite, but Milwaukee's plan to save his arm could leave the door open for other suitors",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/jacob-misiorowski-brewers-national-league-cy-young-odds/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/a8769573-7abf-4cf7-afd0-a2a2563096cd/miz-cy-young-getty-1.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T18:13:45.000Z"
+    },
+    {
+      "id": "rss-c3259b8bb105",
+      "title": "'The Silent Cartographer' skulls and terminal locations in Halo Campaign Evolved",
+      "description": "All the skull and terminal locations on \"The Silent Cartographer\" level in Halo: Campaign Evolved.",
+      "url": "https://www.polygon.com/halo-campaign-evolved-the-silent-cartographer-skulls-terminal-locations-where-to-find/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/halo-campaign-evolved-the-silent-cartographer-skulls-terminals-header.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:12:42.000Z"
+    },
+    {
+      "id": "rss-cdf510a09de4",
+      "title": "The Science of Artificial Intelligence",
+      "description": "https://shrinkme.click/80oE6DI\nContinue reading on Medium »",
+      "url": "https://medium.com/@muhammadyusriann/the-science-of-artificial-intelligence-bdca99834b6e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*B6qFaU-Ceg6IWaZBfikqog.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:12:10.000Z"
+    },
+    {
+      "id": "rss-924ad58f7ede",
+      "title": "NBA odds: LeBron James signing with 76ers causes massive movement in futures markets",
+      "description": "The King is headed to Philadelphia and here's how oddsmakers have reacted to the news",
+      "url": "\n                                                https://www.cbssports.com/betting/news/nba-odds-lebron-james-signing-with-76ers-causes-massive-movement-in-futures-markets/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/22/b4dba6ba-178f-41ac-8dfc-9adf184896f4/usatsi-22668123.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T18:11:25.000Z"
+    },
+    {
+      "id": "rss-462fc8124cf4",
+      "title": "Nothing confirms layoffs, but calls market exit rumors &#8216;fake news&#8217;",
+      "description": "raw | Photo: Dominic Preston / The Verge\t\n\nIn response to a report that Nothing is planning to \"exit 12 markets as global shipments decline,\" Nothing cofounder Akis Evangelidis said the company is \"re",
+      "url": "https://www.theverge.com/tech/970848/nothing-layoffs-rumors-phone-4b",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/nothing-phone-4a-pro-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-24T18:10:22.000Z"
+    },
+    {
+      "id": "rss-23d7720bac06",
+      "title": "Why This PushT Architecture Works",
+      "description": "A plain-language explanation of the policy, the planner, the evaluation settings, and the task dynamics\nContinue reading on Toward Humanoids »",
+      "url": "https://medium.com/correll-lab/why-this-pusht-architecture-works-49522f326048?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*Z-59Oaw6C2p-3lmfywc6RQ.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:09:53.000Z"
+    },
+    {
+      "id": "rss-6e9c6c261064",
+      "title": "Democrats Vote to Put South Carolina First in 2028 Primary",
+      "description": "The state, along with several others still being chosen, appears set to play an important role in determining the party’s next presidential nominee.",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/democrats-south-carolina-nevada-2028-presidential-race.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24pol-dems-calendar-01-qptl/24pol-dems-calendar-01-qptl-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T18:09:42.000Z"
+    },
+    {
+      "id": "rss-a429d1b3aac7",
+      "title": "Welcome to Oga Knowledge: Where Learning Meets Growth",
+      "description": "Welcome to Oga Knowledge: Where Learning Meets Growth\nContinue reading on Medium »",
+      "url": "https://medium.com/@ogaknowledge/welcome-to-oga-knowledge-where-learning-meets-growth-2a48524b733e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*9WNTEX5aCaEwftEfh2LLcw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:08:24.000Z"
+    },
+    {
+      "id": "rss-3f389a14c0b7",
+      "title": "Roku raises streaming hardware prices by up to $50",
+      "description": "The Roku Ultra. | Image: Roku\t\n\nRoku has increased prices across its streaming hardware, with the cheapest HD Streaming Stick now priced at $39.99 instead of $29.99, as first reported by The Desk. The",
+      "url": "https://www.theverge.com/streaming/970814/roku-streaming-price-increase",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Roku-Ultra.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-24T18:07:19.000Z"
+    },
+    {
+      "id": "rss-25289811d751",
+      "title": "Indiana Jones returns with new series set after Raiders of the Lost Ark",
+      "description": "Marvel Comics' The Sword of Pandemonium will take place after Raiders of the Lost Ark and is penned by Thor legend Jason Aaron.",
+      "url": "https://www.polygon.com/indiana-jones-and-the-sword-of-pandemonium-marvel-comics-announced-sdcc/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/04/indiana-jones-desktop-adventures.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:05:11.000Z"
+    },
+    {
+      "id": "rss-358d6adb3dcf",
+      "title": "6-year-old in China dies after experimental treatment, investigation finds, raising questions about the country's gene therapy regulations",
+      "description": "A young girl in China died after being given an experimental gene therapy intended to treat a neurodevelopmental syndrome, an investigation by Science and Retraction Watch revealed.",
+      "url": "https://www.livescience.com/health/genetics/6-year-old-in-china-dies-after-experimental-treatment-investigation-finds-raising-questions-about-the-countrys-gene-therapy-regulations",
+      "image": "https://cdn.mos.cms.futurecdn.net/KiVkhCRK3qChHZWthR4pUM-1280-80.png",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-24T18:02:20.000Z"
+    },
+    {
+      "id": "rss-baaa10c2317c",
+      "title": "Securing Your AI Agents with Qarai Agent Guard: A Practical Tutorial",
+      "description": "If you’re building AI agents today, you already know the uncomfortable truth: prompt injection, jailbreaks, and PII leakage aren’t edge…\nContinue reading on Medium »",
+      "url": "https://medium.com/@ziadisafouene/securing-your-ai-agents-with-qarai-agent-guard-a-practical-tutorial-897e4ac9121d?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*7p4wdENUaD657j8FTKG5gA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:02:02.000Z"
+    },
+    {
+      "id": "rss-d9af0795e44f",
+      "title": "India’s Student Protesters Win Some Concessions from Government",
+      "description": "Representatives of Prime Minister Narendra Modi agreed to compensate families affected by a major exam leak, as protesters keep pressing for India’s education minister to resign.",
+      "url": "https://www.nytimes.com/2026/07/24/world/asia/india-genz-student-movement-cockroach-janta-party.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-india-protests-mcbq/24int-india-protests-mcbq-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T18:01:44.000Z"
+    },
+    {
+      "id": "rss-8ead6972498c",
+      "title": "Anthropic Just Read Claude’s Mind. Sort Of",
+      "description": "A tiny global workspace inside the model, the J-space, holds its unspoken thoughts in plain words. Here is what builders can actually do…\nContinue reading on Towards AI »",
+      "url": "https://pub.towardsai.net/anthropic-just-read-claudes-mind-sort-of-74179bcbe791?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*vlLmO_1arPLzbsusxUMnxw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:01:01.000Z"
+    },
+    {
+      "id": "rss-e9a5a6744b6c",
+      "title": "Brewers vs. Rockies prediction, odds, line, time: 2026 MLB picks for Friday, July 24 by proven model",
+      "description": "SportsLine's model simulated Colorado Rockies vs. Milwaukee Brewers 10,000 times and revealed its MLB picks for Friday's matchup",
+      "url": "\n                                                https://www.cbssports.com/betting/news/brewers-vs-rockies-prediction-odds-line-time-2026-mlb-picks-best-bets-for-friday-july-24/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/ec602731-326f-42e2-812c-a01e36107f09/brice-turang-milwaukee-brewers-imagn-images.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T18:00:49.000Z"
+    },
+    {
+      "id": "rss-c6151b4a8049",
+      "title": "Microsoft should make these 10 Xbox games backwards-compatible on PC",
+      "description": "With select Xbox games coming to the PC platform from Microsoft, here are 10 games that deserve a fresh chance to delight players.",
+      "url": "https://www.polygon.com/xbox-games-backward-compatible-pc/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/conker-live-and-reloaded-keyart.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:00:12.000Z"
+    },
+    {
+      "id": "rss-8d0bf40a1e8c",
+      "title": "We boldly chat to 'Star Trek: Strange New Worlds' showrunners about dinosaurs in space and Lovecraftian horrors for season 4 (interview)",
+      "description": "'The minute we started talking about doing dinosaurs, we were like, 'Yeah, let’s figure out a way to do that.''",
+      "url": "https://www.space.com/entertainment/space-movies-shows/we-boldly-chat-to-star-trek-strange-new-worlds-showrunners-about-dinosaurs-in-space-and-lovecraftian-horrors-for-season-4-interview",
+      "image": "https://cdn.mos.cms.futurecdn.net/2nrvqaESbrTdSdZh5LrMEZ-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-24T18:00:00.000Z"
+    },
+    {
+      "id": "rss-08d327da28a6",
+      "title": "Marvel Is Finally Publishing New Indiana Jones Comics | Comic Con 2026",
+      "description": "At long last, Marvel Comics is kicking off a new line of Indiana Jones comics, starting with Indiana Jones and the Sword of Pandemonium in December.",
+      "url": "https://www.ign.com/articles/marvel-is-finally-publishing-new-indiana-jones-comics-comic-con-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/07/24/mixcollage-24-jul-2026-01-00-pm-4187-1784912447511.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T18:00:00.000Z"
+    },
+    {
+      "id": "rss-25f47ed23e8d",
+      "title": "Alphabet Holds $94.1 Billion in SpaceX Shares Under Full Trading Lock-Up",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/alphabet-holds-941-billion-in-spacex-shares-under-full-trading-lock-up",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/nq1gri4t/Alphabet-Just-Revealed-a-94-Billion-Stake-in-SpaceX-and-It-Cant-Sell-a-Single-Share-Yet.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T18:00:00.000Z"
+    },
+    {
+      "id": "rss-c5903a24a028",
+      "title": "Inside Costa Rica’s Alcatraz and Another 5 Top Locations",
+      "description": "The same crystalline waters swooshing the pebbled coast of San Lucas Island were once murked by the crimson red of blood. From 1873 to 1991, the island served as Costa Rica’s principal penitentiary, w",
+      "url": "https://variety.com/2026/film/global/costa-rica-alcatraz-another-5-top-locations-1236820110/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/VARIETY-SIZING-2026-07-24T092823.056.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T17:58:05.000Z"
+    },
+    {
+      "id": "rss-b532dc2fb5d9",
+      "title": "Boox teases the incredibly tiny Picco ereader",
+      "description": "It features a 3.97-inch monochrome e-paper display.",
+      "url": "https://www.engadget.com/2222691/boox-teases-incredibly-tiny-picco-ereader/",
+      "image": "https://www.engadget.com/img/gallery/boox-teases-incredibly-tiny-picco-ereader/l-intro-1784916369.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-24T17:54:42.000Z"
+    },
+    {
+      "id": "rss-586110ceac60",
+      "title": "Matt Damon Describes His Role in The Daniels’ New Sci-Fi Movie as ‘The Breakfast Club’ Meets ‘Inception’ Meets Anime Meets John Oliver",
+      "description": "Matt Damon has revealed the wild pitch from “Everything Everywhere All at Once” directors Daniel Kwan and Daniel Scheinert. Damon, who is set to star in directors’ new sci-fi film revealed the details",
+      "url": "https://variety.com/2026/film/news/matt-damon-daniels-sci-fi-movie-breakfast-club-inception-1236820464/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/2286150326.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T17:52:25.000Z"
+    },
+    {
+      "id": "rss-06d47a147e44",
+      "title": "Phil Rosenthal’s ‘Somebody Feed Phil’ Releases Special Max and Helen’s Episode on YouTube Ahead of Season 9 Premiere (EXCLUSIVE)",
+      "description": "Phil Rosenthal has travelled the world in search of the best bites. Now, to usher in a new era of his show “Somebody Feed Phil,” the comedian and host will offer fans a look at something a little clos",
+      "url": "https://variety.com/2026/tv/news/phil-rosenthal-somebody-feed-phil-max-and-helens-episode-youtube-1236820476/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/PhilRosenthal_MaxAndHelens_Still2.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T17:49:36.000Z"
+    },
+    {
+      "id": "rss-6bc2c3285912",
+      "title": "‘McCarthy trials’: Hasan Piker, far-left figures erupt over subpoenas in $39M Singham probe",
+      "description": "Hasan Piker and CodePink's Medea Benjamin rally behind BreakThrough News after congressional subpoenas target groups tied to communist tech tycoon.",
+      "url": "https://www.foxnews.com/politics/mccarthy-trials-hasan-piker-far-left-figures-erupt-subpoenas-39m-singham-probe",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Hasan-Piker-Neville-Roy-Singham-split.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T17:48:51.000Z"
+    },
+    {
+      "id": "rss-ce427bd2b1c3",
+      "title": "Top 10 Headphones with Long Battery Life for Travel, Work, Gaming",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/headphones/top-10-headphones-with-long-battery-life-for-travel-work-gaming",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/4la8epxf/Best-Headphones-with-Long-Battery-Life-for-Travel-Work-and-Gaming.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T17:45:00.000Z"
+    },
+    {
+      "id": "rss-47d1cef69d97",
+      "title": "Netanyahu to visit Trump at White House, attend 'dear friend' Lindsey Graham's memorial service",
+      "description": "Benjamin Netanyahu will meet President Trump and attend Lindsey Graham's memorial service in Washington as U.S.-Israel operations against Iran continue.",
+      "url": "https://www.foxnews.com/politics/netanyahu-visit-trump-white-house-attend-dear-friend-lindsey-grahams-memorial-service",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/donald-trump-netanyahu-2025.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T17:44:20.000Z"
+    },
+    {
+      "id": "rss-073dd3134afb",
+      "title": "Anthropic's New Claude Opus 5 Nearly Matches Flagship Fable 5 at Half the Cost",
+      "description": "Anthropic today introduced Claude Opus 5, an upgrade to Opus 4.8. Anthropic says Opus 5 was built for daily use, and it offers near Fable 5 performance at half the price. Fable 5 is Anthropic's most c",
+      "url": "https://www.macrumors.com/2026/07/24/anthropic-opus-5/",
+      "image": "https://images.macrumors.com/article-new/2026/07/claude-opus-5.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-24T17:43:35.000Z"
+    },
+    {
+      "id": "rss-1b811066d5d8",
+      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
+      "description": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday.",
+      "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-canada-bridge-jclb/24int-canada-bridge-jclb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T17:43:17.000Z"
+    },
+    {
+      "id": "rss-0d7d999af40e",
+      "title": "Why David Cronenberg’s Feature on Charli xcx’s ‘Music, Fashion, Film’ Gets to the Heart of What the Album Is Really About",
+      "description": "It’s no secret that Charli xcx is a cinephile, so it wasn’t a shock when the avant-garde pop star revealed that her latest album would feature iconic horror auteur David Cronenberg — especially consid",
+      "url": "https://variety.com/2026/music/columns/david-cronenberg-charli-xcx-feature-album-meaning-1236820139/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/cronenberg-charli.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T17:42:47.000Z"
+    },
+    {
+      "id": "rss-de929a02c878",
+      "title": "Blade Runner 2099’s moody dystopia streams on Amazon in November",
+      "description": "After teasing the series with some first-look images yesterday, Amazon is finally properly unveiling its Blade Runner streaming series. Called Blade Runner 2099, the show hits Prime Video on November ",
+      "url": "https://www.theverge.com/entertainment/970524/blade-runner-2099-date-trailer-amazon-prime-video",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-24-at-1.29.39-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-24T17:40:00.000Z"
+    },
+    {
+      "id": "rss-8f45288e1418",
+      "title": "Leavitt vows Trump will deliver 'entertaining' speech at his return to White House Correspondents' Dinner",
+      "description": "Karoline Leavitt says President Trump's rescheduled White House Correspondents' Dinner speech will be \"unifying yet vicious\" and \"entertaining.\"",
+      "url": "https://www.foxnews.com/politics/leavitt-vows-trump-deliver-entertaining-speech-return-white-house-correspondents-dinner",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/donald-trump-speech-wheeler-high-school.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T17:39:10.000Z"
+    },
+    {
+      "id": "rss-041718d4c514",
+      "title": "Prime Video's biggest sci-fi show of the year redefines a cyberpunk icon",
+      "description": "Amazon just revealed the first trailer and release date for its Blade Runner 2099 at San Diego Comic-Con.",
+      "url": "https://www.polygon.com/blade-runner-2099-trailer-plot-cast-release-date/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/4108990/bladerunner.0.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T17:36:43.000Z"
+    },
+    {
+      "id": "rss-1e5704ef879e",
+      "title": "Second lady Usha Vance shares family photos featuring newborn who is less than 1 week old",
+      "description": "Usha Vance shared the first family photo with all four children, including newborn Alec Neel Vance, joking about the challenge of a decent shot.",
+      "url": "https://www.foxnews.com/politics/second-lady-usha-vance-shares-family-photos-featuring-newborn-less-than-1-week-old",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/9dfc5510-second-family-newborn-2.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T17:36:25.000Z"
+    },
+    {
+      "id": "rss-884cb13b1b8f",
+      "title": "Eli Roth-Executive Produced ‘Burger Night: Luli, Magda & Lore’ Gets All-Female Cast (EXCLUSIVE)",
+      "description": "The Argentine spin-off of Joe Begos’ alien horror pic “Jimmy and Stiggs” has found its cast and crew. Argentina’s Agostina Palazzolo (“Ciclón), Agustina “Papry” Suásquita (Netflix’s “Envious”) and Mai",
+      "url": "https://variety.com/2026/film/global/eli-roth-pablo-guisa-burger-night-luli-magda-lore-1236818730/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/varietyfinal_1.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T17:35:18.000Z"
+    },
+    {
+      "id": "rss-a8dcb40a6511",
+      "title": "Tomb Raider: Catalyst Delayed To 2028 Which Means No Disc On PlayStation",
+      "description": "The game's prolonged development will drag it into the PS6 era",
+      "url": "https://kotaku.com/tomb-raider-catalyst-delayed-to-2028-which-means-no-disc-on-playstation-2000719166",
+      "image": "https://kotaku.com/app/uploads/2026/07/tomb-raiader-1280x734.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T17:34:45.000Z"
+    },
+    {
+      "id": "rss-b1d56df0909a",
+      "title": "GTA 6 Is The First Game I’ve Seen With A Best-Before Date",
+      "description": "We're about four months from the launch of the biggest game of the year: Grand Theft Auto 6. The hype is no doubt through the roof, but if you're in Japan, you'll need to turn that excitement into imm",
+      "url": "https://www.gamespot.com/articles/gta-6-is-the-first-game-ive-seen-with-a-best-before-date/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/The-Big-GTAski.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T17:34:40.000Z"
+    },
+    {
+      "id": "rss-8c00525e3831",
+      "title": "LeBron James picks the 76ers: Grading his 'last decision' as Philly beats out Heat, Cavaliers, Warriors",
+      "description": "LeBron picked the Sixers over the Cavaliers, Heat, Warriors and Wolves, so how do our NBA writers grade his choice?",
+      "url": "\n                                                https://www.cbssports.com/nba/news/lebron-james-76ers-grades/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/21ef2dbb-eb12-4ef8-af07-281f567598da/lebron-sixers-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T17:34:15.000Z"
+    },
+    {
+      "id": "rss-a30d16d56216",
+      "title": "The Future's Bright in Blade Runner 2099's Debut Trailer | Comic Con 2026",
+      "description": "Prime Video has revealed Blade Runner 2099 with a debut trailer at San Diego Comic-Con 2026, and confirmed all eight episodes will drop on November 25, 2026.",
+      "url": "https://www.ign.com/articles/the-futures-bright-in-blade-runner-2099s-debut-trailer-comic-con-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/07/24/br-1784915054796.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T17:31:36.000Z"
+    },
+    {
+      "id": "rss-b489a250ec33",
+      "title": "Anthropic Releases Claude Opus 5 to Be Your New ‘Everyday’ Assistant",
+      "description": "",
+      "url": "https://www.cnet.com/tech/services-and-software/anthropic-releases-claude-opus-5-to-be-your-new-everyday-assistant/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Opus-5-Hero.png",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-24T17:30:00.000Z"
+    },
+    {
+      "id": "rss-3596f6302283",
+      "title": "Genesis House and Gotham Shorts Fellowship Unveils Inaugural Winners, Featuring ‘Dìdi’ and ‘All Dirt Roads Taste of Salt’ Directors as Mentors (EXCLUSIVE)",
+      "description": "As part of Genesis House and The Gotham Film & Media Institute’s inaugural shorts fellowship program, three emerging New York City-based filmmakers have been chosen to receive $10,000, including  Shan",
+      "url": "https://variety.com/2026/film/news/genesis-house-gotham-shorts-fellowship-winners-1236820432/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Gotham_Group_0694-Ret.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T17:30:00.000Z"
+    },
+    {
+      "id": "rss-ed56c7aac72c",
+      "title": "Dow Gains as Oil Retreats on Report of Renewed Iran-US Peace Diplomacy",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/dow-gains-as-oil-retreats-on-report-of-renewed-iran-us-peace-diplomacy",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/z8xhlsgp/Dow-Gains-as-Oil-Retreats-on-Report-of-Renewed-Iran-US-Peace-Diplomacy.png",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T17:30:00.000Z"
+    },
+    {
+      "id": "rss-c3618ea9a026",
+      "title": "8 Science-Backed Morning Habits That Improve Productivity",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/healthcare/8-science-backed-morning-habits-that-improve-productivity",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/0u3h0h3v/8-Science-Backed-Morning-Habits-That-Improve-Productivity.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T17:30:00.000Z"
+    },
+    {
+      "id": "rss-43d193e49ebb",
+      "title": "You can’t ignore Google Zero anymore",
+      "description": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it ",
+      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-24T17:29:48.000Z"
+    },
+    {
+      "id": "rss-22ebeff45b3a",
+      "title": "Tom Holland Pukes on ‘Hot Ones’: ‘I’m Vomiting! Help!’",
+      "description": "Tom Holland may be ready to rule Ithaca, but it turns out he’s not the master of his own stomach. So much so that “The Odyssey” star, who appeared on the latest episode of “Hot Ones,” ended up vomitin",
+      "url": "https://variety.com/2026/film/news/tom-holland-vomits-hot-ones-youtube-1236820437/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Hot-Ones_Jon-Bernthal_Tom-Holland_-690.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T17:29:44.000Z"
+    },
+    {
+      "id": "rss-acc2dcbdea59",
+      "title": "PlayStation Network is experiencing a massive outage",
+      "description": "Players may be unable to log into their account, play online or purchase games from the PlayStation Store.",
+      "url": "https://www.engadget.com/2222672/playstation-network-is-down-massive-outage/",
+      "image": "https://www.engadget.com/img/gallery/playstation-network-is-experiencing-a-massive-outage/l-intro-1784914098.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-24T17:29:29.000Z"
+    },
+    {
+      "id": "rss-3d0ad9013baf",
+      "title": "Measles surge hits new milestone as US cases surpass last year's total",
+      "description": "U.S. measles cases in 2026 have officially surpassed 2025 totals, with 93% of patients unvaccinated or unknown for MMR as outbreaks persist.",
+      "url": "https://www.foxnews.com/health/measles-surge-hits-new-milestone-us-cases-surpass-last-years-total",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/mother-with-child-measles.jpg?ve=1&tl=1",
+      "source": "Fox News Health",
+      "category": "health",
+      "publishedAt": "2026-07-24T17:28:29.000Z"
+    },
+    {
+      "id": "rss-7b44053b73d9",
+      "title": "CBP intercepted biological materials tied to U.S.–China virus network before COVID, new documents show",
+      "description": "Rand Paul reveals documents showing CBP intercepted undeclared biological materials tied to a U.S.-China coronavirus research network as early as 2018.",
+      "url": "https://www.foxnews.com/politics/cbp-intercepted-biological-materials-tied-u-s-china-virus-network-before-covid-new-documents-show",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/chinese-police-patrolling-wuhan-lab.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T17:27:18.000Z"
+    },
+    {
+      "id": "rss-9f0d2d3e4216",
+      "title": "‘Blade Runner 2099’ Trailer: Michelle Yeoh and Hunter Schafer Bring Ridley Scott’s Sci-Fi World to TV",
+      "description": "Prime Video has released the first trailer for “Blade Runner 2099,” marking the return of Ridley Scott’s sci-fi franchise nine years after the film “Blade Runner 2049.” Starring Oscar winner Michelle ",
+      "url": "https://variety.com/2026/tv/news/blade-runner-2099-trailer-michelle-yeoh-hunter-schafer-1236806977/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/MixCollage-24-Jul-2026-10-25-AM-2564.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T17:26:48.000Z"
+    },
+    {
+      "id": "rss-31e6d80ac71b",
+      "title": "The AI boom’s hidden electricity bill — and why you’re paying it",
+      "description": "\"The current system lacks adequate mechanisms,\" Moody's wrote in a report on PJM, the largest power grid operator in the U.S.",
+      "url": "https://fortune.com/2026/07/24/why-youre-paying-for-data-center-electricity-power/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/moodys.png?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T17:26:43.000Z"
+    },
+    {
+      "id": "rss-424cc485f926",
+      "title": "PrizePicks promo code and app review: Play $5, Get $50",
+      "description": "Here's a look at the latest PrizePicks promo code and review of the app",
+      "url": "\n                                                https://www.cbssports.com/betting/news/prizepicks/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/04/20/0b11b1ae-5a37-4f47-ac37-397a23084740/prizepicks-jpg.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T17:22:37.000Z"
+    },
+    {
+      "id": "rss-aa3b6a374d4b",
+      "title": "Michael Kim shoots 59 at the 2026 3M Open, joins historic group on PGA Tour with 16th sub-60 round",
+      "description": "Michael Kim shot a 12-under 59 on Friday at TPC Twin Cities to grab the lead",
+      "url": "\n                                                https://www.cbssports.com/golf/news/michael-kim-golf-59-3m-open-2026/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/66f01d78-b54c-4d2a-8bb0-0c5023fe6823/michael-kim.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T17:19:53.000Z"
+    },
+    {
+      "id": "rss-66767fb3affb",
+      "title": "Nvidia, Microsoft lead call for open-weight AI models after Kimi",
+      "description": "A coalition of tech firms led by Nvidia and Microsoft called on policymakers to promote the development of open-weight artificial intelligence models.",
+      "url": "https://fortune.com/2026/07/24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286326369-e1784913358154.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T17:17:32.000Z"
+    },
+    {
+      "id": "rss-b40ac54e3c96",
+      "title": "Anthropic upgrades Claude with new Opus 5 model, details here",
+      "description": "Anthropic has released its latest AI model with Claude Opus 5. The new version arrives about two months after the previous Opus model upgrade, matching Anthropic’s previous upgrade cadence.",
+      "url": "https://9to5mac.com/2026/07/24/anthropic-upgrades-claude-with-new-opus-5-model-details-here/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/claude.webp?w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-24T17:16:56.000Z"
+    },
+    {
+      "id": "rss-ade40e15a299",
+      "title": "ED Attaches Rs. 1,906 Cr Worth Assets to Gameskraft",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/ed-attaches-rs-1906-cr-worth-assets-to-gameskraft",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/zxwca8af/ED-attaches-Rs-1906-crore-assets-linked-to-Gameskraft-alleges-addictive-gaming.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T17:15:00.000Z"
+    },
+    {
+      "id": "rss-5d19ded12ec4",
+      "title": "GOP rift grows as Thune hits brakes on Trump's election bill to avert shutdown",
+      "description": "Sen. John Thune prioritizes a continuing resolution over the SAVE Act, sparking GOP tensions as Sen. John Kennedy warns against negotiating with Democrats.",
+      "url": "https://www.foxnews.com/politics/gop-rift-grows-thune-hits-brakes-trumps-election-bill-avert-shutdown",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/thune-johnson-split-3.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T17:14:56.000Z"
+    },
+    {
+      "id": "rss-2ab6aaeed6e3",
+      "title": "Fantasy football rankings 2026: Sleepers from model that nailed De'Von Achane's strong year",
+      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football sleepers for Fantasy football 2026 draft prep",
+      "url": "\n                                                https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-sleepers-from-model-that-nailed-devon-achanes-strong-year/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2025/11/15/ff57a43b-8dee-428f-95d1-fbe982ccd01f/devonta-smith.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-24T17:12:07.000Z"
+    },
+    {
+      "id": "rss-5239f22e7718",
+      "title": "Trump’s latest import taxes could set a precedent for a ‘broad tariff generator’ on anything a president wants to target, expert warns",
+      "description": "\"This is precisely the open-ended tariff power grab the courts checked with their IEEPA rulings, just with a little more procedural window-dressing.\"",
+      "url": "https://fortune.com/2026/07/24/trump-section-301-precedent-trade-war-effective-rate-import-taxes/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286657197-e1784902211748.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T17:08:43.000Z"
+    },
+    {
+      "id": "rss-b07968f92b1f",
+      "title": "Zach Cregger Knows You’re CinemaSinsing His Resident Evil Movie: ‘I Took Liberties To Tell A Story That I Wanted To Tell’",
+      "description": "Resident Evil fans have been skeptical of the movie’s place in the horror series",
+      "url": "https://kotaku.com/resident-evil-zach-cregger-timeline-canon-raccoon-city-2-2000719164",
+      "image": "https://kotaku.com/app/uploads/2026/07/RE-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T17:05:43.000Z"
+    },
     {
       "id": "rss-8a4f5fc379a7",
       "title": "Star Trek movie reboot is making a drastic setting change",
@@ -83,14 +1073,34 @@
       "publishedAt": "2026-07-24T17:00:00.000Z"
     },
     {
-      "id": "rss-8d524ad82650",
-      "title": "SEC predicted order of finish 2026: Media tabs Georgia over Texas, Ole Miss as league champion",
-      "description": "The media's picks are in, and the Georgia Bulldogs are favored to win the league",
-      "url": "\n                                                https://www.cbssports.com/college-football/news/sec-predicted-finish-2026-georgia-texas-ole-miss/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/09b86750-0133-4753-852a-bc88605e87ee/georiga-football-pick-1.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-24T16:58:05.000Z"
+      "id": "rss-05f542dc4584",
+      "title": "Anthropic debuts Claude Opus 5 with feature that lets users toggle between cost and capability",
+      "description": "The company highlights the model's cheaper price for performance on everyday tasks, but cyber guardrails remains a thorny issue.",
+      "url": "https://fortune.com/2026/07/24/anthropic-debuts-claude-opus-5-with-feature-that-lets-users-toggle-between-cost-and-capability/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2280291366_9e70c9-e1784819831718.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T17:00:00.000Z"
+    },
+    {
+      "id": "rss-df0b99c48ddd",
+      "title": "Best Executive AI Skills that Will Define Future Business Leaders",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cxo-insights/best-executive-ai-skills-that-will-define-future-business-leaders",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/a2kpi20a/Best-Executive-AI-Skills-That-Will-Define-Future-Business-Leaders.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T17:00:00.000Z"
+    },
+    {
+      "id": "rss-36042b9491ae",
+      "title": "Kids don’t ‘Google it’ anymore. AI chatbots taught them to ‘search it up’ instead",
+      "description": "A generational shift in slang is tracking a bigger one in how people actually find information online.",
+      "url": "https://fortune.com/2026/07/24/gen-z-gen-alpha-chatgpt-siri-google-it-ai-chatbots-search-it-up-vernacular/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2216515308-e1784910187665.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T16:56:10.000Z"
     },
     {
       "id": "rss-1e52e657007d",
@@ -261,6 +1271,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-24T16:41:15.000Z"
+    },
+    {
+      "id": "rss-417db71df89a",
+      "title": "Sega Won’t Ditch Physical Media, But Says Digital Expansion Is Vital",
+      "description": "No one really loves Sony's decision to kill physical PlayStation discs in January 2028, but there is data that backs up the company's plan. Sega's president understands the choice and the numbers, but",
+      "url": "https://www.gamespot.com/articles/sega-wont-ditch-physical-media-but-says-digital-expansion-is-vital/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/sg-image.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T16:40:42.000Z"
     },
     {
       "id": "rss-6e387f9476b1",
@@ -491,16 +1511,6 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-24T16:14:10.000Z"
-    },
-    {
-      "id": "rss-a3095b2e85ec",
-      "title": "Wildfires in France and Spain Drive Tens of Thousands From Their Homes",
-      "description": "French officials ordered the evacuation of the Cap Ferret peninsula, a popular holiday destination. Fires west of Madrid were closing in on populated areas.",
-      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-wildfires.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-spain-france-fires-mpkz/24int-spain-france-fires-mpkz-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-24T16:12:41.000Z"
     },
     {
       "id": "rss-475fd1e87178",
@@ -1251,16 +2261,6 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-24T14:55:19.000Z"
-    },
-    {
-      "id": "rss-1b811066d5d8",
-      "title": "As Canada Opens Gordie Howe International Bridge, Americans Are Told to Stay Home",
-      "description": "After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit opens in “underwhelming” fashion on Friday.",
-      "url": "https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-canada-bridge-jclb/24int-canada-bridge-jclb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-24T14:54:57.000Z"
     },
     {
       "id": "rss-303cab641877",
@@ -2631,16 +3631,6 @@
       "source": "Fortune",
       "category": "business",
       "publishedAt": "2026-07-24T12:27:11.000Z"
-    },
-    {
-      "id": "rss-e9a5a6744b6c",
-      "title": "Brewers vs. Rockies prediction, odds, line, time: 2026 MLB picks for Friday, July 24 by proven model",
-      "description": "SportsLine's model simulated Colorado Rockies vs. Milwaukee Brewers 10,000 times and revealed its MLB picks for Friday's matchup",
-      "url": "\n                                                https://www.cbssports.com/betting/news/brewers-vs-rockies-prediction-odds-line-time-2026-mlb-picks-for-friday-july-24/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/02/10/1a9606aa-7169-40ea-9b84-76d1f22234b7/william-contreras-milwaukee-brewers-imagn-images.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-24T12:27:07.000Z"
     },
     {
       "id": "rss-cef8d0750d58",
@@ -4549,7 +5539,7 @@
       "url": "https://www.nytimes.com/2026/07/23/well/peptides-fda-research.html",
       "image": "https://static01.nyt.com/images/2026/07/23/well/23WELL-PEPTIDES-EXPLAINER1/23WELL-PEPTIDES-EXPLAINER1-mediumSquareAt3X.jpg",
       "source": "New York Times",
-      "category": "trending",
+      "category": "health",
       "publishedAt": "2026-07-24T01:31:14.000Z"
     },
     {
@@ -7031,16 +8021,6 @@
       "source": "New York Times",
       "category": "health",
       "publishedAt": "2026-07-23T18:51:07.000Z"
-    },
-    {
-      "id": "rss-424cc485f926",
-      "title": "PrizePicks promo code and app review: Play $5, Get $50",
-      "description": "Here's a look at the latest PrizePicks promo code and review of the app",
-      "url": "\n                                                https://www.cbssports.com/betting/news/prizepicks/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/04/20/0b11b1ae-5a37-4f47-ac37-397a23084740/prizepicks-jpg.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-23T18:48:24.000Z"
     },
     {
       "id": "rss-74bcfe7673df",
@@ -33411,46 +34391,6 @@
       "source": "GameSpot",
       "category": "gaming",
       "publishedAt": "2026-07-17T19:31:05.000Z"
-    },
-    {
-      "id": "rss-9113229aa99f",
-      "title": "Zero Parades Dev Announces Layoffs Despite Game’s Critical Acclaim",
-      "description": "Another day, another layoff announcement. This time it comes from Zero Parades: For Dead Spies developer ZA/UM, which said on social media that despite the game's critical acclaim, the studio can't su",
-      "url": "https://www.gamespot.com/articles/zero-parades-dev-announces-layoffs-despite-games-critical-acclaim/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/zp-image.jpg?w=300",
-      "source": "GameSpot",
-      "category": "gaming",
-      "publishedAt": "2026-07-17T18:33:25.000Z"
-    },
-    {
-      "id": "rss-066d15253167",
-      "title": "Todd Howard Addresses “Fan Chatter” About Bethesda-Obsidian Rivalry Conspiracies",
-      "description": "Bethesda boss Todd Howard has addressed rumors of a rivalry between Bethesda Game Studios and Obsidian, saying the online discourse does not reflect reality.\nHe told Windows Central, \"I appreciate som",
-      "url": "https://www.gamespot.com/articles/todd-howard-addresses-fan-chatter-about-bethesda-obsidian-rivalry-conspiracies/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/newvegas.jpg?w=300",
-      "source": "GameSpot",
-      "category": "gaming",
-      "publishedAt": "2026-07-17T18:30:02.000Z"
-    },
-    {
-      "id": "rss-8100b50c7f20",
-      "title": "Wildfire smoke is invading more than 20 states — doctors reveal who should worry most",
-      "description": "PM2.5 particles from Canadian wildfire smoke can penetrate deep into lungs and the bloodstream, posing risks even for healthy people across 20+ states.",
-      "url": "https://www.foxnews.com/health/wildfire-smoke-invading-more-than-20-states-doctors-reveal-who-should-worry-most",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/nyc-skyline-wildfire-smoke.jpg?ve=1&tl=1",
-      "source": "Fox News Health",
-      "category": "health",
-      "publishedAt": "2026-07-17T17:36:24.000Z"
-    },
-    {
-      "id": "rss-04e440601568",
-      "title": "Following the questions where they lead",
-      "description": "Assistant Professor Bailey Flanigan has arrived at complex computational methods for helping democracy thrive.",
-      "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
-      "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bailey-Flanigan.jpg?itok=DtZFVT8B",
-      "source": "MIT AI News",
-      "category": "ai",
-      "publishedAt": "2026-07-17T17:25:00.000Z"
     }
   ]
 }
