@@ -1,7 +1,567 @@
 {
-  "lastUpdated": "2026-07-24T09:55:01.013Z",
-  "count": 3007,
+  "lastUpdated": "2026-07-24T11:41:54.967Z",
+  "count": 3071,
   "articles": [
+    {
+      "id": "rss-7ad8184497d5",
+      "title": "TikTok&#8217;s protection of minors should not be opt-in, warns EU",
+      "description": "TikTok has attracted the ire of the European Union over its protection of children who use the video sharing platform. The European Commission announced preliminary findings today under the Digital Se",
+      "url": "https://www.theverge.com/tech/970519/tiktok-eu-dsa-child-safety-age-account-privacy",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK051_VRG_Illo_N_Barclay_2_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-24T11:40:03.000Z"
+    },
+    {
+      "id": "rss-ce6976f1a468",
+      "title": "How to Combine DeskribAI with Market Research for Data-Driven Business Plans",
+      "description": "A business plan built on hunches rarely survives contact with real customers. Investors ask for evidence, lenders want numbers, and even a…\nContinue reading on Medium »",
+      "url": "https://medium.com/@deskribai/how-to-combine-deskribai-with-market-research-for-data-driven-business-plans-6ab0ed552bc7?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*b0XI-4Q7Asav489EAiy91A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:39:26.000Z"
+    },
+    {
+      "id": "rss-04be6b4ec3bd",
+      "title": "I Asked 10 AI Models the Same Question — The Results Were Surprising",
+      "description": "I tested 10 popular AI models by asking them the exact same question. Here’s how ChatGPT, Claude, Gemini, Perplexity, Grok, DeepSeek, and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@iam.victoria.brooks/i-asked-10-ai-models-the-same-question-the-results-were-surprising-933e879b7fb4?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*5P6-RXTTyOPVrUlESPJUHw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:38:20.000Z"
+    },
+    {
+      "id": "rss-8a0be0690169",
+      "title": "How AI Is Helping YouTube Creators Design Better Thumbnails in Minutes",
+      "description": "Every YouTube creator has experienced it.\nContinue reading on Medium »",
+      "url": "https://medium.com/@codermanstartup/how-ai-is-helping-youtube-creators-design-better-thumbnails-in-minutes-63e62309e16f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*tJGpEeZyELDsTjRuuGcLFQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:38:09.000Z"
+    },
+    {
+      "id": "rss-9c875b4f12b5",
+      "title": "The 13 Building Blocks of a Production-Ready AI App",
+      "description": "A plain-English breakdown of the thirteen systems that decide whether an AI-built application can actually be trusted with real users…\nContinue reading on Medium »",
+      "url": "https://medium.com/@oguguookafor/the-13-building-blocks-of-a-production-ready-ai-app-0916eda8cec2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*M_x341eMoIqNRMOprfFmyg.webp",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:37:32.000Z"
+    },
+    {
+      "id": "rss-7b82c3cc5270",
+      "title": "Become a Playwright Automation Expert with Python! ️",
+      "description": "Looking to build a successful career in Automation Testing? Join TestBug IT Solutions and master Playwright with Python through…\nContinue reading on Medium »",
+      "url": "https://medium.com/@shravankumargoud55/become-a-playwright-automation-expert-with-python-%EF%B8%8F-ce3356ea7848?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*x2L-MLs7SYIRKt7PzODhGA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:37:20.000Z"
+    },
+    {
+      "id": "rss-974119f6ebf6",
+      "title": "AI Mastery Course in Telugu with Industry Relevant Projects",
+      "description": "Artificial intelligence has become one of the most in-demand technologies across industries, and employers are increasingly looking for…\nContinue reading on Medium »",
+      "url": "https://medium.com/@niranjanmegham/ai-mastery-course-in-telugu-with-industry-relevant-projects-540901a82372?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1735/1*6WsNsmTdPtg6kOEDrBikBQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:36:09.000Z"
+    },
+    {
+      "id": "rss-a9aa801177a0",
+      "title": "How to Stop Missing Important Emails Without Living in Your Inbox",
+      "description": "The exact AI email system and the prompt I use so the urgent ones always surface.\nContinue reading on Medium »",
+      "url": "https://boryaxyz.medium.com/how-to-stop-missing-important-emails-without-living-in-your-inbox-c9289ddedca8?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*HWtiHYxfOIVpEgmP6LpL1A.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:36:01.000Z"
+    },
+    {
+      "id": "rss-ec5f7623307c",
+      "title": "Oracle Fusion Cloud Financials Training",
+      "description": "🎯 Master Oracle Fusion Cloud Financials & Build a Successful ERP Career!\n💼 Build Your ERP Career with TestBug IT Solutions!\nContinue reading on Medium »",
+      "url": "https://medium.com/@shravankumargoud55/oracle-fusion-cloud-financials-training-90a1d1e31758?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*7qUosmHE9XsJVSnpNGw7bQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:35:11.000Z"
+    },
+    {
+      "id": "rss-3e1eacf3b03d",
+      "title": "My Artificial Intelligence 2D Art Research in Generations (2024–2026)",
+      "description": "The main source with 2000+ my ai works — miro\nhttps://miro.com/app/board/uXjVHaYm1WA=/?share_link_id=155125726676\nAnd the article is…\nContinue reading on Medium »",
+      "url": "https://medium.com/@myas.drmax/my-artificial-intelligence-2d-art-research-in-generations-2024-2026-9eb89ad8bc53?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*EZFdhaN6JPHM0A1XrL6MYg.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:33:33.000Z"
+    },
+    {
+      "id": "rss-8089eb028f03",
+      "title": "EA Sports FC 27 Has A New $150 Edition, Because Ultimate Wasn’t Ultimate Enough",
+      "description": "EA looks like it'll be aiming to extract extra cash from consumers, as not only will the company be offering $70 standard and $100 \"Ultimate\" editions of its soccer game EA Sports FC 27, it'll also be",
+      "url": "https://www.gamespot.com/articles/ea-sports-fc-27-has-a-new-150-edition-because-ultimate-wasnt-ultimate-enough/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/EA-Sports-FC-27.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T11:30:58.000Z"
+    },
+    {
+      "id": "rss-b67c3fd4a4f7",
+      "title": "Coinbase Launches Native INJ Trading, Deposits, Withdrawals",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/coinbase-launches-native-inj-trading-deposits-withdrawals",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/v11dafyh/Coinbase-Launches-Native-INJ-Trading-Deposits-Withdrawals-5pm.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:30:00.000Z"
+    },
+    {
+      "id": "rss-8e51aee134b0",
+      "title": "More than 200 companies sign Trump's 'pledge' to protect consumers from data center price rises",
+      "description": "The Trump administration says more than 200 firms have signed onto its non-binding Ratepayer Protection Pledge.",
+      "url": "https://www.engadget.com/2222351/200-companies-sign-data-center-pledge/",
+      "image": "https://www.engadget.com/img/gallery/more-than-200-companies-sign-trumps-pledge-to-protect-consumers-from-data-center-price-rises/l-intro-1784892458.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-24T11:29:09.000Z"
+    },
+    {
+      "id": "rss-49869958747f",
+      "title": "With Hopes High for New H.I.V. Prevention Pill, Merck Takes Steps to Ensure Access",
+      "description": "Companies in Africa and India will make generic versions of the pill that could cost as little as $5 per person per year. But access to the drug and other new products in much of Latin America remains",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-hiv-drug01-photo-hlfv/24dc-hiv-drug01-photo-hlfv-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T11:29:03.000Z"
+    },
+    {
+      "id": "rss-234e42f91c1b",
+      "title": "Cracking Gandalf: Part 3 — Tongue Tied",
+      "description": "How I made forbidden topics irresistible to Gandalf and friends\nContinue reading on Medium »",
+      "url": "https://medium.com/@k.bonev1993/cracking-gandalf-part-3-tongue-tied-6a187555e4ae?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/754/1*4N-zrcTruiSmmsx8SEGlJA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:25:53.000Z"
+    },
+    {
+      "id": "rss-1ffb57073ed8",
+      "title": "Who Owns Juspay? Founders, Investors, and Growth Story",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/who-owns-juspay-founders-investors-and-growth-story",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/dwdeiowl/Who-Owns-Juspay-Founders-Investors-and-Growth-Story.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:25:40.000Z"
+    },
+    {
+      "id": "rss-68285ad1edf7",
+      "title": "LG promises to stop McAfee spam ads following pressure from Microsoft",
+      "description": "Following user outcry and pressure from Microsoft, LG has agreed to stop showing McAfee pop-up spam downloaded from its monitors.",
+      "url": "https://www.engadget.com/2222348/lg-monitor-mcafee-spam-ads-microsoft/",
+      "image": "https://www.engadget.com/img/gallery/lg-promises-to-stop-mcafee-spam-ads-following-pressure-from-microsoft/l-intro-1784892037.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-24T11:21:14.000Z"
+    },
+    {
+      "id": "rss-f4d48d0bb8c7",
+      "title": "Kino Rebelde Boards Locarno Title ‘September Afternoon’ for International Sales (EXCLUSIVE)",
+      "description": "Kino Rebelde has picked up international sales rights for “September Afternoon” by writer-director Nicolaas Schmidt, which has its world premiere in the Cineasti del Presente competition section at th",
+      "url": "https://variety.com/2026/film/global/kino-rebelde-september-afternoon-locarno-1236820183/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/September-Afternoon.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T11:20:54.000Z"
+    },
+    {
+      "id": "rss-09121fbf907c",
+      "title": "WhatsApp Rolls Out Redesigned Message Bubbles for iOS",
+      "description": "WhatsApp is rolling out a new design for message bubbles on iOS, reports WaBetaInfo. The platform's message bubbles are rounder than before with a softer shape – similar to iMessage – while shared med",
+      "url": "https://www.macrumors.com/2026/07/24/whatsapp-redesigned-message-bubbles-ios/",
+      "image": "https://images.macrumors.com/article-new/2026/05/Whatsapp-Feature.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-24T11:19:25.000Z"
+    },
+    {
+      "id": "rss-4abab6144d99",
+      "title": "From Error to Optimization: Understanding Gradient Descent",
+      "description": "Why Do We Need Gradient Descent?\nContinue reading on Medium »",
+      "url": "https://medium.com/@tiwarimanit4u/from-error-to-optimization-understanding-gradient-descent-c0409bb758a4?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/690/1*YHEKbMo2Q1b833eOQAwdNg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:17:55.000Z"
+    },
+    {
+      "id": "rss-51190ba26ba0",
+      "title": "How to Turn Off Sensitive Content Warnings on X",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/photo/how-to-turn-off-sensitive-content-warnings-on-x",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/fig12f8l/How-to-Turn-Off-Sensitive-Content-Warnings-on-X.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:17:17.000Z"
+    },
+    {
+      "id": "rss-07554b8b34bf",
+      "title": "The Cost of Trump’s New Tariffs, and the $100 Million Popcorn Bucket Market",
+      "description": "Plus, the Friday news quiz.",
+      "url": "https://www.nytimes.com/2026/07/24/podcasts/the-headlines/trump-new-tariffs-popcorn-bucket.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24theheadlines-tarrifs-vgwh/24theheadlines-tarrifs-vgwh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T11:15:24.000Z"
+    },
+    {
+      "id": "rss-41d6662bf370",
+      "title": "Microsoft Begins Testing Ad-Supported Xbox Cloud Gaming for Insiders",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/microsoft-begins-testing-ad-supported-xbox-cloud-gaming-for-insiders",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/8vtiybjb/Microsoft-is-testing-ads-on-Xbox-says-gameplay-will-not-be-interrupted.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:14:57.000Z"
+    },
+    {
+      "id": "rss-c17ddd74aba4",
+      "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
+      "description": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.",
+      "url": "https://www.nytimes.com/article/trump-tariffs-trade.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/2026-tariff-tracker-embeds-index/2026-tariff-tracker-embeds-index-mediumSquareAt3X-v4.png",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T11:14:51.000Z"
+    },
+    {
+      "id": "rss-b1ebf792b05d",
+      "title": "Dating App Development Cost: Everything You Need to Know Before Building Your App",
+      "description": "The online dating sector has grown significantly during the last decade and made people’s dating experience entirely different. No matter…\nContinue reading on Medium »",
+      "url": "https://medium.com/@harshathTechBlogs/dating-app-development-cost-everything-you-need-to-know-before-building-your-app-cb747805bc44?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*DeqSxdgFiKBaUTTpQ7FM1w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:14:30.000Z"
+    },
+    {
+      "id": "rss-a8373bd725ba",
+      "title": "It Is Easy to Say “Mirror.",
+      "description": "This essay challenges the metaphor of artificial intelligence as a mere mirror of humanity, arguing that generative systems do not simply…\nContinue reading on Medium »",
+      "url": "https://medium.com/@enrico.desantis/it-is-easy-to-say-mirror-40cadc1721cf?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*Q2SJy3UNZgTiz06IJMpw5w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:12:54.000Z"
+    },
+    {
+      "id": "rss-e50699627a74",
+      "title": "Edinburgh Industry Program Features Ewan McGregor, Kenneth Branagh and Bruce Dern and an Inaugural U.K. Film Conference",
+      "description": "Ewan McGregor, Kenneth Branagh, Ken Burns, Christine Vachon and Bruce Dern have boarded the Edinburgh Intl. Film Festival’s 2026 industry program, a talent-heavy five-day lineup anchored by the inaugu",
+      "url": "https://variety.com/2026/film/events/edinburgh-industry-program-ewan-mcgregor-kenneth-branagh-1236820141/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/eiff_branagh_mcgregor_johnanPerssoncredit_JeffVespacredit.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T11:12:32.000Z"
+    },
+    {
+      "id": "rss-966c872625b0",
+      "title": "Understanding Unsupervised Machine Learning with K-Means Clustering",
+      "description": "A Simple Guide to Customer Segmentation\nContinue reading on Medium »",
+      "url": "https://medium.com/@ranjuranjuveena111/understanding-unsupervised-machine-learning-with-k-means-clustering-10d6f125076b?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*2N9tRW-bjzHSWSg6DCT04A.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:11:57.000Z"
+    },
+    {
+      "id": "rss-8f64d3d11cf9",
+      "title": "Where Should Your AI Agent Actually Run?",
+      "description": "A client, edge, and cloud architecture guide for agentic workloads, with the runtime stack and the numbers behind each placement.\nContinue reading on Towards AI »",
+      "url": "https://pub.towardsai.net/where-should-your-ai-agent-actually-run-a1e5eaf1228a?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*WygEEKfY4CJ6dPlHSoikEw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:06:45.000Z"
+    },
+    {
+      "id": "rss-41933d4abda5",
+      "title": "Ubisoft Boss Has A Hot Take On Sony Killing Game Discs",
+      "description": "Ubisoft boss Yves Guillemot believes that Sony's plan to kill PS5 game disc production in January 2028 could have some benefits for the gaming industry. Speaking during a recent investor Q&A, Guillemo",
+      "url": "https://www.gamespot.com/articles/ubisoft-boss-has-a-hot-take-on-sony-killing-game-discs/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/DAnger.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T11:06:44.000Z"
+    },
+    {
+      "id": "rss-1eebc4358896",
+      "title": "Sharon Stone's terrifying weed withdrawal sparks warning about today's potent marijuana",
+      "description": "Sharon Stone's marijuana withdrawal symptoms were so severe that she saw a neurologist, highlighting the dangers of quitting high-potency THC without a plan.",
+      "url": "https://www.foxnews.com/health/sharon-stone-terrifying-weed-withdrawal-sparks-warning-todays-potent-marijuana",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/sharon-stone-cannabis.jpg?ve=1&tl=1",
+      "source": "Fox News Health",
+      "category": "health",
+      "publishedAt": "2026-07-24T11:00:47.000Z"
+    },
+    {
+      "id": "rss-f8b936f6945c",
+      "title": "Splatoon 4 should borrow these great features from Splatoon Raiders",
+      "description": "Splatoon Raiders already has us hoping that its best features will come to Splatoon 4.",
+      "url": "https://www.polygon.com/splatoon-raiders-features-splatoon-4/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/splatoon-raiders-shiver-and-mechanic.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T11:00:12.000Z"
+    },
+    {
+      "id": "rss-206a1cc0064f",
+      "title": "Facebook considers giving up and becoming TikTok",
+      "description": "Facebook is planning some big changes to try and keep its users from jumping to rival social platforms like TikTok - changes that sound dubiously similar to becoming a TikTok clone. Facebook head Tom ",
+      "url": "https://www.theverge.com/tech/970504/facebook-video-experience-testing-tiktok-updates",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK040_VRG_Illo_N_Barclay_6_facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-24T11:00:00.000Z"
+    },
+    {
+      "id": "rss-6b0b01356c57",
+      "title": "AI Prompt Engineering Certifications Worth Taking in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/courses/ai-prompt-engineering-certifications-worth-taking-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/ro6ksmvo/AI-Prompt-Engineering-Certifications-Worth-Taking-in-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T11:00:00.000Z"
+    },
+    {
+      "id": "rss-269730ea496f",
+      "title": "The Company Wanted to Predict Customer Churn. They Didn’t Know How to Keep Customers.",
+      "description": "Consulting Room • Case Files #2\nContinue reading on Medium »",
+      "url": "https://medium.com/@billygareth01/the-company-wanted-to-predict-customer-churn-they-didnt-know-how-to-keep-customers-75876771f732?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*Wa3BG12cpP6FgWbLtkf-gw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T10:58:18.000Z"
+    },
+    {
+      "id": "rss-bff26358045e",
+      "title": "Trump’s new $950 billion tariff scheme still leaves a 40% shortfall in his plan to rebalance the $39 trillion national debt, CRFB says",
+      "description": "\"We currently estimate that the tariffs enacted and proposed under this administration since January 2025 will generate about $825 billion less revenue through FY 2036 than estimated,\" the Committee f",
+      "url": "https://fortune.com/2026/07/24/trump-950-billion-tariff-percent-shortfall-39-trillion-national-debt-crfb/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287065447-e1784889648199.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T10:56:03.000Z"
+    },
+    {
+      "id": "rss-f727c108cf86",
+      "title": "EU Fines Google Rs. 9,796 Crore for Breaking Search, Play Store Rules",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/eu-fines-google-rs-9796-crore-for-breaking-search-play-store-rules",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/m5y8fmjv/EU-fines-Google-Rs-9796-crore-for-violating-Digital-Markets-Act-over-Search-and-Play-Store-practices.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T10:53:26.000Z"
+    },
+    {
+      "id": "rss-15b69e142e33",
+      "title": "Table Tennis Analytics: Turning Match Data Into Insight",
+      "description": "In modern sports, data has become a powerful tool for understanding performance and gaining a competitive edge.\nContinue reading on Medium »",
+      "url": "https://medium.com/@napnapats/table-tennis-analytics-turning-match-data-into-insight-22b74d28bf73?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*MOacvh558vvDbqMbQ8WITA.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-24T10:46:37.000Z"
+    },
+    {
+      "id": "rss-f5b8d4dd1212",
+      "title": "How to Reset Instagram Explore Page",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/apps/how-to-reset-instagram-explore-page",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/q54oike0/How-to-Reset-Instagram-Explore-Page.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T10:45:00.000Z"
+    },
+    {
+      "id": "rss-488f27370ed3",
+      "title": "Fred Tsui Named Executive Director of Hong Kong International Film Festival Society",
+      "description": "The Hong Kong International Film Festival Society has appointed Fred Tsui, founder and CEO of Moebius Entertainment, as its new executive director, the organization said Friday. Tsui succeeds Albert L",
+      "url": "https://variety.com/2026/film/news/fred-tsui-executive-director-hong-kong-international-film-festival-society-1236820176/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Fred-Tsui.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T10:43:36.000Z"
+    },
+    {
+      "id": "rss-a493d995b1e2",
+      "title": "Trump weighs ‘massive attack’ on Iran as Tehran’s chokehold on oil gets tighter",
+      "description": "Everything you need to know before you reach the office this morning.",
+      "url": "https://fortune.com/2026/07/24/trump-weighs-massive-attack-on-iran-as-tehrans-chokehold-on-oil-gets-tighter/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287240062.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T10:41:09.000Z"
+    },
+    {
+      "id": "rss-aff801063df2",
+      "title": "How AI and Data Analytics Are Transforming Competitive Gaming",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/how-ai-and-data-analytics-are-transforming-competitive-gaming",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/aulooq43/AI-and-Data-Analytics.png",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T10:41:00.000Z"
+    },
+    {
+      "id": "rss-84d901fdba0a",
+      "title": "Big Data Is Changing How We Understand and Test Intelligence",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/big-data-2/big-data-is-changing-how-we-understand-and-test-intelligence",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/6ydy6ppm/Big-Data-and-Cognitive-Assessment-How-Analytics-Is-Changing-the-Way-We-Understand-Intelligence.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T10:32:37.000Z"
+    },
+    {
+      "id": "rss-055004ae9805",
+      "title": "Apple Seeking 20% OLED Panel Price Cut for iPhone 18 Pro Max",
+      "description": "Apple is pushing OLED panel suppliers to lower their prices for the iPhone 18 Pro Max, as the cost of memory chips and other components rises, reports The Elec.\r\n\r\n\r\nAccording to the Korea-based repor",
+      "url": "https://www.macrumors.com/2026/07/24/oled-panel-price-cut-iphone-18-pro-max/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-24T10:31:42.000Z"
+    },
+    {
+      "id": "rss-bee1191423ba",
+      "title": "XRP Whale Activity Surges as Small Investors Sell Their Holdings",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/xrp/xrp-whale-activity-surges-as-small-investors-sell-their-holdings",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/de08kaf6/XRP-Whale-Activity-Surges-as-Small-Investors-Sell-Their-Holdings.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T10:30:00.000Z"
+    },
+    {
+      "id": "rss-6df61b7b7f85",
+      "title": "No Copyright Breach, Delhi High Court Backs OpenAI Training",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/no-copyright-breach-delhi-high-court-backs-openai-training",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/sild763q/No-Copyright-Breach-Delhi-High-Court-Backs-OpenAI-Training.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T10:25:42.000Z"
+    },
+    {
+      "id": "rss-221171c1b02d",
+      "title": "'It's Good to Be Back': Johnny Depp Meets Fans as Ebenezer Scrooge, as First Trailer Drops for His Big Hollywood Return",
+      "description": "Johnny Depp has returned to the Hollywood limelight with a surprise appearance at Comic-Con in character as Ebenezer Scrooge.",
+      "url": "https://www.ign.com/articles/its-good-to-be-back-johnny-depp-meets-fans-as-ebenezer-scrooge-as-first-trailer-drops-for-his-big-hollywood-return",
+      "image": "https://assets-prd.ignimgs.com/2026/07/24/gettyimages-2287403377-1784888014624.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T10:25:20.000Z"
+    },
+    {
+      "id": "rss-9e20303134ed",
+      "title": "Phones in Hand, India’s Young Protesters Blast Through Modi’s Media Control",
+      "description": "Prime Minister Narendra Modi’s tightly constructed image is being punctured as a Gen Z-led protest movement uses videos and memes to seize the digital narrative.",
+      "url": "https://www.nytimes.com/2026/07/24/world/asia/india-cockroach-party-cjp-protest-memes.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-india-protest-memes-01-whkb/24int-india-protest-memes-01-whkb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T10:17:21.000Z"
+    },
+    {
+      "id": "rss-3e44a7b28a51",
+      "title": "BBC Buys War Drama ‘Kabul,’ Featuring Eric Dane in One of His Last Roles",
+      "description": "The BBC has acquired thriller series “Kabul,” starring the late Eric Dane and “Tehran’s” Shervin Alenabi, from Mediawan Rights. The six-part show, which is against the backdrop of U.S. troops’ withdra",
+      "url": "https://variety.com/2026/tv/global/bbc-war-drama-kabul-eric-dane-1236820165/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Kabul.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T10:15:57.000Z"
+    },
+    {
+      "id": "rss-7b512066c4b9",
+      "title": "Sensex Closing Bell: Markets End Lower for Fifth Straight Session Amid Crude Oil Concerns",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/sensex-closing-bell-markets-end-lower-for-fifth-straight-session-amid-crude-oil-concerns",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/tz3ly70i/Sensex-Closing-Bell-Markets-End-Lower-for-Fifth-Straight-Session-Amid-Crude-Oil-Concerns-315.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T10:04:15.000Z"
+    },
+    {
+      "id": "rss-39eaa0811737",
+      "title": "Sony Pictures Sets Viral X-Inspired Short-Form Thriller ‘Los Hilos del Miedo’ at Prime Video Spain (EXCLUSIVE)",
+      "description": "Sony Pictures International Productions’ Spanish operation is moving into short-form fiction with “Los Hilos del Miedo,” an eight-part psychological suspense series set to launch on Prime Video in Spa",
+      "url": "https://variety.com/2026/tv/global/sony-pictures-los-hilos-del-miedo-prime-video-spain-1236818849/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/LHDM-V2-EN-2.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-24T10:01:31.000Z"
+    },
+    {
+      "id": "rss-bbc6413ad114",
+      "title": "Trump turns to 'zombie' court after Boasberg pointed to it in deportation fight",
+      "description": "The Justice Department filed its first-ever case with the Alien Terrorist Removal Court, invoking a 1996 law never used to deport a terrorism suspect.",
+      "url": "https://www.foxnews.com/politics/trump-turns-zombie-court-boasberg-pointed-deportation-fight",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/judge-boasberg-trump.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T10:00:48.000Z"
+    },
+    {
+      "id": "rss-64961670aa3c",
+      "title": "WATCH: Cory Mills blasts DOJ probe as ‘political op' ahead of Florida primary",
+      "description": "Cory Mills claims the reported DOJ investigation is a political attack by his opponents weeks before Florida's Republican primary on Aug. 18.",
+      "url": "https://www.foxnews.com/politics/cory-mills-blasts-doj-probe-political-op-ahead-florida-primary",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/cory-mills-doj-split.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T10:00:18.000Z"
+    },
+    {
+      "id": "rss-e46b15fa5c28",
+      "title": "The Vampire Lestat season 2 plot, cast, and possible release date explainer",
+      "description": "Here's everything we know about when the continuation of Interview with the Vampire is coming and what it will be about",
+      "url": "https://www.polygon.com/vampire-lestat-season-2-plot-cast-release-news/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tvl_iw_1002_0009_rt.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T10:00:12.000Z"
+    },
+    {
+      "id": "rss-3cc4e4636fc7",
+      "title": "Trump heads back to correspondents’ dinner months after gunfire forced evacuation",
+      "description": "Trump returns to the White House Correspondents' Dinner stage as the WHCA honors Secret Service Officer Gonzales for stopping the armed suspect.",
+      "url": "https://www.foxnews.com/politics/trump-heads-back-correspondents-dinner-months-after-gunfire-forced-evacuation",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/melania-trump-donald-trump-white-house-dinner-fox-news-001.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-24T10:00:11.000Z"
+    },
+    {
+      "id": "rss-5d198cf64a2b",
+      "title": "Hubble telescope watches unique nova explosion fire cosmic 'bullets' through the Milky Way at 20 million mph",
+      "description": "Using Hubble, astronomers have discovered that the only known \"helium nova\" in the Milky Way is riddling our galaxy with cosmic bullets travelling at 20 million mph.",
+      "url": "https://www.space.com/astronomy/hubble-space-telescope/hubble-telescope-watches-unique-nova-explosion-fire-cosmic-bullets-through-the-milky-way-at-20-million-mph",
+      "image": "https://cdn.mos.cms.futurecdn.net/iK6oJPugrVKzqnouTHvJzS-1280-80.png",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-24T10:00:00.000Z"
+    },
     {
       "id": "rss-f6db81283ab6",
       "title": "The Complete AI Business System: Build a Funnel That Actually Converts (Without Paid Ads)",
@@ -113,6 +673,46 @@
       "publishedAt": "2026-07-24T09:47:15.000Z"
     },
     {
+      "id": "rss-330e7938d058",
+      "title": "PlayStation Killing Discs Has Upsides, Ubisoft Boss Yves Guillemot Says, Pointing to Cheaper Consoles Without Disc Drives",
+      "description": "Sony's controversial decision to kill PlayStation 5 discs could have some upsides, Ubisoft boss Yves Guillemot has said.",
+      "url": "https://www.ign.com/articles/playstation-killing-discs-has-upsides-ubisoft-boss-yves-guillemot-says-pointing-to-cheaper-consoles-without-disc-drives",
+      "image": "https://assets-prd.ignimgs.com/2026/07/24/gettyimages-1246763414-1784884199131.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T09:45:32.000Z"
+    },
+    {
+      "id": "rss-b22804a055cc",
+      "title": "Current price of oil as of July 24, 2026",
+      "description": "When oil prices change, it affects your energy costs—and even the price of everyday items. Here’s why.",
+      "url": "https://fortune.com/article/price-of-oil-07-24-2026/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Price-of-Oil-July-24.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T09:35:26.000Z"
+    },
+    {
+      "id": "rss-93c1739683ac",
+      "title": "From near-collapse to $689 billion: Inside Larry Culp’s turnaround of GE",
+      "description": "Also: All the news and watercooler chat from Fortune.",
+      "url": "https://fortune.com/2026/07/24/from-near-collapse-to-689-billion-inside-larry-culps-turnaround-of-ge/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286529371_c18400-e1784876715500.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T09:35:16.000Z"
+    },
+    {
+      "id": "rss-bf41eced1712",
+      "title": "How to Hide Your Phone Number on Telegram",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/apps/how-to-hide-your-phone-number-on-telegram",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/psg91wit/How-to-Hide-Your-Phone-Number-on-Telegram.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T09:35:00.000Z"
+    },
+    {
       "id": "rss-d4d36bc5a17e",
       "title": "Luxbox Acquires Documentary ‘Life of Jorge Luis Borges’ Ahead of Venice Premiere (EXCLUSIVE)",
       "description": "Luxbox Films has acquired the world sales rights to Mariano Llinás’ epic five-and-a-half -hour documentary “Life of Jorge Luis Borges,” which will world premiere at the Venice Film Festival in the Ope",
@@ -121,6 +721,36 @@
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-07-24T09:34:36.000Z"
+    },
+    {
+      "id": "rss-c299d67e10b8",
+      "title": "Quordle Today: Hints, Answers, Strategies Guide for July 24",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/games/quordle/quordle-today-hints-answers-strategies-guide-for-july-24",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/b3guqoh8/Quordle-139.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T09:33:23.000Z"
+    },
+    {
+      "id": "rss-5d5a3724e035",
+      "title": "AI doesn’t end scarcity. It relocates it",
+      "description": "While executives optimize what AI makes abundant, value is migrating to scarcities they don’t measure and, increasingly, no longer control.",
+      "url": "https://fortune.com/2026/07/24/ai-doesnt-end-scarcity-it-relocates-it/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287059641-e1784669664466.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-24T09:30:00.000Z"
+    },
+    {
+      "id": "rss-58db7b78a27e",
+      "title": "UPES and Hewlett Packard Enterprise Launch AI-Driven Centre of Excellence to Build the Next Generation of Engineers",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/press-release/upes-and-hewlett-packard-enterprise-launch-ai-driven-centre-of-excellence-to-build-the-next-generation-of-engineers",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/k6kli41h/UPES-and-Hewlett-Packard-Enterprise-Launch-AI-Driven-Centre-of-Excellence-to-Build-the-Next-Generation-of-Engineers.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-24T09:29:24.000Z"
     },
     {
       "id": "rss-29557795369b",
@@ -183,6 +813,16 @@
       "publishedAt": "2026-07-24T09:07:44.000Z"
     },
     {
+      "id": "rss-51453e00c022",
+      "title": "'One Day, I'm Sure': Spider-Man: Brand New Day Star Tom Holland Teases Venom Symbiote",
+      "description": "Tom Holland has teased a return of the Venom Symbiote, as the hours count down to the launch of Spider-Man: Brand New Day.",
+      "url": "https://www.ign.com/articles/one-day-im-sure-spider-man-brand-new-day-star-tom-holland-teases-venom-symbiote",
+      "image": "https://assets-prd.ignimgs.com/2021/09/27/venom-let-there-be-carnage-release-date-1632767383496.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-24T09:07:38.000Z"
+    },
+    {
       "id": "rss-09c944acddc8",
       "title": "Best AI Classes in Indore | Join Today",
       "description": "Enroll in AI classes at The Prime Step, Indore. Gain practical experience, industry-ready skills, certification, and placement support for…\nContinue reading on Medium »",
@@ -203,10 +843,20 @@
       "publishedAt": "2026-07-24T09:05:33.000Z"
     },
     {
+      "id": "rss-4b94b1531ef0",
+      "title": "Iran War and Trump’s Tariffs Threaten a Resilient U.S. Economy",
+      "description": "As renewed fighting with Iran sends oil and gas prices soaring, President Trump has imposed new global tariffs that could push up prices further.",
+      "url": "https://www.nytimes.com/2026/07/24/business/iran-war-tariffs-economy.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24DC-TRUMP-ECON-01-ghwp/24DC-TRUMP-ECON-01-ghwp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T09:05:22.000Z"
+    },
+    {
       "id": "rss-d0db32c6df93",
       "title": "How a Grieving Trump Decided to Back Lindsey Graham’s Sister for Senate",
       "description": "The president initially backed a little-known congressman. Then he talked to Gov. Henry McMaster and Ms. Graham herself.",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/how-a-grieving-trump-decided-to-back-lindsey-grahams-sister-for-senate.html",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-lindsey-graham-sister-darline-senate.html",
       "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24pol-darline-graham-top-tzpq/24pol-darline-graham-top-tzpq-mediumSquareAt3X.jpg",
       "source": "NYT Politics",
       "category": "politics",
@@ -221,6 +871,16 @@
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-07-24T09:05:06.000Z"
+    },
+    {
+      "id": "rss-8c37f6f2c01c",
+      "title": "‘We’re Trapped in Hell’: Iranians Say Life Is Put On Hold by Months of War",
+      "description": "Devastated by cycles of violence and economic crisis, many are giving up on work and their futures as the United States batters Iran again.",
+      "url": "https://www.nytimes.com/2026/07/24/world/middleeast/iran-war-cycle.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/00int-iran-voices-02-cgvz/00int-iran-voices-02-cgvz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T09:04:59.000Z"
     },
     {
       "id": "rss-fe1135b6e640",
@@ -713,16 +1373,6 @@
       "publishedAt": "2026-07-24T04:02:49.000Z"
     },
     {
-      "id": "rss-c17ddd74aba4",
-      "title": "Trump’s Global Tariffs: What’s the Latest on the Trade War",
-      "description": "The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court stuck down his original levies.",
-      "url": "https://www.nytimes.com/article/trump-tariffs-trade.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/2026-tariff-tracker-embeds-index/2026-tariff-tracker-embeds-index-mediumSquareAt3X-v4.png",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-24T04:01:02.000Z"
-    },
-    {
       "id": "rss-807c31d26a3a",
       "title": "The Agency Operating System: Why the Next Wave of Agencies Won’t Hire Developers",
       "description": "For two decades, growing a web design or marketing agency meant one thing above all: hiring. More clients meant more designers, developers…\nContinue reading on Medium »",
@@ -1000,7 +1650,7 @@
       "image": "https://static01.nyt.com/images/2026/07/23/well/23WELL-PEPTIDES-EXPLAINER1/23WELL-PEPTIDES-EXPLAINER1-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "health",
-      "publishedAt": "2026-07-24T01:31:13.000Z"
+      "publishedAt": "2026-07-24T01:31:14.000Z"
     },
     {
       "id": "rss-fe6afa950b6f",
@@ -30061,16 +30711,6 @@
       "source": "Science News",
       "category": "science",
       "publishedAt": "2026-07-17T12:00:00.000Z"
-    },
-    {
-      "id": "rss-a82481963a6c",
-      "title": "Doctors warn your 'stomach bug' may actually be a parasite that's harder to detect",
-      "description": "Over 1,600 cyclospora cases have been confirmed since May, with 5,100 more under investigation, as the foodborne parasite outbreak hits Midwestern states hard.",
-      "url": "https://www.foxnews.com/health/doctors-warn-stomach-bug-may-actually-be-parasite-thats-harder-detect",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/stomach-pain-2.jpg?ve=1&tl=1",
-      "source": "Fox News Health",
-      "category": "health",
-      "publishedAt": "2026-07-17T11:00:33.000Z"
     }
   ]
 }
