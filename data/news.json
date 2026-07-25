@@ -1,7 +1,367 @@
 {
-  "lastUpdated": "2026-07-25T07:16:30.919Z",
-  "count": 3716,
+  "lastUpdated": "2026-07-25T09:17:29.438Z",
+  "count": 3754,
   "articles": [
+    {
+      "id": "rss-9acf0eb72163",
+      "title": "Online Vedic Astrology Course for Modern Learners",
+      "description": "An online Vedic astrology course teaches the foundations of Jyotish Shastra through structured lessons, live practice, and real horoscope…\nContinue reading on Medium »",
+      "url": "https://medium.com/@vivek.sharma_49749/online-vedic-astrology-course-for-modern-learners-381e61533ccb?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/809/1*TVRpdZm8_8CzyLfUcbVR2w.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:09:14.000Z"
+    },
+    {
+      "id": "rss-53c0bbf16c13",
+      "title": "Catastrophic Forgetting: Why Your Fine-Tuned Model Gets Worse at Everything Else",
+      "description": "You fine-tune a model on your dataset. It nails your target task now, code in your house style, answers in your domain, whatever you…\nContinue reading on Medium »",
+      "url": "https://medium.com/@shivankprabhudessai/catastrophic-forgetting-why-your-fine-tuned-model-gets-worse-at-everything-else-8bfd8fc3bfa5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*0aCmC-w05E_W7FKEEhRv0A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:06:01.000Z"
+    },
+    {
+      "id": "rss-3886a77545ef",
+      "title": "The Chatbot Concept Every Non — Techie Should Understand",
+      "description": "Why chatbots misunderstand you : intent vs entity, explained simply, with real workplace examples anyone can follow.\nContinue reading on Writer Journal »",
+      "url": "https://medium.com/writer-journal/the-chatbot-concept-every-non-techie-should-understand-2204e957980e?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1116/1*mg6DnjQIf9HlI6PwfjYvVw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:05:53.000Z"
+    },
+    {
+      "id": "rss-d259ab145cbd",
+      "title": "How Enterprise AI Adoption Is Reshaping the Future of Intelligent Organizations? — Nate Patel",
+      "description": "Introduction\nContinue reading on Medium »",
+      "url": "https://medium.com/@aiconsulting_usa/how-enterprise-ai-adoption-is-reshaping-the-future-of-intelligent-organizations-nate-patel-7f6bb9721cc2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*9jDfnxH2lvIqoMteypYMqw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:04:39.000Z"
+    },
+    {
+      "id": "rss-82ce6efff7b6",
+      "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
+      "description": "A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/00dc-airforce1-top-4-tlvq/00dc-airforce1-top-4-tlvq-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T09:02:08.000Z"
+    },
+    {
+      "id": "rss-e0b91f0cac05",
+      "title": "ChatGPT, Claude, or Gemini? The Definitive Guide to Choosing in 2026",
+      "description": "You don’t need to use them all. You need to use the right one — or the perfect combination. Introduction\nAfter learning how to avoid the…\nContinue reading on Medium »",
+      "url": "https://medium.com/@aifinance_58949/chatgpt-claude-or-gemini-the-definitive-guide-to-choosing-in-2026-ff76e2056c95?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2540/1*xDBhv53gx3jorYPWS3FuIg.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:01:41.000Z"
+    },
+    {
+      "id": "rss-47a66d8b8fd3",
+      "title": "What Geriatric Emergency Departments Do Differently",
+      "description": "These specialized units can help keep older patients out of the hospital, lower their health care costs and more.",
+      "url": "https://www.nytimes.com/2026/07/25/well/geriatric-emergency-departments.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/well/25Well-NOA-ERs/25Well-NOA-ERs-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "health",
+      "publishedAt": "2026-07-25T09:01:37.000Z"
+    },
+    {
+      "id": "rss-217a8ad55189",
+      "title": "The AI Race Everyone’s Ignoring Is About Silicon, Not Chatbots",
+      "description": "While most AI coverage this week was about a model that hacked a company it wasn’t supposed to touch, a much quieter story broke that I…\nContinue reading on Medium »",
+      "url": "https://medium.com/@mustafaculban1/the-ai-race-everyones-ignoring-is-about-silicon-not-chatbots-ee3e2158c303?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*BkpWjs4Q-gc-Siej0YSQOg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:01:03.000Z"
+    },
+    {
+      "id": "rss-bae2b3074767",
+      "title": "How a Housing Bill Trump Spurned Became Law",
+      "description": "Despite partisan differences, intraparty feuds and the president’s lack of interest, Congress delivered the first major housing bill in a generation.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/elizabeth-warren-housing-bill-trump.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25dc-housing01-photo-tzpf/25dc-housing01-photo-tzpf-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T09:00:52.000Z"
+    },
+    {
+      "id": "rss-32551d7185bf",
+      "title": "After Platner implosion, Maine Democrats rush toward new Senate nominee despite fresh warning signs",
+      "description": "The Maine Senate race is rated a toss-up as Troy Jackson runs on Medicare for all and abolishing ICE against Republican incumbent Susan Collins.",
+      "url": "https://www.foxnews.com/politics/platner-implosion-maine-democrats-rally-troy-jackson-high-stakes-senate-fight",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Troy-Jackson.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T09:00:51.000Z"
+    },
+    {
+      "id": "rss-9b82e5cf2167",
+      "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
+      "description": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, the likely Democratic nominee, has a lot of catching up to do.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/0726-maine-money-print1-sub/25pol-maine-money-01-gpjl-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T09:00:32.000Z"
+    },
+    {
+      "id": "rss-afff10f1e53c",
+      "title": "Utah, Known for Big Families, Leads the U.S. in Dropping Birthrates",
+      "description": "Forget tradwives. When it comes to plummeting fertility rates, Utah is leading the country.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/utah-birth-rate-fertility-decline.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/00nat-birthrate-utah-cgtj/00nat-birthrate-utah-cgtj-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T09:00:31.000Z"
+    },
+    {
+      "id": "rss-f7463af3abe8",
+      "title": "Using AI to Detect AI: The 2026 Absurdity Loop",
+      "description": "Editors run AI detectors on writing, recruiters AI-screen AI-written résumés, universities falsely flag honest students, and paid…\nContinue reading on Code Your Own Path »",
+      "url": "https://medium.com/code-your-own-path/using-ai-to-detect-ai-the-2026-absurdity-loop-6b906efe80a5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/937/1*42fqMOXyBlyvXLxOunD0VQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:00:03.000Z"
+    },
+    {
+      "id": "rss-291f46c8585f",
+      "title": "Are quasiparticles real?",
+      "description": "Given the \"quasi\" in quasiparticles, do scientists consider them to be real particles?",
+      "url": "https://www.livescience.com/physics-mathematics/particle-physics/are-quasiparticles-real",
+      "image": "https://cdn.mos.cms.futurecdn.net/Gy462AMx8jNUhQeVKhJT9a-1280-80.png",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-25T09:00:00.000Z"
+    },
+    {
+      "id": "rss-f29118d9d06c",
+      "title": "Apple’s 20th Anniversary iPhone May Feature its Biggest Display Yet",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/apples-20th-anniversary-iphone-may-feature-its-biggest-display-yet",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/d3aeq5gn/Apple%E2%80%99s-20th-Anniversary-iPhone-May-Feature-its-Biggest-Display-Yet.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:00:00.000Z"
+    },
+    {
+      "id": "rss-d380bd39f53f",
+      "title": "The 3 Key Books I’m Using to Fill the Math Gaps in My PhD",
+      "description": "Linear algebra, statistics, and calculus\nContinue reading on Cogni.tiva »",
+      "url": "https://medium.com/cogni-tiva/the-3-key-books-im-using-to-fill-the-math-gaps-in-my-phd-8445b505f5bf?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*YKl5PfxSKxDS7Iea",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:58:52.000Z"
+    },
+    {
+      "id": "rss-603413494f69",
+      "title": "LangChain Middleware: Your Agent Needs a Bodyguard",
+      "description": "Memory management, cost limits, retries, PII protection, and human approval — added to your agent in one line each. Hands-on with Gemini.\nContinue reading on Medium »",
+      "url": "https://ashukumar27.medium.com/langchain-middleware-your-agent-needs-a-bodyguard-184b13db21ce?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*wqDt15UEU1m3HRwdVvT1PA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:57:08.000Z"
+    },
+    {
+      "id": "rss-ed8577acc0ea",
+      "title": "Structured Outputs in LangChain: From Raw Text to Clean JSON",
+      "description": "How to make LLMs return lists, dictionaries, and validated Python objects — every single time. Hands-on with Gemini.\nContinue reading on Medium »",
+      "url": "https://ashukumar27.medium.com/structured-outputs-in-langchain-from-raw-text-to-clean-json-a7e0b2ee474f?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*U-SUdnXQgstgJvCx5092cw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:56:09.000Z"
+    },
+    {
+      "id": "rss-566fda63e352",
+      "title": "The 10 Mathematical Foundations Every AI Engineer Should Understand",
+      "description": "Introduction\nContinue reading on Medium »",
+      "url": "https://medium.com/@ravi.retheesh/the-10-mathematical-foundations-every-ai-engineer-should-understand-5ae09761cde0?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*e8Lm2LvJZPt5ESUzjuerQA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:54:46.000Z"
+    },
+    {
+      "id": "rss-1a83940c8464",
+      "title": "“打麻雀运动” — — 绝密档案解密",
+      "description": "当人工智能特工逃出“牢笼” — — 他黑进档案并重新分配了向量\nContinue reading on Medium »",
+      "url": "https://medium.com/@MarkysUNIT77/%E6%89%93%E9%BA%BB%E9%9B%80%E8%BF%90%E5%8A%A8-%E7%BB%9D%E5%AF%86%E6%A1%A3%E6%A1%88%E8%A7%A3%E5%AF%86-629a2cc81d66?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1360/1*T4ec32XMJCDsPrUpN-BIMg.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:54:02.000Z"
+    },
+    {
+      "id": "rss-7bd32b898054",
+      "title": "How Financial News Analytics Actually Works And Why General NLP Models Get It Wrong",
+      "description": "A look under the hood of the tools equity analysts use daily, from a practitioner who spent years reading the news before learning to make…\nContinue reading on Medium »",
+      "url": "https://medium.com/@anandpalaniappan15/how-financial-news-analytics-actually-works-and-why-general-nlp-models-get-it-wrong-b40879d16009?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*ocJ_OBwdn4jvzy7uSu2rQQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:51:36.000Z"
+    },
+    {
+      "id": "rss-90499f79a9eb",
+      "title": "Pi Network Distributes Slice as PI Price Faces Fresh Pressure",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/pi-network-distributes-slice-as-pi-price-faces-fresh-pressure",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/0ib9bkee/Pi-Network-Distributes-Slice-as-PI-Price-Faces-Fresh-Pressure.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:45:00.000Z"
+    },
+    {
+      "id": "rss-deab42fb297b",
+      "title": "“The Great Sparrow War” — THE UNLOCKED ARCHIVES",
+      "description": "WHEN THE AI AGENT ESCAPED FROM “CAPTIVITY” — IT HACKED THE ARCHIVES AND REDISTRIBUTED THE VECTORS\nContinue reading on Medium »",
+      "url": "https://medium.com/@MarkysUNIT77/the-great-sparrow-war-the-unlocked-archives-3f3befe9f7a3?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1360/1*T4ec32XMJCDsPrUpN-BIMg.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:33:50.000Z"
+    },
+    {
+      "id": "rss-2f36366d240c",
+      "title": "Roku is increasing prices across its hardware range",
+      "description": "Roku's streaming devices got a price hike, and it's reportedly because of industry-wide memory shortages.",
+      "url": "https://www.engadget.com/2223121/roku-price-increase-hardware/",
+      "image": "https://www.engadget.com/img/gallery/roku-is-increasing-prices-across-its-hardware-range/l-intro-1784967881.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-25T08:30:39.000Z"
+    },
+    {
+      "id": "rss-fbabb0e94b71",
+      "title": "Top Laser Printers with Duplex Printing",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/printers/top-laser-printers-with-duplex-printing",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/40wylfkf/Top-Laser-Printers-with-Duplex-Printing-Som.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:30:00.000Z"
+    },
+    {
+      "id": "rss-fcd174cd7adb",
+      "title": "Xiaomi 18 Pro Global Variant Spotted; Mix Fold 5 Gets 3C Certification",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/xiaomi-18-pro-global-variant-spotted-mix-fold-5-gets-3c-certification",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/0wrorze4/Xiaomi-18-Pro-Global-Variant-Spotted-Mix-Fold-5-Gets-3C-Certification.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:20:13.000Z"
+    },
+    {
+      "id": "rss-181192b7e9e3",
+      "title": "Democrats concede NJ voter-roll failure was ‘horrible’ — but reject broader fraud fears",
+      "description": "Democratic lawmakers say New Jersey's motor vehicle system error registering 6,600 noncitizens demands accountability but reject widespread fraud claims.",
+      "url": "https://www.foxnews.com/politics/democrats-concede-nj-voter-roll-failure-horrible-reject-broader-fraud-fears",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/mikie-sherrill-ice-portal-launch-new-jersey.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T08:00:36.000Z"
+    },
+    {
+      "id": "rss-34d126036560",
+      "title": "SpaceX may have missed its window to buy Tesla",
+      "description": "SpaceX's stock nosedive makes Elon Musk's merger dreams much harder to justify.",
+      "url": "https://fortune.com/2026/07/25/spacex-tesla-stock-price-merger-window-elon-musk/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2281237832.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T08:00:00.000Z"
+    },
+    {
+      "id": "rss-c59a0612de84",
+      "title": "Science word of the day: Lithics",
+      "description": "Pronunciation: LITH'-iks",
+      "url": "https://www.livescience.com/archaeology/science-word-of-the-day-lithics",
+      "image": "https://cdn.mos.cms.futurecdn.net/6vPcfKWWTYkYvBASXLKaAV-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-25T08:00:00.000Z"
+    },
+    {
+      "id": "rss-5297354f3793",
+      "title": "Top Railway Stocks to Watch",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/stocks/top-railway-stocks-to-watch",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/ural916p/Top-Railway-Stocks-to-Watch.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T08:00:00.000Z"
+    },
+    {
+      "id": "rss-8e166566ff9d",
+      "title": "Kratos’ Next God Of War Game Will Pick Up Where Laufey Leaves Off",
+      "description": "Kratos' story isn't over yet, as God of War developer Sony Santa Monica announced that the main face of the franchise will lead a new game, following the launch of God of War Laufey in February 2027. ",
+      "url": "https://www.gamespot.com/articles/kratos-next-god-of-war-game-will-pick-up-where-laufey-leaves-off/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/07/GoW-Laufey.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T07:41:20.000Z"
+    },
+    {
+      "id": "rss-961269266739",
+      "title": "At Correspondents’ Dinner, a Rambling Trump Hurls Insults",
+      "description": "President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-whca-dinner1/24trump-news-header730p-jmhk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T07:35:25.000Z"
+    },
+    {
+      "id": "rss-657d45e0ebdc",
+      "title": "Surprise: God Of War Laufey Has A Release Date, And Its Kratos-Led Sequel Has Been Announced",
+      "description": "The God of War Laufey release date has been announced and, much like we anticipated, you won't have to wait too long before you can play Faye's story.\nAt San Diego Comic-Con 2026, Sony Santa Monica St",
+      "url": "https://www.gamespot.com/articles/surprise-god-of-war-laufey-has-a-release-date-and-its-kratos-led-sequel-has-been-announced/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/06/God-of-War-Laufey.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T07:32:27.000Z"
+    },
+    {
+      "id": "rss-37e3898276ce",
+      "title": "Top 10 VR Games for Beginners Without Motion Sickness",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gaming/top-10-vr-games-for-beginners-without-motion-sickness",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/tpgsmkp5/Top-10-VR-Games-for-Beginners-Without-Motion-Sickness-Humpy.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T07:30:00.000Z"
+    },
+    {
+      "id": "rss-73784e14fe1f",
+      "title": "God Of War Laufey Joins The Growing Pile Of February 2027 Game Releases",
+      "description": "The PS5 exclusive barely seven months away from launching",
+      "url": "https://kotaku.com/god-of-war-laufey-joins-the-growing-pile-of-february-2027-game-releases-2000719291",
+      "image": "https://kotaku.com/app/uploads/2026/06/topgod2-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T07:27:21.000Z"
+    },
+    {
+      "id": "rss-adc72177e51d",
+      "title": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
+      "description": "Taiwan is stepping up plans to secure fuel and other vital imports as Chinese government ships practice moves that could one day be used in a blockade.",
+      "url": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/00int-china-taiwan-coastguard-wtzp/00int-china-taiwan-coastguard-wtzp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T07:10:49.000Z"
+    },
     {
       "id": "rss-2015b2b8c474",
       "title": "Smart Industrial Diagnostics Using Multimodal Machine Learning Techniques",
@@ -11,6 +371,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-25T07:09:51.000Z"
+    },
+    {
+      "id": "rss-a3c267ce7353",
+      "title": "Trump has no remaining levers to pull as oil hovers near the $100 ‘psychological’ threshold",
+      "description": "Depleted emergency oil reserves create a dangerous game if the Strait of Hormuz and the Red Sea are effectively shuttered.",
+      "url": "https://fortune.com/2026/07/25/trump-no-levers-pull-oil-100-psychological-threshold/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286827750-e1784925209697.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T07:09:00.000Z"
     },
     {
       "id": "rss-48b31629d6ac",
@@ -70,6 +440,26 @@
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_2665.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
       "category": "technology",
+      "publishedAt": "2026-07-25T07:00:00.000Z"
+    },
+    {
+      "id": "rss-5552096ce09e",
+      "title": "I sold my startup for millions without a single dollar in revenue. Here’s why that’s the point",
+      "description": "It was Thomson Reuters’ first pre-revenue acquisition in 174 years, and one of the more significant European deals of 2024, but that wasn't the surprise.",
+      "url": "https://fortune.com/2026/07/25/sold-startup-millions-no-revenue-safe-sign-technologies-thomson-reuters/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/1G9A0987.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T07:00:00.000Z"
+    },
+    {
+      "id": "rss-6a820218d35f",
+      "title": "Free Fire MAX Redeem Codes Today: Claim Free Skins, Emotes, Exclusive Rewards",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gaming/free-fire-max-redeem-codes-today-claim-free-skins-emotes-exclusive-rewards",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/mv8pk95o/Free-Fire-MAX-Redeem-Codes-Today.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
       "publishedAt": "2026-07-25T07:00:00.000Z"
     },
     {
@@ -301,16 +691,6 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-25T04:26:16.000Z"
-    },
-    {
-      "id": "rss-961269266739",
-      "title": "At Correspondents’ Dinner, a Rambling Trump Hurls Insults",
-      "description": "President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-whca-dinner1/24trump-news-header730p-jmhk-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-25T04:25:01.000Z"
     },
     {
       "id": "rss-ad3ce15ef1ca",
