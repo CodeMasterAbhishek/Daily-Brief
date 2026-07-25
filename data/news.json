@@ -1,7 +1,397 @@
 {
-  "lastUpdated": "2026-07-25T01:01:38.351Z",
-  "count": 3650,
+  "lastUpdated": "2026-07-25T04:43:07.246Z",
+  "count": 3691,
   "articles": [
+    {
+      "id": "rss-925dc85e125d",
+      "title": "I Banned AI Tools From My Creative Process for 30 Days. Here’s What Happened to My Brain",
+      "description": "How I was able to Forget Thinking\nContinue reading on Medium »",
+      "url": "https://medium.com/@zeeshan4801/i-banned-ai-tools-from-my-creative-process-for-30-days-heres-what-happened-to-my-brain-bcee73395b7f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*utGUHKK9JvK_Nd-ke7liHw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:40:12.000Z"
+    },
+    {
+      "id": "rss-5a9eefc1d931",
+      "title": "Best AI Tools for Content Creators With Zero Budget",
+      "description": "The Complete Free AI Stack for Content Creators — No Budget, No Compromise.\nContinue reading on Medium »",
+      "url": "https://medium.com/@sundus.saghir/best-ai-tools-for-content-creators-with-zero-budget-ec3ed6b41e80?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*mbmYe6Yc3YNDpqAvzyEh-g.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:36:22.000Z"
+    },
+    {
+      "id": "rss-a252c51f2bc8",
+      "title": "GitHub Copilot: Beyond Tips and Tricks",
+      "description": "Context management, phased workflows, and verification — the boring practices that produce genuinely better AI output.\nContinue reading on Medium »",
+      "url": "https://medium.com/@anandkumar_34663/github-copilot-beyond-tips-and-tricks-9ca1dcb0734d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1774/1*wgollGzaLYz1cHW6FTZlBQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:35:59.000Z"
+    },
+    {
+      "id": "rss-54d4c10c7dbf",
+      "title": "How to Build Topical Authority: The Content Framework I Use for Long-Term SEO Growth",
+      "description": "Stop chasing individual keywords. Learn how to build a knowledge hub that search engines, AI-powered search, and readers trust.\nContinue reading on Medium »",
+      "url": "https://medium.com/@rahulbala286/how-to-build-topical-authority-the-content-framework-i-use-for-long-term-seo-growth-bd285d2e5336?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*F-pw0Nq5TAt3SScVUteXdg.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:31:03.000Z"
+    },
+    {
+      "id": "rss-a1104d8e5e01",
+      "title": "Predicting 28-Day Mortality in Heart Failure Patients Using a Random Forest Classifier: A Machine…",
+      "description": "Abstract\nContinue reading on Medium »",
+      "url": "https://medium.com/@rohitgitam014/predicting-28-day-mortality-in-heart-failure-patients-using-a-random-forest-classifier-a-machine-c8aec81c5a73?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*VOPmdbOiu0pCTPaI9E0bNg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:29:15.000Z"
+    },
+    {
+      "id": "rss-60d21499715f",
+      "title": "Opus 5: Fable 5 performance at half the cost",
+      "description": "Claude Opus 5 just shipped, and it changes the economics of AI work. Anthropic released it today at the same price as Opus 4.8 ($5/$25 per…\nContinue reading on Bootcamp »",
+      "url": "https://medium.com/design-bootcamp/opus-5-fable-5-performance-at-half-the-cost-c616567948b0?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*6Zd8T_BwoAQ0NXnj",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:26:16.000Z"
+    },
+    {
+      "id": "rss-961269266739",
+      "title": "At Correspondents’ Dinner, a Rambling Trump Hurls Insults",
+      "description": "President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-whca-dinner1/24trump-news-header730p-jmhk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T04:25:00.000Z"
+    },
+    {
+      "id": "rss-ad3ce15ef1ca",
+      "title": "Stop Calling the AI API on Every Request — The Caching and Cost Control Strategy Nobody Talks About",
+      "description": "Semantic caching with vector similarity, response deduplication, prompt token reduction, tiered model selection (cheap model first…\nContinue reading on Medium »",
+      "url": "https://sadiqueali.medium.com/stop-calling-the-ai-api-on-every-request-the-caching-and-cost-control-strategy-nobody-talks-about-5c1f3ae2e7df?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/930/0*2w18T-SOwoJkSfvK.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:22:49.000Z"
+    },
+    {
+      "id": "rss-3cb8e7580aa8",
+      "title": "AI Isn’t a Destination",
+      "description": "Every software product today seems to be in a race to add AI. An AI tab. An AI assistant. An AI chat window. Somewhere along the way, we…\nContinue reading on Medium »",
+      "url": "https://medium.com/@devibalaC/ai-isnt-a-destination-ad776df57166?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*TFLtoYGeE-YePlcG4wtuww.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:22:46.000Z"
+    },
+    {
+      "id": "rss-6ac417869120",
+      "title": "Stop Building AI Chatbots. Build These 7 AI Products Instead.",
+      "description": "Everyone is building AI chatbots. Stand out by creating AI products that solve real-world problems, attract clients, and generate real…\nContinue reading on Medium »",
+      "url": "https://medium.com/@amanxnayak/stop-building-ai-chatbots-build-these-7-ai-products-instead-7f5136cdc78d?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*n65lXfis0LUJ0NSlqamWeQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:20:31.000Z"
+    },
+    {
+      "id": "rss-d2989b2913cd",
+      "title": "Como construir um modelo preditivo de pedidos no mundo real — parte 2 de 4",
+      "description": "Ensinando o algoritmo a entender o negócio\nContinue reading on Medium »",
+      "url": "https://medium.com/@marloslrs/como-construir-um-modelo-preditivo-de-pedidos-no-mundo-real-parte-2-de-4-5625404abc63?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2048/1*DvVXjP4J_x7YqratrZyJPQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:20:19.000Z"
+    },
+    {
+      "id": "rss-348ceda6a277",
+      "title": "Build Skills, Not Just a Degree: The Smartest Career Advice for Students in 2026",
+      "description": "For years, students have been told that earning a degree is the key to a successful career. While a degree still holds value, today's…\nContinue reading on Medium »",
+      "url": "https://medium.com/@faizaarif203/build-skills-not-just-a-degree-the-smartest-career-advice-for-students-in-2026-cd7a1f9d5b5d?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1122/1*x4zzKAjZ1neUoiXiCIBYnw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:07:15.000Z"
+    },
+    {
+      "id": "rss-6a0953729822",
+      "title": "Introduction to AI Fundamentals for Engineers, Stupid Simple",
+      "description": "We’ll build a basic, intuitive understanding of a few topics that will act as a foundation for you to start your journey in Applied AI…\nContinue reading on Medium »",
+      "url": "https://medium.com/@sahilhsgupta7/introduction-to-ai-fundamentals-for-engineers-stupid-simple-a048744db52c?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*cLL0QBdYuU8jpJlZ5jIwdw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:05:26.000Z"
+    },
+    {
+      "id": "rss-06ba5bf3971e",
+      "title": "Kimi K3: The 2.8-Trillion-Parameter Open AI Model Challenging the Frontier",
+      "description": "The artificial-intelligence industry has entered a stage where progress is no longer measured only by how well a model answers questions…\nContinue reading on Medium »",
+      "url": "https://arpitkulsh.medium.com/kimi-k3-the-2-8-trillion-parameter-open-ai-model-challenging-the-frontier-a8ca22dd67a5?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*ZPabL86RwktYr_TFGejC8w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T04:04:05.000Z"
+    },
+    {
+      "id": "rss-c6af3f25873b",
+      "title": "A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder",
+      "description": "Tariffs are back, but this time there is a war in the Persian Gulf and oil has hit $100 a barrel.",
+      "url": "https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24Biz-Global-Econ-01-lzfv/24Biz-Global-Econ-01-lzfv-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T04:00:07.000Z"
+    },
+    {
+      "id": "rss-eea6b8d4e396",
+      "title": "Claude Opus 5’s Benchmarks, Decoded for Developers",
+      "description": "Five cryptic benchmark names decoded — and why cost per task beats every headline score.\nContinue reading on Medium »",
+      "url": "https://medium.com/@coolercoder/claude-opus-5s-benchmarks-decoded-for-developers-1dfb46a48172?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2400/1*K3UEjVCqXekztpPt5Xw0Gg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T03:39:41.000Z"
+    },
+    {
+      "id": "rss-1237e5a5b551",
+      "title": "After Stabbings, a Rise in Jewish Fears and Questions for Mamdani",
+      "description": "Some politicians said Mayor Zohran Mamdani’s criticism of Israel had created a dangerous environment. He pushed back, condemning the stabbings of two men on the Upper West Side and defending his state",
+      "url": "https://www.nytimes.com/2026/07/24/nyregion/antisemitism-nyc-stabbing-jewish.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24met-antisemitism-zktb/24met-antisemitism-zktb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T03:36:09.000Z"
+    },
+    {
+      "id": "rss-d73ea008dd09",
+      "title": "AI Side Hustles That Actually Work in 2026",
+      "description": "A practical, no-hype breakdown of which AI-powered income streams hold up under real work — and which ones are just repackaged hype.\nContinue reading on Medium »",
+      "url": "https://medium.com/@Artiscribe/ai-side-hustles-that-actually-work-in-2026-9d1fb1ed2b37?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*aYJSfzlBIiCJwW0xn1uSAg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T03:35:12.000Z"
+    },
+    {
+      "id": "rss-83022c9afeea",
+      "title": "Trump spares no one at WHCA dinner, taking aim at Dems, press and his own Cabinet",
+      "description": "Trump scrapped his combative speech for a unity-themed address, but still took familiar jabs at J.B. Pritzker, Chuck Schumer, and Gavin Newsom.",
+      "url": "https://www.foxnews.com/politics/trump-spares-no-one-whca-dinner-taking-aim-dems-press-own-cabinet",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/trump-speaking-whca-dinner.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T03:33:17.000Z"
+    },
+    {
+      "id": "rss-fadbaf274c7b",
+      "title": "Bluetooth Speaker vs Smart Speaker: Which is Better in 2026?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/audio/party-speakers/bluetooth-speaker-vs-smart-speaker-which-is-better-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/c7jjrtpb/Bluetooth-Speaker-vs-Smart-Speaker-Which-Is-Better-in-2026-Humpy.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T03:30:00.000Z"
+    },
+    {
+      "id": "rss-5919dd8bcaaf",
+      "title": "Wings' Azzi Fudd makes history with WNBA 3-point shooting contest win, challenges Steph Curry to a 'rematch'",
+      "description": "Earlier, Elena Delle Donne, Shakira Austin and GG Banks carried Team Washington to a win in the WNBA Shooting Stars competition",
+      "url": "\n                                                https://www.cbssports.com/wnba/news/azzi-fudd-wnba-all-star-3-point-contest-win-steph-curry-rematch/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/25/7544bf1f-efba-4d43-89d9-3e7790d0cee4/azzi-fudd-wnba-all-star-win.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T03:23:03.000Z"
+    },
+    {
+      "id": "rss-79e26faecd61",
+      "title": "Trump Says White House Correspondents Dinner Is ‘Largest Group of Trump Derangement Syndrome People Ever Put Together at One Time’",
+      "description": "President Donald Trump attended his first-ever White House Correspondents’ Association Dinner, with this year’s rescheduled gala held Friday evening in Washington, D.C., and delivered some pointed rem",
+      "url": "https://variety.com/2026/tv/news/trump-white-house-correspondents-dinner-remarks-1236820779/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Donald-Trump-WHCA-Dinner.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-25T02:37:47.000Z"
+    },
+    {
+      "id": "rss-cdc4f5db4343",
+      "title": "WWE SummerSlam 2026 matches, date, card, rumors and location for epic two-night event in Minnesota",
+      "description": "SummerSlam takes place in Minneapolis on Aug. 1 and 2",
+      "url": "\n                                                https://www.cbssports.com/wwe/news/wwe-summerslam-2026-matches-card-date-rumors-location/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/07/d0d20cff-5dc9-43e0-9a2e-f843406f88d2/roman-reigns-seth-rollins-wwe-summerslam-july-7-2026-pro-wrestling.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T02:18:21.000Z"
+    },
+    {
+      "id": "rss-0948d419cee2",
+      "title": "Spaceballs: The New One Creators on Making Mel Brooks' Yogurt CGI and Paying Tribute to John Candy | Comic Con 2026",
+      "description": "Rick Moranis appeared at SDCC alongside Josh Gad to reveal new details for Spaceballs: The New One, including Mel Brooks' now CGI Yogurt and fresh Star Wars gags.",
+      "url": "https://www.ign.com/articles/spaceballs-2-sdcc-panel-rick-moranis-mel-brooks",
+      "image": "https://assets-prd.ignimgs.com/2026/07/25/spaceballs-1784944839270.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T02:13:05.000Z"
+    },
+    {
+      "id": "rss-2fc200c868c0",
+      "title": "Report: Apple and Micron clash before Trump over Chinese memory chips",
+      "description": "The Wall Street Journal reports that Micron is pressing the Trump administration to block Apple’s push to use memory chips from Chinese suppliers. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/24/report-apple-and-micron-clash-before-trump-over-chinese-memory-chips/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/12/Apple-Park.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-25T02:03:00.000Z"
+    },
+    {
+      "id": "rss-c6e4d0757de6",
+      "title": "New God of War game starring Kratos announced at Comic-Con",
+      "description": "God of War director Cory Barlog announced a new GOW starring original protagonist Kratos, it will tie directly into Laufey's story.",
+      "url": "https://www.polygon.com/new-god-of-war-game-announced-kratos-laufey-release-date/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/god-of-war-faye-kratos.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T01:58:01.000Z"
+    },
+    {
+      "id": "rss-d2190ce662ab",
+      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
+      "description": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-plane-gblv/24dc-plane-gblv-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T01:57:36.000Z"
+    },
+    {
+      "id": "rss-c966f3a52f61",
+      "title": "Gretchen Whitmer endorses moderate Haley Stevens in tight upcoming Senate primary",
+      "description": "Gretchen Whitmer backed Haley Stevens over Abdul El-Sayed in the Michigan Senate primary as early voting begins, setting up a key Democratic clash.",
+      "url": "https://www.foxnews.com/politics/gretchen-whitmer-endorses-moderate-haley-stevens-tight-upcoming-senate-primary",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/haley-stevens-debate-grand-rapids.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T01:55:03.000Z"
+    },
+    {
+      "id": "rss-3e4352b38fb5",
+      "title": "God of War Laufey Release Date Announced | Comic Con 2026",
+      "description": "God of War Laufey has a release date: February 16, 2027.",
+      "url": "https://www.ign.com/articles/god-of-war-laufey-release-date-announced-comic-con-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/06/03/gow-1780480667802.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T01:49:36.000Z"
+    },
+    {
+      "id": "rss-3da06f57c87b",
+      "title": "Trump on LeBron James: ‘Maybe He’s a Racist’",
+      "description": "President Trump has lashed out over the years at NBA star LeBron James, who has been critical of the president in the past.",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/24dc-trump-lebron/25lebron-print-A1rfr-vzlc-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T01:47:17.000Z"
+    },
+    {
+      "id": "rss-94fdf085f9fe",
+      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
+      "description": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22dc-clayton-plane01-photo-wlmz/22dc-clayton-plane01-photo-wlmz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T01:46:39.000Z"
+    },
+    {
+      "id": "rss-ea7a7f0b7ef5",
+      "title": "SpaceX's Starship megarocket makes the 'softest splashdown' ever after launching next-gen Starlink satellites in Flight 13 test (video)",
+      "description": "SpaceX launched Starship, the world's most powerful rocket, on a critical 13th test flight on July 24, a stunning test flight that notched big success and ended with a huge surprise.",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video",
+      "image": "https://cdn.mos.cms.futurecdn.net/EBaFFerS5NjWzK94MM58t6-1280-80.png",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-25T01:40:17.000Z"
+    },
+    {
+      "id": "rss-e03576473380",
+      "title": "Guillermo del Toro said ‘Absolutely No Goddamn AI’ in ‘Pan’s Labyrinth’ 3D Re-Release: ‘We’re Protecting a Lineage of Art’",
+      "description": "Guillermo del Toro had one rule when bringing “Pan’s Labyrinth” back to theaters for its 20th anniversary: “No goddamn AI.” The filmmaker returned to San Diego Comic-Con to discuss the film’s 20th ann",
+      "url": "https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/",
+      "image": "https://variety.com/wp-content/uploads/2023/05/MCDPALA_EC016.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-25T01:37:12.000Z"
+    },
+    {
+      "id": "rss-8d0f1b2ef756",
+      "title": "Trump orders signs outside Smithsonian museum amid row over its depiction of American history",
+      "description": "Trump's executive order targets federal sidewalks outside the Smithsonian to post signs directing visitors to a White House report on the museum.",
+      "url": "https://www.foxnews.com/politics/trump-orders-signs-outside-smithsonian-museum-amid-row-over-its-depiction-american-history",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/smithsonian-castle-building-dc-trump.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T01:31:14.000Z"
+    },
+    {
+      "id": "rss-056aeef766f8",
+      "title": "OLED Monitor Buying Guide 2026: How to Choose the Best OLED Monitor",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gadgets/buying-guides/oled-monitor-buying-guide-2026-how-to-choose-the-best-oled-monitor",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/uih3c1a0/OLED-Monitor-Buying-Guide-2026-How-to-Choose-the-Best-OLED-Monitor.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T01:30:00.000Z"
+    },
+    {
+      "id": "rss-937e156d4c3b",
+      "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
+      "description": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
+      "url": "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-dems-jkvp/24dc-dems-jkvp-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T01:29:29.000Z"
+    },
+    {
+      "id": "rss-284481b7da3b",
+      "title": "Nick Hakim’s ‘I Can See’ Is a Hazy Alt-R&B Masterpiece: Album Review",
+      "description": "“Stoner R&B” is not an insult: It’s the opposite, a loose term to describe a sprawling genre of music that includes everything from Dijon and Frank Ocean to Brent Faiyaz and Jhene Aiko. It’s R&B that ",
+      "url": "https://variety.com/2026/music/reviews/nick-hakim-i-can-see-masterpiece-album-review-1236818633/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/albumcovertreatment-15-1.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-25T01:28:47.000Z"
+    },
+    {
+      "id": "rss-320f7cb4a2ed",
+      "title": "Amazon pushes back Tomb Raider: Catalyst's release day to 2028",
+      "description": "Amazon's head of gaming announces the delay of the highly anticipated Tomb Raider: Catalyst, Lara Croft's next original adventure.",
+      "url": "https://www.polygon.com/tomb-raider-catalyst-delayed-to-2028/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/lara-croft-in-tomb-raider-catalyst-teaser.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T01:14:27.000Z"
+    },
+    {
+      "id": "rss-5591edef849f",
+      "title": "The Next God Of War Is In Development, Stars Kratos, Will Tie Directly To Laufey",
+      "description": "Faye's story is connected to whatever's next for her husband",
+      "url": "https://kotaku.com/god-of-war-laufey-kratos-new-playstation-sdcc-2000719261",
+      "image": "https://kotaku.com/app/uploads/2022/09/93c3d9c45e8abd90559e8b3c25f1df4d-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T01:01:40.000Z"
+    },
     {
       "id": "rss-46f0f63efb99",
       "title": "'MacBook Ultra' Coming Soon With These 12 New Features",
@@ -11,6 +401,16 @@
       "source": "MacRumors",
       "category": "technology",
       "publishedAt": "2026-07-25T01:00:12.000Z"
+    },
+    {
+      "id": "rss-16cce733dcf6",
+      "title": "Why Wall Street Trusts Some CEOs and Doubts Others With the Same Balance Sheet",
+      "description": "Two companies can post identical numbers and get opposite reactions from the market. The difference isn't performance — it's whether leadership has earned the benefit of the doubt.",
+      "url": "https://www.entrepreneur.com/building-a-business/why-wall-street-trusts-some-ceos-and-doubts-others-with-the-same-balance-sheet",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/wall-street-ceo-trust-doubt-0726_g1494217202.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-25T01:00:00.000Z"
     },
     {
       "id": "rss-72415da5920e",
@@ -43,6 +443,16 @@
       "publishedAt": "2026-07-25T00:53:03.000Z"
     },
     {
+      "id": "rss-51dc21b8928a",
+      "title": "Next Kratos-Led God of War Game Is Coming After Laufey, and Connects Directly to Her Story | Comic Con 2026",
+      "description": "Santa Monica Studio head of creative Cory Barlog has announced that the next Kratos-led God of War game is coming after God of War Laufey, and connects directly to her story.",
+      "url": "https://www.ign.com/articles/next-kratos-led-god-of-war-game-is-coming-after-laufey-and-connects-directly-to-her-story-comic-con-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/07/10/god-of-war-laufey-physical-disc-release-confirmed-2027-1783717114655.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T00:53:03.000Z"
+    },
+    {
       "id": "rss-a99f441772ac",
       "title": "How We Built Apex Leads Group Into More Than Just Another Marketing Agency",
       "description": "The story of how we stopped selling “leads” and started building complete growth systems for contractors and home-service companies.\nContinue reading on Medium »",
@@ -51,16 +461,6 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-25T00:50:20.000Z"
-    },
-    {
-      "id": "rss-94fdf085f9fe",
-      "title": "In Rush to Track Down Air Force One Leaks, DOJ Reversed Its Own Process",
-      "description": "A judge’s remarks on subpoenas to reporters cast attention on two administration officials under consideration for powerful cabinet posts, Todd Blanche and Jay Clayton.",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/doj-new-york-times-subpoenas-leaks.html",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22dc-clayton-plane01-photo-wlmz/22dc-clayton-plane01-photo-wlmz-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-25T00:46:25.000Z"
     },
     {
       "id": "rss-a9dadf5d55ea",
@@ -113,16 +513,6 @@
       "publishedAt": "2026-07-25T00:31:01.000Z"
     },
     {
-      "id": "rss-3da06f57c87b",
-      "title": "Trump on LeBron James: ‘Maybe He’s a Racist’",
-      "description": "President Trump has lashed out over the years at NBA star LeBron James, who has been critical of the president in the past.",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-lebron-james-racist.html",
-      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/24dc-trump-lebron/25lebron-print-A1rfr-vzlc-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-25T00:30:10.000Z"
-    },
-    {
       "id": "rss-b36361564beb",
       "title": "10 Space Technologies That Could Redefine the Future of Humanity",
       "description": "",
@@ -131,16 +521,6 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-25T00:30:00.000Z"
-    },
-    {
-      "id": "rss-6f457002e95c",
-      "title": "Stabbing Stirs Fear Among New York’s Jewish Community and Inflames Debate",
-      "description": "Some politicians said Mayor Zohran Mamdani’s criticism of Israel had created a dangerous environment. He pushed back, condemning the stabbings and defending his statements.",
-      "url": "https://www.nytimes.com/2026/07/24/nyregion/antisemitism-nyc-stabbing-jewish.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24met-antisemitism-zktb/24met-antisemitism-zktb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-25T00:26:39.000Z"
     },
     {
       "id": "rss-5df2216c0f7d",
@@ -153,6 +533,16 @@
       "publishedAt": "2026-07-25T00:26:13.000Z"
     },
     {
+      "id": "rss-e971d0d6e680",
+      "title": "American Caper From Absurd Ventures' Dan Houser Is Getting a Double-Sized Season Finale Issue #12 - Exclusive | Comic Con 2026",
+      "description": "IGN can exclusively reveal that American Caper, the crime fiction comic series from the mind of Absurd Ventures' Dan Houser, is getting a double-sized season finale issue #12 that will arrive on Novem",
+      "url": "https://www.ign.com/articles/american-caper-from-absurd-ventures-dan-houser-is-getting-a-double-sized-season-finale-issue-12-exclusive-comic-con-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/07/24/american-caper-1784937498921.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T00:23:28.000Z"
+    },
+    {
       "id": "rss-7f3367663842",
       "title": "If Trump Is the Threat, Why Is the Entire System So Afraid of Him?",
       "description": "For more than 40 years, Americans have distrusted their government. So why did questioning the system suddenly become dangerous?\nContinue reading on Medium »",
@@ -161,16 +551,6 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-25T00:21:27.000Z"
-    },
-    {
-      "id": "rss-cdc4f5db4343",
-      "title": "WWE SummerSlam 2026 matches, date, card, rumors and location for epic two-night event in Minnesota",
-      "description": "SummerSlam takes place in Minneapolis on Aug. 1 and 2",
-      "url": "\n                                                https://www.cbssports.com/wwe/news/wwe-summerslam-2026-matches-card-date-rumors-location/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/07/d0d20cff-5dc9-43e0-9a2e-f843406f88d2/roman-reigns-seth-rollins-wwe-summerslam-july-7-2026-pro-wrestling.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-25T00:15:38.000Z"
     },
     {
       "id": "rss-8cf420b68801",
@@ -201,6 +581,16 @@
       "source": "Kotaku",
       "category": "gaming",
       "publishedAt": "2026-07-25T00:00:22.000Z"
+    },
+    {
+      "id": "rss-2608e9c43829",
+      "title": "AI Is Quietly Creating Millionaires — and Here’s Exactly How to Copy Them (No Staff, No Code)",
+      "description": "Why the founders getting rich use less AI than you do, not more, and where they aim it instead.",
+      "url": "https://www.entrepreneur.com/building-a-business/ai-is-quietly-creating-millionaires-and-heres-exactly-how-to-copy-them-no-staff-no-code",
+      "image": "https://players.brightcove.net/6415925990001/kEZdecvhc_default/index.html?videoId=6402040178112",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-25T00:00:00.000Z"
     },
     {
       "id": "rss-57bc055b857f",
@@ -653,16 +1043,6 @@
       "publishedAt": "2026-07-24T22:09:39.000Z"
     },
     {
-      "id": "rss-d2190ce662ab",
-      "title": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
-      "description": "The threat led the Secret Service to urge President Trump to fly out of Turkey on the old plane, raising questions about the security of the Qatari-donated jet.",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-plane-gblv/24dc-plane-gblv-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-24T22:01:50.000Z"
-    },
-    {
       "id": "rss-74d712dce272",
       "title": "45 CFR 170.315 Offers Buyers a MedGemma Validation Checklist",
       "description": "Google’s model card and ONC’s certified-health-IT rule point to the same buyer questions: intended use, local evidence, monitoring, and…\nContinue reading on KAIRI »",
@@ -1009,7 +1389,7 @@
       "url": "https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html",
       "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-peptides-FDA-fkjz/24dc-peptides-FDA-fkjz-mediumSquareAt3X.jpg",
       "source": "New York Times",
-      "category": "trending",
+      "category": "health",
       "publishedAt": "2026-07-24T21:15:21.000Z"
     },
     {
@@ -1141,6 +1521,16 @@
       "source": "Polygon",
       "category": "gaming",
       "publishedAt": "2026-07-24T21:00:12.000Z"
+    },
+    {
+      "id": "rss-8f3daedacfb7",
+      "title": "How Radical Transparency Helps Founders Win Better Capital, Not Just More of It",
+      "description": "The leaders telling the truth to their investors early are the ones who survive raising capital in volatile conditions.",
+      "url": "https://www.entrepreneur.com/building-a-business/how-radical-transparency-helps-founders-win-better-capital-not-just-more-of-it",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/raise-better-capital-0726_g2280215535.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-24T21:00:00.000Z"
     },
     {
       "id": "rss-4b3dd4f42903",
@@ -1653,6 +2043,16 @@
       "publishedAt": "2026-07-24T20:00:00.000Z"
     },
     {
+      "id": "rss-93080d1129b4",
+      "title": "5 Unexpected Things High-Performing Women Do That Keep Them From Getting Promoted",
+      "description": "The work building your industry reputation and the work getting you promoted are rarely the same — here are the five signs you're caught in the visibility trap and how to get out.",
+      "url": "https://www.entrepreneur.com/living/5-unexpected-things-high-performing-women-do-that-keep-them/504739",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/1784309388-high-performing-business-woman-0726-g-1425189618.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-24T20:00:00.000Z"
+    },
+    {
       "id": "rss-536381e234be",
       "title": "Your AI Demo Worked. Your Product Still Failed.",
       "description": "Your AI Demo Worked. Your Product Still Failed.\nContinue reading on Medium »",
@@ -1993,16 +2393,6 @@
       "publishedAt": "2026-07-24T19:15:00.000Z"
     },
     {
-      "id": "rss-937e156d4c3b",
-      "title": "Opposing Defense Bill, Democrats Shift Their Tactics",
-      "description": "Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-dems-jkvp/24dc-dems-jkvp-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-24T19:14:36.000Z"
-    },
-    {
       "id": "rss-2c2b66879376",
       "title": "Qualcomm is about to raise prices and that&#8217;s bad news for everyone",
       "description": "Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by \"a percentage in the double digits,\" Bloomberg reports. The price hikes will go into effect starting with produ",
@@ -2061,6 +2451,16 @@
       "source": "CBS Sports",
       "category": "sports",
       "publishedAt": "2026-07-24T19:00:33.000Z"
+    },
+    {
+      "id": "rss-5a83d1fb2026",
+      "title": "I’ve Guided Companies Through AI Transformations for Years. This Is the Costliest Mistake I See Executives Making.",
+      "description": "The hidden reason so many AI initiatives disappoint and how to avoid the same mistake.",
+      "url": "https://www.entrepreneur.com/leadership/ive-guided-companies-through-ai-transformations-for-years/504991",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/1784744813-costly-ai-mistakes-0726-g2261301817.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-24T19:00:00.000Z"
     },
     {
       "id": "rss-9e1e47e5a3bf",
@@ -2750,6 +3150,26 @@
       "image": "https://cdn.mos.cms.futurecdn.net/2nrvqaESbrTdSdZh5LrMEZ-1280-80.jpg",
       "source": "Space.com",
       "category": "science",
+      "publishedAt": "2026-07-24T18:00:00.000Z"
+    },
+    {
+      "id": "rss-63a79236e49a",
+      "title": "I Thought Deploying AI Was a Technical Problem. It Exposed Every Gap in How I Was Running My Company.",
+      "description": "I built an AI executive copilot into how I run my company every day. What I learned had less to do with the technology and more to do with how well I actually knew my business.",
+      "url": "https://www.entrepreneur.com/leadership/i-thought-deploying-ai-was-a-technical-problem-it-exposed/504589",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/1784571475-ai-deployment-explosed-gaps-0726-g2217510158.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-07-24T18:00:00.000Z"
+    },
+    {
+      "id": "rss-48c12c7c964d",
+      "title": "The Finance Automation Problem Nobody Is Talking About",
+      "description": "Your finance function is already running on autopilot; the only question is who set the course.",
+      "url": "https://www.entrepreneur.com/money-finance/the-finance-automation-problem-nobody-is-talking-about/504856",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/1784320538-finance-automation-0726-g2275637221.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
       "publishedAt": "2026-07-24T18:00:00.000Z"
     },
     {
@@ -4300,7 +4720,7 @@
       "image": "https://static01.nyt.com/images/2026/07/24/multimedia/24dc-hiv-drug01-photo-hlfv/24dc-hiv-drug01-photo-hlfv-mediumSquareAt3X.jpg",
       "source": "NYT Politics",
       "category": "politics",
-      "publishedAt": "2026-07-24T15:03:44.000Z"
+      "publishedAt": "2026-07-24T15:03:45.000Z"
     },
     {
       "id": "rss-bbebfd71697c",
@@ -7387,7 +7807,7 @@
       "title": "At AI Summit, South Korea Outlines Its AI Future With NVIDIA and Partners",
       "description": "At this week’s AI Summit in San Francisco, South Korean President Jae Myung Lee and some of the country’s top business leaders and researchers are meeting with NVIDIA and ecosystem partners to chart K",
       "url": "https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/jhh-k-ai-summit-1920x1080-2.jpg",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/nvidia-korea-ai-1920x1080-1.png",
       "source": "NVIDIA AI Blog",
       "category": "ai",
       "publishedAt": "2026-07-24T04:34:27.000Z"
@@ -36491,16 +36911,6 @@
       "source": "The Guardian Health",
       "category": "health",
       "publishedAt": "2026-07-18T10:30:01.000Z"
-    },
-    {
-      "id": "rss-df794e7ba42e",
-      "title": "Second death reported in Upper East Side Legionnaires' disease outbreak as cases rise to 72",
-      "description": "The outbreak has sickened 72 people with 9 remaining hospitalized as investigators trace Legionella bacteria to dozens of cooling towers on the Upper East Side.",
-      "url": "https://www.foxnews.com/health/first-death-reported-upper-east-side-legionnaires-disease-outbreak-cases-rise-67",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/931/523/legionella-bacteria-scaled.jpg?ve=1&tl=1",
-      "source": "Fox News Health",
-      "category": "health",
-      "publishedAt": "2026-07-18T01:40:11.000Z"
     }
   ]
 }
