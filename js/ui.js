@@ -254,11 +254,35 @@ export function renderArticles(articles, containerId = 'news-container', append 
 
     // Only render Hero if we are NOT appending (i.e. initial load)
     if (!append) {
-        const topArticles = articles.slice(0, 5); // Take up to 5 articles for slider
-        if (topArticles.length > 0) {
-            heroContainer.innerHTML = createHeroHTML(topArticles);
+        // High-resolution publishers guaranteed to have crisp Hero images
+        const PREMIUM_PUBLISHERS = [
+            'New York Times', 'TechCrunch', 'The Verge', 'Wired', 'Variety', 
+            'Hollywood Reporter', 'Billboard', 'Rolling Stone', 'IGN', 'Polygon', 
+            'Kotaku', 'GameSpot', 'Medium Health', 'Medium Fitness', 'Medium Medicine', 
+            'Mental Health (Medium)', 'Medium AI', 'Medium ML', 'Analytics Insight', 
+            'TechCrunch AI', 'The Verge AI', 'VentureBeat AI', 'NASA', 'Live Science'
+        ];
+
+        let heroCandidates = articles.filter(a => PREMIUM_PUBLISHERS.includes(a.source));
+        
+        // If we don't have enough premium articles, fill the rest with whatever is available
+        if (heroCandidates.length < 5) {
+            const needed = 5 - heroCandidates.length;
+            const nonPremium = articles.filter(a => !PREMIUM_PUBLISHERS.includes(a.source));
+            heroCandidates = heroCandidates.concat(nonPremium.slice(0, needed));
+        } else {
+            heroCandidates = heroCandidates.slice(0, 5);
+        }
+
+        // Re-sort the slider by newest
+        heroCandidates.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+
+        // Remove the chosen hero articles from the grid so they don't duplicate
+        gridArticles = articles.filter(a => !heroCandidates.includes(a));
+
+        if (heroCandidates.length > 0) {
+            heroContainer.innerHTML = createHeroHTML(heroCandidates);
             heroContainer.style.display = 'block';
-            gridArticles = articles.slice(topArticles.length);
             initHeroSlider();
         }
     }
