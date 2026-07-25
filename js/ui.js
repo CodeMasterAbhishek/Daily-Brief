@@ -264,15 +264,7 @@ export function renderArticles(articles, containerId = 'news-container', append 
         ];
 
         let heroCandidates = articles.filter(a => PREMIUM_PUBLISHERS.includes(a.source));
-        
-        // If we don't have enough premium articles, fill the rest with whatever is available
-        if (heroCandidates.length < 5) {
-            const needed = 5 - heroCandidates.length;
-            const nonPremium = articles.filter(a => !PREMIUM_PUBLISHERS.includes(a.source));
-            heroCandidates = heroCandidates.concat(nonPremium.slice(0, needed));
-        } else {
-            heroCandidates = heroCandidates.slice(0, 5);
-        }
+        heroCandidates = heroCandidates.slice(0, 5);
 
         // Re-sort the slider by newest
         heroCandidates.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
