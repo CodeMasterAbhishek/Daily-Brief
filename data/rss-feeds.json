@@ -164,49 +164,229 @@
     "category": "trending",
     "source": "CNN"
   },
-  { "url": "https://www.macrumors.com/macrumors.xml", "category": "technology", "source": "MacRumors" },
-  { "url": "https://9to5mac.com/feed/", "category": "technology", "source": "9to5Mac" },
-  { "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml", "category": "business", "source": "WSJ Business" },
-  { "url": "https://www.cnbc.com/id/10000115/device/rss/rss.html", "category": "business", "source": "CNBC Business" },
-  { "url": "https://www.space.com/feeds/all", "category": "science", "source": "Space.com" },
-  { "url": "https://www.huffpost.com/section/politics/feed", "category": "politics", "source": "HuffPost Politics" },
-  { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", "category": "politics", "source": "NYT Politics" },
-  { "url": "https://www.npr.org/rss/rss.php?id=1128", "category": "health", "source": "NPR Health" },
-  { "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss", "category": "health", "source": "The Guardian Health" },
-  { "url": "https://feeds.foxnews.com/foxnews/health", "category": "health", "source": "Fox News Health" },
-  { "url": "https://abcnews.go.com/abcnews/healthheadlines", "category": "health", "source": "ABC News Health" },
-  { "url": "https://www.cbsnews.com/latest/rss/health", "category": "health", "source": "CBS Health" },
-  { "url": "https://kffhealthnews.org/feed/", "category": "health", "source": "KFF Health News" },
-  { "url": "https://medicalxpress.com/rss-feed/", "category": "health", "source": "Medical Xpress" },
-  { "url": "https://www.news-medical.net/tag/feed/Health.aspx", "category": "health", "source": "News-Medical" },
-  { "url": "https://www.sciencedaily.com/rss/health_medicine.xml", "category": "health", "source": "ScienceDaily Health" },
-  { "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml", "category": "health", "source": "NYT Health" },
-  { "url": "https://newsnetwork.mayoclinic.org/feed/", "category": "health", "source": "Mayo Clinic" },
-  { "url": "https://www.livescience.com/feeds/all", "category": "science", "source": "Live Science" },
-  { "url": "https://www.sciencenews.org/feed", "category": "science", "source": "Science News" },
-  { "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "category": "science", "source": "NASA" },
-  { "url": "https://api.quantamagazine.org/feed/", "category": "science", "source": "Quanta Magazine" },
-  { "url": "https://www.smithsonianmag.com/rss/science-nature/", "category": "science", "source": "Smithsonian Science" },
-  { "url": "https://feeds.ign.com/ign/news", "category": "gaming", "source": "IGN" },
-  { "url": "https://www.polygon.com/rss/index.xml", "category": "gaming", "source": "Polygon" },
-  { "url": "https://kotaku.com/rss", "category": "gaming", "source": "Kotaku" },
-  { "url": "https://www.gamespot.com/feeds/news/", "category": "gaming", "source": "GameSpot" },
-  { "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "ai", "source": "TechCrunch AI" },
-  { "url": "https://www.theverge.com/rss/artificial-intelligence/index.xml", "category": "ai", "source": "The Verge AI" },
-  { "url": "https://venturebeat.com/category/ai/feed/", "category": "ai", "source": "VentureBeat AI" },
-  { "url": "https://medium.com/feed/tag/artificial-intelligence", "category": "ai", "source": "Medium AI" },
-  { "url": "https://medium.com/feed/tag/machine-learning", "category": "ai", "source": "Medium ML" },
-  { "url": "https://www.analyticsinsight.net/feed/", "category": "ai", "source": "Analytics Insight" },
-  { "url": "https://openai.com/news/rss.xml", "category": "ai", "source": "OpenAI News" },
-  { "url": "https://huggingface.co/blog/feed.xml", "category": "ai", "source": "Hugging Face" },
-  { "url": "https://blog.google/technology/ai/rss/", "category": "ai", "source": "Google AI" },
-  { "url": "https://rss.arxiv.org/rss/cs.AI", "category": "ai", "source": "arXiv AI" },
-  { "url": "https://news.mit.edu/rss/topic/artificial-intelligence2", "category": "ai", "source": "MIT AI News" },
-  { "url": "https://bair.berkeley.edu/blog/feed.xml", "category": "ai", "source": "Berkeley AI" },
-  { "url": "https://www.kdnuggets.com/feed", "category": "ai", "source": "KDnuggets" },
-  { "url": "https://www.analyticsvidhya.com/feed/", "category": "ai", "source": "Analytics Vidhya" },
-  { "url": "https://towardsdatascience.com/feed", "category": "ai", "source": "Towards Data Science" },
-  { "url": "https://machinelearningmastery.com/feed/", "category": "ai", "source": "ML Mastery" },
-  { "url": "https://aws.amazon.com/blogs/machinelearning/feed/", "category": "ai", "source": "AWS ML Blog" },
-  { "url": "https://blogs.nvidia.com/feed/", "category": "ai", "source": "NVIDIA AI Blog" }
+  {
+    "url": "https://www.macrumors.com/macrumors.xml",
+    "category": "technology",
+    "source": "MacRumors"
+  },
+  {
+    "url": "https://9to5mac.com/feed/",
+    "category": "technology",
+    "source": "9to5Mac"
+  },
+  {
+    "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+    "category": "business",
+    "source": "WSJ Business"
+  },
+  {
+    "url": "https://www.cnbc.com/id/10000115/device/rss/rss.html",
+    "category": "business",
+    "source": "CNBC Business"
+  },
+  {
+    "url": "https://www.space.com/feeds/all",
+    "category": "science",
+    "source": "Space.com"
+  },
+  {
+    "url": "https://www.huffpost.com/section/politics/feed",
+    "category": "politics",
+    "source": "HuffPost Politics"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    "category": "politics",
+    "source": "NYT Politics"
+  },
+  {
+    "url": "https://www.npr.org/rss/rss.php?id=1128",
+    "category": "health",
+    "source": "NPR Health"
+  },
+  {
+    "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss",
+    "category": "health",
+    "source": "The Guardian Health"
+  },
+  {
+    "url": "https://feeds.foxnews.com/foxnews/health",
+    "category": "health",
+    "source": "Fox News Health"
+  },
+  {
+    "url": "https://abcnews.go.com/abcnews/healthheadlines",
+    "category": "health",
+    "source": "ABC News Health"
+  },
+  {
+    "url": "https://www.cbsnews.com/latest/rss/health",
+    "category": "health",
+    "source": "CBS Health"
+  },
+  {
+    "url": "https://kffhealthnews.org/feed/",
+    "category": "health",
+    "source": "KFF Health News"
+  },
+  {
+    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+    "category": "health",
+    "source": "NYT Health"
+  },
+  {
+    "url": "https://www.livescience.com/feeds/all",
+    "category": "science",
+    "source": "Live Science"
+  },
+  {
+    "url": "https://www.sciencenews.org/feed",
+    "category": "science",
+    "source": "Science News"
+  },
+  {
+    "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "category": "science",
+    "source": "NASA"
+  },
+  {
+    "url": "https://api.quantamagazine.org/feed/",
+    "category": "science",
+    "source": "Quanta Magazine"
+  },
+  {
+    "url": "https://www.smithsonianmag.com/rss/science-nature/",
+    "category": "science",
+    "source": "Smithsonian Science"
+  },
+  {
+    "url": "https://feeds.ign.com/ign/news",
+    "category": "gaming",
+    "source": "IGN"
+  },
+  {
+    "url": "https://www.polygon.com/rss/index.xml",
+    "category": "gaming",
+    "source": "Polygon"
+  },
+  {
+    "url": "https://kotaku.com/rss",
+    "category": "gaming",
+    "source": "Kotaku"
+  },
+  {
+    "url": "https://www.gamespot.com/feeds/news/",
+    "category": "gaming",
+    "source": "GameSpot"
+  },
+  {
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "category": "ai",
+    "source": "TechCrunch AI"
+  },
+  {
+    "url": "https://www.theverge.com/rss/artificial-intelligence/index.xml",
+    "category": "ai",
+    "source": "The Verge AI"
+  },
+  {
+    "url": "https://venturebeat.com/category/ai/feed/",
+    "category": "ai",
+    "source": "VentureBeat AI"
+  },
+  {
+    "url": "https://medium.com/feed/tag/artificial-intelligence",
+    "category": "ai",
+    "source": "Medium AI"
+  },
+  {
+    "url": "https://medium.com/feed/tag/machine-learning",
+    "category": "ai",
+    "source": "Medium ML"
+  },
+  {
+    "url": "https://www.analyticsinsight.net/feed/",
+    "category": "ai",
+    "source": "Analytics Insight"
+  },
+  {
+    "url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "source": "OpenAI News"
+  },
+  {
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "ai",
+    "source": "Hugging Face"
+  },
+  {
+    "url": "https://blog.google/technology/ai/rss/",
+    "category": "ai",
+    "source": "Google AI"
+  },
+  {
+    "url": "https://rss.arxiv.org/rss/cs.AI",
+    "category": "ai",
+    "source": "arXiv AI"
+  },
+  {
+    "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+    "category": "ai",
+    "source": "MIT AI News"
+  },
+  {
+    "url": "https://bair.berkeley.edu/blog/feed.xml",
+    "category": "ai",
+    "source": "Berkeley AI"
+  },
+  {
+    "url": "https://www.kdnuggets.com/feed",
+    "category": "ai",
+    "source": "KDnuggets"
+  },
+  {
+    "url": "https://www.analyticsvidhya.com/feed/",
+    "category": "ai",
+    "source": "Analytics Vidhya"
+  },
+  {
+    "url": "https://towardsdatascience.com/feed",
+    "category": "ai",
+    "source": "Towards Data Science"
+  },
+  {
+    "url": "https://machinelearningmastery.com/feed/",
+    "category": "ai",
+    "source": "ML Mastery"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machinelearning/feed/",
+    "category": "ai",
+    "source": "AWS ML Blog"
+  },
+  {
+    "url": "https://blogs.nvidia.com/feed/",
+    "category": "ai",
+    "source": "NVIDIA AI Blog"
+  },
+  {
+    "url": "https://medium.com/feed/tag/health",
+    "category": "health",
+    "source": "Medium Health"
+  },
+  {
+    "url": "https://medium.com/feed/tag/fitness",
+    "category": "health",
+    "source": "Medium Fitness"
+  },
+  {
+    "url": "https://medium.com/feed/tag/medicine",
+    "category": "health",
+    "source": "Medium Medicine"
+  },
+  {
+    "url": "https://medium.com/feed/tag/mental-health",
+    "category": "health",
+    "source": "Mental Health (Medium)"
+  }
 ]
