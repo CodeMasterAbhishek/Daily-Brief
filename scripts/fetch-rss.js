@@ -11,6 +11,7 @@ const parser = new Parser({
     customFields: {
         item: [
             ['media:content', 'mediaContent'],
+            ['media:thumbnail', 'mediaThumbnail'],
             ['enclosure', 'enclosure'],
             ['image', 'image']
         ]
@@ -23,6 +24,9 @@ const OUTPUT_FILE = path.join(__dirname, '../data/news.json');
 async function extractImage(item) {
     if (item.mediaContent && item.mediaContent['$'] && item.mediaContent['$'].url) {
         return item.mediaContent['$'].url;
+    }
+    if (item.mediaThumbnail && item.mediaThumbnail['$'] && item.mediaThumbnail['$'].url) {
+        return item.mediaThumbnail['$'].url;
     }
     if (item.enclosure && item.enclosure.url) {
         return item.enclosure.url;
