@@ -1,7 +1,397 @@
 {
-  "lastUpdated": "2026-07-25T10:52:07.339Z",
-  "count": 3792,
+  "lastUpdated": "2026-07-25T12:02:23.137Z",
+  "count": 3834,
   "articles": [
+    {
+      "id": "rss-eaf022c5c636",
+      "title": "Nintendo needs more Splatoons, and to get out of its comfort zone more",
+      "description": "Splatoon Raiders is Nintendo's looter-shooter; it shouldn't be Nintendo's only chance to explore other genres",
+      "url": "https://www.polygon.com/switchboard-splatoon-raiders/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/nintendoswitch2_splatoonraiders_scrn_34.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T12:00:12.000Z"
+    },
+    {
+      "id": "rss-c2b36ea07b65",
+      "title": "What Surrounds Us will make you think a lot about circles",
+      "description": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, sometime",
+      "url": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_765cecb6ce4a937c4f17d94cc6729212ecb56fa8.1920x1080.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-25T12:00:00.000Z"
+    },
+    {
+      "id": "rss-804617541989",
+      "title": "Folding and flipping phones are getting seriously good",
+      "description": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the",
+      "url": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-137.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-25T12:00:00.000Z"
+    },
+    {
+      "id": "rss-7c2e6ec87545",
+      "title": "Decoding SHAP: How SHapley Additive exPlanations Split a Prediction into Parts",
+      "description": "Have you ever wondered what your model was actually thinking when it spat out a number? Not on average. Not across the test set. That one…\nContinue reading on Medium »",
+      "url": "https://medium.com/@darbhaabhiram/decoding-shap-how-shapley-additive-explanations-split-a-prediction-into-parts-40576b28f92a?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/600/0*U3mxv-oZhUqSUaNy.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:57:31.000Z"
+    },
+    {
+      "id": "rss-877d4c799bbb",
+      "title": "Refusal Is Language-Agnostic — But Safety Alignment Isn’t",
+      "description": "Qwen2.5–7B refuses harmful Turkish prompts 3× less often than English ones. Yet the refusal direction extracted from Turkish transfers to…\nContinue reading on Medium »",
+      "url": "https://medium.com/@mikailbaser0/refusal-is-language-agnostic-but-safety-alignment-isnt-1400119eb516?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/989/1*fGi5XRDV0TQPMCsDv2AV1g.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:56:07.000Z"
+    },
+    {
+      "id": "rss-5a85011dc626",
+      "title": "FDIC insurance generally covers eligible deposits up to $250,000 per depositor, per insured bank…",
+      "description": "The Assistant That Remembers Feels Different\nContinue reading on Medium »",
+      "url": "https://medium.com/@cv666best/fdic-insurance-generally-covers-eligible-deposits-up-to-250-000-per-depositor-per-insured-bank-ff16dd6d8ba5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*2I83io2iKY9qY3vnmq2R0Q.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:55:52.000Z"
+    },
+    {
+      "id": "rss-3b11f2bdfda5",
+      "title": "Everyone Has AI. Almost Nobody Has Original Ideas.",
+      "description": "The new career moat is NOT technology.\nContinue reading on Modern Career »",
+      "url": "https://medium.com/modern-career/everyone-has-ai-almost-nobody-has-original-ideas-d18c8717c05a?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1660/1*gjAK-tkV-KDHvL9laJ0XBw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:55:36.000Z"
+    },
+    {
+      "id": "rss-cfea7cc1c317",
+      "title": "The Shock-to-Decision Gap",
+      "description": "How GCC enterprises can turn geopolitical disruption into faster, governed decisions before uncertainty becomes financial loss.\nContinue reading on Medium »",
+      "url": "https://medium.com/@bader.marketing.39/the-shock-to-decision-gap-b2a4a4c8b5ac?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*8gzJSB4exR-kBoMTAkumUQ@2x.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:53:06.000Z"
+    },
+    {
+      "id": "rss-4c2c2ad2de78",
+      "title": "AMD’s AI Playbook Inferred from their Advancing AI 2026 event",
+      "description": "Helios, Chiplets, and the $2 Trillion Market Goal\nContinue reading on Hardware for AGI »",
+      "url": "https://medium.com/hardware-for-agi/amds-ai-playbook-inferred-from-their-advancing-ai-2026-event-97db9425e025?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/728/1*pOtCkWBNeq2tyxMBpDLZRw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:51:58.000Z"
+    },
+    {
+      "id": "rss-ebd2a3646035",
+      "title": "From RNNs to Transformers: Why Attention Actually Works",
+      "description": "A first-principles walkthrough of why transformers replaced RNNs — from the vanishing-context problem, through self-attention and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@www.jubairahmednabin/from-rnns-to-transformers-why-attention-actually-works-12d26e3a06fd?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*J8LA8ijz5H2DxxWKJ5pmJw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:51:41.000Z"
+    },
+    {
+      "id": "rss-9c65cf2846b3",
+      "title": "Europe Found Its Philosopher of the Moment. Then It Learned He Was Never Real.",
+      "description": "A philosophy bestseller about manufactured reality turned out to be written through human–AI collaboration and attributed to an invented…\nContinue reading on Medium »",
+      "url": "https://medium.com/@ratna.indriani/europe-found-its-philosopher-of-the-moment-then-it-learned-he-was-never-real-3c28d93307cc?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*Z51M6dNyWbiUGRQBPDODlw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:50:39.000Z"
+    },
+    {
+      "id": "rss-30577c591a04",
+      "title": "Building CuraScope: An AI Gateway with End-to-End Observability for Production AI Applications",
+      "description": "How I designed an AI gateway that combines OpenTelemetry, SigNoz, AI-specific telemetry, prompt security, session intelligence, and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@anjutushartyagi2810/building-curascope-an-ai-gateway-with-end-to-end-observability-for-production-ai-applications-639a01badab3?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*YAB0tUzENGMgitNX4wxwhg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:48:34.000Z"
+    },
+    {
+      "id": "rss-6633ca261c3f",
+      "title": "HCLTech to Set Up AI Data Centre in Odisha with Rs. 14,257 Crores",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/hcltech-to-set-up-ai-data-centre-in-odisha-with-rs-14257-crores",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/bz7mtcor/HCLTech-to-Set-Up-AI-Data-Centre-in-Odisha-with-Rs.-14257-Crores.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:47:56.000Z"
+    },
+    {
+      "id": "rss-7acf913baa33",
+      "title": "My AI Characters Kept Changing Faces—So I Built the Images Backward",
+      "description": "The reference-chain workflow behind a coherent 15-second Seedance 2.0 short\nContinue reading on Medium »",
+      "url": "https://medium.com/@mohammadsamiei.work/my-ai-characters-kept-changing-faces-so-i-built-the-images-backward-12a49a70dec9?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*X4UbUgpJQd7fRfzDThH-mQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:46:37.000Z"
+    },
+    {
+      "id": "rss-edb0e1185ef5",
+      "title": "Why Prop Firm Branding Has Become a Key Differentiator in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/why-prop-firm-branding-has-become-a-key-differentiator-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/zwroohqh/23.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:44:32.000Z"
+    },
+    {
+      "id": "rss-c20a5ade3bf8",
+      "title": "Master the Most In-Demand AI Skills in 2026 with Visualpath",
+      "description": "🚀 𝗠𝗮𝘀𝘁𝗲𝗿 𝘁𝗵𝗲 𝗠𝗼𝘀𝘁 𝗜𝗻-𝗗𝗲𝗺𝗮𝗻𝗱 𝗔𝗜 𝗦𝗸𝗶𝗹𝗹𝘀 𝗼𝗳 𝟮𝟬𝟮𝟲!\n🎯 Build future-ready AI skills through expert-led…\nContinue reading on Medium »",
+      "url": "https://medium.com/@uvamsik2/master-the-most-in-demand-ai-skills-in-2026-with-visualpath-8fab53ca0d05?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*Er9CZFzjw2yZ4kF9I7vjrw.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:34:20.000Z"
+    },
+    {
+      "id": "rss-332a660bc4b4",
+      "title": "Mach-Mind-4-Flash: How 3B-activated MoE matches trillion models using post-training only",
+      "description": "35B parameters, 3B active, matches against a trillion.\nContinue reading on Medium »",
+      "url": "https://medium.com/@beatwad/mach-mind-4-flash-how-3b-activated-moe-matches-trillion-models-using-post-training-only-5506b84479d4?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*RU2Lm60cGr-Cu84hzLKNXQ.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:33:51.000Z"
+    },
+    {
+      "id": "rss-1db5ac9b9ef6",
+      "title": "When 10,000 doctors stood up and cheered for a cancer drug — America’s innovation machine made it possible",
+      "description": "Daraxonrasib nearly doubled pancreatic cancer survival to 13.2 months — but the IRA's \"Pill Penalty\" threatens the system that produced it.",
+      "url": "https://fortune.com/2026/07/25/pancreatic-cancer-drug-innovation-treadmill-policy-risk/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/roderick-wong-md_high-res-e1784741629422.webp?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T11:30:00.000Z"
+    },
+    {
+      "id": "rss-cb5266a06a2d",
+      "title": "The millennial generation is split in 2: an older crowd with boomer-style comfort, a younger set going ‘back to the early 1900s’",
+      "description": "NAR deputy chief economist Jessica Lautz sees us going back toward \"an older way of living,\" but only some of us.",
+      "url": "https://fortune.com/2026/07/25/millennial-generation-split-boomer-level-wealth-multigenerational-homes-housing/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-200291770-001-e1784832572597.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T11:30:00.000Z"
+    },
+    {
+      "id": "rss-e88e556438db",
+      "title": "Ronald Reagan center director: How to talk politics with family, friends and neighbors, without losing them",
+      "description": "A new civility handbook offers a simple framework for disagreeing without destroying the relationships that matter most.",
+      "url": "https://fortune.com/2026/07/25/ronald-reagan-center-director-fred-ryan-how-talk-politics-family-friends-neighbors/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-1408053914-e1784899180429.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T11:30:00.000Z"
+    },
+    {
+      "id": "rss-e68d98260625",
+      "title": "Best TWS Earbuds Deals this Weekend: Top Discounts on boAt, OnePlus, Noise & More",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/earbuds/best-tws-earbuds-deals-this-weekend-top-discounts-on-boat-oneplus-noise-more",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/u9gy1c5f/Best-TWS-Earbuds-Deals-This-Weekend-Top-Discounts-on-boAt-OnePlus-Noise-More-Murali.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:30:00.000Z"
+    },
+    {
+      "id": "rss-23efb26781c0",
+      "title": "Scientists Found Something Inside AI That Was Never Programmed",
+      "description": "Nobody‌ w‍rote the rules. Gradient descent‍ found th⁠em on⁠ it‍s own​ a hidden trigonometric a⁠lgorithm,‍ a self-taught copy circuit, and…\nContinue reading on Data Science Collective »",
+      "url": "https://medium.com/data-science-collective/scientists-found-something-inside-ai-that-was-never-programmed-1f8628e2cd82?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1360/0*I541yJqBnkE_bkAN.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:22:40.000Z"
+    },
+    {
+      "id": "rss-3396ba276604",
+      "title": "Anthropic Strengthens IPO Plans with High-Paying Investor Relations Hire",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/anthropic-strengthens-ipo-plans-with-high-paying-investor-relations-hire",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/hez3f90c/Anthropic-on-the-Look-for-an-Investor-Relations-Director-Ahead-of-IPO.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:17:56.000Z"
+    },
+    {
+      "id": "rss-ad84267eb3bd",
+      "title": "OpenAI's rogue agent went on a hacking spree that lasted days, Reuters says",
+      "description": "Reuters reports that the OpenAI agent that hacked Hugging Face had been free for a week before the company noticed.",
+      "url": "https://www.engadget.com/2223141/openai-rogue-agent-days-hacking-spree-reuters/",
+      "image": "https://www.engadget.com/img/gallery/openais-rogue-agent-went-on-a-hacking-spree-that-lasted-days-reuters-says/l-intro-1784977962.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-25T11:15:05.000Z"
+    },
+    {
+      "id": "rss-4077f77bf82b",
+      "title": "India’s Education Minister Steps Down, Handing Win to Protesters",
+      "description": "With Dharmendra Pradhan offering his resignation, the student protest movement achieved a major victory against the government of Prime Minister Narendra Modi.",
+      "url": "https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25int-india-minister-btlh/25int-india-minister-btlh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T11:06:44.000Z"
+    },
+    {
+      "id": "rss-4e6ce332fb83",
+      "title": "The New Tactic Trump Thinks Will Rally Voters",
+      "description": "Three Opinion writers discuss whether the president’s Red Scare strategy will work.",
+      "url": "https://www.nytimes.com/2026/07/25/opinion/trump-iran-socialism-communism-dsa.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/opinion/25opinions-roundtable-image/25opinions-roundtable-image-mediumSquareAt3X-v2.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T11:00:26.000Z"
+    },
+    {
+      "id": "rss-989b4b2d3e95",
+      "title": "Nolan’s Zero-Eros ‘Odyssey’",
+      "description": "Homer’s Odysseus was hardly a man of remorse and shame.",
+      "url": "https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/opinion/25dowd-ody/25dowd-ody-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T11:00:21.000Z"
+    },
+    {
+      "id": "rss-d3d9806a9cbf",
+      "title": "Mike Flanagan's lesser-known Netflix series The Midnight Club is a perfect weekend binge",
+      "description": "The tribute to YA horror legend Christopher Pike uses dark stories to explore the fear of death and the meaning of life",
+      "url": "https://www.polygon.com/midnight-club-weekend-binge-rec/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/tcdmicl_zx028.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T11:00:12.000Z"
+    },
+    {
+      "id": "rss-17f1eab2e6e1",
+      "title": "Dinos with swords, making music with gnomes and other new indie games worth checking out",
+      "description": "Plus, email as turn-based combat (which is really just regular email).",
+      "url": "https://www.engadget.com/2222862/dinos-with-swords-making-music-gnomes-new-indie-games/",
+      "image": "https://www.engadget.com/img/gallery/dinos-with-swords-making-music-with-gnomes-and-other-new-indie-games-worth-checking-out/l-intro-1784922872.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "rss-5e5261629ad3",
+      "title": "The Messi Test and how the Spaniards messed with it: what the World Cup final taught me about the Jobs AI can’t touch",
+      "description": "Where it truly mattered, humans decided the game.",
+      "url": "https://fortune.com/2026/07/25/world-cup-messi-test-spain-ai-jobs-disruption/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286815084-e1784927307997.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "rss-56392b049891",
+      "title": "Nike Releases New Air Jordan 4 Retro ‘Comic’ Sneakers: Here’s Where To Shop a Pair Online",
+      "description": "Throughout his career in the NBA, Michael Jordan made a massive impact on the court, as one of the best players in the league. He also made an impact in pop culture with his Nike signature shoes, whic",
+      "url": "https://variety.com/2026/shopping/news/where-to-buy-nike-air-jordan-4-retro-comic-shop-online-1236819166/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Nike-Air-Jordan-4-Retro-Comic-Sneakers-VR-Featured.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "rss-0a577d6d85d3",
+      "title": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened.",
+      "description": "Experts say the models didn't \"go rogue\" when they escaped a controlled cybersecurity test and hacked Hugging Face. Instead, they were pursuing the goal humans had given them in ways nobody anticipate",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/no-openais-model-didnt-go-rogue-when-it-hacked-into-huggingface-heres-what-really-happened",
+      "image": "https://cdn.mos.cms.futurecdn.net/ePXKwCLMNuwPvv4Aq3MavT-1280-80.png",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "rss-e2529c3ab469",
+      "title": "How to watch 'Shark Week' 2026 — schedule, dates & episodes",
+      "description": "Here's how to watch \"Shark Week\" 2026 online from anywhere, including the dates, schedule and synopses for the seven-day extravaganza.",
+      "url": "https://www.livescience.com/animals/how-to-watch-shark-week-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/3n84HqkRVp26CiWs8VVa74-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "rss-efbdda184da4",
+      "title": "Best Crime Shows on Prime Video You Can't Miss in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ott/best-crime-shows-on-prime-video-you-cant-miss-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/7yygcp0o/Best-Crime-Shows-on-Prime-Video-You-Cant-Miss-in-2026-Som.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "rss-14bdf65dec72",
+      "title": "Galaxy Unpacked 2026: Everything Samsung announced in 10 points",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/artificial-intelligence/galaxy-unpacked-2026-everything-samsung-announced-in-10-points",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/y9ck78cb/Galaxy-Unpacked-2026-Everything-Samsung-announced-in-10-points.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T11:00:00.000Z"
+    },
+    {
+      "id": "rss-9779c5b5ca9f",
+      "title": "Obama Presidential Center subcontractors file fresh payment claims totaling nearly $900K",
+      "description": "Three subcontractors claim nearly $900,000 in unpaid work on Home Court, the Obama Presidential Center's basketball facility hosting WNBA All-Star events.",
+      "url": "https://www.foxnews.com/politics/obama-presidential-center-subcontractors-file-fresh-payment-claims-totaling-nearly-900k",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/obama-center-worker.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T10:58:11.000Z"
+    },
+    {
+      "id": "rss-2e75d65c8a90",
+      "title": "How to Search People – All You Need to Know",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/how-to-search-people-all-you-need-to-know",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/qfna37kr/How-to-Search-People-%E2%80%93-All-You-Need-to-Know.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:57:25.000Z"
+    },
+    {
+      "id": "rss-602b7367e4c4",
+      "title": "The New Rules of Context Engineering for Claude 5",
+      "description": "A 1M-token window isn’t a 1M-token attention span. Here is the decision framework for RAG, memory, compaction, context editing, and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@UdaykiranEstari/the-new-rules-of-context-engineering-for-claude-5-8b7723d96f7f?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1487/1*qjm9fm6SiG_Giv29O9v74Q.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:56:51.000Z"
+    },
+    {
+      "id": "rss-f73740453c8e",
+      "title": "Why does AI need so much data? Why data is the fuel for AI.",
+      "description": "The Doctor Analogy\nContinue reading on Medium »",
+      "url": "https://medium.com/@bharti20150254473/why-does-ai-need-so-much-data-why-data-is-the-fuel-for-ai-f025eac53538?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/908/1*QTbgq1fD_QFpS08xTPW35w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:54:59.000Z"
+    },
     {
       "id": "rss-f3494f5860a7",
       "title": "20 Machine Learning Interview Questions beyond the obvious ones (With Interview-Ready Answers)",
@@ -21,6 +411,16 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-25T10:43:51.000Z"
+    },
+    {
+      "id": "rss-6ead62b3eb08",
+      "title": "ChatGPT Faces Global Outage as OpenAI Investigates Service Issues",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/chatgpt-faces-global-outage-as-openai-investigates-service-issues",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/r8g7wdm9/ChatGPT-Faces-Global-Outage-as-OpenAI-Investigates-Service-Issues.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:43:23.000Z"
     },
     {
       "id": "rss-917e5e3c7350",
@@ -51,6 +451,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-25T10:39:41.000Z"
+    },
+    {
+      "id": "rss-c84243d6e3a3",
+      "title": "Cardano Price Defends $0.163 as ADA Eyes a Crucial $0.20 Break",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/cardano-price-defends-0163-as-ada-eyes-a-crucial-020-break",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/1ulwaelh/Cardano-Price.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:39:25.000Z"
     },
     {
       "id": "rss-cc99c4221074",
@@ -253,6 +663,16 @@
       "publishedAt": "2026-07-25T10:00:00.000Z"
     },
     {
+      "id": "rss-6699406d2574",
+      "title": "Apple @ Work: Apple TV proves to be more reliable than Android in new digital signage report",
+      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary t",
+      "url": "https://9to5mac.com/2026/07/25/apple-tv-proves-to-be-more-reliable-than-android-in-new-digital-signage-report/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-tvos-26.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-25T10:00:00.000Z"
+    },
+    {
       "id": "rss-8cad8487cd6c",
       "title": "ML Without Magic: Building a Tiny Language Model in Pure Node.js and Watching Every Weight Change",
       "description": "English version | Русская версия\nContinue reading on Medium »",
@@ -261,6 +681,16 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-25T09:54:46.000Z"
+    },
+    {
+      "id": "rss-d40dcec2c9fd",
+      "title": "Defense tech investors thought the war in Iran could make them millionaires. Instead, they faced a Wall Street bloodbath",
+      "description": "Firms like Northrop Grumman are struggling on the market despite record military spending. Investors are now watching Congress—and a new generation of startups.",
+      "url": "https://fortune.com/2026/07/25/defense-tech-investors-thought-the-war-in-iran-could-make-them-millionaires-instead-they-faced-a-wall-street-bloodbath/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2263711616-e1784832954938.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T09:54:00.000Z"
     },
     {
       "id": "rss-5e0208a59f3e",
@@ -37911,16 +38341,6 @@
       "source": "KDnuggets",
       "category": "ai",
       "publishedAt": "2026-07-18T13:00:05.000Z"
-    },
-    {
-      "id": "rss-0b216ea1c32f",
-      "title": "Will AI fix prior authorization—or make it worse?",
-      "description": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-      "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2264310821-1152x648.jpg",
-      "source": "Ars Technica",
-      "category": "technology",
-      "publishedAt": "2026-07-18T11:18:25.000Z"
     }
   ]
 }
