@@ -1,7 +1,337 @@
 {
-  "lastUpdated": "2026-07-25T09:17:29.438Z",
-  "count": 3754,
+  "lastUpdated": "2026-07-25T10:52:07.339Z",
+  "count": 3792,
   "articles": [
+    {
+      "id": "rss-f3494f5860a7",
+      "title": "20 Machine Learning Interview Questions beyond the obvious ones (With Interview-Ready Answers)",
+      "description": "If you’re preparing for Data Scientist, Machine Learning Engineer, or AI interviews, these practical questions will help you move beyond…\nContinue reading on Medium »",
+      "url": "https://medium.com/@vikashsinghy2k/20-machine-learning-interview-questions-beyond-the-obvious-ones-with-interview-ready-answers-1fcd77620908?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/805/1*J81cGX6ifiplEXhNUfVsfQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:46:24.000Z"
+    },
+    {
+      "id": "rss-acecbdafb27e",
+      "title": "A Note on “Arman”: A New Artificial Intelligence Architecture",
+      "description": "Note: This article was originally written in Russian and translated into English with the assistance of AI.\nContinue reading on Medium »",
+      "url": "https://ruslan-nazarov.medium.com/a-note-on-arman-a-new-artificial-intelligence-architecture-d009b05b6742?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2528/1*FJYEfz_fUiMwd6wIfwI1wg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:43:51.000Z"
+    },
+    {
+      "id": "rss-917e5e3c7350",
+      "title": "The New Creative Partner: Why AI-Generated Content Feels More Human Than Ever",
+      "description": "I used to have a party trick. Show me any image, any paragraph, any video clip, and within three seconds I could tell you if a machine…\nContinue reading on Medium »",
+      "url": "https://medium.com/@aeogeobgteam/the-new-creative-partner-why-ai-generated-content-feels-more-human-than-ever-be0145518817?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*2HEDk4Itr3LqrrAf3An7dQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:41:48.000Z"
+    },
+    {
+      "id": "rss-160b02781114",
+      "title": "Building HiveMind: Designing an AI-Powered Content Workflow with FastAPI, AWS & RAG",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@sahas.p.nagar/building-hivemind-designing-an-ai-powered-content-workflow-with-fastapi-aws-rag-bccdccf0bb30?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1073/1*SueZ1ZiIV36V4Qi0Mxdr5w.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:39:50.000Z"
+    },
+    {
+      "id": "rss-f95cdb4c29c1",
+      "title": "Passed the Jailbreak Test. That Wasn’t the Deployment Test.",
+      "description": "Model-level evaluations can measure resistance to adversarial prompts. They cannot decide whether an agent is safe to operate with tools…\nContinue reading on Medium »",
+      "url": "https://medium.com/@flip.ai.show/passed-the-jailbreak-test-that-wasnt-the-deployment-test-8b702c38d006?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/0*5S2eFGobZ1rxYJgc.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:39:41.000Z"
+    },
+    {
+      "id": "rss-cc99c4221074",
+      "title": "I Rebuilt My From-Scratch Rust LLM’s Attention Mechanism So It Never Runs Out of Memory — Then…",
+      "description": "Two weeks after v2.0.0 shipped, I posted a progress update titled “Phase 32 Complete — Multi-Token Prediction” and said, plainly, that it…\nContinue reading on Medium »",
+      "url": "https://aarambhdevhub.medium.com/i-rebuilt-my-from-scratch-rust-llms-attention-mechanism-so-it-never-runs-out-of-memory-then-90895b18b6e8?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*9z7C0QToMgxAt4tu19IFeg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:39:04.000Z"
+    },
+    {
+      "id": "rss-bea1958cc78c",
+      "title": "The Economics of AI",
+      "description": "The Hidden Economic Cost of Ignoring Artificial Intelligence\nContinue reading on Medium »",
+      "url": "https://medium.com/@f.shafaei13521381/the-economics-of-ai-d93a7516c2ff?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*0qvyPCkxI-7kLb5eXsEgYw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:38:47.000Z"
+    },
+    {
+      "id": "rss-439364cb848c",
+      "title": "Tech Burner vs Gyan Therapy (2026): Which Indian Tech YouTuber Is Better? The Ultimate Comparison",
+      "description": "Looking for the best Indian tech YouTube channel in 2026? Torn between Tech Burner and Gyan Therapy? This detailed comparison explores…\nContinue reading on Medium »",
+      "url": "https://medium.com/@sdplacement8/tech-burner-vs-gyan-therapy-2026-which-indian-tech-youtuber-is-better-the-ultimate-comparison-fb84b0bffc7f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*TpAAD8IkQiPpGL3jPMozMA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:38:25.000Z"
+    },
+    {
+      "id": "rss-0cdadee30c9e",
+      "title": "Building Simple AI Automation Tools: How Developers Can Combine AI, Python, Linux, Docker, and…",
+      "description": "Building Simple AI Automation Tools: A Practical Guide for Developers\nContinue reading on Medium »",
+      "url": "https://medium.com/@harristarstech/building-simple-ai-automation-tools-how-developers-can-combine-ai-python-linux-docker-and-4b673ea5f9e2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*cC4bbDTQcmFKFU9rJ-7veA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:38:07.000Z"
+    },
+    {
+      "id": "rss-cd517681baa6",
+      "title": "ChatGPT para resumir PDFs: cómo usarlo paso a paso y obtener mejores resultados (Guía 2026)",
+      "description": "Meta título (SEO)\nContinue reading on Medium »",
+      "url": "https://medium.com/@aiimpulso0311/chatgpt-para-resumir-pdfs-c%C3%B3mo-usarlo-paso-a-paso-y-obtener-mejores-resultados-gu%C3%ADa-2026-160f6f7f0bba?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*3U6wBiEz_qG7E0WDTorGMw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:38:07.000Z"
+    },
+    {
+      "id": "rss-54a27fb48302",
+      "title": "How to Build an Online Business Funnel With AI: A Simple Five-Part System",
+      "description": "A practical framework for turning offers, sales pages, lead magnets, emails, and content into one connected customer journey\nContinue reading on Medium »",
+      "url": "https://medium.com/@eddyenos1/how-to-build-an-online-business-funnel-with-ai-a-simple-five-part-system-c26695b84cf3?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*p00H0jMo7fc7h5BdbcKQSw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:38:06.000Z"
+    },
+    {
+      "id": "rss-103a976b3ed6",
+      "title": "Top AI Courses Students Should Learn Alongside Engineering in 2026",
+      "description": "Top AI Courses for Engineering Students in 2026\nContinue reading on Medium »",
+      "url": "https://medium.com/@collegepuneai/top-ai-courses-students-should-learn-alongside-engineering-in-2026-3a29f084be23?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*NHT5w_V3h3xB08dUz0IEpg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:31:04.000Z"
+    },
+    {
+      "id": "rss-3b3f42f82638",
+      "title": "The Future of Programming Is Autonomous AI Agents",
+      "description": "AI is no longer just helping developers write code; it is starting to build, test, and improve software on its own. Here’s why autonomous…\nContinue reading on Medium »",
+      "url": "https://medium.com/@talatwaheed/the-future-of-programming-is-autonomous-ai-agents-049094563f41?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/972/1*i85fUFY4YkTlxNDOI_lvuQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:31:01.000Z"
+    },
+    {
+      "id": "rss-1e4e4d49daf8",
+      "title": "Top 10 Best Coffee Makers Under Rs. 10,000 in India for 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/gadgets/top-10-best-coffee-makers-under-rs-10000-in-india-for-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/ql2f1w9j/Top-10-Best-Coffee-Makers-Under-Rs.-10000-in-India-for-2026-Som.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:30:00.000Z"
+    },
+    {
+      "id": "rss-c5f5d3cf2c6f",
+      "title": "Karl-Anthony Towns Knows the Knicks’ Win Was Bigger Than Basketball",
+      "description": "New York’s star center on playing for his mom, Patrick Ewing. generations of emotional fans — and himself.",
+      "url": "https://www.nytimes.com/2026/07/25/magazine/karl-anthony-towns-interview.html",
+      "image": "https://static01.nyt.com/images/2026/08/02/magazine/02mag-interview-towns-03/02mag-interview-towns-03-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T10:27:48.000Z"
+    },
+    {
+      "id": "rss-23a6985a43db",
+      "title": "Fires Rage in Spain and France, Forcing Thousands to Flee",
+      "description": "Firefighters were scrambling to contain blazes that were moving toward major cities. Some 200,000 people have evacuated or sheltered at home.",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/france-spain-wildfires-evacuations.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25int-europe-fires-01-bhmq/25int-europe-fires-01-bhmq-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T10:21:54.000Z"
+    },
+    {
+      "id": "rss-cdd0f576eb0b",
+      "title": "What to Know About the Wildfires Raging in Western Europe",
+      "description": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25int-europe-fires-wtk-mjqc/25int-europe-fires-wtk-mjqc-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T10:13:30.000Z"
+    },
+    {
+      "id": "rss-da0140c51944",
+      "title": "Amazon accused of poaching HBO employees in Warner Bros. lawsuit",
+      "description": "Warner Bros. Discovery has sued Amazon for 'inducing' its employees to breach their contracts.",
+      "url": "https://www.engadget.com/2223135/amazon-accused-poaching-hbo-employees-warner-bros-lawsuit/",
+      "image": "https://www.engadget.com/img/gallery/amazon-accused-of-poaching-hbo-employees-in-warner-bros-lawsuit/l-intro-1784973887.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-25T10:08:37.000Z"
+    },
+    {
+      "id": "rss-6895736a7c2c",
+      "title": "Generating Realistic Mars Images Using DCGAN: A Deep Learning Guide",
+      "description": "Learn how Deep Convolutional Generative Adversarial Networks (DCGANs) can generate realistic images of Mars by learning directly from real…\nContinue reading on Medium »",
+      "url": "https://medium.com/@alyyameen6/generating-realistic-mars-images-using-dcgan-a-deep-learning-guide-1bf86a9c9b6c?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*re7OnjFGmmcmnvTT8aceDQ.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:01:07.000Z"
+    },
+    {
+      "id": "rss-1fbc0f0e2c8b",
+      "title": "From locker rooms to Congress: Jay Feely latest athlete seeking to take lessons in leadership to Capitol Hill",
+      "description": "Jay Feely explains how NFL pressure prepared him for Congress as he joins a long history of athletes like Scott Turner and Tommy Tuberville in politics.",
+      "url": "https://www.foxnews.com/politics/from-locker-rooms-congress-jay-feely-latest-athlete-seeking-take-lessons-leadership-capitol-hill",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/jay-feely-arizona-cardinals.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T10:00:59.000Z"
+    },
+    {
+      "id": "rss-cd3a35caa9d2",
+      "title": "Here's what you missed from Trump's first WHCA Dinner as president: 5 takeaways from his night with the press",
+      "description": "Trump roasted Robert F. Kennedy, Kaitlan Collins, and Bari Weiss while sharing rare warm words for journalists at the historic dinner event.",
+      "url": "https://www.foxnews.com/politics/heres-what-you-missed-from-trumps-first-whca-dinner-president-5-takeaways-from-his-night-press",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/trump-speaking-whca-dinner.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T10:00:38.000Z"
+    },
+    {
+      "id": "rss-d3f73a7efee5",
+      "title": "Mace breaks with Trump, questions whether Lindsey Graham's sister is 'qualified' for ballot",
+      "description": "Nancy Mace questions whether Darline Graham meets South Carolina ballot eligibility rules, citing new state laws on Republican primary voting.",
+      "url": "https://www.foxnews.com/politics/mace-breaks-trump-questions-whether-lindsey-grahams-sister-qualified-ballot",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/mace-trump-darline-graham-split.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T10:00:16.000Z"
+    },
+    {
+      "id": "rss-75def22aac19",
+      "title": "Splatoon Raiders fans are already shipping its characters, somehow",
+      "description": "Splatoon Raiders doesn't leave a lot of space for romance, but the Splatoon community has wasted no time pairing up its characters.",
+      "url": "https://www.polygon.com/splatoon-raiders-fan-shipping-shiver/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/splatroon-raiders-shiver-laughing.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T10:00:12.000Z"
+    },
+    {
+      "id": "rss-961cfef60d39",
+      "title": "NASA astronaut, 2 cosmonauts returning to Earth on July 26: Watch it live",
+      "description": "NASA astronaut Chris Williams and two Russian cosmonauts will return to Earth from the International Space Station early Sunday morning (July 26), and you can watch their homecoming live.",
+      "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
+      "image": "https://cdn.mos.cms.futurecdn.net/uwU5kfeFw5jbH5i938FtQe-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-25T10:00:00.000Z"
+    },
+    {
+      "id": "rss-f2cd76845212",
+      "title": "Bosch vs IFB Washing Machines: Which is Better in 2026?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/washing-machine/bosch-vs-ifb-washing-machines-which-is-better-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/pq62pr25/Bosch-vs-IFB-Washing-Machines-Which-Is-Better-in-2026-Som.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T10:00:00.000Z"
+    },
+    {
+      "id": "rss-8cad8487cd6c",
+      "title": "ML Without Magic: Building a Tiny Language Model in Pure Node.js and Watching Every Weight Change",
+      "description": "English version | Русская версия\nContinue reading on Medium »",
+      "url": "https://medium.com/@maximsecret10/ml-without-magic-building-a-tiny-language-model-in-pure-node-js-and-watching-every-weight-change-b50d01c73495?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/780/0*Xxo92Pz1xRTm9a_U",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:54:46.000Z"
+    },
+    {
+      "id": "rss-5e0208a59f3e",
+      "title": "Wildfire Smoke Chokes Skies in Spain and France",
+      "description": "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25Int-Europe-Fires-Visual-thlq/25Int-Europe-Fires-Visual-thlq-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T09:49:31.000Z"
+    },
+    {
+      "id": "rss-25bb39dc796b",
+      "title": "AI Agents Are the New Attack Surface — And Most Teams Aren’t Ready",
+      "description": "Why securing AI agents and MCP is the most urgent, least understood problem in AI right now.\nContinue reading on Medium »",
+      "url": "https://medium.com/@munibacyber27304/ai-agents-are-the-new-attack-surface-and-most-teams-arent-ready-9d34f6c6f6f7?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*hdyxXoZqHQ63Ne-gV0RbPQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:47:44.000Z"
+    },
+    {
+      "id": "rss-6e063f8c7048",
+      "title": "France Crypto Bill Targets Tax Gaps and Strengthens Executive Safety",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/france-crypto-bill-targets-tax-gaps-and-strengthens-executive-safety",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/zual6ehi/France-Crypto-Bill-Targets-Tax-Gaps-and-Strengthens-Executive-Safety.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:45:00.000Z"
+    },
+    {
+      "id": "rss-45c550ceca48",
+      "title": "I’m Learning in Public Again! Day 7: Matrix Math, Stacking, and Filtering with NumPy",
+      "description": "Day 6 was about why NumPy exists, memory, speed, the basics of arrays. Today was about actually using it on something that looks like real…\nContinue reading on Medium »",
+      "url": "https://medium.com/@hiren.patel2728/im-learning-in-public-again-day-7-matrix-math-stacking-and-filtering-with-numpy-fac2fdeda830?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Lg-OPHhI9OEuCu_wIAEj0Q.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:37:58.000Z"
+    },
+    {
+      "id": "rss-6f077eee2462",
+      "title": "Best LG Refrigerators with Smart Inverter Compressor",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/refrigerators/best-lg-refrigerators-with-smart-inverter-compressor",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/2segkqzl/Best-LG-Refrigerators-with-Smart-Inverter-Compressor-Som-1.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:30:00.000Z"
+    },
+    {
+      "id": "rss-7c21c82f07f6",
+      "title": "Automatic Term Extraction: The Research Field Behind Your Keyword Extractor",
+      "description": "Keyword extractors tell you what a document is about. Term extractors tell you what a domain is made of. A survey of the ATE literature —…\nContinue reading on Medium »",
+      "url": "https://medium.com/@huseyinceniik/automatic-term-extraction-the-research-field-behind-your-keyword-extractor-f212338829b8?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*8qYJP_Xr_w3yjXBilQnA7A.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T09:25:33.000Z"
+    },
+    {
+      "id": "rss-a0714888ec67",
+      "title": "An 11-year-old is cleaning his neighbors’ trash cans for $10 each—he now has 100K followers as teens face the worst summer job market since 1948",
+      "description": "Ashton Meyer, 11, wanted more pocket money this summer—so he started his own bin-cleaning business, and it's already gone viral.",
+      "url": "https://fortune.com/2026/07/25/an-11-year-old-is-cleaning-his-neighbors-trash-cans-for-10-eachhe-now-has-100k-followers-as-teens-face-the-worst-summer-job-market-since-1948/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/ashton_meyer_bin.png?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T09:23:00.000Z"
+    },
     {
       "id": "rss-9acf0eb72163",
       "title": "Online Vedic Astrology Course for Modern Learners",
@@ -43,6 +373,16 @@
       "publishedAt": "2026-07-25T09:04:39.000Z"
     },
     {
+      "id": "rss-bff5fcaa4f9b",
+      "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
+      "description": "Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.",
+      "url": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/2026-07-22-aden-ship-traffic-index/2026-07-22-aden-ship-traffic-index-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T09:02:10.000Z"
+    },
+    {
       "id": "rss-82ce6efff7b6",
       "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
       "description": "A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.",
@@ -51,6 +391,16 @@
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-07-25T09:02:08.000Z"
+    },
+    {
+      "id": "rss-66a065c8a522",
+      "title": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
+      "description": "From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.",
+      "url": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25iran-01-gvkh/25iran-01-gvkh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T09:01:55.000Z"
     },
     {
       "id": "rss-e0b91f0cac05",
@@ -107,7 +457,7 @@
       "title": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
       "description": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, the likely Democratic nominee, has a lot of catching up to do.",
       "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
-      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/0726-maine-money-print1-sub/25pol-maine-money-01-gpjl-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/0726-maine-money-print1-sub/0726-maine-money-print1-sub-mediumSquareAt3X-v2.jpg",
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-07-25T09:00:32.000Z"
@@ -121,6 +471,16 @@
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-07-25T09:00:31.000Z"
+    },
+    {
+      "id": "rss-790dbdf8b9be",
+      "title": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
+      "description": "While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.",
+      "url": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/00int-colombian-president-florida-glqf/00int-colombian-president-florida-glqf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T09:00:23.000Z"
     },
     {
       "id": "rss-f7463af3abe8",
@@ -150,6 +510,26 @@
       "image": "https://media.assettype.com/analyticsinsight/2026-07-25/d3aeq5gn/Apple%E2%80%99s-20th-Anniversary-iPhone-May-Feature-its-Biggest-Display-Yet.jpg",
       "source": "Analytics Insight",
       "category": "ai",
+      "publishedAt": "2026-07-25T09:00:00.000Z"
+    },
+    {
+      "id": "rss-2891b231b0c0",
+      "title": "What it’s like to be a founder of the most high-stakes startup ever, OpenAI",
+      "description": "Greg Brockman, the cofounder and president of OpenAI, talks to Fortune Editor-in-Chief Alyson Shontell about the company's business model, the recent Hugging Face hacking incident, and the pressure an",
+      "url": "https://fortune.com/2026/07/25/openai-president-greg-brockman-interview-challenges-pressure-high-stakes-ai-startup-hugging-face-regulation/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2274252806-e1784924495586.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T09:00:00.000Z"
+    },
+    {
+      "id": "rss-a1ae8aa0e2dd",
+      "title": "Capital One’s big bet on baseball—and why they think it can help win the credit card loyalty wars",
+      "description": "By investing in fan experiences, local entrepreneurs, and long-season MLB sponsorships, Capital One aims to deepen cardholder engagement beyond traditional ads.",
+      "url": "https://fortune.com/2026/07/25/capital-one-bet-mlb-baseball-think-can-help-win-credit-card-loyalty-wars/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/SD_25312.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
       "publishedAt": "2026-07-25T09:00:00.000Z"
     },
     {
@@ -6701,6 +7081,16 @@
       "source": "Space.com",
       "category": "science",
       "publishedAt": "2026-07-24T12:57:03.000Z"
+    },
+    {
+      "id": "rss-ae3c02d9f1e5",
+      "title": "Christopher Nolan’s ‘Odyssey’ Shows That Epics Are Better Without A.I.",
+      "description": "A.I. has rendered eye candy cheap. Viewers long for the visceral.",
+      "url": "https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/24goldberg-ftzj/24goldberg-ftzj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-24T12:56:06.000Z"
     },
     {
       "id": "rss-f19c9d2e1923",
@@ -37531,16 +37921,6 @@
       "source": "Ars Technica",
       "category": "technology",
       "publishedAt": "2026-07-18T11:18:25.000Z"
-    },
-    {
-      "id": "rss-2d7e469daa94",
-      "title": "Eye masks, cherry gel and an afternoon kiwi: Ezri Konsa, Katarina Johnson-Thompson and other top sports stars on how to get a good night’s sleep",
-      "description": "The England defender wears a tracker, the heptathlete is experimenting with kiwi fruits – and world champion swimmer Adam Peaty swears by hours and hours of history videos … \n\nKatarina Johnson-Thompso",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/18/sports-stars-on-sleep-tips-ezri-konsa-katarina-johnson-thompson-adam-peaty",
-      "image": "https://i.guim.co.uk/img/media/cdd2c5f31c983324d0e6316b75112f311d164ecc/0_0_5480_4382/master/5480.jpg?width=140&quality=85&auto=format&fit=max&s=d1144b654080c76c29c093632732ac07",
-      "source": "The Guardian Health",
-      "category": "health",
-      "publishedAt": "2026-07-18T10:30:01.000Z"
     }
   ]
 }
