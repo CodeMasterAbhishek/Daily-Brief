@@ -1,7 +1,457 @@
 {
-  "lastUpdated": "2026-07-25T14:09:55.168Z",
-  "count": 3895,
+  "lastUpdated": "2026-07-25T15:39:42.659Z",
+  "count": 3945,
   "articles": [
+    {
+      "id": "rss-b0ef6d644e63",
+      "title": "Language Models",
+      "description": "One of the biggest applications of Machine learning (AI) is Large Language Models, otherwise known as LLMs. In this article, we are going…\nContinue reading on Medium »",
+      "url": "https://medium.com/@jp.mak44/language-models-09b8df066139?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/797/1*IHpT3I4WYj_cjLsGAsh1mA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:31:19.000Z"
+    },
+    {
+      "id": "rss-93db7045cbb6",
+      "title": "Maine Democrats crown Troy Jackson as Platner replacement as fresh scrutiny clouds Senate reset",
+      "description": "Troy Jackson, a fifth-generation logger and former state Senate president, now faces Susan Collins in Maine's Senate race ranked a toss-up.",
+      "url": "https://www.foxnews.com/politics/maine-democrats-crown-troy-jackson-platner-replacement-fresh-scrutiny-clouds-senate-reset",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/troy-jackson-abortion-stances.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T15:31:10.000Z"
+    },
+    {
+      "id": "rss-99cbbfc51e3c",
+      "title": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
+      "description": "Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25pol-maine-senate-pklg/25pol-maine-senate-pklg-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T15:30:52.000Z"
+    },
+    {
+      "id": "rss-3be9921f2803",
+      "title": "7 reveals about MTG’s Nauctis, Zhalfir, Kamigawa: Titanbreach, and more",
+      "description": "Details on the game's future include hints about the next Marvel tie-in, the reason for the return to Kamigawa, and the mechanics of an underwater set",
+      "url": "https://www.polygon.com/magic-2027-nauctis-zhalfir-kamigawa-marvel/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/nauctis-artist-leon-tukker-3.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T15:30:12.000Z"
+    },
+    {
+      "id": "rss-43b8e4670bda",
+      "title": "How to get more storage on your Android without using a microSD Card",
+      "description": "Cloud storage isn't your only option.",
+      "url": "https://www.engadget.com/2218717/how-to-increase-android-storage-no-microsd-slot/",
+      "image": "https://www.engadget.com/img/gallery/how-to-get-more-storage-on-your-android-without-using-a-microsd-card/l-intro-1784314353.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-25T15:30:00.000Z"
+    },
+    {
+      "id": "rss-5184f6d5cb9e",
+      "title": "Top 10 Advanced Data Science Tools for Modern Analytics in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/data-science/top-10-advanced-data-science-tools-for-modern-analytics-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/994fymph/Top-10-Advanced-Data-Science-Tools-for-Modern-Analytics-in-2026-Murali.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:30:00.000Z"
+    },
+    {
+      "id": "rss-f183f314a854",
+      "title": "AI Model Routing, LLM Societies, and Robust AI Agents",
+      "description": "When Multiple Models Actually Help\nContinue reading on Medium »",
+      "url": "https://medium.com/@cs_maverick/ai-model-routing-llm-societies-and-robust-ai-agents-25f1ee9e2234?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1013/1*Ry3VWfEsArR94DcHiAkYYg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:28:46.000Z"
+    },
+    {
+      "id": "rss-b687c5a398c0",
+      "title": "What Is OCR?",
+      "description": "“Humans can read the text in an image within seconds. For computers, however, an image is nothing more than millions of pixels. OCR is the…\nContinue reading on Medium »",
+      "url": "https://medium.com/@m.edakulahci/what-is-ocr-601632f048de?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*BS8U7cSufOosS9UM91MyeA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:27:46.000Z"
+    },
+    {
+      "id": "rss-bdf68c38c378",
+      "title": "Matt Pocock’s Wayfinder skill gives fog a place on the map",
+      "description": "You have always had a fog gradient in your backlog. What you never had was a way to hand any of it to an agent.\nContinue reading on Medium »",
+      "url": "https://medium.com/@gillesdandrea/matt-pococks-wayfinder-skill-gives-fog-a-place-on-the-map-1dc288523ecb?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2160/1*pjpwKfXNlPoWqMEH4DynUg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:26:36.000Z"
+    },
+    {
+      "id": "rss-2d2051f4d16a",
+      "title": "The Death of Entry-Level Jobs Has Already Started. Most People Haven’t Realized It Yet.",
+      "description": "The first job has always been the beginning of every successful career. But Artificial Intelligence is quietly rewriting that rule…\nContinue reading on Medium »",
+      "url": "https://medium.com/@gauravshanker0206/the-death-of-entry-level-jobs-has-already-started-most-people-havent-realized-it-yet-a8639f9bba8b?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*Dr0Mo-mpB7y4YX53H9QZqQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:25:11.000Z"
+    },
+    {
+      "id": "rss-730c02fd623f",
+      "title": "How I Built an End-to-End Healthcare Analytics Platform with SQL, ML & Power BI",
+      "description": "Turning 57,000+ patient records into predictive, decision-ready intelligence for hospitals\nContinue reading on Medium »",
+      "url": "https://medium.com/@NusratGulbarga_data_analyst/how-i-built-an-end-to-end-healthcare-analytics-platform-with-sql-ml-power-bi-fdb1170ae0d9?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*zbakfcFcHd3iAMy2n3T_Dg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:21:00.000Z"
+    },
+    {
+      "id": "rss-5f69671330f6",
+      "title": "How to Clone Your Voice with ElevenLabs (2026 Beginner’s Guide)",
+      "description": "# How to Clone Your Voice with ElevenLabs (2026 Beginner’s Guide)\nContinue reading on Medium »",
+      "url": "https://medium.com/@adhamahmed011142006011/how-to-clone-your-voice-with-elevenlabs-2026-beginners-guide-189a63c5303c?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*qHt5wN-drMsXgNfIdp_Y8A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:19:44.000Z"
+    },
+    {
+      "id": "rss-548e73b4a251",
+      "title": "GitHub Changed How You Pay for AI. Every Founder Using Code Tools Needs to Read This.",
+      "description": "On June 1, 2026, GitHub flipped a switch that every founder and operator using AI tools should have noticed. Copilot, the AI coding…\nContinue reading on Medium »",
+      "url": "https://medium.com/@neonaliensai/github-changed-how-you-pay-for-ai-every-founder-using-code-tools-needs-to-read-this-1d3a7ed684e2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*GfNe3iX8W4vOVdEPnrnmkQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:18:47.000Z"
+    },
+    {
+      "id": "rss-992eb9bc0726",
+      "title": "The Amnesia in the Machine",
+      "description": "a beautiful paradox between carbon and silicon\nContinue reading on Medium »",
+      "url": "https://medium.com/@ftounimalak21/the-amnesia-in-the-machine-380cf65eec6d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*yx73zmfitCMUP9qPZ89VUg@2x.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:17:53.000Z"
+    },
+    {
+      "id": "rss-daf67ae64355",
+      "title": "Redundant Connection Exchanges and the Unshared Original Art",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@arnohainet/redundant-connection-exchanges-and-the-unshared-original-art-97b4616c4fd1?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2048/1*VnJIs3FgCHtDeRzCaNlqKg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:15:43.000Z"
+    },
+    {
+      "id": "rss-671b69c790cf",
+      "title": "Can Financial Education Help Achieve the SDGs?",
+      "description": "Making Financial Education a Culture Accessible to Everyone\nContinue reading on Medium »",
+      "url": "https://medium.com/@yutosassetgarden/can-financial-education-help-achieve-the-sdgs-c8f958b2a3a6?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*GQwN7tsPUu18RJntoqWg2A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:15:40.000Z"
+    },
+    {
+      "id": "rss-fd06a344714a",
+      "title": "Box Office: ‘The Odyssey’ Holds Strong With $25 Million on Friday",
+      "description": "With no major competition, Christopher Nolan’s “The Odyssey” extended its reign at the domestic box office as it entered its second weekend in theaters. “The Odyssey” added $25.9 million domestically ",
+      "url": "https://variety.com/2026/film/box-office/box-office-the-odyssey-moana-toy-story-5-1236820845/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/The-Odyssey.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-25T15:15:23.000Z"
+    },
+    {
+      "id": "rss-0f68d35a9591",
+      "title": "Anthropic Shipped Four Models in Nine Weeks. Opus 5 Explains the Other Three.",
+      "description": "The headline is that Opus 5 gets close to Fable 5 at half the price. The more useful story is what that sentence does to everything above…\nContinue reading on Artificial Intelligence in Plain English ",
+      "url": "https://ai.plainenglish.io/anthropic-shipped-four-models-in-nine-weeks-opus-5-explains-the-other-three-f7460e9a7716?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*nL42ABOeznBH4fhQbsSLlA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:15:09.000Z"
+    },
+    {
+      "id": "rss-fb7c775014ae",
+      "title": "Synth historian Oli Freke will spend big on a good bicycle",
+      "description": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale ",
+      "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Oli-Freke-photo.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-25T15:15:00.000Z"
+    },
+    {
+      "id": "rss-25b587f595a1",
+      "title": "5 Ways Lawyers Can Save Hours Every Week Using AI",
+      "description": "Artificial intelligence is becoming one of the most valuable productivity tools for legal professionals. While AI cannot replace legal…\nContinue reading on Medium »",
+      "url": "https://medium.com/@NeuraKit/5-ways-lawyers-can-save-hours-every-week-using-ai-529aee038a95?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*84nWUyqBulKdG_ScePOyJA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:14:56.000Z"
+    },
+    {
+      "id": "rss-f486158c8da2",
+      "title": "The Most Important AI Skill Isn’t Prompting Anymore. It’s Building Mental Models.",
+      "description": "A year ago, if you wanted to sound knowledgeable about AI, you talked about prompts.\nContinue reading on Medium »",
+      "url": "https://medium.com/@naishasaxena2310/the-most-important-ai-skill-isnt-prompting-anymore-it-s-building-mental-models-f1538247e0a8?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/643/1*DwPbW86z1mT-k4yGcBJCwg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:14:02.000Z"
+    },
+    {
+      "id": "rss-effdc907fb33",
+      "title": "Bukan Sekadar Tebak-Tebakan: Membedah Optimalisasi Algoritma Machine Learning Catboost dengan…",
+      "description": "Di dunia Machine Learning (ML) dan Artificial Intelligence (AI) tentu penggunaan berbagai macam jenis algoritma sudah tidak asing lagi…\nContinue reading on Medium »",
+      "url": "https://medium.com/@fns.find16/bukan-sekadar-tebak-tebakan-membedah-optimalisasi-algoritma-machine-learning-catboost-dengan-2563ffb1d5b0?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/987/1*tF4LzMjWhqK_CqLcl6Ebfw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:12:51.000Z"
+    },
+    {
+      "id": "rss-0578241ebd38",
+      "title": "This Week In Space podcast: Episode 220 — First on Mars",
+      "description": "On Episode 220 of This Week In Space, Rod Pyle and Tariq Malik are joined by Dr. Pascal Lee and astrobiologist Dr. Penny Boston to mark the 50th anniversary of Viking 1's landing on Mars.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-220-first-on-mars",
+      "image": "https://cdn.mos.cms.futurecdn.net/5hdME3MWmpxLWcv6jFYXBH-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-07-25T15:11:27.000Z"
+    },
+    {
+      "id": "rss-0d72fe63f39c",
+      "title": "Exact-Match Testing Is Killing Your AI Quality Bar",
+      "description": "Green checkmarks don’t mean what you think when the system underneath refuses to be deterministic.\nContinue reading on CodeToDeploy »",
+      "url": "https://medium.com/codetodeploy/exact-match-testing-is-killing-your-ai-quality-bar-bad77c1afc5c?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*giHpUOJK6E362f5idSo4Zg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:04:51.000Z"
+    },
+    {
+      "id": "rss-fb311cf9e28c",
+      "title": "How Artificial Intelligence Actually Works — Without the Hype",
+      "description": "Part 1 of 5: How Modern AI Works\nContinue reading on Medium »",
+      "url": "https://medium.com/@vignarajj/how-artificial-intelligence-actually-works-without-the-hype-fddacf93acc6?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*3bLvziwAVTHvGtVkkFg7ow.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-25T15:03:23.000Z"
+    },
+    {
+      "id": "rss-123e59f50e35",
+      "title": "Marvel is officially retiring the Avengers this year, with the best possible replacement",
+      "description": "Storm leads a new team to save the world, starting this December",
+      "url": "https://www.polygon.com/sdcc-2026-marvel-announces-the-avengers-are-out-and-the-x-men-are-in/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/16211464/YRT3040_v004.1023.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T15:00:12.000Z"
+    },
+    {
+      "id": "rss-a950ac024f0e",
+      "title": "Teenage Engineering’s unique music machines are 30 percent off",
+      "description": "Teenage Engineering’s OP-XY has a huge number of functions. | Photo by Terrence O’Brien / The Verge\t\n\nWith elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie so",
+      "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0023.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-25T15:00:00.000Z"
+    },
+    {
+      "id": "rss-c94a79f31b11",
+      "title": "Pamela Anderson Shines in ‘Rosebush Pruning,’ the Year’s Most Twisted Movie: ‘I Like Stirring It Up’",
+      "description": "Last week, Pamela Anderson went viral — for her lush, enchanting garden. She’d never felt comfortable with the whole “sex symbol” thing after all, referring to that pleasure-seeking period as “the blu",
+      "url": "https://variety.com/2026/film/features/pamela-anderson-rosebush-pruning-incest-fascism-seth-rogen-1236820884/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/RosebushPruning_Still_5_FelixDickinson.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-25T15:00:00.000Z"
+    },
+    {
+      "id": "rss-d097b547a04a",
+      "title": "Paramount Skydance just paused its Warner Bros. Discovery merger, possibly until June 2027",
+      "description": "Paramount Skydance and Warner Bros. Discovery's $110 billion merger has been postponed until after a yet-to-be-scheduled antitrust trial",
+      "url": "https://www.polygon.com/paramount-warner-bros-merger-postponed/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2025/12/wb-pictures.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T14:54:49.000Z"
+    },
+    {
+      "id": "rss-dd04e3550d52",
+      "title": "AirPods, AirTag 2, and iPads Hit Low Prices This Week",
+      "description": "We tracked a few solid deals on Apple devices this week, including savings across the entire AirPods lineup, a record low price on AirTag 2, and the best prices on Apple's A16 iPad since June. All of ",
+      "url": "https://www.macrumors.com/2026/07/25/best-apple-deals-of-the-week-7-25-26/",
+      "image": "https://images.macrumors.com/article-new/2025/03/Best-Apple-Deals-Feature-Shelf-Orange.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-25T14:53:02.000Z"
+    },
+    {
+      "id": "rss-c525a812e1a1",
+      "title": "Josh Sapan on Life After AMC Networks and Championing Disability on Screen: ‘Neurodivergent Artists Just Bring Something Unique in How They See the World’",
+      "description": "Josh Sapan, the former CEO of AMC Networks, left the entertainment company he had led through the peak TV era in 2021. He had helped transform the network devoted to reruns of classic movies into a pr",
+      "url": "https://variety.com/2026/biz/news/josh-sapan-life-after-amc-networks-championing-disability-1236820906/",
+      "image": "https://variety.com/wp-content/uploads/2018/07/josh-sapan.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-25T14:45:16.000Z"
+    },
+    {
+      "id": "rss-a10ad7963500",
+      "title": "UFC Fight Night start time for Magomed Ankalaev vs. Bogdan Guskov: Where to watch live on Paramount+",
+      "description": "Light heavyweight collide in the main event from Abu Dhabi",
+      "url": "\n                                                https://www.cbssports.com/ufc/news/ufc-fight-night-start-time-magomed-ankalaev-bogdan-guskov-where-to-watch-paramount/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/a2035b91-0ddb-47a9-bd10-b88dd53eeb2a/bogdan-guskov-weighin.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T14:39:52.000Z"
+    },
+    {
+      "id": "rss-d92be03965d9",
+      "title": "Errol Spence Jr. vs. Tim Tszyu fight predictions, odds, date, start time, location and more for return",
+      "description": "The former welterweight champion makes his debut at middleweight three years after his last appearance",
+      "url": "\n                                                https://www.cbssports.com/boxing/news/errol-spence-jr-vs-tim-tszyu-predictions-odds-card-date-start-time-location/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/834fb856-9aee-44b0-8ea8-781a3ebfef58/errol-spence-tim-tszyu-faceoff.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T14:38:16.000Z"
+    },
+    {
+      "id": "rss-5fdce24ef29f",
+      "title": "Why the 76ers have the Celtics and Knicks to thank for landing LeBron James",
+      "description": "Philadelphia's two biggest rivals paved the way for the signing of the NBA's all-time leading scorer",
+      "url": "\n                                                https://www.cbssports.com/nba/news/lebron-james-signs-with-76ers-celtics-knicks-nba/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/51e3c243-75ef-4777-9f76-6879ec0ba051/lebron-sixers-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T14:32:14.000Z"
+    },
+    {
+      "id": "rss-82ce6efff7b6",
+      "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
+      "description": "A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/00dc-airforce1-top-4-tlvq/00dc-airforce1-top-4-tlvq-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T14:31:56.000Z"
+    },
+    {
+      "id": "rss-47a66d8b8fd3",
+      "title": "What Geriatric Emergency Departments Do Differently",
+      "description": "These specialized units can help keep older patients out of the hospital, lower their health care costs and more.",
+      "url": "https://www.nytimes.com/2026/07/25/well/geriatric-emergency-departments.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/well/25Well-NOA-ERs/25Well-NOA-ERs-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "health",
+      "publishedAt": "2026-07-25T14:31:29.000Z"
+    },
+    {
+      "id": "rss-04bb71efdc8d",
+      "title": "How to gift drop in Forza Horizon 6",
+      "description": "Gift drop in Forza Horizon 6 lets you send cars to random players, and you might end up getting one, too. Here's how to gift drop in Forza Horizon 6",
+      "url": "https://www.polygon.com/forza-horizon-6-fh6-gift-drop-how-to/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/forza-horizon-6-gifting-cars.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-25T14:31:11.000Z"
+    },
+    {
+      "id": "rss-edcfbf7b3370",
+      "title": "Anthony Joshua vs. Kristian Prenga fight predictions, card, date, expert picks and preview for Saudi Arabia",
+      "description": "The former heavyweight champion takes the next step toward a potential showdown with Tyson Fury on Saturday",
+      "url": "\n                                                https://www.cbssports.com/boxing/news/anthony-joshua-vs-kristian-prenga-fight-preview-predictions-odds-card-date/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/9d398e9f-a88b-47e2-9643-e501a8928f39/joshua-prenga-presser.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T14:30:29.000Z"
+    },
+    {
+      "id": "rss-ddce044e6fa3",
+      "title": "The downsides of switching from Android to iPhone",
+      "description": "Here are a few things to know if you're leaving Android for iPhone.",
+      "url": "https://www.engadget.com/2222494/downsides-switching-from-android-to-iphone/",
+      "image": "https://www.engadget.com/img/gallery/the-downsides-of-switching-from-android-to-iphone/l-intro-1784558947.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-25T14:30:00.000Z"
+    },
+    {
+      "id": "rss-6f762fee9806",
+      "title": "Best .NET Full Stack Developer Project Ideas for Your Portfolio in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/programming/best-net-full-stack-developer-project-ideas-for-your-portfolio-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/ru5i0xi0/Best-.NET-Full-Stack-Developer-Project-Ideas-for-Your-Portfolio-in-2026-Soham.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T14:30:00.000Z"
+    },
+    {
+      "id": "rss-bdc4f848a3ac",
+      "title": "Jordan Devey dies at 38: Family says former NFL guard died by suicide",
+      "description": "Devey played seven NFL seasons with five teams, winning Super Bowl XLIX with the Patriots",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/jordan-devey-dies-age-38/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/25/e3bab32f-d1ee-433f-abc0-fb484592eba5/template-pic.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T14:26:47.000Z"
+    },
+    {
+      "id": "rss-f50315a61185",
+      "title": "Knicks vs. 76ers? Spurs vs. Thunder? Predicting the NBA's Opening Night and Christmas schedules",
+      "description": "Now that LeBron James has finally made his decision, the NBA schedule makers can get to work",
+      "url": "\n                                                https://www.cbssports.com/nba/news/nba-schedule-2026-predictions-opening-night-christmas-76ers-knicks-spurs-thunder/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/25/209d6a2f-21f8-4e55-9fc7-f21665923b0c/wemby-sga-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T14:26:41.000Z"
+    },
+    {
+      "id": "rss-fd4aa1f9f31a",
+      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Dodgers vs. Mets, MLB betting on Saturday",
+      "description": "DraftKings offers $150 in bonus bets after your first $5 wager for Mets vs. Dodgers, MLB betting on Saturday",
+      "url": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-dodgers-mets-mlb-betting-on-saturday/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/25/a6daebaa-5af9-4a3a-9811-0068373ca2c2/kyle-tucker-los-angeles-dodgers-imagn-images.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T14:13:08.000Z"
+    },
+    {
+      "id": "rss-640b6d4ebb28",
+      "title": "2026 Hungarian Grand Prix picks, odds, grid, start time: Formula One predictions, best bets by proven model",
+      "description": "SportsLine's model analyzes Red Bull's Max Verstappen, Mercedes' Kimi Antonelli, Ferrari's Lewis Hamilton and the rest of the starting grid at the 2026 F1 Hungarian GP",
+      "url": "\n                                                https://www.cbssports.com/betting/news/2026-hungarian-grand-prix-picks-odds-grid-time-formula-one-predictions-best-bets/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/25/7ec9d5c2-436d-4e3b-b820-8b60ba44878c/george-russell-formula-1-imagn-images.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-25T14:06:08.000Z"
+    },
+    {
+      "id": "rss-65ba1ca0e9e5",
+      "title": "What Is the Psychology Behind High-Converting Product Pages?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/what-is-the-psychology-behind-high-converting-product-pages",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/pvff8erf/What-Is-the-Psychology-Behind-High-Converting-Product-Pages",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T14:05:17.000Z"
+    },
     {
       "id": "rss-9e72cb087bb3",
       "title": "Warner Bros. is suing Amazon for poaching employees",
@@ -93,6 +543,36 @@
       "publishedAt": "2026-07-25T14:00:00.000Z"
     },
     {
+      "id": "rss-4a1b239f50c5",
+      "title": "Can Apple’s incoming CEO bring back the product design mojo of the Steve Jobs era?",
+      "description": "With more than half of Apple’s revenue still tied to the iPhone, former insiders say Ternus must give designers more influence as the company searches for its next breakthrough.",
+      "url": "https://fortune.com/2026/07/25/apple-ceo-john-ternus-tim-cook-steve-jobs-iphone-design/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Apple_Mojo_back_WEB.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T14:00:00.000Z"
+    },
+    {
+      "id": "rss-faf98d6da856",
+      "title": "10 Powerful DeepSeek Prompts Every Writer Should Use in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/10-powerful-deepseek-prompts-every-writer-should-use-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/ur9ee832/10-Powerful-DeepSeek-Prompts-Every-Writer-Should-Use-in-2026-Soham.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T14:00:00.000Z"
+    },
+    {
+      "id": "rss-b3bdc29b819d",
+      "title": "Best Open-World Games You Can Finish in Under 20 Hours",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/gaming/best-open-world-games-you-can-finish-in-under-20-hours",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/o46ilc20/Best-Open-World-Games-You-Can-Finish-in-Under-20-Hours.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-25T14:00:00.000Z"
+    },
+    {
       "id": "rss-f5c80eba8be1",
       "title": "Is Math Really for Lazy People?",
       "description": "“Math is for lazy people.”\nContinue reading on Medium »",
@@ -101,6 +581,16 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-25T13:59:40.000Z"
+    },
+    {
+      "id": "rss-089a892b9281",
+      "title": "Letitia James faces scrutiny after New York City spends $81,700 per homeless person amid shelter scandals",
+      "description": "Saritha Komatireddy accused Letitia James of failing to investigate nonprofit homeless shelters despite billions in taxpayer funding and fraud claims.",
+      "url": "https://www.foxnews.com/politics/letitia-james-scrutiny-new-york-city-spends-81700-homeless-person-amid-shelter-scandals",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/split-James-homeless-encampment.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T13:59:31.000Z"
     },
     {
       "id": "rss-c02b3d862487",
@@ -113,6 +603,16 @@
       "publishedAt": "2026-07-25T13:58:49.000Z"
     },
     {
+      "id": "rss-cde6fea52f94",
+      "title": "NYC stabbing suspect charged with hate crimes over 2 attacks",
+      "description": "Raul Morales allegedly stabbed an Asian man and a Jewish man near a synagogue, as officials say Jewish New Yorkers face disproportionate hate crime rates.",
+      "url": "https://fortune.com/2026/07/25/nyc-stabbing-hate-crimes-jewish-asian-victims/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26205767662230.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T13:58:41.000Z"
+    },
+    {
       "id": "rss-d340f6149ca3",
       "title": "NYT Connections Hints, Answers for July 25, 2026",
       "description": "",
@@ -121,6 +621,16 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-25T13:55:00.000Z"
+    },
+    {
+      "id": "rss-01159550a29a",
+      "title": "Meet the Americans learning to go without after the biggest grocery inflation in 50 years",
+      "description": "“Prices are sky-high. One hundred dollars’ worth of groceries these days is nothing,” says 60-year-old Ada Torres of Cleveland, Texas.",
+      "url": "https://fortune.com/2026/07/25/grocery-inflation-families-texas-san-francisco-hawaii/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26201840686433-e1784987678859.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T13:54:52.000Z"
     },
     {
       "id": "rss-4420e9abbbeb",
@@ -173,6 +683,16 @@
       "publishedAt": "2026-07-25T13:51:01.000Z"
     },
     {
+      "id": "rss-aa4f38ce4468",
+      "title": "‘Rockets and feathers’: Economists say grocery prices shoot up like the first, fall like the second",
+      "description": "“I think the public is coming to grips with, ‘Well, I’m hearing inflation has slowed, but things aren’t getting any cheaper.’\"",
+      "url": "https://fortune.com/2026/07/25/grocery-prices-rockets-feathers-inflation/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26201840540144-e1784987300604.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T13:48:57.000Z"
+    },
+    {
       "id": "rss-7c30ca43f8ba",
       "title": "Teaching an AI What to Do Next: Building a State System for Snake Rattle Roll (Part 2)",
       "description": "Instead of relying on one massive reward function, I built a reusable state framework that teaches reinforcement learning agents how to…\nContinue reading on Medium »",
@@ -223,6 +743,16 @@
       "publishedAt": "2026-07-25T13:46:01.000Z"
     },
     {
+      "id": "rss-f7fbf51d58a7",
+      "title": "Biden loses bid to block highly ‘personal’ conversations with ghostwriter in 2016 and 2017",
+      "description": "In a 2-1 ruling on Monday, a three-judge panel from the circuit court found a “substantial” public interest in disclosing the material.",
+      "url": "https://fortune.com/2026/07/25/biden-ghostwriter-tapes-lawsuit-dropped/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26202476817539-e1784987087722.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T13:45:21.000Z"
+    },
+    {
       "id": "rss-5e0208a59f3e",
       "title": "Wildfire Smoke Chokes Skies in Spain and France",
       "description": "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.",
@@ -253,6 +783,16 @@
       "publishedAt": "2026-07-25T13:44:12.000Z"
     },
     {
+      "id": "rss-a92f7ca825a7",
+      "title": "Gen Z ‘teen takeovers’ go from hijinks to shootings, theft and vandalism. Blame ‘adolescent brain development’",
+      "description": "For two decades, cities stripped teens of courts, malls and hangouts to prevent conflict — but that also killed all of their third spaces.",
+      "url": "https://fortune.com/2026/07/25/gen-z-teen-takeovers-brain-science-racketeering-charges/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26195005786708-e1784986905918.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T13:41:57.000Z"
+    },
+    {
       "id": "rss-e4e895107d10",
       "title": "17 Recent AI Breakthroughs Everyone Should Know About",
       "description": "From frontier models, robotics, and generative AI tools to a model trained with zero Nvidia chips\nContinue reading on No Time »",
@@ -281,6 +821,16 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-25T13:35:38.000Z"
+    },
+    {
+      "id": "rss-eb5e303bb860",
+      "title": "A Hims cofounder fired his entire marketing team for AI. Now his 24/7 online vet service is growing 20% a month",
+      "description": "Joe Spector helped build a multibillion-dollar telehealth company. Now he’s on to own remote vet services.",
+      "url": "https://fortune.com/2026/07/25/hims-cofounder-fired-entire-marketing-team-for-ai-dutch-online-vet-service-growing-20-percent-a-month/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/221026_dutch_shot02_JoeSpector_0731-2.png?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T13:32:45.000Z"
     },
     {
       "id": "rss-d25a0579e96a",
@@ -353,6 +903,16 @@
       "publishedAt": "2026-07-25T13:20:12.000Z"
     },
     {
+      "id": "rss-e6fc636b5858",
+      "title": "As millions of Gen Zers face unemployment, CEOs of Amazon, Citi, and McDonald’s say opportunity is still there—if you have the right mindset",
+      "description": "From Nvidia CEO Jensen Huang to Amazon boss Andy Jassy, Fortune 500 leaders have shared their advice for workers to thrive in today’s shaky job market.",
+      "url": "https://fortune.com/article/career-advice-from-amazon-nvidia-mcdonalds-ceos-for-current-job-market-crisis-gen-z-unemployment-fortune-500-leaders-optimistic-success-still-possible/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2025/12/GettyImages-2223723169-e1766164234863.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-25T13:17:36.000Z"
+    },
+    {
       "id": "rss-c0e14f07f83c",
       "title": "Train/Test/Validation Splits and Why Cross-Validation Exists",
       "description": "In this post:\nContinue reading on Medium »",
@@ -391,16 +951,6 @@
       "source": "Fortune",
       "category": "business",
       "publishedAt": "2026-07-25T13:08:39.000Z"
-    },
-    {
-      "id": "rss-82ce6efff7b6",
-      "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
-      "description": "A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html",
-      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/00dc-airforce1-top-4-tlvq/00dc-airforce1-top-4-tlvq-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-25T13:00:51.000Z"
     },
     {
       "id": "rss-174fe9889e00",
@@ -973,6 +1523,16 @@
       "publishedAt": "2026-07-25T11:00:12.000Z"
     },
     {
+      "id": "rss-09ed19e58abf",
+      "title": "The Flawed Environmental Case Against Data Centers",
+      "description": "Our animosity toward data centers is really more about our anxieties about A.I.",
+      "url": "https://www.nytimes.com/2026/07/25/opinion/data-centers-environment-ai.html",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/22mastroianni-qjlw/22mastroianni-qjlw-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-25T11:00:12.000Z"
+    },
+    {
       "id": "rss-17f1eab2e6e1",
       "title": "Dinos with swords, making music with gnomes and other new indie games worth checking out",
       "description": "Plus, email as turn-based combat (which is really just regular email).",
@@ -1255,12 +1815,12 @@
     {
       "id": "rss-c5f5d3cf2c6f",
       "title": "Karl-Anthony Towns Knows the Knicks’ Win Was Bigger Than Basketball",
-      "description": "New York’s star center on playing for his mom, Patrick Ewing. generations of emotional fans — and himself.",
+      "description": "New York’s star center on playing for his mom, Patrick Ewing, generations of emotional fans — and himself.",
       "url": "https://www.nytimes.com/2026/07/25/magazine/karl-anthony-towns-interview.html",
       "image": "https://static01.nyt.com/images/2026/08/02/magazine/02mag-interview-towns-03/02mag-interview-towns-03-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-25T10:27:48.000Z"
+      "publishedAt": "2026-07-25T10:27:49.000Z"
     },
     {
       "id": "rss-23a6985a43db",
@@ -1487,7 +2047,7 @@
       "title": "Tankers Sail Through Red Sea Despite Houthi Blockade",
       "description": "Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.",
       "url": "https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/2026-07-22-aden-ship-traffic-index/2026-07-22-aden-ship-traffic-index-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/2026-07-22-aden-ship-traffic-index/2026-07-22-aden-ship-traffic-index-mediumSquareAt3X-v3.jpg",
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-25T09:02:10.000Z"
@@ -1501,16 +2061,6 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-25T09:01:41.000Z"
-    },
-    {
-      "id": "rss-47a66d8b8fd3",
-      "title": "What Geriatric Emergency Departments Do Differently",
-      "description": "These specialized units can help keep older patients out of the hospital, lower their health care costs and more.",
-      "url": "https://www.nytimes.com/2026/07/25/well/geriatric-emergency-departments.html",
-      "image": "https://static01.nyt.com/images/2026/07/28/well/25Well-NOA-ERs/25Well-NOA-ERs-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "health",
-      "publishedAt": "2026-07-25T09:01:37.000Z"
     },
     {
       "id": "rss-217a8ad55189",
@@ -2221,16 +2771,6 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-25T04:04:05.000Z"
-    },
-    {
-      "id": "rss-a10ad7963500",
-      "title": "UFC Fight Night start time for Magomed Ankalaev vs. Bogdan Guskov: Where to watch live on Paramount+",
-      "description": "Light heavyweight collide in the main event from Abu Dhabi",
-      "url": "\n                                                https://www.cbssports.com/ufc/news/ufc-fight-night-start-time-magomed-ankalaev-bogdan-guskov-where-to-watch-paramount/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/a2035b91-0ddb-47a9-bd10-b88dd53eeb2a/bogdan-guskov-weighin.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-25T04:01:32.000Z"
     },
     {
       "id": "rss-c6af3f25873b",
@@ -4523,16 +5063,6 @@
       "publishedAt": "2026-07-24T19:06:58.000Z"
     },
     {
-      "id": "rss-d92be03965d9",
-      "title": "Errol Spence Jr. vs. Tim Tszyu fight predictions, odds, date, start time, location and more for return",
-      "description": "The former welterweight champion makes his debut at middleweight three years after his last appearance",
-      "url": "\n                                                https://www.cbssports.com/boxing/news/errol-spence-jr-vs-tim-tszyu-predictions-odds-card-date-start-time-location/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/834fb856-9aee-44b0-8ea8-781a3ebfef58/errol-spence-tim-tszyu-faceoff.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-24T19:00:33.000Z"
-    },
-    {
       "id": "rss-5a83d1fb2026",
       "title": "I’ve Guided Companies Through AI Transformations for Years. This Is the Costliest Mistake I See Executives Making.",
       "description": "The hidden reason so many AI initiatives disappoint and how to avoid the same mistake.",
@@ -4651,16 +5181,6 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-24T18:48:56.000Z"
-    },
-    {
-      "id": "rss-5fdce24ef29f",
-      "title": "Why the 76ers have the Celtics and Knicks to thank for landing LeBron James",
-      "description": "Philadelphia's two biggest rivals paved the way for the signing of the NBA's all-time leading scorer",
-      "url": "\n                                                https://www.cbssports.com/nba/news/lebron-james-signs-with-76ers-celtics-knicks-nba/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/51e3c243-75ef-4777-9f76-6879ec0ba051/lebron-sixers-getty.png",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-24T18:48:01.000Z"
     },
     {
       "id": "rss-0a5dbeead4dc",
@@ -4961,16 +5481,6 @@
       "source": "Fox News Politics",
       "category": "politics",
       "publishedAt": "2026-07-24T18:22:52.000Z"
-    },
-    {
-      "id": "rss-a13dce045d24",
-      "title": "Anthony Joshua vs. Kristian Prenga fight preview, predictions, card, date and expert picks",
-      "description": "The former heavyweight champion takes the next step toward a potential showdown with Tyson Fury on Saturday",
-      "url": "\n                                                https://www.cbssports.com/boxing/news/anthony-joshua-vs-kristian-prenga-fight-preview-predictions-odds-card-date/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/9d398e9f-a88b-47e2-9643-e501a8928f39/joshua-prenga-presser.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-24T18:20:16.000Z"
     },
     {
       "id": "rss-90141437b311",
@@ -38941,16 +39451,6 @@
       "source": "CNET",
       "category": "technology",
       "publishedAt": "2026-07-18T16:01:10.000Z"
-    },
-    {
-      "id": "rss-753f082298da",
-      "title": "Not a housekeeper, but a 'vilica': The many responsibilities of Roman-era female farm managers were overlooked by historians",
-      "description": "Women on ancient Roman farms were in charge of making wine, oil — and profits. Historians dismissed them as ‘housekeepers’",
-      "url": "https://www.livescience.com/archaeology/romans/not-a-housekeeper-but-a-vilica-the-many-responsibilities-of-roman-era-female-farm-managers-were-overlooked-by-historians",
-      "image": "https://cdn.mos.cms.futurecdn.net/fnWTb4NpcPDDrNFhgf6Zq3-1280-80.jpg",
-      "source": "Live Science",
-      "category": "science",
-      "publishedAt": "2026-07-18T15:00:00.000Z"
     }
   ]
 }
