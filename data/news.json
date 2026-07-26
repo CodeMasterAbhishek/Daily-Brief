@@ -1,7 +1,667 @@
 {
-  "lastUpdated": "2026-07-26T17:01:38.399Z",
-  "count": 1334,
+  "lastUpdated": "2026-07-26T18:32:15.879Z",
+  "count": 1401,
   "articles": [
+    {
+      "id": "rss-544e6fb679f3",
+      "title": "Your Weekly AI Pulse: The Battle Beyond the Model (Leadership Edition | July 27, 2026)",
+      "description": "TL;DR\nContinue reading on Medium »",
+      "url": "https://thecontentboy.medium.com/your-weekly-ai-pulse-the-battle-beyond-the-model-leadership-edition-july-27-2026-a26925220df5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*dUnnT2nOK4mQ0fciKYADJQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:31:01.000Z"
+    },
+    {
+      "id": "rss-afaf37c8982d",
+      "title": "How a 1.6 Trillion Parameter Model Fits on a Laptop, With C Code You Can Run",
+      "description": "A Mixture-of-Experts model keeps roughly 97 percent of itself asleep at any given moment. That one fact means models far bigger than your…\nContinue reading on Towards AI »",
+      "url": "https://pub.towardsai.net/how-a-1-6-trillion-parameter-model-fits-on-a-laptop-with-c-code-you-can-run-e1cd80d0c0b7?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*nMQ09lq0SbAbcmq3bEGaig.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:31:01.000Z"
+    },
+    {
+      "id": "rss-56390499cd75",
+      "title": "The Death of the Single Income",
+      "description": "Sam Wigglesworth, Founder & Owner, InGBTech\nContinue reading on Medium »",
+      "url": "https://medium.com/@samwigglesworth_81928/the-death-of-the-single-income-5b43a33926f3?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*nqKYfVl1v8DZZeVKfJewrg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:30:58.000Z"
+    },
+    {
+      "id": "rss-cbd8644553db",
+      "title": "The Decision Framework: Journey for Choosing LLM Models",
+      "description": "This article builds on top of my previous article “🤖 Is Custom AI Training (LLM Model Fine Tuning) Still Worth It?”\nContinue reading on Medium »",
+      "url": "https://pawankishorsingh.medium.com/the-decision-framework-journey-for-choosing-llm-models-42cad4443800?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*-zwFIL0nC7tZDnWVcthDyQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:29:07.000Z"
+    },
+    {
+      "id": "rss-e867b907682e",
+      "title": "Google Ads AI Max in 2026: What Small Businesses Should Know Before Upgrading",
+      "description": "A practical guide to AI-powered search matching, text customisation, final URL expansion and safer campaign testing.\nContinue reading on Medium »",
+      "url": "https://medium.com/@bytesbooster/google-ads-ai-max-in-2026-what-small-businesses-should-know-before-upgrading-0e2d6c8d1ea6?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*oi204xLaBEzr59PblF1JfA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:27:54.000Z"
+    },
+    {
+      "id": "rss-0b6fa4261cb9",
+      "title": "GPU isteriyası — Niyə videokartlar AI mövsunun mərkəzində durur?",
+      "description": "Millenial nəsli üçün (məsələn elə mən), 2010-cu illərdə şəxsi kompyuter seçərkən videokart önəmli rol oynayırdı. Səbəbi isə… oyunlar idi…\nContinue reading on Medium »",
+      "url": "https://medium.com/@double_precision/gpu-isteriyas%C4%B1-niy%C9%99-videokartlar-ai-m%C3%B6vsunun-m%C9%99rk%C9%99zind%C9%99-durur-cd7e2a29e0d9?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2560/1*dE3Hbz2fslvuL5smIy7hPA.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:26:37.000Z"
+    },
+    {
+      "id": "rss-7826993ae4c3",
+      "title": "How to Explain Why AI Projects Fail in Production (Interview Style)",
+      "description": "A business-friendly explanation that demonstrates your understanding of the technical, organizational, and operational reasons AI…\nContinue reading on Medium »",
+      "url": "https://medium.com/@vikashsinghy2k/how-to-explain-why-ai-projects-fail-in-production-interview-style-2fdbe087287e?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/949/1*G4GcpGR0-VEBAGyFwTpv0w.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:26:01.000Z"
+    },
+    {
+      "id": "rss-f8e0ec588142",
+      "title": "Here's our first look at Apple TV's Neuromancer adaptation",
+      "description": "We also now know when it will be released: January 22, 2027.",
+      "url": "https://www.engadget.com/2223559/first-look-apple-tv-neuromancer-adaptation-teaser-trailer/",
+      "image": "https://www.engadget.com/img/gallery/heres-our-first-look-at-apple-tvs-neuromancer-adaptation/l-intro-1785090131.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-26T18:25:03.000Z"
+    },
+    {
+      "id": "rss-6e9cb5466496",
+      "title": "The Church Can Better Serve Those With Chronic Illness",
+      "description": "What nearly 15 years in ministry and living with chronic illness have taught me about care, access, and belonging\nContinue reading on Medium »",
+      "url": "https://medium.com/@nathanieldboone/the-church-can-better-serve-those-with-chronic-illness-7cb85f0021d1?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*WOS5tUhK1PQE9wSedaq6Nw.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:23:32.000Z"
+    },
+    {
+      "id": "rss-8194eb830296",
+      "title": "Berlin Pride Event Attacker Killed in Police Shootout, Officials Say",
+      "description": "The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.",
+      "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26int-berlin-attack-kjzb/26int-berlin-attack-kjzb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-26T18:22:00.000Z"
+    },
+    {
+      "id": "rss-823d149127cb",
+      "title": "Is Custom AI Training (LLM Model Fine Tuning) Still Worth It?",
+      "description": "Three friends walk into an exam. One crammed for weeks on legal textbooks alone. Another brought the textbooks into the test. The third…\nContinue reading on Medium »",
+      "url": "https://pawankishorsingh.medium.com/is-custom-ai-training-llm-model-fine-tuning-still-worth-it-9e6a77bb5909?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*ujdg0HKUdfdLq1uS_4qXAQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:21:53.000Z"
+    },
+    {
+      "id": "rss-c2da90eba23a",
+      "title": "Part 7: The New Shebeen",
+      "description": "Midnight Confessions\nContinue reading on Medium »",
+      "url": "https://midnightconfessions814.medium.com/part-7-the-new-shebeen-565710938613?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1440/1*RAQsx7ZoHEmm0PziK4ks4Q.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:19:31.000Z"
+    },
+    {
+      "id": "rss-d43a6f6ef278",
+      "title": "SEO, GEO, AEO and Aunt Janice’s Life Experience: It’s about Trust.",
+      "description": "You’ve heard of word of mouth. You’ve probably relied on it a time or two.\nContinue reading on Medium »",
+      "url": "https://medium.com/@datatabby/seo-geo-aeo-and-aunt-janices-life-experience-it-s-about-trust-cbb030eeff2a?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*ltw_xN6pd8Jaw9nO",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:19:08.000Z"
+    },
+    {
+      "id": "rss-dad390606280",
+      "title": "Scientists Demonstrated That Alzheimer’s Can Be Transmitted Via Bone Marrow Transplant",
+      "description": "Researchers at the University of British Columbia have discovered that familial Alzheimer’s disease may be transmissible through bone…\nContinue reading on Medium »",
+      "url": "https://medium.com/@office_81769/scientists-demonstrated-that-alzheimers-can-be-transmitted-via-bone-marrow-transplant-ec23b27f187c?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/850/0*SzWcKFOnbBo4ZX1u.jpg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:19:00.000Z"
+    },
+    {
+      "id": "rss-a4d96fe51536",
+      "title": "Quiet Cycle: Will Your Exercise Bike Disturb the Floor or Downstairs Neighbor?",
+      "description": "Quiet Cycle: Don’t disturb your downstairs neighbor! Find the best mat for your exercise bike to prevent floor vibrations and keep the…\nContinue reading on Medium »",
+      "url": "https://medium.com/@elsayedamazon25/quiet-cycle-will-your-exercise-bike-disturb-the-floor-or-downstairs-neighbor-296b134c4e74?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1402/1*9puWhnJg6uS-y8TLYDXMRg.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:18:45.000Z"
+    },
+    {
+      "id": "rss-0dd86276552a",
+      "title": "Popular pastime sending more Americans to ER with devastating injuries",
+      "description": "Detroit-area doctors report a spike in e-bike crash injuries as Class 3 bikes reaching 28 mph cause major trauma among inexperienced riders.",
+      "url": "https://www.foxnews.com/health/popular-pastime-sending-more-americans-er-devastating-injuries",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/man-electric-mountain-bike-seaside.jpg?ve=1&tl=1",
+      "source": "Fox News Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:18:31.000Z"
+    },
+    {
+      "id": "rss-475d0d875764",
+      "title": "Civilization. The last page. (271)",
+      "description": ". . . and it got worse.\nContinue reading on Medium »",
+      "url": "https://medium.com/@janslort/civilization-the-last-page-271-19c328ed5fe8?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*_KrZ1GM9AHCS4LLQUdi8ug@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:17:31.000Z"
+    },
+    {
+      "id": "rss-966bdc0297bd",
+      "title": "The man",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@scps08001/the-man-1addf5c93a81?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2500/1*qEvj3Kqbm8RAW2IJdYHs7Q@2x.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:15:44.000Z"
+    },
+    {
+      "id": "rss-c40fe0a30e8d",
+      "title": "One Library Request Could Help Someone Find the Answers They Need",
+      "description": "When I wrote Narcissistic Traps, my hope wasn’t simply to publish a book. My hope was to reach the people who are lying awake at night…\nContinue reading on Medium »",
+      "url": "https://medium.com/@narcissistictraps/one-library-request-could-help-someone-find-the-answers-they-need-2b56129a6f5f?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1122/1*OvENMSVc8Q6-xsRtczC3yg.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:15:32.000Z"
+    },
+    {
+      "id": "rss-4a1b75f1fcee",
+      "title": "How your small efforts can make someone’s day……",
+      "description": "I don’t have a very great memory when it comes to dates and names but still I manage to keep people around me happy and feeling important…\nContinue reading on Medium »",
+      "url": "https://medium.com/@rockbro.asmit/how-your-small-efforts-can-make-someones-day-4e50044aeb69?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*ITWDs0CqO0ikXN3h",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:15:21.000Z"
+    },
+    {
+      "id": "rss-1b6469f581fc",
+      "title": "Kenapa semakin banyak orang yang melihat, justru semakin sedikit yang menolong?",
+      "description": "Contoh yang paling sering dijumpai adalah saat terjadi kecelakaan lalu lintas.\nContinue reading on Medium »",
+      "url": "https://medium.com/@kinanthi/kenapa-semakin-banyak-orang-yang-melihat-justru-semakin-sedikit-yang-menolong-7e14bb02e049?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*Oo-Vs5BkaBwB8lLlW-HLcg.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:15:08.000Z"
+    },
+    {
+      "id": "rss-8daa2396da84",
+      "title": "Roman Reigns: The Reign of Power",
+      "description": "“The Dominance of WWE’s Tribal Chief”\nContinue reading on Medium »",
+      "url": "https://medium.com/@admkhn600/roman-reigns-the-reign-of-power-a1a5fe246755?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*KTPNC666Lkeucd_1qcRx0A.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:14:18.000Z"
+    },
+    {
+      "id": "rss-44fdc61d51b6",
+      "title": "The AI Bubble Just Cracked: Inside the $3.3 Trillion Selloff Silicon Valley Didn’t See Coming",
+      "description": "One model release. One week. $3.3 trillion in semiconductor market value gone.\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/the-ai-bubble-just-cracked-inside-the-3-3-trillion-selloff-silicon-valley-didnt-see-coming-460191ff69d8?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*KrAJvdXUbRT6mFgZ1ccy9w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:09:14.000Z"
+    },
+    {
+      "id": "rss-ded6709781e0",
+      "title": "What Nobody Tells You About Fit After 30",
+      "description": "At some point in your late twenties or early thirties, your favorite leggings just… stop feeling right. The ones you’ve had forever…\nContinue reading on Medium »",
+      "url": "https://medium.com/@digital_47775/what-nobody-tells-you-about-fit-after-30-88b8a611e0e8?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1496/1*tpNm2B4npQkZOVDEcMQOdQ.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:06:21.000Z"
+    },
+    {
+      "id": "rss-af73b0a96659",
+      "title": "Worried About Your Health and Looking for Answers?",
+      "description": "When health concerns continue, they can affect more than your body. The worry can disturb your sleep, peace of mind, family life, and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@spiritualhealer199/worried-about-your-health-and-looking-for-answers-16765752eac7?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/720/1*VOVIzgyillu7Ul2JVtB7pw.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:05:34.000Z"
+    },
+    {
+      "id": "rss-326a3a630cd0",
+      "title": "FDEs close the last mile AI products miss",
+      "description": "OpenAI’s FDE team went from 2 to 10+ in 2025 — not for a better model, but to make AI survive messy customer environments.\nContinue reading on Medium »",
+      "url": "https://medium.com/@bartkru/fdes-close-the-last-mile-ai-products-miss-32168f3b1d51?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*4Th2yfsQrGwUKcRAhoWM3Q.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:04:53.000Z"
+    },
+    {
+      "id": "rss-74d31f4c557f",
+      "title": "Creativity Beyond Rule-Breaking",
+      "description": "Part of the Stathine–Coexon Research Series — Level III: Applications\nContinue reading on Medium »",
+      "url": "https://ananddamanica.medium.com/creativity-beyond-rule-breaking-c68c25e7ae4b?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*0DBCl2C8P4yW0lQemgk6hg.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T18:03:22.000Z"
+    },
+    {
+      "id": "rss-69db0ad5b3ca",
+      "title": "Reacher Star Alan Ritchson Confirms Conversations With DC About Playing 'Another Character' That Isn't Batman",
+      "description": "Reacher star Alan Ritchson has confirmed he won't be playing Batman in the DCU, but he has had conversations with DC about playing \"another character\" instead.",
+      "url": "https://www.ign.com/articles/reacher-star-alan-ritchson-confirms-conversations-with-dc-about-playing-another-character-that-isnt-batman",
+      "image": "https://assets-prd.ignimgs.com/2026/07/26/alan-ritchson-1785088634096.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T18:02:42.000Z"
+    },
+    {
+      "id": "rss-bc555bf4921d",
+      "title": "Machine Learning Frameworks Explained",
+      "description": "A beginner-friendly guide to understanding the most popular machine learning frameworks and choosing the right one for your next AI…\nContinue reading on Medium »",
+      "url": "https://medium.com/@deepika.sekar140499/machine-learning-frameworks-explained-4c5724ca3b32?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*rS6RFFdSIuiKyltkxfNpmw.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:01:20.000Z"
+    },
+    {
+      "id": "rss-cbd238b4545f",
+      "title": "D&D returns to its original world, where no legendary hero can save you",
+      "description": "Legends of Greyhawk is D&D's new organized play global campaign, connecting players through an evolving story.",
+      "url": "https://www.polygon.com/dnd-legends-of-greyhawk-organized-play-global-campaign/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/the-cricle-of-eight-d-d-greyhawk.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T18:00:12.000Z"
+    },
+    {
+      "id": "rss-4827d4872eeb",
+      "title": "When a teenager makes the 'stupid choice,' their brain is working exactly as designed",
+      "description": "When an adult refuses to let an injustice pass—stands up to a bully or asserts their rights—we call it principle. When a 15-year-old retaliates to an insult thrown in a school corridor, risking detent",
+      "url": "https://phys.org/news/2026-07-teenager-stupid-choice-brain.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2019/4-brain.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-26T18:00:04.000Z"
+    },
+    {
+      "id": "rss-9bc84a18fb83",
+      "title": "Gamma-ray pulsations reveal extreme 3.2-millisecond pulsar 3,900 light-years away",
+      "description": "By analyzing the data from NASA's Fermi gamma-ray space telescope, Chinese astronomers have investigated a recently identified millisecond pulsar known as PSR J0435+3233. As a result, they found that ",
+      "url": "https://phys.org/news/2026-07-gamma-ray-pulsations-reveal-extreme.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gamma-ray-pulsations-d.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-26T18:00:01.000Z"
+    },
+    {
+      "id": "rss-e615c33e624c",
+      "title": "BitMart to Shut Down Crypto Exchange After Nine Years as BMX Token Drops 58%",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/bitmart-to-shut-down-crypto-exchange-after-nine-years-as-bmx-token-drops-58",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-26/gfmoa16s/BitMart-to-Shut-Down-Crypto-Exchange-After-Nine-Years-as-BMX-Token-Drops-58-.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-26T18:00:00.000Z"
+    },
+    {
+      "id": "rss-bbe799247789",
+      "title": "Tom Holland: Some of My Movies Are ‘S–t’ and You ‘Shouldn’t’ Watch Them",
+      "description": "Tom Holland is having a great time doing the press circuit for both “The Odyssey” and “Spider-Man: Brand New Day” because he’s fond of the movies. That hasn’t always been the case. On the July 22 epis",
+      "url": "https://variety.com/2026/film/news/tom-holland-some-movies-shit-shouldnt-watch-1236821438/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/P11894MV.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-26T17:59:04.000Z"
+    },
+    {
+      "id": "rss-223a01674aae",
+      "title": "The Biggest Skin Health Mistake in 2026: Why Your Diet Matters More Than Your Skincare Routine",
+      "description": "Learn how skin health, vitamins, and supplements support naturally glowing skin through healthy nutrition and simple daily habits.\nContinue reading on Medium »",
+      "url": "https://medium.com/@zakariyar8319/the-biggest-skin-health-mistake-in-2026-why-your-diet-matters-more-than-your-skincare-routine-3a1556c41314?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*2Mktz2PuqazIj2BijzQFBQ.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T17:58:53.000Z"
+    },
+    {
+      "id": "rss-1d609296fef6",
+      "title": "This red state is strengthening its grip as America's next economic heavyweight",
+      "description": "IRS migration data reveal over $5 billion in wealth flowing into Texas as Dallas-Fort Worth, Houston and Austin fuel the state's population boom.",
+      "url": "https://www.foxnews.com/politics/red-state-strengthening-its-grip-americas-next-economic-heavyweight",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/texas-rodeo-cowboy-american-flag.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-26T17:56:48.000Z"
+    },
+    {
+      "id": "rss-216f882270d2",
+      "title": "Your Demo Worked. That Tells You Nothing.",
+      "description": "Most teams ship AI features with no real idea whether they work. Here’s the evaluation harness I build before anything else, and why your…\nContinue reading on Medium »",
+      "url": "https://medium.com/@farahanirashin/your-demo-worked-that-tells-you-nothing-0c43a64ce4c8?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*4yVUm7rS2NF2bTgbyvCYDw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T17:55:05.000Z"
+    },
+    {
+      "id": "rss-d7f1d3a94945",
+      "title": "Why We May Be Overestimating Our Protein Needs",
+      "description": "What the latest longevity research tells us about muscle, aging, and finding the right balance.\nContinue reading on The Longevity Edit »",
+      "url": "https://medium.com/the-longevity-edit/why-we-may-be-overestimating-our-protein-needs-4e0d74b30e3e?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*8L6LzwVMw7-DFaAEhie0Kg.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T17:54:15.000Z"
+    },
+    {
+      "id": "rss-74796cada845",
+      "title": "ML Series #1: What is Machine Learning? A Beginner-Friendly Guide with Real-World Examples",
+      "description": "A few months ago, I was building AI applications without really understanding Machine Learning. That realization made me go back to the…\nContinue reading on Medium »",
+      "url": "https://isharadbharadwaj.medium.com/ml-series-1-what-is-machine-learning-a-beginner-friendly-guide-with-real-world-examples-7823c52b5710?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*04rrW6aRAjqjF0TMoVDPjA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T17:53:48.000Z"
+    },
+    {
+      "id": "rss-0b78a98da36f",
+      "title": "I Thought Suno AI Was Just Another AI Tool. I Was Completely Wrong.",
+      "description": "I spent six months actively rolling my eyes at every viral track generated by a neural network, certain it was just electronic smoke and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@aethosforjobe/i-thought-suno-ai-was-just-another-ai-tool-i-was-completely-wrong-7256013c71ce?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/711/1*NKZznkcHGs_4LfmveuWWXQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T17:52:24.000Z"
+    },
+    {
+      "id": "rss-13e1b48e9496",
+      "title": "Laguna S 2.1: The 118B Open AI Coding Model beats Inkling, DeepSeek",
+      "description": "The race for open-source AI coding models is moving at an incredible pace. Every few weeks, a new model promises better reasoning, longer…\nContinue reading on Data Science in Your Pocket »",
+      "url": "https://medium.com/data-science-in-your-pocket/laguna-s-2-1-the-118b-open-ai-coding-model-beats-inkling-deepseek-08186481910e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*gWYFCo8l6TajdA5p",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T17:51:38.000Z"
+    },
+    {
+      "id": "rss-f11fcc80b7dc",
+      "title": "AI Apocalypse: The End of Programming as We Know It",
+      "description": "Credit: https://img.magnific.com/\nContinue reading on Medium »",
+      "url": "https://medium.com/@abdullahsaifullah988/ai-apocalypse-the-end-of-programming-as-we-know-it-52ed12551c21?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*yMICyV84DzlLyCWWthhjRw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T17:51:35.000Z"
+    },
+    {
+      "id": "rss-ad4ce71af36b",
+      "title": "What If “Demonic Possession” Is Just a Story We Learned to Believe?",
+      "description": "There’s a question that has followed humanity for centuries, quietly shaping fear, belief, and imagination:\nContinue reading on Medium »",
+      "url": "https://anwaralahmadi.medium.com/what-if-demonic-possession-is-just-a-story-we-learned-to-believe-68c7b30c9f85?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*LlTmHa8YZ4NFNW_Jl08cjg@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T17:48:36.000Z"
+    },
+    {
+      "id": "rss-3e53ade59368",
+      "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
+      "description": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
+      "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/us/dc-nucleartrump-1/dc-nucleartrump-1-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-26T17:47:40.000Z"
+    },
+    {
+      "id": "rss-1672a9fefb23",
+      "title": "The Spiritual, Philosophical & Corporeal",
+      "description": "I take great inspiration from medieval Hellenistic, Eastern & Indian Cultural, Philosophical, artistic and Athletic traditions.\nContinue reading on Medium »",
+      "url": "https://medium.com/@moin.ekvg/the-spiritual-philosophical-corporeal-084378663f6b?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/2316/1*1K4sbOALq3c11vzNvfRpbg@2x.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T17:46:40.000Z"
+    },
+    {
+      "id": "rss-7c9843c20142",
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "description": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2d/live/2eaac610-88e8-11f1-bcf5-0bde7672ed32.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-26T17:45:30.000Z"
+    },
+    {
+      "id": "rss-efa9c844087c",
+      "title": "Ukraine’s attack on an Iranian ship in the Caspian Sea could signal a new battlefront as U.S. seeks to form ‘a ring of economic and military pressure’",
+      "description": "\"In any case, what is clear is that Iran’s war is becoming increasingly intertwined with two other conflicts: the Saudi-Houthi confrontation and the Russia-Ukraine war.\"",
+      "url": "https://fortune.com/2026/07/26/us-iran-war-ukraine-caspian-sea-houthis-red-sea-bab-el-mandeb-hormuz/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286894318-e1785082109880.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-26T17:44:19.000Z"
+    },
+    {
+      "id": "rss-532859e743b3",
+      "title": "Apple's smart glasses delay reportedly stems in part from major privacy concerns",
+      "description": "The Apple team behind the upcoming smart glasses is reportedly exploring several tweaks related to user privacy.",
+      "url": "https://www.engadget.com/2223527/apple-smart-glasses-delay-major-privacy-concerns/",
+      "image": "https://www.engadget.com/img/gallery/apples-smart-glasses-delay-reportedly-stems-in-part-from-major-privacy-concerns/l-intro-1785087373.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-26T17:43:38.000Z"
+    },
+    {
+      "id": "rss-d5e6a44ccb08",
+      "title": "The Art of Drinking Coffee",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@ecekaradag13/the-art-of-drinking-coffee-a7f342dae71e?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*YQBOwmUXobxxre7f049hSw@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T17:43:17.000Z"
+    },
+    {
+      "id": "rss-0abac5820c3f",
+      "title": "Flash Floods and Health Hazards",
+      "description": "The Diseases Everyone in Pakistan Should Prepare For This Monsoon\nContinue reading on Medium »",
+      "url": "https://medium.com/@iqbaljan048/flash-floods-and-health-hazards-d58a49f3283d?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*Ldn9tmIEslrKHJ-K",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T17:42:15.000Z"
+    },
+    {
+      "id": "rss-04f9c20cb80b",
+      "title": "The ₹1 Crore Hospital Bed: Why Indian Healthcare Financing Is at a Tipping Point",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@rajat.shukla49/the-1-crore-hospital-bed-why-indian-healthcare-financing-is-at-a-tipping-point-d69a0d0d2e18?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*p_JadGo7tOHsRq8kNBmufg@2x.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T17:38:19.000Z"
+    },
+    {
+      "id": "rss-9fef343a1187",
+      "title": "How Sitting All Day Hurts Your Back (And Simple Fixes)",
+      "description": "You sit down at your desk in the morning feeling completely fine. You start typing, answering messages, and checking tasks on your list…\nContinue reading on Medium »",
+      "url": "https://medium.com/@emma4themall/how-sitting-all-day-hurts-your-back-and-simple-fixes-282ae34c1755?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*swR_hE4Atdu3LTkz.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T17:37:50.000Z"
+    },
+    {
+      "id": "rss-b1400d8c1317",
+      "title": "Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party",
+      "description": "The Democrats should be well positioned to make gains in this year’s midterms. But inside party headquarters, every week brings paranoia, worries about money and, on occasion, emotional eruptions.",
+      "url": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26pol-dnc-chaos-lqjm/26pol-dnc-chaos-lqjm-mediumSquareAt3X-v2.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-26T17:31:21.000Z"
+    },
+    {
+      "id": "rss-90bbe6d6f1b7",
+      "title": "Everyday Revolutionary War heroes take center stage in Trump's 'Spirit of '76' exhibit",
+      "description": "The Caesar Rodney statue and 22 other installations at Freedom Plaza honor common, everyday Revolutionary War heroes as part of America's 250th anniversary under President Trump.",
+      "url": "https://www.foxnews.com/politics/everyday-revolutionary-war-heroes-take-center-stage-trumps-spirit-76-exhibit",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Spirit-of-76-Freedom-Plaza-Tour.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-26T17:30:01.000Z"
+    },
+    {
+      "id": "rss-16c28b508b16",
+      "title": "How to safely clean your USB ports",
+      "description": "Don't use WD-40 or Q-tips, for starters.",
+      "url": "https://www.engadget.com/2219833/how-to-safely-clean-usb-port-guide/",
+      "image": "https://www.engadget.com/img/gallery/how-to-safely-clean-your-usb-ports/l-intro-1783966129.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-26T17:30:00.000Z"
+    },
+    {
+      "id": "rss-7ce5e4a85e5d",
+      "title": "Top AI Careers That Don't Require a Software Engineering Degree",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/career/top-ai-careers-that-dont-require-a-software-engineering-degree",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-26/mr47gu9f/Top-AI-Careers-That-Dont-Require-a-Software-Engineering-Degree.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-26T17:30:00.000Z"
+    },
+    {
+      "id": "rss-4b2737f221a5",
+      "title": "‘Attack on Paradise’ Review: Under Siege From Both Criminals and Cops, a Hero Battles Upward in a Zesty High-Rise Actioner",
+      "description": "Saïd Boumazoughe gets a “created by” credit just below director Bob Colaers at the end of “Attack on Paradise,” amplifying the fact that this project is very much the Belgian-Moroccan star’s realized ",
+      "url": "https://variety.com/2026/film/reviews/attack-on-paradise-review-1236821505/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/Attack-On-Paradise-Press-Still-1.webp",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-26T17:29:26.000Z"
+    },
+    {
+      "id": "rss-09a193c0d642",
+      "title": "Kyle Shanahan injured in car accident: 49ers coach to begin training camp in limited role",
+      "description": "Reports say Shanahan suffered a broken nose, three broken ribs, a broken hand, a concussion and required more than 40 stitches to his face after the July 14 crash",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/kyle-shanahan-car-accident-injuries-49ers-training-camp/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2024/02/13/63fc8a6d-8cba-4934-a34e-98a44c875105/getty-kyle-shanahan-49ers.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T17:25:20.000Z"
+    },
+    {
+      "id": "rss-f8fb83df04c7",
+      "title": "Gatwick Airport left without running water after major outage",
+      "description": "SES Water says supplies are starting to return for impacted customers, including Gatwick Airport.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/409a/live/99bb0920-88f6-11f1-8824-a9ae603ecd1c.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-26T17:20:44.000Z"
+    },
+    {
+      "id": "rss-7cea3fa33703",
+      "title": "Buttler at his best as Super Giants thrash Phoenix",
+      "description": "Jos Buttler stars with 90 from 50 balls as Manchester Super Giants ease past Birmingham Phoenix at Old Trafford - winning by 87 runs in the men's Hundred.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/c9d859dx622o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c07/live/91f1b6f0-8912-11f1-b8ee-9b3c26ad07bb.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T17:19:37.000Z"
+    },
+    {
+      "id": "rss-f82148b9cd9d",
+      "title": "Gay Romance Podcast ‘Drive Thru Magic’ Casts Daniel J. Kim and Danielle Kennedy, Sets September Release Date (EXCLUSIVE)",
+      "description": "Daniel J. Kim (“Cobra Kai”) and Danielle Kennedy (“The ’Burbs”) have joined the cast of “Drive Thru Magic,” the upcoming scripted fiction podcast from actor, writer and director Briggon Snow (“The Bri",
+      "url": "https://variety.com/2026/digital/columns/gay-romance-podcast-drive-thru-magic-daniel-j-kim-1236821490/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/COVER_DRIVE_THRU_MAGIC63.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-26T17:19:17.000Z"
+    },
+    {
+      "id": "rss-ceff45a8b370",
+      "title": "Complete weekend for Norris but poor result for Sainz - driver ratings",
+      "description": "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Hungarian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/c74yr33vvy1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f688/live/d21ff650-8913-11f1-b8ee-9b3c26ad07bb.png",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T17:16:23.000Z"
+    },
+    {
+      "id": "rss-260af659c78b",
+      "title": "Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs",
+      "description": "Critically-acclaimed exclusives are super discounted right now",
+      "url": "https://kotaku.com/big-playstation-game-sale-is-a-perfect-chance-to-build-up-your-physical-collection-before-sony-kills-discs-2000719394",
+      "image": "https://kotaku.com/app/uploads/2023/05/d66a92b5f066dee597aeac4507d061de.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T17:13:58.000Z"
+    },
+    {
+      "id": "rss-4e16fba074ae",
+      "title": "‘No Rest for the Wicked’ Review: A Supernatural Gay Love Story in a 19th-Century Backwater",
+      "description": "The yearning separations of seafaring life have generated many a romantic ghost story, and while it largely takes place on terra firma, the Danish “No Rest for the Wicked” provides an honorable additi",
+      "url": "https://variety.com/2026/film/reviews/no-rest-for-the-wicked-review-1236821491/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/No-Rest-for-the-Wicked-Fantasia-Film-Festival-review.webp",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-26T17:10:04.000Z"
+    },
+    {
+      "id": "rss-ba9988d590de",
+      "title": "Simple Micro-Habits for Sustained Energy and Focus All Day",
+      "description": "IMAGE TITLE: Daily Energy Boost Micro-Habits ALT TEXT: A person smiling and focused, drinking water at a clean, sunlit desk with a plant…\nContinue reading on Medium »",
+      "url": "https://medium.com/@emma4themall/simple-micro-habits-for-sustained-energy-and-focus-all-day-18b681701861?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*2nG-wdcfq53UrPnx.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T17:09:39.000Z"
+    },
+    {
+      "id": "rss-d218340068a0",
+      "title": "Norris wins his first grand prix of year in Hungary",
+      "description": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf4/live/2550fdf0-8906-11f1-9cb3-95785c108dfc.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T17:02:14.000Z"
+    },
     {
       "id": "rss-13a5b99b6283",
       "title": "WHAT AI ACTUALLY KNOWS: The Retrieval Trap",
@@ -53,6 +713,16 @@
       "publishedAt": "2026-07-26T17:00:01.000Z"
     },
     {
+      "id": "rss-2fde4971bebb",
+      "title": "Crypto Security Tips Every Investor Needs",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/cryptocurrency-analytics-insight/crypto-security-tips-every-investor-needs",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-25/a6dxx09c/Crypto-Security-Tips-Every-Investor-Needs.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-26T17:00:00.000Z"
+    },
+    {
       "id": "rss-c16b5314ccf8",
       "title": "Vibe Coding on Vacation — No Laptop, Just a Phone and Codex",
       "description": "Around noon on a day in Paris, I sat down on a bench to rest. I took out my phone, gave Codex a large task, forgot about it, and went on…\nContinue reading on Artificial Intelligence in Plain English »",
@@ -91,6 +761,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-26T16:57:27.000Z"
+    },
+    {
+      "id": "rss-996063be3614",
+      "title": "The Higher Self Protocol: How I Rewired My Brain to Stop Cravings and Become a Better Parent",
+      "description": "We’ve all heard the advice: “Be your best self.” It sounds great on an inspirational poster, but in the trenches of everyday life — when a…\nContinue reading on Medium »",
+      "url": "https://medium.com/@abhinavmathur/the-higher-self-protocol-how-i-rewired-my-brain-to-stop-cravings-and-become-a-better-parent-1c0319861b4b?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*eCU7NCD45Fa7aUbQeI77XQ.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T16:57:13.000Z"
     },
     {
       "id": "rss-c59189a481c9",
@@ -313,6 +993,26 @@
       "publishedAt": "2026-07-26T16:40:08.000Z"
     },
     {
+      "id": "rss-0a0714a4339d",
+      "title": "Caitlin Clark really wants the conversation to go back to basketball -- and the Fever just want to win",
+      "description": "Clark called the constant discourse around her 'emotionally exhausting'",
+      "url": "\n                                                https://www.cbssports.com/wnba/news/caitlin-clark-fever-basketball-conversation-all-star-game/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/3c17cbf0-13e6-4b6f-84ed-75778f48e4c8/clark-getty-1.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T16:37:37.000Z"
+    },
+    {
+      "id": "rss-9dfbfd582769",
+      "title": "2026 Brickyard 400 predictions, odds, time: NASCAR at Indianapolis picks, best bets from proven model",
+      "description": "Mike McClure's computer model reveals its surprising picks and NASCAR Indianapolis props for the Brickyard 400 2026 as Ryan Blaney and Todd Gilliand battle for the NASCAR In-Season Challenge title",
+      "url": "\n                                                https://www.cbssports.com/betting/news/2026-brickyard-400-predictions-odds-time-nascar-indianapolis-picks-bets/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/05/17/e48311f9-6684-48d7-b5f4-893ded0adb04/hamlin-bell-dover-imagn.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T16:35:24.000Z"
+    },
+    {
       "id": "rss-f4b6fa7c9803",
       "title": "Completed Fan-Made Portal Remake Stuck In Limbo As Valve Goes Silent",
       "description": "Portal: Alive & Kicking kicking had Valve’s blessing and even access to Portal 2’s source code, but that same arrangement now has the team sitting on their hands",
@@ -353,6 +1053,16 @@
       "publishedAt": "2026-07-26T16:32:39.000Z"
     },
     {
+      "id": "rss-90cddf538ae1",
+      "title": "Holders St Mirren draw Rangers in League Cup last 16",
+      "description": "Holders St Mirren are drawn away to Rangers in the last 16 of the Premier Sports Cup, while Celtic visit Dundee United.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp87vyrgvzlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e23/live/897a5370-88cb-11f1-8803-f5158abe759a.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T16:32:13.000Z"
+    },
+    {
       "id": "rss-e5479a59be76",
       "title": "Path of Exile 2 is an intense action RPG that manages to be strangely cozy",
       "description": "Path of Exile 2 is nothing like the traditional cozy game, but Grinding Gear Games' action RPG can offer the relaxing experience you may need.",
@@ -381,6 +1091,16 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-26T16:30:00.000Z"
+    },
+    {
+      "id": "rss-752edf53fb2c",
+      "title": "Kevin Feige Says Ryan Gosling Approached Him With a 'Specific Vision' for Ghost Rider in the MCU",
+      "description": "Ryan Gosling will officially star in a Ghost Rider movie in the Marvel Cinematic Universe, and according to MCU orchestrator Kevin Feige, he's already got a \"specific vision\" in mind for the character",
+      "url": "https://www.ign.com/articles/kevin-feige-says-ryan-gosling-approached-him-with-a-specific-vision-for-ghost-rider-in-the-mcu",
+      "image": "https://assets-prd.ignimgs.com/2026/07/26/ryan-gosling-and-kevin-feige-1785083125737.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T16:28:46.000Z"
     },
     {
       "id": "rss-c0b4cd9f04da",
@@ -431,6 +1151,16 @@
       "source": "Phys.org",
       "category": "science",
       "publishedAt": "2026-07-26T16:20:01.000Z"
+    },
+    {
+      "id": "rss-040a39118720",
+      "title": "Michigan AD Warde Manuel to receive $7.1 million buyout after resignation as part of settlement, per report",
+      "description": "The Wolverines' outgoing athletic director will be compensated after an internal investigation",
+      "url": "\n                                                https://www.cbssports.com/college-football/news/michigan-ad-warde-manuel-buyout-resignation-settlement/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/4c8a8d79-e4d7-4016-9a1d-1f841ef00670/manuelme.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T16:19:37.000Z"
     },
     {
       "id": "rss-d2c63445c525",
@@ -497,7 +1227,7 @@
       "title": "Mayo beat Kerry in thriller to end 75-year All-Ireland wait",
       "description": "Mayo end a 75-year wait for the county's fourth All-Ireland Senior Football title with a 1-20 to 1-17 victory over Kerry in a captivating and intense final that went down to the wire at a raucous Crok",
       "url": "https://www.bbc.co.uk/sport/articles/c70gzrpky87o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3422/live/22ccf4b0-8912-11f1-bd73-9dd00d6a13bb.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1733/live/c8dbdf40-8914-11f1-bd73-9dd00d6a13bb.jpg",
       "source": "BBC Sports",
       "category": "sports",
       "publishedAt": "2026-07-26T16:12:43.000Z"
@@ -613,21 +1343,11 @@
       "publishedAt": "2026-07-26T16:00:12.000Z"
     },
     {
-      "id": "rss-f8fb83df04c7",
-      "title": "Gatwick Airport left without running water after major outage",
-      "description": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/409a/live/99bb0920-88f6-11f1-8824-a9ae603ecd1c.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-07-26T15:59:08.000Z"
-    },
-    {
       "id": "rss-5ed9e4c4f35d",
       "title": "‘The Odyssey’ Leaked on X: High-Quality Bootleg Seen by Millions in Hours Before Takedown",
       "description": "“The Odyssey” leaks have begun, as a high-quality bootleg of the film reached millions of people on X thanks to a viral tweet on July 25. At 2:25 p.m. PT, a post on X reading “Someone uploaded ‘The Od",
       "url": "https://variety.com/2026/film/news/the-odyssey-leaked-high-quality-bootleg-x-1236821418/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/CT-32577CC_MSG.jpg",
+      "image": "https://variety.com/wp-content/uploads/2026/07/LupitaOdyssey.jpeg",
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-07-26T15:55:23.000Z"
@@ -1003,16 +1723,6 @@
       "publishedAt": "2026-07-26T15:13:53.000Z"
     },
     {
-      "id": "rss-d218340068a0",
-      "title": "Norris wins his first grand prix of year in Hungary",
-      "description": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
-      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf4/live/2550fdf0-8906-11f1-9cb3-95785c108dfc.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-26T15:13:12.000Z"
-    },
-    {
       "id": "rss-75f86fe6d845",
       "title": "‘Unfilmable’ Cyberpunk Classic Neuromancer Receives First Trailer",
       "description": "The criminal underbelly of William Gibson’s genre shaping Sprawl comes to you from Apple TV",
@@ -1300,7 +2010,7 @@
       "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25dc-housing01-photo-tzpf/25dc-housing01-photo-tzpf-mediumSquareAt3X.jpg",
       "source": "NYT Politics",
       "category": "politics",
-      "publishedAt": "2026-07-26T14:31:21.000Z"
+      "publishedAt": "2026-07-26T14:31:22.000Z"
     },
     {
       "id": "rss-ad3422dc8a8b",
@@ -1411,16 +2121,6 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-26T14:20:43.000Z"
-    },
-    {
-      "id": "rss-3e53ade59368",
-      "title": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
-      "description": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
-      "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/us/dc-nucleartrump-1/dc-nucleartrump-1-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-26T14:19:15.000Z"
     },
     {
       "id": "rss-2cb1690cf7ed",
@@ -1841,16 +2541,6 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-26T13:41:19.000Z"
-    },
-    {
-      "id": "rss-7c9843c20142",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "description": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb2d/live/2eaac610-88e8-11f1-bcf5-0bde7672ed32.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-07-26T13:40:29.000Z"
     },
     {
       "id": "rss-81e30885b95e",
@@ -3371,16 +4061,6 @@
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-07-26T09:01:42.000Z"
-    },
-    {
-      "id": "rss-b1400d8c1317",
-      "title": "Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party",
-      "description": "The Democrats should be well positioned to make gains in this year’s midterms. But inside party headquarters, every week brings paranoia, worries about money and, on occasion, emotional eruptions.",
-      "url": "https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html",
-      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26pol-dnc-chaos-lqjm/26pol-dnc-chaos-lqjm-mediumSquareAt3X-v2.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-26T09:01:33.000Z"
     },
     {
       "id": "rss-e9c52e2fbb50",
@@ -7151,16 +7831,6 @@
       "source": "9to5Mac",
       "category": "technology",
       "publishedAt": "2026-07-25T18:57:00.000Z"
-    },
-    {
-      "id": "rss-09a193c0d642",
-      "title": "Kyle Shanahan injured in car accident: 49ers coach to begin training camp in limited role",
-      "description": "Reports say Shanahan suffered a broken nose, three broken ribs, a broken hand, a concussion and required more than 40 stitches to his face after the July 14 crash",
-      "url": "\n                                                https://www.cbssports.com/nfl/news/kyle-shanahan-car-accident-injuries-49ers-training-camp/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2024/02/13/63fc8a6d-8cba-4934-a34e-98a44c875105/getty-kyle-shanahan-49ers.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-25T18:56:05.000Z"
     },
     {
       "id": "rss-c80cdcb5b99f",
@@ -12995,7 +13665,7 @@
     {
       "id": "rss-a821cc1e01b8",
       "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide",
-      "description": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure and Oracle Cloud Infrastructure. ",
+      "description": "NVIDIA Vera Rubin is here, and it’s going gigascale. Vera Rubin NVL72 production is ramping up with racks running at partners CoreWeave, Google Cloud, Microsoft Azure, Oracle Cloud Infrastructure and ",
       "url": "https://blogs.nvidia.com/blog/vera-rubin/",
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/vera-tech-blog-vera-rubin-nvl72-1920x1080-1.png",
       "source": "NVIDIA AI Blog",
