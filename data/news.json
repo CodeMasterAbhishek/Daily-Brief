@@ -1,7 +1,707 @@
 {
-  "lastUpdated": "2026-07-26T14:28:54.778Z",
-  "count": 1204,
+  "lastUpdated": "2026-07-26T15:42:28.752Z",
+  "count": 1271,
   "articles": [
+    {
+      "id": "rss-866f6bd6d2bc",
+      "title": "Shin holds on to win Women's Scottish Open",
+      "description": "Jenny Shin survives a tricky final round to see off fellow South Korean A-Lim Kim and win the Women's Scottish Open.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c8enp1w59jgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee38/live/6902b100-8902-11f1-82e6-5554364f81bf.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T15:38:34.000Z"
+    },
+    {
+      "id": "rss-9534a23d6a8a",
+      "title": "Raining sixes - Buttler goes big against Birmingham Phoenix",
+      "description": "Jos Buttler scores 90 off 50 balls, in an innings that included five sixes, as he helps his Manchester Super Giants side reach 187-5 against Birmingham Phoenix in the men's Hundred.",
+      "url": "https://www.bbc.co.uk/sport/cricket/videos/cwyl6expd6wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed53/live/af317530-8902-11f1-a7ab-8b30adf0800a.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T15:37:12.000Z"
+    },
+    {
+      "id": "rss-3dcb627deaa4",
+      "title": "2026 3M Open TV schedule, coverage: Where to watch tournament, live streaming online",
+      "description": "Scottie Scheffler headlines the field at TPC Twin Cities the week after The Open",
+      "url": "\n                                                https://www.cbssports.com/golf/news/2026-3m-open-tv-schedule-coverage-where-to-watch-tee-times/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/c7831d47-c612-43ed-8fbe-18b74e3d28e3/3m-open-flag.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T15:37:09.000Z"
+    },
+    {
+      "id": "rss-1e5f95b15fcc",
+      "title": "Olivia’s Path to Better Health: 10 Everyday Habits That Changed Her Life",
+      "description": "Olivia used to believe that living a healthier life required a complete makeover. But after constantly feeling tired and overwhelmed, she…\nContinue reading on Medium »",
+      "url": "https://medium.com/@biby5pin/olivias-path-to-better-health-10-everyday-habits-that-changed-her-life-0a296b3a2653?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*M0S_z8TZM800eIzywlK0Vg.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:35:44.000Z"
+    },
+    {
+      "id": "rss-ef2ea3bf0b65",
+      "title": "Damn Consumerism",
+      "description": "I grew up with materialism.\nContinue reading on Thoughts of an Early Retiree »",
+      "url": "https://medium.com/my-mental-journey/damn-consumerism-185137c67e9a?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*3sFHURK9BTDtgRL5",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:33:44.000Z"
+    },
+    {
+      "id": "rss-5274973f0aef",
+      "title": "The Notebook That Taught Me Compassion for Someone I Used to Be (Part 9).",
+      "description": "/the-notebook-that-taught-me-compassion-for-my-younger-self.\nContinue reading on NEW LITERARY SOCIETY »",
+      "url": "https://medium.com/new-literary-society/the-notebook-that-taught-me-compassion-for-someone-i-used-to-be-part-9-8740c0c25f13?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*nhAzBuEIzXyX_p1iB4izHA.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:31:01.000Z"
+    },
+    {
+      "id": "rss-705865555bcc",
+      "title": "Parenting or Abuse: Where is the line drawn?",
+      "description": "“It’s for your own good”, “We are elder to you, listen to us”, “We have seen the world more than you”- Such phrases have echoed across…\nContinue reading on Medium »",
+      "url": "https://medium.com/@chaudharyurvi09/parenting-or-abuse-where-is-the-line-drawn-876710c01ab8?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*vXme4z-u-bJse8pdo9tdYg.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:30:59.000Z"
+    },
+    {
+      "id": "rss-234b0489fb79",
+      "title": "Android Auto has a developer menu you can access in seconds",
+      "description": "If you want to tweak your Android Auto settings, the software has a developer menu you can check out.",
+      "url": "https://www.engadget.com/2218723/android-auto-hidden-menu/",
+      "image": "https://www.engadget.com/img/gallery/android-auto-has-a-developer-menu-you-can-access-in-seconds/l-intro-1784129513.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-26T15:30:00.000Z"
+    },
+    {
+      "id": "rss-5b08784c824c",
+      "title": "Why Businesses are Using Blockchain to Strengthen Data Security",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/why-businesses-are-using-blockchain-to-strengthen-data-security",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-26/y98f4afs/Why-Businesses-Are-Using-Blockchain-to-Strengthen-Data-Security-.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:30:00.000Z"
+    },
+    {
+      "id": "rss-79d8fbb987b0",
+      "title": "MLB rumors: Major trade candidate could miss rest of 2026 with injury; Nationals taking calls on CJ Abrams",
+      "description": "The trade deadline is barely a week away",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/mlb-rumors-trade-deadline-shea-langeliers-athletics-cj-abrams-nationals-michael-king-padres/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/54ce009a-a4f5-4eb7-aac5-0814aeaeb0b4/langaliers-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T15:29:42.000Z"
+    },
+    {
+      "id": "rss-f8fb83df04c7",
+      "title": "Gatwick Airport left without running water after major outage",
+      "description": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
+      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/409a/live/99bb0920-88f6-11f1-8824-a9ae603ecd1c.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-26T15:29:29.000Z"
+    },
+    {
+      "id": "rss-b530964c41d2",
+      "title": "OpenAI’s Models Broke Into Hugging Face. This Isn’t Only an AI Safety Story",
+      "description": "Loss of control, broken guardrails, and over-privileged access all mattered. The overlooked failure is the one companies can fix now.\nContinue reading on Medium »",
+      "url": "https://medium.com/@graison/openais-models-broke-into-hugging-face-this-isn-t-only-an-ai-safety-story-da8b90a8ef7f?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*BzRG2GkF6nCS5T16Hc7few.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:28:48.000Z"
+    },
+    {
+      "id": "rss-2e43daa940a9",
+      "title": "What Should Older Adults Eat to Stay Healthy?",
+      "description": "Growing older is a natural part of life, but maintaining good health throughout the ageing process requires the right lifestyle choices —…\nContinue reading on Medium »",
+      "url": "https://medium.com/@muhammadsafdar_25205/what-should-older-adults-eat-to-stay-healthy-1b0c1f6bee0b?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*lvtcxPmeq_GTlthm.jpg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:28:31.000Z"
+    },
+    {
+      "id": "rss-807c8342df9c",
+      "title": "homework scanner ai: Fast Math Answers & Step-by-Step Solver",
+      "description": "Example Problem: Mixture Problem: Preparing an Acid Solution\nContinue reading on Medium »",
+      "url": "https://medium.com/@huanzidage/homework-scanner-ai-fast-math-answers-step-by-step-solver-e9056ae29a91?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1000/1*66rZWk0n5wfDPsOJQJ3eAw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:28:30.000Z"
+    },
+    {
+      "id": "rss-3261fe3d75c1",
+      "title": "ChatGPT Helped Me Find My Way Back",
+      "description": "I am out of the pit.\nContinue reading on Medium »",
+      "url": "https://medium.com/@dr.lodge.mccammon/chatgpt-helped-me-find-my-way-back-0963f5290086?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1535/1*fUG8tjsoreyo6jvy6DuJDQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:28:13.000Z"
+    },
+    {
+      "id": "rss-f801d0af21e8",
+      "title": "AI Has Infinite Patience. That’s Exactly the Problem",
+      "description": "That’s Exactly the Problem\nContinue reading on Medium »",
+      "url": "https://medium.com/@mpriyadharshini2212/ai-has-infinite-patience-thats-exactly-the-problem-192f2209472d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/735/1*1sf7i9kozHTTHFWVM8iLpQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:26:09.000Z"
+    },
+    {
+      "id": "rss-f2f3d60317a6",
+      "title": "Alzan Subhan: Merawat Kulit dengan Ilmu, Menyuarakan Kebenaran",
+      "description": "Alzan Subhan: Merawat Kulit dengan Ilmu, Menyuarakan Kebenaran\nContinue reading on Medium »",
+      "url": "https://medium.com/@alzansubhan8/alzan-subhan-merawat-kulit-dengan-ilmu-menyuarakan-kebenaran-32da85113cad?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*pTxOaBTDt8g9kWmkBn0Mkg.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:25:39.000Z"
+    },
+    {
+      "id": "rss-1492729aed26",
+      "title": "The World’s Most Expensive Game of Follow the Leader",
+      "description": "Why Every Tech Company Is Copying Every Other Tech Company\nContinue reading on The Haven »",
+      "url": "https://medium.com/the-haven/the-worlds-most-expensive-game-of-follow-the-leader-9e320ba486e4?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*HytMHVpXNUsSHE1XQ6-rog.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:25:24.000Z"
+    },
+    {
+      "id": "rss-9a5952e781b1",
+      "title": "How Did AI Suddenly Become So Good at Understanding Language?",
+      "description": "After learning about LLMs, RAG, and MCP, I thought I had a good understanding of how modern AI worked.\nContinue reading on Medium »",
+      "url": "https://medium.com/@padmavathipachitala2719/how-did-ai-suddenly-become-so-good-at-understanding-language-6d81269e5fc8?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*grWhTwkTMWxtKNc-OhC4Ng.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:23:42.000Z"
+    },
+    {
+      "id": "rss-b07e4deb3852",
+      "title": "Day 1: Understanding Large Language Models: A Journey From Words to AI",
+      "description": "What happens when a machine learns to predict language — and why does that simple task lead to systems that can write, explain, translate…\nContinue reading on Medium »",
+      "url": "https://techvirtuosa.medium.com/day-1-understanding-large-language-models-a-journey-from-words-to-ai-18cd3e7f9f74?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*0RmjtFholJbeTgfTvqJ1Hw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:23:27.000Z"
+    },
+    {
+      "id": "rss-1e9f87a31835",
+      "title": "As an industry, how do we address cognitive decline in LLM usage?",
+      "description": "I caught myself asking an LLM to rewrite a sentence I fully understood — and that’s when it felt… off.\nContinue reading on Medium »",
+      "url": "https://medium.com/@codesculpturersh/as-an-industry-how-do-we-address-cognitive-decline-in-llm-usage-6be88ff77b44?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*rCUJlMT9H8B9tHgk8ywn8Q.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:23:18.000Z"
+    },
+    {
+      "id": "rss-5558160c9664",
+      "title": "I Left the Man With the Most Green Flags",
+      "description": "What I learned about looking beyond someone’s actions.\nContinue reading on Heart Affairs »",
+      "url": "https://medium.com/heart-affairs/i-left-the-man-with-the-most-green-flags-1d97842ee159?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*zFUu9wkjSL-j9K7g",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:22:25.000Z"
+    },
+    {
+      "id": "rss-0d81b04f6986",
+      "title": "Why Your AI Answers Feel Average (And How Professionals Fix It)",
+      "description": "A friend of mine, a consultant who bills by the hour, told me she’d stopped using ChatGPT for anything important.\nContinue reading on Medium »",
+      "url": "https://medium.com/@koch.vince54/why-your-ai-answers-feel-average-and-how-professionals-fix-it-febb145b510b?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/736/1*ACPO14GI505AARqxeeu0Tw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:22:12.000Z"
+    },
+    {
+      "id": "rss-dc2571df9404",
+      "title": "This Local LLM Worked Best For My 16GB RAM M1 MacBook Pro!",
+      "description": "Learn how to build a resilient, fully automated background agent using Hermes, Qwen 3.5 9b, and Python to summarize your emails and send…\nContinue reading on Artificial Intelligence in Plain English »",
+      "url": "https://ai.plainenglish.io/this-local-llm-worked-best-for-my-16gb-ram-m1-macbook-pro-4b59e2ba6870?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*k3TCHrjzGkdpxowv",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:21:01.000Z"
+    },
+    {
+      "id": "rss-663e52ede2fb",
+      "title": "How I Burned 10 Million Tokens to Build MediTrack: Transforming Indian Healthcare through Voice AI",
+      "description": "India generates 10 to 12 billion medical reports every year. Most patients never truly understand them.\nContinue reading on Medium »",
+      "url": "https://kabirgupta2201.medium.com/how-i-burned-10-million-tokens-to-build-meditrack-transforming-indian-healthcare-through-voice-ai-ec0cf35f2663?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*ix0Jqb_4ySf6dHHZcpc0zw.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:20:51.000Z"
+    },
+    {
+      "id": "rss-5ba747909b0b",
+      "title": "The Machine Learning Calculus Masterclass: Ditch the Limits, Master the Optimization",
+      "description": "If you took calculus in a classroom, you were likely taught that derivatives are about limits endless fractions approaching zero that were…\nContinue reading on Medium »",
+      "url": "https://medium.com/@omkekan27/the-machine-learning-calculus-masterclass-ditch-the-limits-master-the-optimization-7af5242b78c0?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/635/1*Aro6plCgqRJxs4qMg83O2A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:20:15.000Z"
+    },
+    {
+      "id": "rss-2b8f7dc72432",
+      "title": "Peluk yang Tertinggal",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@sekarditaman/peluk-yang-tertinggal-f53164eeed7b?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1188/1*kn4UpXWldqpP3PzfH7wqjg@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:20:05.000Z"
+    },
+    {
+      "id": "rss-173336b7b690",
+      "title": "79 Percent of Europe’s AI Projects Are Failing. The Report Already Names Why.",
+      "description": "By Dr Grant Van Ulbrich, Founder and CEO of The PCM Company: A SCARED SO WHAT® Ltd Enterprise\nContinue reading on Medium »",
+      "url": "https://medium.com/@grant_15322/79-percent-of-europes-ai-projects-are-failing-the-report-already-names-why-7a2a38753135?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*gA-JPwZGKJXZQgkKhJDVhA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:20:02.000Z"
+    },
+    {
+      "id": "rss-ceba875a6fc8",
+      "title": "'Apple Upgrade' Program Launching on Tuesday",
+      "description": "In his newsletter today, Bloomberg's Mark Gurman reiterated that a new \"Apple Upgrade\" program is set to launch in the U.S. on Tuesday, July 28. Apple will stop accepting iPhone Upgrade Program sign-u",
+      "url": "https://www.macrumors.com/2026/07/26/apple-upgrade-program-launching-tuesday/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iPhone-18-Pro-and-Pro-Max-Feature.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-26T15:20:00.000Z"
+    },
+    {
+      "id": "rss-fb01b40f85c7",
+      "title": "Hair Day",
+      "description": "The Six Hours Nobody Sees Before the World Calls Her “Put Together\nContinue reading on Medium »",
+      "url": "https://medium.com/@jtomlin08/hair-day-55d33028e204?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/600/0*0pbYILPSzq--dFEH.jpg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:19:57.000Z"
+    },
+    {
+      "id": "rss-9c8cf9bfefd1",
+      "title": "Most AI Companions Don’t Actually Remember You. Here’s What’s Really Happening Under the Hood.",
+      "description": "Why most AI companion apps forget you — and what real, visible memory actually takes.\nContinue reading on Medium »",
+      "url": "https://medium.com/@medakramelhalfa/most-ai-companions-dont-actually-remember-you-here-s-what-s-really-happening-under-the-hood-ce43f1f43051?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2048/1*cwEruKGHxgmd4xZmDW_t1w.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:16:42.000Z"
+    },
+    {
+      "id": "rss-8ef8df97ba37",
+      "title": "Avengers, Ghost Rider, And More: Everything Marvel Revealed At San Diego Comic Con 2026",
+      "description": "The Hall H panel even included a Deadpool cameo",
+      "url": "https://kotaku.com/avengers-ghost-rider-and-more-everything-marvel-revealed-at-san-diego-comic-con-2026-2000719376",
+      "image": "https://kotaku.com/app/uploads/2026/07/black-panther-1280x725.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T15:14:52.000Z"
+    },
+    {
+      "id": "rss-61116e151cf6",
+      "title": "My Complicated Relationship with Alternative Medicine",
+      "description": "After all-too-frequent episodes of hoarseness that were affecting my performance as a university teacher, as well as my participation in a…\nContinue reading on Crow’s Feet: Life As We Age »",
+      "url": "https://medium.com/crows-feet/my-complicated-relationship-with-alternative-medicine-7612221c0965?source=rss------medicine-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*rNsforPDAV-bxbI9",
+      "source": "Medium Medicine",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:14:49.000Z"
+    },
+    {
+      "id": "rss-7456e6434bf0",
+      "title": "Gymnast Ward goes from Glasgow dreamer to gold medallist",
+      "description": "Twelve years ago, a young Reuben Ward watched wide-eyed as Dan Keatings won gymnastics gold for Scotland in Glasgow. Now he celebrates achieving the same feat in the 2026 Commonwealth Games.",
+      "url": "https://www.bbc.co.uk/sport/gymnastics/articles/cx2r808lmreo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbd5/live/65df6d70-8901-11f1-82e6-5554364f81bf.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T15:13:53.000Z"
+    },
+    {
+      "id": "rss-d218340068a0",
+      "title": "Norris wins his first grand prix of year in Hungary",
+      "description": "Lando Norris takes his and McLaren's first victory of the year in a compelling Hungarian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cm2gnkyl8j1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddf4/live/2550fdf0-8906-11f1-9cb3-95785c108dfc.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T15:13:12.000Z"
+    },
+    {
+      "id": "rss-75f86fe6d845",
+      "title": "‘Unfilmable’ Cyberpunk Classic Neuromancer Receives First Trailer",
+      "description": "The criminal underbelly of William Gibson’s genre shaping Sprawl comes to you from Apple TV",
+      "url": "https://kotaku.com/unfilmable-cyberpunk-classic-neuromancer-receives-first-trailer-2000719381",
+      "image": "https://kotaku.com/app/uploads/2026/07/mollymillions-1280x829.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T15:11:22.000Z"
+    },
+    {
+      "id": "rss-8d94594bd449",
+      "title": "Did You Know … A Doctor Once Operated On His Own Appendix?",
+      "description": "Talk about “Physician, heal thyself.”\nContinue reading on Did You Know…Short Fun Facts »",
+      "url": "https://medium.com/did-you-know-short-fun-facts/did-you-know-a-doctor-once-operated-on-his-own-appendix-6384d1d03be1?source=rss------medicine-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*pNDIkxXBLCFxztyYU-SPnw.png",
+      "source": "Medium Medicine",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:09:55.000Z"
+    },
+    {
+      "id": "rss-a7e96decbc76",
+      "title": "#Modi brings in #NandanNilekani",
+      "description": "For Advanced Technology Usage for\nContinue reading on Medium »",
+      "url": "https://medium.com/@abrapolu/modi-brings-in-nandannilekani-bf5f148f855c?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1119/1*9RTkBu7j1TVhz8EBDyDf0g@2x.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T15:08:56.000Z"
+    },
+    {
+      "id": "rss-afff10f1e53c",
+      "title": "Utah, Known for Big Families, Leads the U.S. in Dropping Birthrates",
+      "description": "Forget tradwives. When it comes to plummeting fertility rates, Utah is leading the country.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/utah-birth-rate-fertility-decline.html",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/00nat-birthrate-utah-cgtj/00nat-birthrate-utah-cgtj-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-26T15:08:07.000Z"
+    },
+    {
+      "id": "rss-a5b9f6897510",
+      "title": "What to Expect From Apple Watch Series 12 and Apple Watch Ultra 4",
+      "description": "Bloomberg's Mark Gurman today outlined what to expect from the Apple Watch Series 12 and Apple Watch Ultra 4 this year. Spoiler: not very much.\r\n\r\n\r\nWhile it was rumored that Touch ID may be coming to",
+      "url": "https://www.macrumors.com/2026/07/26/apple-watch-series-12-ultra-4-features-rumors/",
+      "image": "https://images.macrumors.com/article-new/2026/05/Apple-Watch-Ultra-2-Black-Titanium.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-26T15:07:27.000Z"
+    },
+    {
+      "id": "rss-bb878abdb5e2",
+      "title": "Conspiracy theorist Laura Loomer admits she was ‘bamboozled’ by Russian propaganda and calls podcasters’ misinformation a national security threat",
+      "description": "“You don’t need to listen to a podcaster and let them influence your opinion about a country. You can look at those facts yourself.”",
+      "url": "https://fortune.com/2026/07/26/laura-loomer-russian-propaganda-ukraine-war-podcaster-misinformation-national-security-threat/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26207222131168-e1785077542647.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-26T15:01:21.000Z"
+    },
+    {
+      "id": "rss-e3cdb07533ba",
+      "title": "How Fast You Eat Can Shape Your Health More Than You Think",
+      "description": "Edited by Author\nContinue reading on Medium »",
+      "url": "https://medium.com/@shabnamkanwar/how-fast-you-eat-can-shape-your-health-more-than-you-think-7cef71332c77?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1078/1*Q1k8w5n2AoNcwBPLTuKbuA.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T15:00:59.000Z"
+    },
+    {
+      "id": "rss-fd77d35a9946",
+      "title": "Star Trek: Strange New Worlds cast reveal why Kirk and Spock still aren't best friends in season 4",
+      "description": "As the series moves closer to The Original Series, the cast explains why every episode still feels unmistakably like Star Trek.",
+      "url": "https://www.polygon.com/star-trek-strange-new-worlds-season-4-cast-interview/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/kirkandspock2.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T15:00:12.000Z"
+    },
+    {
+      "id": "rss-bc15e3d6a19a",
+      "title": "You can get three months of Xbox Game Pass Ultimate for almost half off",
+      "description": "Subscribing to Xbox Game Pass Ultimate on a recurring basis has been tough to justify recently, even after Microsoft reduced the monthly cost from $29.99 to $22.99. But you can get a better deal on a ",
+      "url": "https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/assets_2026_06_1780857686_1b.HCE_Standard_Edition_No_Logo_3840x2180.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-26T15:00:00.000Z"
+    },
+    {
+      "id": "rss-c4831e908ff9",
+      "title": "‘Rick and Morty’ Spinoff ‘President Curtis’ Plays It Safe, but Keeps the Sci-Fi Franchise Cruising: TV Review",
+      "description": "“They spin off so fast,” Morty (Harry Belden) sighs of the latest visitors to the garage he shares with his grandfather Rick (Ian Cardoni). “I give it 10 episodes,” Rick replies. The scene is an oblig",
+      "url": "https://variety.com/2026/tv/reviews/president-curtis-review-rick-and-morty-spinoff-1236817266/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/PresidentCurtis_106_01.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-26T15:00:00.000Z"
+    },
+    {
+      "id": "rss-d8450dcf5b8d",
+      "title": "Inside ‘Colony’: ‘Train to Busan’ Director Yeon Sang-ho and Gianna Jun Discuss Their Thrilling New Take on the Zombie Movie",
+      "description": "“Train to Busan” proved that humans can’t outrun the infected. “Colony” proves they can’t outsmart them.  Director Yeon Sang-ho returns to the zombie genre with his third live-action thriller, “Colony",
+      "url": "https://variety.com/2026/film/news/colony-south-korea-yeon-sang-ho-gianna-jun-ji-hyun-zombie-movie-train-to-busan-1236821333/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/COLONY-STILL-10.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-26T15:00:00.000Z"
+    },
+    {
+      "id": "rss-a4306d7db9f3",
+      "title": "College football's rebound teams: Florida, Penn State among squads poised to improve win totals in 2026",
+      "description": "Whether it's through a new coach, rebuilt roster or easier schedule, these teams all have a chance to significantly improve their win totals from 2025",
+      "url": "\n                                                https://www.cbssports.com/college-football/news/college-footballs-rebound-teams-florida-penn-state-among-squads-poised-to-improve-win-totals-in-2026/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/012d92e4-fbbf-490b-89a5-aa81793d47c1/usatsi-28811245-1.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T14:57:03.000Z"
+    },
+    {
+      "id": "rss-55f8e45f3f3a",
+      "title": "Pusaran Nirfungsi",
+      "description": "Rotasi berulang dari yang gagal mendefinisikan cinta\nContinue reading on Medium »",
+      "url": "https://medium.com/@alyalkautsar/pusaran-nirfungsi-ae03099e1138?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*keoFqMweCIGOmpxpWC9_Nw@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T14:56:42.000Z"
+    },
+    {
+      "id": "rss-dbc66d7f6b12",
+      "title": "The Easiest Way to Measure Your VO₂ Max (And Improve It)",
+      "description": "Use the Cooper Test to estimate your aerobic fitness in just 12 minutes — no expensive lab equipment required.\nContinue reading on Medium »",
+      "url": "https://medium.com/@andrew_best/the-easiest-way-to-measure-your-vo%E2%82%82-max-and-improve-it-562eebecfef5?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*HDdhv8Ue0OTUcJtGYIF72g.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T14:56:23.000Z"
+    },
+    {
+      "id": "rss-61b1c61f4fec",
+      "title": "Your Kitchen Is the Secret to a Healthier Life: 5 Simple Habits That Really Work",
+      "description": "Why Your Kitchen Can Be the Best Place to Build a Healthy Lifestyle\nContinue reading on Medium »",
+      "url": "https://medium.com/@fitcookglow/your-kitchen-is-the-secret-to-a-healthier-life-5-simple-habits-that-really-work-d5e32475d4f3?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*evUUGF3vSIyAc-xrzCxWKw.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T14:53:11.000Z"
+    },
+    {
+      "id": "rss-5effee36be9e",
+      "title": "Curtis Mead-Connelly Early trade grades: Nationals ace low-cost flip, Red Sox add much-needed length",
+      "description": "Both parties found exactly what they needed and made subtractions from an area of strength",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/curtis-mead-connelly-early-trade-grades-red-sox-nationals/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/676a220b-cdf7-45b1-85bc-1d46fb5346ad/mead-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T14:52:24.000Z"
+    },
+    {
+      "id": "rss-8751e33451f1",
+      "title": "האם כדורים שנרשמו על ידי רופא יכולים להוביל להתמכרות?",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@dhvny8/%D7%94%D7%90%D7%9D-%D7%9B%D7%93%D7%95%D7%A8%D7%99%D7%9D-%D7%A9%D7%A0%D7%A8%D7%A9%D7%9E%D7%95-%D7%A2%D7%9C-%D7%99%D7%93%D7%99-%D7%A8%D7%95%D7%A4%D7%90-%D7%99%D7%9B%D7%95%D7%9C%D7%99%D7%9D-%D7%9C%D7%94%D7%95%D7%91%D7%99%D7%9C-%D7%9C%D7%94%D7%AA%D7%9E%D7%9B%D7%A8%D7%95%D7%AA-98100372402f?source=rss------medicine-5",
+      "image": "https://cdn-images-1.medium.com/max/1449/1*liMN8SukQLMDLuw4NMVEAg@2x.jpeg",
+      "source": "Medium Medicine",
+      "category": "health",
+      "publishedAt": "2026-07-26T14:52:15.000Z"
+    },
+    {
+      "id": "rss-a4524cf8d846",
+      "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
+      "description": "Ryan Gosling on stage at Comic-Con | Image: Marvel Studios\t\n\nWhile perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was cer",
+      "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/HOH7bVYboAAjHWn.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-07-26T14:51:33.000Z"
+    },
+    {
+      "id": "rss-def1962c0a57",
+      "title": "Box Office: ‘Toy Story 5’ Crosses $1 Billion, Becomes Highest-Grossing Movie of the Year",
+      "description": "Who says toys are outdated? Disney and Pixar’s “Toy Story 5,” which grapples with the reality that kids would rather play with tech than dolls, has surpassed $1 billion globally and now ranks as the h",
+      "url": "https://variety.com/2026/film/box-office/toy-story-5-billion-dollar-box-office-1236818437/",
+      "image": "https://variety.com/wp-content/uploads/2026/06/MCDTOST_WD035_001121.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-26T14:50:59.000Z"
+    },
+    {
+      "id": "rss-8e6513f2aa73",
+      "title": "WNBA to launch replay center in 2027: What we know about the facility and how it will impact officiating woes",
+      "description": "'This is one of the most significant investments we've ever made in our basketball operations,' commissioner Cathy Engelbert said before Saturday's All-Star Game",
+      "url": "\n                                                https://www.cbssports.com/wnba/news/wnba-replay-center-officiating/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/fb245bf0-70ff-46ce-a506-49214cf7bb16/wnba-referee-replay-center-shakira-austin.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T14:47:33.000Z"
+    },
+    {
+      "id": "rss-bad519dff19a",
+      "title": "The Holo-Health Engine: Seamless Integration of Metabolic, Kinetic, and Restorative Pillars",
+      "description": "The Holo-Health Engine provides an all-encompassing wellness strategy crafted to eliminate deep-seated fatigue and bolster long-term…\nContinue reading on Medium »",
+      "url": "https://medium.com/@tareakote1999/the-holo-health-engine-seamless-integration-of-metabolic-kinetic-and-restorative-pillars-ff0c70bc1c0b?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*_RJoKce5iRe16N5_Z4nTLQ@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-26T14:46:43.000Z"
+    },
+    {
+      "id": "rss-9034b6adf28c",
+      "title": "Nuclear regulators want to eliminate a foundational safety principal that seeks to keep radiation exposure ‘as low as reasonably achievable’",
+      "description": "“But the standard for exposure to workers and the public, those are not changing. We’re just putting in place greater clarification.”",
+      "url": "https://fortune.com/2026/07/26/nuclear-regulatory-commission-trump-safety-principal-radiation-exposure-as-low-as-reasonably-achievable/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26204719789171-e1785076683777.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-26T14:46:41.000Z"
+    },
+    {
+      "id": "rss-1b9db88a9c2d",
+      "title": "Box Office: ‘The Odyssey’ Sails to $87 Million in Massive Second Weekend",
+      "description": "“The Odyssey” continued its epic box office journey, scoring a sensational $87 million from 3,943 North American theaters in its second weekend of release. That’s a tally that most films, especially o",
+      "url": "https://variety.com/2026/film/box-office/the-odyssey-box-office-massive-second-weekend-1236821417/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/MCDODYS_UV008_1ac039.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-26T14:46:29.000Z"
+    },
+    {
+      "id": "rss-8b402fdca8ce",
+      "title": "Agent Memory Is the Real Moat",
+      "description": "Discover why LLM agent memory requires a governed lifecycle, not bigger context windows or vector DBs. Learn architectures and metrics\nContinue reading on Medium »",
+      "url": "https://medium.com/@UdaykiranEstari/agent-memory-is-the-real-moat-5d86930b8e10?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*ok80sM9YK2VuSft6xbFnHA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T14:41:00.000Z"
+    },
+    {
+      "id": "rss-1009762ab8af",
+      "title": "Resident Evil Director Knows RE2 Didn't Have Snow or iPhones, But He 'Took Liberties' to Make the Movie Better",
+      "description": "Resident Evil director Zach Cregger has seen all the comments about the snow and iPhones in his new movie, but he said he's got a good reason for why he \"took liberties\" with the lore.",
+      "url": "https://www.ign.com/articles/resident-evil-director-knows-re2-didnt-have-snow-or-iphones-but-he-took-liberties-to-make-the-movie-better",
+      "image": "https://assets-prd.ignimgs.com/2026/04/28/residentevil-thumb-1777417521520.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-26T14:38:21.000Z"
+    },
+    {
+      "id": "rss-efece6a30b42",
+      "title": "New tariffs could allow Trump to make levies permanent without going to Congress — ‘he’s trying every side door and every unlatched window to get in’",
+      "description": "The tariffs were levied under Section 301 of the Trade Act of 1974.",
+      "url": "https://fortune.com/2026/07/26/trump-tariffs-permanent-section-301-forced-labor-congress/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26205767251413-e1785076249654.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-26T14:36:06.000Z"
+    },
+    {
+      "id": "rss-572dd6e5c67c",
+      "title": "Fear and freedom at Lake Bohinj",
+      "description": "It has been a long time since I last wrote here. I took a hiatus to pursue a new challenge, not a physical one this time, but a…\nContinue reading on Medium »",
+      "url": "https://medium.com/@theswimmingpsychologist/fear-and-freedom-at-lake-bohinj-7aa9a5c65d07?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*sZvoLRsNK4jkDz05lnhGzA.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T14:32:29.000Z"
+    },
+    {
+      "id": "rss-bae2b3074767",
+      "title": "How a Housing Bill Trump Spurned Became Law",
+      "description": "Despite partisan differences, intraparty feuds and the president’s lack of interest, Congress delivered the first major housing bill in a generation.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/elizabeth-warren-housing-bill-trump.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25dc-housing01-photo-tzpf/25dc-housing01-photo-tzpf-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-26T14:31:21.000Z"
+    },
+    {
+      "id": "rss-ad3422dc8a8b",
+      "title": "Opus 5 Was Just Released And Its …",
+      "description": "Impressive, it is very impressive and the ‘comeback’ Anthropic needed. However, when I am choosing a model for a coding, the cheap-looking…\nContinue reading on Towards AI »",
+      "url": "https://pub.towardsai.net/opus-5-was-just-released-and-its-11bfa411772d?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*fvsL2H-XYDbgXBQWbSn3pQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-26T14:31:01.000Z"
+    },
+    {
+      "id": "rss-18c6684a38db",
+      "title": "The Thing I Notice in Patients Before Their Charts Do or What I Saw That the Medical Record Missed.",
+      "description": "What the medical record could never tell me\nContinue reading on Live Stronger, Live Longer »",
+      "url": "https://medium.com/dr-michael-hunters-wellness/the-thing-i-notice-in-patients-before-their-charts-do-or-what-i-saw-that-the-medical-record-missed-0088424f0418?source=rss------medicine-5",
+      "image": "https://cdn-images-1.medium.com/max/1023/1*1MZdZQuJCtGHBHJa6Tma5g.png",
+      "source": "Medium Medicine",
+      "category": "health",
+      "publishedAt": "2026-07-26T14:31:01.000Z"
+    },
+    {
+      "id": "rss-e8f67048257e",
+      "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Phillies vs. Yankees, MLB betting on Sunday",
+      "description": "DraftKings offers $150 in bonus bets after your first $5 wager for Yankees vs. Phillies, MLB betting on Sunday",
+      "url": "\n                                                https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-phillies-yankees-mlb-betting-sunday/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/f6e09138-10e1-46d1-8a69-6cb1358224dd/draftkings-bet-5-get-150.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T14:30:26.000Z"
+    },
+    {
+      "id": "rss-14774dbf0d93",
+      "title": "DNA vacuum captures animal traces from air to map Danish wildlife",
+      "description": "Researchers have developed a DNA vacuum that can suck genetic traces from animals out of the air and reveal which animals live in an area. In two new studies, the researchers collected air samples in ",
+      "url": "https://phys.org/news/2026-07-dna-vacuum-captures-animal-air.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/dna-vacuum-reveals-loc.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-26T14:30:03.000Z"
+    },
+    {
+      "id": "rss-962541b27b28",
+      "title": "Your Apple Watch calorie tracker is an educated guess, not a fact",
+      "description": "Accurately counting calories requires more data than a smartwatch can easily gather.",
+      "url": "https://www.engadget.com/2222496/apple-watch-heres-why-calorie-tracker-not-a-fact/",
+      "image": "https://www.engadget.com/img/gallery/your-apple-watch-calorie-tracker-is-an-educated-guess-not-a-fact/l-intro-1784301861.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-07-26T14:30:00.000Z"
+    },
+    {
+      "id": "rss-fc177268bb67",
+      "title": "Top 5 Biotech Stocks to Buy in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/top-5-biotech-stocks-to-buy-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-26/lpclyuhg/5-Best-Biotech-Stocks-to-Buy-in-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-26T14:30:00.000Z"
+    },
+    {
+      "id": "rss-6726dbea08cd",
+      "title": "A deal is being negotiated that centers around having Iran run vessel transit through the Strait of Hormuz with fewer restrictions on ships",
+      "description": "A regional official said that both the U.S. and Iran want to return to the interim ceasefire deal.",
+      "url": "https://fortune.com/2026/07/26/us-iran-deal-talks-vessel-transit-strait-of-hormuz-restrictions-ships/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/AP26205729855639-e1785075695268.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-26T14:27:33.000Z"
+    },
     {
       "id": "rss-980b129f9095",
       "title": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
@@ -13,14 +713,14 @@
       "publishedAt": "2026-07-26T14:24:33.000Z"
     },
     {
-      "id": "rss-f8fb83df04c7",
-      "title": "Gatwick Airport left without running water after major outage",
-      "description": "Bottled water is being handed out to passengers and staff while the issue is investigated.",
-      "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/409a/live/99bb0920-88f6-11f1-8824-a9ae603ecd1c.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-07-26T14:22:26.000Z"
+      "id": "rss-27c22695652c",
+      "title": "Transform Your Body in Just 21 Days!",
+      "description": "Discover the Delicious Weight Loss Plan Everyone Is Talking About\nContinue reading on Medium »",
+      "url": "https://medium.com/@benzrcm19/transform-your-body-in-just-21-days-00aa0070e7fe?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*ccPOm1ij1WlL6irajElPZw.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-26T14:23:37.000Z"
     },
     {
       "id": "rss-1f95d91dfd6f",
@@ -223,16 +923,6 @@
       "publishedAt": "2026-07-26T14:07:05.000Z"
     },
     {
-      "id": "rss-8e6513f2aa73",
-      "title": "WNBA to launch replay center in 2027: What we know about the facility and how it will impact officiating woes",
-      "description": "'This is one of the most significant investments we've ever made in our basketball operations,' commissioner Cathy Engelbert said before Saturday's All-Star Game",
-      "url": "\n                                                https://www.cbssports.com/wnba/news/wnba-replay-center-officiating/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/fb245bf0-70ff-46ce-a506-49214cf7bb16/wnba-referee-replay-center-shakira-austin.png",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-26T14:06:49.000Z"
-    },
-    {
       "id": "rss-82ce6efff7b6",
       "title": "Inside the Rushed Effort to Get Trump His New Air Force One",
       "description": "A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.",
@@ -240,7 +930,7 @@
       "image": "https://static01.nyt.com/images/2026/07/23/multimedia/00dc-airforce1-top-4-tlvq/00dc-airforce1-top-4-tlvq-mediumSquareAt3X.jpg",
       "source": "NYT Politics",
       "category": "politics",
-      "publishedAt": "2026-07-26T14:06:25.000Z"
+      "publishedAt": "2026-07-26T14:06:26.000Z"
     },
     {
       "id": "rss-78ba2993af4c",
@@ -333,6 +1023,16 @@
       "publishedAt": "2026-07-26T14:00:00.000Z"
     },
     {
+      "id": "rss-570679d629e9",
+      "title": "The ‘White Lotus’ effect: How fabulous TV locations are reshaping luxury travel and infuriating locals",
+      "description": "From the Côte d’Azur to the Scottish Highlands, you can now plan a vacation as fabulous as your favorite show.",
+      "url": "https://fortune.com/2026/07/26/white-lotus-effect-fabulous-tv-locations-reshaping-luxury-travel-infuriating-locals/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/Zannier-Ile-de-Bendor-12--Susan-Buth-for-Zannier-Hotels_v1-e1784570600155.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-26T14:00:00.000Z"
+    },
+    {
       "id": "rss-766c6af47a26",
       "title": "An Admiral’s Rise Reveals the Politics Driving Hegseth’s Pentagon",
       "description": "Before he was picked to lead the Navy, Adm. Daryl Caudle found ways to signal his support for Defense Secretary Pete Hegseth’s anti-diversity goals.",
@@ -350,7 +1050,7 @@
       "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-header-wchq/22mideast-live-header-wchq-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-26T13:57:38.000Z"
+      "publishedAt": "2026-07-26T13:57:39.000Z"
     },
     {
       "id": "rss-9c6f232129fe",
@@ -7503,16 +8203,6 @@
       "publishedAt": "2026-07-25T15:32:37.000Z"
     },
     {
-      "id": "rss-c8423b0e9d28",
-      "title": "2026 3M Open TV schedule, coverage: Where to watch PGA Tour's annual trip to Twin Cities",
-      "description": "Scottie Scheffler headlines the field at TPC Twin Cities the week after The Open",
-      "url": "\n                                                https://www.cbssports.com/golf/news/2026-3m-open-tv-schedule-coverage-where-to-watch-tee-times/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/21/c7831d47-c612-43ed-8fbe-18b74e3d28e3/3m-open-flag.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-25T15:31:24.000Z"
-    },
-    {
       "id": "rss-93db7045cbb6",
       "title": "Maine Democrats crown Troy Jackson as Platner replacement as fresh scrutiny clouds Senate reset",
       "description": "Troy Jackson, a fifth-generation logger and former state Senate president, now faces Susan Collins in Maine's Senate race ranked a toss-up.",
@@ -8063,14 +8753,14 @@
       "publishedAt": "2026-07-25T13:59:31.000Z"
     },
     {
-      "id": "rss-8c8e32e805b3",
+      "id": "rss-c02b3d862487",
       "title": "From Celebration to Escalation: How Trump’s Iran Cease-Fire Collapsed",
       "description": "The U.S. deal with Iran signed in June initially appeared to be a success. It didn’t take long to fall apart.",
       "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html",
       "image": "https://static01.nyt.com/images/2026/07/23/multimedia/00dc-strait01a-photo-lpgb/00dc-strait01a-photo-lpgb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-25T13:58:49.000Z"
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-25T13:58:50.000Z"
     },
     {
       "id": "rss-cde6fea52f94",
@@ -8411,16 +9101,6 @@
       "source": "BBC Sports",
       "category": "sports",
       "publishedAt": "2026-07-25T12:27:09.000Z"
-    },
-    {
-      "id": "rss-afff10f1e53c",
-      "title": "Utah, Known for Big Families, Leads the U.S. in Dropping Birthrates",
-      "description": "Forget tradwives. When it comes to plummeting fertility rates, Utah is leading the country.",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/utah-birth-rate-fertility-decline.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/00nat-birthrate-utah-cgtj/00nat-birthrate-utah-cgtj-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-25T12:24:46.000Z"
     },
     {
       "id": "rss-4cdfb1fe4fb3",
@@ -8831,16 +9511,6 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-25T09:02:10.000Z"
-    },
-    {
-      "id": "rss-bae2b3074767",
-      "title": "How a Housing Bill Trump Spurned Became Law",
-      "description": "Despite partisan differences, intraparty feuds and the president’s lack of interest, Congress delivered the first major housing bill in a generation.",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/elizabeth-warren-housing-bill-trump.html",
-      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25dc-housing01-photo-tzpf/25dc-housing01-photo-tzpf-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-25T09:00:53.000Z"
     },
     {
       "id": "rss-32551d7185bf",
@@ -11647,10 +12317,10 @@
       "title": "‘Too Rare to Care’? A New Center for Rare Diseases Hopes to Change That",
       "description": "A new nonprofit wants to streamline gene therapy for diseases often avoided by pharmaceutical companies — making treatment more like a routine procedure than a bespoke drug.",
       "url": "https://www.nytimes.com/2026/07/21/health/gene-therapy-rare-diseases-epilepsy.html",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21sci-gene-therapy-promo-vqpw/21sci-gene-therapy-promo-vqpw-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/21sci-gene-therapy-promo-vqpw/21sci-gene-therapy-promo-vqpw-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "health",
-      "publishedAt": "2026-07-21T18:52:06.000Z"
+      "publishedAt": "2026-07-21T18:52:07.000Z"
     },
     {
       "id": "rss-598e5f47faa6",
