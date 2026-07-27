@@ -1,7 +1,527 @@
 {
-  "lastUpdated": "2026-07-26T23:59:16.880Z",
-  "count": 1581,
+  "lastUpdated": "2026-07-27T03:55:12.649Z",
+  "count": 1633,
   "articles": [
+    {
+      "id": "rss-c7c2c467e62d",
+      "title": "The Invisible Concierge : How Airbnb’s AI is Rewiring the Hospitality Industry",
+      "description": "Ever wonder why you and your friend can search for a “weekend getaway in Toronto” at the exact same time, yet see completely different…\nContinue reading on Medium »",
+      "url": "https://medium.com/@ujjwalgupta893/the-invisible-concierge-how-airbnbs-ai-is-rewiring-the-hospitality-industry-75b861420e00?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2000/0*bbwpr85_BhuPOcrl",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:50:42.000Z"
+    },
+    {
+      "id": "rss-effead248c00",
+      "title": "At Least 2 Killed in Shooting at Food Festival in Seattle",
+      "description": "At least five others were injured during the shooting near the city’s Space Needle, the authorities said. No information about a suspect or a potential motive was immediately available.",
+      "url": "https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26xp-seattle-1/26xp-seattle-1-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-27T03:49:18.000Z"
+    },
+    {
+      "id": "rss-c2433403cffb",
+      "title": "How to integrate AI into the Business and Systems Analysis Function",
+      "description": "I came to this model through numerous experiments with AI in my own work. By observing how AI handles context, evidence, requirements, and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@SergeHar/how-to-integrate-ai-into-the-business-and-systems-analysis-function-d32867e0faf2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*f35mA9jLgFiDXLw6X14SAg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:45:41.000Z"
+    },
+    {
+      "id": "rss-dcf4c020001d",
+      "title": "Life Isn’t About Avoiding Challenges",
+      "description": "It’s about becoming someone who learns, grows, and keeps moving forward.\nContinue reading on Medium »",
+      "url": "https://medium.com/@mkymf/life-isnt-about-avoiding-challenges-c2a13db90e35?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1320/1*3g_Yp8UrUmHumq3ZD2T1uw@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:45:41.000Z"
+    },
+    {
+      "id": "rss-e5279d6fda05",
+      "title": "Every AI Platform Is Actually Two Businesses. Most Are Only Designed For One.",
+      "description": "Here’s how I’d design an ideal AI Platform, if I were building one from scratch: not as one product with one set of users, but as two…\nContinue reading on Medium »",
+      "url": "https://medium.com/@jaggi.gk/every-ai-platform-is-actually-two-businesses-most-are-only-designed-for-one-3b928cc91e6d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2173/1*PeyT096B03KU6ogH-L_Lzw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:43:04.000Z"
+    },
+    {
+      "id": "rss-418c029abf9e",
+      "title": "Agent-to-Agent (A2A) Communication Explained: How AI Agents Work Together to Solve Complex Tasks",
+      "description": "Artificial intelligence is no longer limited to a single chatbot that answers questions or generates content. Today’s AI is evolving into…\nContinue reading on Medium »",
+      "url": "https://infolksgroup.medium.com/agent-to-agent-a2a-communication-explained-how-ai-agents-work-together-to-solve-complex-tasks-54f90b47b1f7?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*cxspc7vBNfsQ7IUUtfaqDQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:39:23.000Z"
+    },
+    {
+      "id": "rss-50d7352520f5",
+      "title": "My CISSP Study Plan: How I Passed in 120 Days",
+      "description": "The resources, AI workflow, wrong-answer method, and exam-day reset that worked for me.\nContinue reading on Medium »",
+      "url": "https://medium.com/@janani.kush/my-cissp-study-plan-how-i-passed-in-120-days-cdd82e3c34a0?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/800/1*pFWFwPc5FPqlYddqN36oXw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:38:00.000Z"
+    },
+    {
+      "id": "rss-e69d463cabd5",
+      "title": "AI Won’t Replace You — But Someone Using AI Might",
+      "description": "A few months back, my friend started working in customer support. He was anxious. His company rolled out an AI assistant that could handle…\nContinue reading on Medium »",
+      "url": "https://medium.com/@abadhussain452/ai-wont-replace-you-but-someone-using-ai-might-a3674f2e65c3?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*iIG6eNQFlwBlMHRLLqXJKQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:37:36.000Z"
+    },
+    {
+      "id": "rss-75d3859ec25d",
+      "title": "The Digital Twin: Medicine’s Next Operating System",
+      "description": "The next revolution in medicine will not begin with a miracle drug.\nContinue reading on Medium »",
+      "url": "https://medium.com/@kosi.gramatikoff/the-digital-twin-medicines-next-operating-system-4694ac1633b6?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1229/1*RG4QylnP4l_7GO-YRujF_g.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:37:16.000Z"
+    },
+    {
+      "id": "rss-35c02da2d4cc",
+      "title": "Want to Fix Your Achy Joints? Look Inside Your Gut.",
+      "description": "The surprising link between chronic anaemia, blood flow, and joint repair.\nContinue reading on Integrative Wellness Journal (IWJ) »",
+      "url": "https://medium.com/integrative-wellness-journal-iwj/want-to-fix-your-achy-joints-look-inside-your-gut-3b4cc71bb176?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*AWQ9RR2W-eXwYJdC",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:33:18.000Z"
+    },
+    {
+      "id": "rss-32c244679ab3",
+      "title": "Your Brain Was Never Meant To Work Like This",
+      "description": "Stop fighting the wave\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/your-brain-was-never-meant-to-work-like-this-e7989e35c402?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*25aHAAA7RtdX_0iS",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:32:03.000Z"
+    },
+    {
+      "id": "rss-724eeec2f6fc",
+      "title": "Kimi K3 crashed under 2.8",
+      "description": "Hi everyone, I am Trends 24/7 and in this blog I want to walk you through one of the wildest weeks China’s AI industry has had in 2026…\nContinue reading on Medium »",
+      "url": "https://medium.com/@trends24/kimi-k3-crashed-under-2-8-c4c68e089207?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1864/1*vQrGPl7057lvOpl5FvxB2A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:31:01.000Z"
+    },
+    {
+      "id": "rss-bc040f57d934",
+      "title": "Databricks Series: Day 21 of 30: Your Biggest Data Engineering Problem Isn’t Slow Queries.",
+      "description": "Why Databricks Discover might become the most important feature nobody talks about.\nContinue reading on Medium »",
+      "url": "https://medium.com/@shenoy.shashwath/databricks-series-day-21-of-30-your-biggest-data-engineering-problem-isnt-slow-queries-172396d88171?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*eASzjgcjP7k9j9R1",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:31:01.000Z"
+    },
+    {
+      "id": "rss-25f9e1bab6a6",
+      "title": "10 Signs Someone Has Left a Permanent Mark on How You Love",
+      "description": "Some people change you temporarily. The relationship ends and you return, more or less, to who you were before it. Some people change you…\nContinue reading on Medium »",
+      "url": "https://medium.com/@aesspi/10-signs-someone-has-left-a-permanent-mark-on-how-you-love-3b7e30faa337?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*5lsmaZjWA6OEfEsB",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:31:01.000Z"
+    },
+    {
+      "id": "rss-0d4a92ca1f7b",
+      "title": "The Myth of the Harder Grind",
+      "description": "How ancient navigators and modern neuroscience reveal the secret to true momentum.\nContinue reading on Medium »",
+      "url": "https://medium.com/@OpsovLife/the-myth-of-the-harder-grind-3bff3f527fcd?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/768/1*5TUUegnQRjGl-waKfU6YjA.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:31:01.000Z"
+    },
+    {
+      "id": "rss-c75345b98382",
+      "title": "Social Media and Identity Crisis: Why We Lost Ourselves to the Feed",
+      "description": "And that's exactly why quitting social media almost didn't save me.\n\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/social-media-and-identity-crisis-why-we-lost-ourselves-to-the-feed-1b3d890ef3ab?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*VFtC18C7Ua2L8Vsyww1DQg.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:30:56.000Z"
+    },
+    {
+      "id": "rss-c4ed2a6eeaa1",
+      "title": "Olivia’s Journey Through Midlife: 10 Wellness Lessons Every Woman Can Learn",
+      "description": "When Olivia celebrated her 40th birthday, she realized her body was changing in ways she hadn’t expected. Instead of feeling discouraged…\nContinue reading on Medium »",
+      "url": "https://medium.com/@biby40pin/olivias-journey-through-midlife-10-wellness-lessons-every-woman-can-learn-b4cc2929e405?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*axk95oNoIVoMA3Ddru3C3A.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:27:34.000Z"
+    },
+    {
+      "id": "rss-d6375c044a1f",
+      "title": "Why Everyone Suddenly Cares About Paraxanthine (And What It Means for Your 2 PM Crash)",
+      "description": "Disclosure: This article contains affiliate links. If you purchase through them, I may earn a commission at no extra cost to you.\nContinue reading on Medium »",
+      "url": "https://medium.com/@arslanalyhatmi/why-everyone-suddenly-cares-about-paraxanthine-and-what-it-means-for-your-2-pm-crash-9ce2149da770?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*GOQgi3GM4haWGpfxkrD49Q.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:26:56.000Z"
+    },
+    {
+      "id": "rss-b673eb2687e1",
+      "title": "Terapia, firmas biométricas, responsabilidad compartida e inteligencia artificial en la salud…",
+      "description": "Porque todo terapeura debe estar registrado biométricamente en una base de datos del sistema de salud pública, porqué debe firmar con su…\nContinue reading on Medium »",
+      "url": "https://neuropsyai.medium.com/terapia-firmas-biom%C3%A9tricas-responsabilidad-compartida-e-inteligencia-artificial-en-la-salud-70520be2ef37?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1507/1*mdmtNwauagZH-JrqT630FQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:23:36.000Z"
+    },
+    {
+      "id": "rss-66743038e153",
+      "title": "Top 7 AI Events Every Student Should Attend in 2026",
+      "description": "Artificial Intelligence is transforming industries across the world, making it one of the most valuable skills students can develop today…\nContinue reading on Medium »",
+      "url": "https://medium.com/@faizaarif203/top-7-ai-events-every-student-should-attend-in-2026-fcf238c73077?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*mrLP9wfctxFtB-GAjr57FA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:22:54.000Z"
+    },
+    {
+      "id": "rss-8c721dd1c6a2",
+      "title": "The Childhood I Buried Kept Growing Up With Me.",
+      "description": "Some wounds become scars. Others become personalities.\nContinue reading on Medium »",
+      "url": "https://afterthecommaa.medium.com/the-childhood-i-buried-kept-growing-up-with-me-2bba37f1201f?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/736/1*d6txUoRPpGt0elY9xVdCAg.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:22:40.000Z"
+    },
+    {
+      "id": "rss-7a17400ae940",
+      "title": "Nobody Asked If I Was Okay. They Just Needed Me to Survive.",
+      "description": "There is no funeral for a stolen childhood. It disappears quietly, and everyone congratulates the child for growing up so fast.\nContinue reading on Medium »",
+      "url": "https://afterthecommaa.medium.com/nobody-asked-if-i-was-okay-they-just-needed-me-to-survive-e2b798e585b8?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/736/1*XzK1dov1gGIFH9i759jhfw.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:20:46.000Z"
+    },
+    {
+      "id": "rss-e0099ed000f0",
+      "title": "ViriFlow Reviews: The Secret Science Behind This Prostate Healing Dropper!",
+      "description": "For aging guys who want to preserve their urinary health and maintain optimal bladder function, dealing with frequent late night trips to…\nContinue reading on Medium »",
+      "url": "https://medium.com/@lusjiu/viriflow-reviews-the-secret-science-behind-this-prostate-healing-dropper-eb127a108f7c?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/800/1*Z-TFP3EOnERgA08V6GMQow.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:19:32.000Z"
+    },
+    {
+      "id": "rss-2c7da5bd2028",
+      "title": "If You Took Seneca Seriously for 30 Days, You’d Be Furious at Yourself",
+      "description": "On Day 19, I realised something that made me sick to my stomach.\nContinue reading on Medium »",
+      "url": "https://medium.com/@eyluldemir/if-you-took-seneca-seriously-for-30-days-youd-be-furious-at-yourself-22fdb0cda841?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/738/1*VahJifs7FPjpPP2278CeIA.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:18:09.000Z"
+    },
+    {
+      "id": "rss-3ff7ab0cda0a",
+      "title": "The Evolution of AI: From Early Theory to the Generative Age",
+      "description": "Artificial intelligence has grown from a scientific question into a daily reality that shapes how we search, write, build, learn, and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@milanthapa1/the-evolution-of-ai-from-early-theory-to-the-generative-age-879e6289aee6?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*YkpMcoIG-j4suhd6VRHjuQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:17:02.000Z"
+    },
+    {
+      "id": "rss-657c4e74d9ad",
+      "title": "Building O.R.C.A: Reimagining Crime Intelligence with AI, OCR & OSINT",
+      "description": "How a team of five engineering students built an AI-powered crime intelligence platform for the Karnataka State Police.\nContinue reading on Medium »",
+      "url": "https://medium.com/@venugopalrao1802/building-o-r-c-a-reimagining-crime-intelligence-with-ai-ocr-osint-328518406f78?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*7ox-cVe4R6XflqcRH-r6Sw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:11:55.000Z"
+    },
+    {
+      "id": "rss-ef1017be35e3",
+      "title": "Can Doctors get Angry?",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@swarayu/can-doctors-get-angry-c077f67dd577?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1122/1*L-GBdDczE7gyt8TpNnNJwQ.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:06:56.000Z"
+    },
+    {
+      "id": "rss-1892aa5fe573",
+      "title": "THE OPEN REGISTER — LEDGER ENTRY #300 (Rev. 1 — post-audit)",
+      "description": "The Gate-Map, the Observer Recursion, and the Rest of 2026 Compiled Monday, July 27, 2026 · Revised same day against a 32-finding external…\nContinue reading on Medium »",
+      "url": "https://medium.com/@signaloftheeye/the-open-register-ledger-entry-300-rev-1-post-audit-a8a41ccc7999?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1168/1*toHrycIrnhavp_sTRATHXA.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:06:37.000Z"
+    },
+    {
+      "id": "rss-3817dc12f423",
+      "title": "PeopleSoft to AI | Part 11: What Is a Search Tree and Why Is It Different from a State Space?",
+      "description": "Why the map of what’s possible is never the same thing as the trip you actually took.\nContinue reading on Medium »",
+      "url": "https://medium.com/@gokulkalauni03/peoplesoft-to-ai-part-11-what-is-a-search-tree-and-why-is-it-different-from-a-state-space-46876467d53d?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*tRqmxBjaSLmDvCdH5sRJJg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:01:02.000Z"
+    },
+    {
+      "id": "rss-020c65143423",
+      "title": "Patient Feedback System: Turn Every Patient Visit into an Opportunity to Improve",
+      "description": "Patient satisfaction plays a vital role in the success of any clinic or hospital. Yet many healthcare providers rely on occasional verbal…\nContinue reading on Medium »",
+      "url": "https://medium.com/@sarvabook/patient-feedback-system-turn-every-patient-visit-into-an-opportunity-to-improve-533d6d6ff457?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*2yqjzGubmQiloU57XVhGyw.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-27T03:00:26.000Z"
+    },
+    {
+      "id": "rss-f0077bf6e17a",
+      "title": "Rick and Morty's season 9 finale had to be that brutal, showrunners say",
+      "description": "The episode explores the dysfunctional dynamic at the core of the series and how the title characters have changed over the course of 9 seasons.",
+      "url": "https://www.polygon.com/rick-and-morty-season-9-finale-interview/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/ram-s9-still-3.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T03:00:12.000Z"
+    },
+    {
+      "id": "rss-e5aa72ca0efd",
+      "title": "How OYO Uses AI for Dynamic Pricing and Hotel Operations",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/artificial-intelligence/how-oyo-uses-ai-for-dynamic-pricing-and-hotel-operations",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/arr58gai/How-OYO-Uses-AI-for-Dynamic-Pricing-and-Hotel-Operations.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-27T03:00:00.000Z"
+    },
+    {
+      "id": "rss-7556d8e6250a",
+      "title": "The 1200-Calorie Trap: Why Women Need to Stop Starving Their Metabolism",
+      "description": "How a universal dieting myth is breaking down female physiology, and what it actually takes to fuel your body for sustainable energy.\nContinue reading on Medium »",
+      "url": "https://medium.com/@indahayulestari0908/the-1200-calorie-trap-why-women-need-to-stop-starving-their-metabolism-a2bad093a62b?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*tq5M7HQaMd76FEBN",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-27T02:51:35.000Z"
+    },
+    {
+      "id": "rss-dd7927d111b0",
+      "title": "Fantasy Baseball Week 19 Preview: Two-start pitcher rankings feature Max Fried, Jake Bennett",
+      "description": "Here's how this week's two-start slate stacks up",
+      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-19-preview-two-start-pitcher-rankings-feature-fried-bennett/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/d4acc2f7-d2bb-4267-8005-399c4d7b8ecf/jake-bennett.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-27T02:44:48.000Z"
+    },
+    {
+      "id": "rss-8b63552ef9a8",
+      "title": "I Let an AI Agent Run Overnight. Every Check Was Green. It Had Done Nothing.",
+      "description": "The silent ways AI agents fail on a local Ollama stack . How switching to OpenRouter made me realize I was living in the Dark Ages.\nContinue reading on Medium »",
+      "url": "https://shayarmandosf.medium.com/i-let-an-ai-agent-run-overnight-every-check-was-green-it-had-done-nothing-672fabf68f08?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1653/1*nlgS2LSjs8P0hF4ITqVr9A@2x.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-27T02:44:32.000Z"
+    },
+    {
+      "id": "rss-49a563bfe45a",
+      "title": "Fantasy Baseball Week 19 Preview: Top 10 sleeper hitters highlight Ty France, Nick Gonzales",
+      "description": "Best matchups include the Yankees, Royals and Giants",
+      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-19-preview-top-10-sleeper-hitters-highlight-ty-france-nick-gonzales/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/58961f1e-7b1b-4b2d-9d43-4aae8ef3d276/ty-france.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-27T02:44:10.000Z"
+    },
+    {
+      "id": "rss-2094b02bacc9",
+      "title": "Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting",
+      "description": "The ruling on Saturday was the latest rebuke to President Trump’s attacks on mail-in voting. The government says it may take the case to the Supreme Court.",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html",
+      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25dc-mail-ballots-gzwk/25dc-mail-ballots-gzwk-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-27T02:37:20.000Z"
+    },
+    {
+      "id": "rss-b4a6b5586679",
+      "title": "Fantasy Baseball Week 19 Preview: Top 10 sleeper pitchers include Peter Lambert, Shane Drohan",
+      "description": "You can find some good pitchers on the waiver wire still if you're willing to gamble on workload",
+      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-19-sleeper-pitchers-include-peter-lambert-shane-drohan/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/3d7067dd-c6ea-4e24-8b30-ac708eb073ba/peter-lambert.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-27T02:25:13.000Z"
+    },
+    {
+      "id": "rss-7884cc6dc4a1",
+      "title": "Oil Prices Fall After U.S. and Iran Pause Fighting for a Second Day",
+      "description": "No strikes have been reported from either side since Friday, leaving oil investors optimistic about a resolution to the conflict.",
+      "url": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27-biz-oil-stocks-gas-image-wvbm/27-biz-oil-stocks-gas-image-wvbm-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-27T02:23:16.000Z"
+    },
+    {
+      "id": "rss-fa04adbcd4d4",
+      "title": "The Right Equipment at the Right Time",
+      "description": "A few thoughts on the necessity of training equipment and why people should grow into their gear — not the other way around\nContinue reading on Runner's Life »",
+      "url": "https://medium.com/runners-life/the-right-equipment-at-the-right-time-f315c2e3c24a?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*BniDLH1O34tBSwwfnG_kIg.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-27T02:06:33.000Z"
+    },
+    {
+      "id": "rss-b14e12f6bb7a",
+      "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
+      "description": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate.",
+      "url": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e4/live/a5e80750-894d-11f1-b8ee-9b3c26ad07bb.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-27T02:04:10.000Z"
+    },
+    {
+      "id": "rss-48c1926afee4",
+      "title": "House of the Dragon season 3 episode 6 ending explained: Is [spoilers] dead?",
+      "description": "House of the Dragon season 3 episode 6 leaves one key character's fate uncertain, but Fire & Blood offers some clarity about what's really going on.",
+      "url": "https://www.polygon.com/house-of-the-dragon-season-3-episode-6-ending-corlys-velaryon-explained/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/emma-d-arcy-_1.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T02:00:22.000Z"
+    },
+    {
+      "id": "rss-75723f044bb3",
+      "title": "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair",
+      "description": "SPOILER ALERT: This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Daeron Targaryen (Benjamin Evan Ainsworth) is growing up: On this week’s episo",
+      "url": "https://variety.com/2026/tv/features/house-of-the-dragon-daeron-assassination-attempt-ormund-1236820311/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/House-of-the-Dragon-9.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-27T02:00:00.000Z"
+    },
+    {
+      "id": "rss-a5b436d321d0",
+      "title": "Marvel Reveals First Clip of Sadie Sink in Spider-Man: Brand New Day, But Fans Aren't Sure What She's Trying to Say in It",
+      "description": "Marvel has revealed a very, very short clip featuring Sadie Sink in Spider-Man: Brand New Day, and fans are doing their best to piece together what her mystery character is saying in it.",
+      "url": "https://www.ign.com/articles/marvel-reveals-first-clip-of-sadie-sink-in-spider-man-brand-new-day-but-fans-arent-sure-what-shes-trying-to-say-in-it",
+      "image": "https://assets-prd.ignimgs.com/2026/07/27/sadie-sink-spider-man-1785115153005.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T01:27:32.000Z"
+    },
+    {
+      "id": "rss-0c0c373c7f52",
+      "title": "Here's What the 'iPhone 20' is Expected to Look Like",
+      "description": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant design overhaul the device has seen since the iPhone X.\r\n\r\n\r\nIn many ways, the device is expected to",
+      "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
+      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-07-27T01:00:12.000Z"
+    },
+    {
+      "id": "rss-6209d6aedeab",
+      "title": "PSA: Apple TV, Apple Music, and more are currently down for some users [Update: Fixed]",
+      "description": "Update, 6:15 p.m PT: Apple says all the problems previously listed on its Developer website have been resolved. All of the outages listed on its consumer System Status page have also been fixed. \nAppl",
+      "url": "https://9to5mac.com/2026/07/26/psa-apple-tv-apple-music-and-more-are-currently-down-for-some-users/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-logo-ocean-sunset.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-27T00:52:24.000Z"
+    },
+    {
+      "id": "rss-640c3c5e7a7a",
+      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+      "description": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating w",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-corp-blog-vera-superchip-1280x680-4939150.jpg",
+      "source": "NVIDIA AI Blog",
+      "category": "ai",
+      "publishedAt": "2026-07-27T00:45:42.000Z"
+    },
+    {
+      "id": "rss-ca0ec23fc41e",
+      "title": "Tigray's old grapevines have survived against the odds: New research uncovers their genetic and historic value",
+      "description": "The northern highlands of Ethiopia are among Africa's oldest agricultural landscapes. Some of the world's most important crops originated here, particularly pulses and grains, including teff. Yet anot",
+      "url": "https://phys.org/news/2026-07-tigray-grapevines-survived-odds-uncovers.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tigrays-old-grapevines.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-27T00:30:01.000Z"
+    },
+    {
+      "id": "rss-d949aa851fa9",
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "description": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-27T00:27:58.000Z"
+    },
+    {
+      "id": "rss-f4a6671930dd",
+      "title": "Kospi index and U.S. stock futures jump as new Hormuz talks send oil prices plunging amid Iran war pause while Wall Street awaits Fed meeting",
+      "description": "Iran and Oman are also in talks that center around having Iran run vessel transit through the Strait of Hormuz with fewer restrictions on ships.",
+      "url": "https://fortune.com/2026/07/26/kospi-index-dow-futures-us-stocks-hormuz-talks-oil-prices-iran-war-fed-meeting/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/9826590-e1785104927137.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-27T00:25:04.000Z"
+    },
+    {
+      "id": "rss-1dc3889fec7f",
+      "title": "Pentagon Changes How It Reports Casualties in Iran War",
+      "description": "The changes separated the casualty numbers into two separate web pages, potentially making it more difficult to tally the war’s full toll.",
+      "url": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
+      "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26dc-military-flkj/26dc-military-flkj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-27T00:14:22.000Z"
+    },
+    {
+      "id": "rss-2a2d95334430",
+      "title": "Nobody remembers the most inventive vampire thriller of the 2000s, but it's free to stream right now",
+      "description": "Bring back cheesy vampire movies",
+      "url": "https://www.polygon.com/sam-neill-daybreakers-cheesy-vampire-movie-2000s/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/daybreakers.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T00:00:12.000Z"
+    },
     {
       "id": "rss-63b586c7a337",
       "title": "Kratom’s Biphasic Effects: Why Low Doses Can Feel Stimulating While Higher Doses Feel Sedating",
@@ -31,6 +551,16 @@
       "source": "Fox News Politics",
       "category": "politics",
       "publishedAt": "2026-07-26T23:43:46.000Z"
+    },
+    {
+      "id": "rss-e06c1b153b7b",
+      "title": "Week 19 Fantasy Baseball Waiver Wire: Is Roki Sasaki for real this time?",
+      "description": "Roki Sasaki is showing flashes of his ace potential once again, but is his elite upside worth the fantasy headache?",
+      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/week-19-fantasy-baseball-waiver-wire-roki-sasaki/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/06/07/4d2c307a-33ef-4996-8efa-d52923ccc2dc/sasaki.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-26T23:43:36.000Z"
     },
     {
       "id": "rss-824b2e78c694",
@@ -231,16 +761,6 @@
       "source": "BBC News",
       "category": "trending",
       "publishedAt": "2026-07-26T23:09:44.000Z"
-    },
-    {
-      "id": "rss-7884cc6dc4a1",
-      "title": "Oil Prices Fall After U.S. and Iran Pause Fighting for a Second Day",
-      "description": "No strikes have been reported from either side since Friday, leaving oil investors optimistic about a resolution to the conflict.",
-      "url": "https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html",
-      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27-biz-oil-stocks-gas-image-wvbm/27-biz-oil-stocks-gas-image-wvbm-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-26T23:06:43.000Z"
     },
     {
       "id": "rss-927ee86a1e44",
@@ -1141,6 +1661,16 @@
       "source": "Fortune",
       "category": "business",
       "publishedAt": "2026-07-26T20:43:32.000Z"
+    },
+    {
+      "id": "rss-bb2ca5b9cba8",
+      "title": "Losing my leg has elevated my life, says world champion surfer",
+      "description": "Llywelyn Williams says anything is possible with any kind of disability.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9lgj5mv1po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6b/live/0e4b65c0-7d1a-11f1-b61e-1b6852ddc42f.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-26T20:42:41.000Z"
     },
     {
       "id": "rss-426d204aa105",
@@ -2390,7 +2920,7 @@
       "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26pol-dnc-chaos-lqjm/26pol-dnc-chaos-lqjm-mediumSquareAt3X-v2.jpg",
       "source": "NYT Politics",
       "category": "politics",
-      "publishedAt": "2026-07-26T17:31:21.000Z"
+      "publishedAt": "2026-07-26T17:31:22.000Z"
     },
     {
       "id": "rss-90bbe6d6f1b7",
@@ -3110,7 +3640,7 @@
       "image": "https://static01.nyt.com/images/2026/07/26/multimedia/26nat-immig-tps-2-zgjl/26nat-immig-tps-2-zgjl-mediumSquareAt3X-v2.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-26T16:10:07.000Z"
+      "publishedAt": "2026-07-26T16:10:08.000Z"
     },
     {
       "id": "rss-847e8c836988",
@@ -5953,6 +6483,16 @@
       "publishedAt": "2026-07-26T09:00:00.000Z"
     },
     {
+      "id": "rss-de52b1d8a5e5",
+      "title": "Teaching LLMs to Update Beliefs for Efficient Long-Horizon Interaction",
+      "description": "-->\n\n\n\n\n\n\n\n\n.abbel-fig {\n  display: block;\n  text-align: center;\n  margin: 2.4em 0;\n  line-height: 1.4;\n  max-width: 100%;\n}\n.abbel-fig img {\n  display: block;\n  margin: 0.65em auto 0;\n  height: auto;",
+      "url": "http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "image": "https://bair.berkeley.edu/static/blog/abbel/ABBEL main figure.png",
+      "source": "Berkeley AI",
+      "category": "ai",
+      "publishedAt": "2026-07-26T09:00:00.000Z"
+    },
+    {
       "id": "rss-56de81100b34",
       "title": "Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack",
       "description": "The police said a suspect was involved in local Islamic groups and that there was a “strong suspicion” it was an act of terrorism. At least one person was killed and 16 injured.",
@@ -7483,16 +8023,6 @@
       "publishedAt": "2026-07-26T00:24:30.000Z"
     },
     {
-      "id": "rss-9f761591da42",
-      "title": "Appeals Court Upholds Blocks on Trump Order Restricting Mail Voting",
-      "description": "The ruling on Saturday was the latest rebuke to President Trump’s attacks on mail-in voting. The government says it may take the case to the Supreme Court.",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html",
-      "image": "https://static01.nyt.com/images/2026/07/25/multimedia/25dc-mail-ballots-gzwk/25dc-mail-ballots-gzwk-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-26T00:20:15.000Z"
-    },
-    {
       "id": "rss-686d76efcee3",
       "title": "Primark's new 'supermarket tactic' to woo customers in online price war",
       "description": "Competition from ultra-cheap Chinese retailers and the cost of living crisis could be putting some people off shopping at the store, analysts say.",
@@ -8881,16 +9411,6 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-25T20:36:14.000Z"
-    },
-    {
-      "id": "rss-e69d463cabd5",
-      "title": "AI Won’t Replace You — But Someone Using AI Might",
-      "description": "Will AI Take Your Job? The Skills That Will Matter Most by 2030\nContinue reading on Medium »",
-      "url": "https://medium.com/@u972985/ai-wont-replace-you-but-someone-using-ai-might-c942304153d9?source=rss------artificial_intelligence-5",
-      "image": "https://cdn-images-1.medium.com/max/1536/1*NgcQmYctS2kADVYsMQ61QQ.png",
-      "source": "Medium AI",
-      "category": "ai",
-      "publishedAt": "2026-07-25T20:35:27.000Z"
     },
     {
       "id": "rss-0bb2f6a95c79",
