@@ -1,7 +1,777 @@
 {
-  "lastUpdated": "2026-07-28T04:10:21.102Z",
-  "count": 2725,
+  "lastUpdated": "2026-07-28T07:13:07.092Z",
+  "count": 2804,
   "articles": [
+    {
+      "id": "rss-3123ed30d171",
+      "title": "Somewhere Around Layer 38, Claude Starts Talking to Itself",
+      "description": "A practitioner’s notes on the “J-space” paper, the workspace it claims to find inside a transformer, and why an architect who spends his…\nContinue reading on Medium »",
+      "url": "https://medium.com/@shubham.dxyt/somewhere-around-layer-38-claude-starts-talking-to-itself-802d57059ab6?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*vjegqPwowOIHIZikc8DJTg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T07:08:19.000Z"
+    },
+    {
+      "id": "rss-80cddc6e3079",
+      "title": "AI Agents Transforming Enterprises",
+      "description": "Artificial Intelligence has rapidly evolved from simple automation tools into intelligent systems capable of reasoning, planning, learning…\nContinue reading on Medium »",
+      "url": "https://medium.com/@dawood.khan_51316/ai-agents-transforming-enterprises-37d1d226ac3a?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*7SIScE12qV7gPytZ8Pi5UA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T07:06:45.000Z"
+    },
+    {
+      "id": "rss-17731b4cc224",
+      "title": "Schools to offer technical subjects to pupils from age 14, Burnham says",
+      "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e00c/live/b4de9dd0-8a49-11f1-9d58-5fb372bdafd2.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T07:06:04.000Z"
+    },
+    {
+      "id": "rss-f5036aff365d",
+      "title": "How Professional UI/UX Design Services Improve Customer Engagement and Business Growth?",
+      "description": "In a digital marketplace where users form an opinion about a product within seconds, design is a business strategy. Companies that invest…\nContinue reading on Medium »",
+      "url": "https://pitangentanalytics.medium.com/how-professional-ui-ux-design-services-improve-customer-engagement-and-business-growth-6d5d62486291?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1344/1*V8J6--w3tFQjVXoAS43WpA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T07:02:02.000Z"
+    },
+    {
+      "id": "rss-fa7bf8f68807",
+      "title": "Why Change Seems Unsafe: Psychology of Our Resistance to Growth",
+      "description": "Have you ever said to yourself that this will finally be the year when you’ll make those changes?\nContinue reading on Medium »",
+      "url": "https://medium.com/@connect_12410/why-change-seems-unsafe-psychology-of-our-resistance-to-growth-2ad91d5ee712?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1693/1*Yop-mQRxODukN6yG9XJRgQ.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T07:01:53.000Z"
+    },
+    {
+      "id": "rss-6d37f796c3ec",
+      "title": "The Right to Be Seen",
+      "description": "Why Visibility Is Becoming the New Digital Divide\nContinue reading on Medium »",
+      "url": "https://theafrodivaspeaks.medium.com/the-right-to-be-seen-bd9902e13658?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*HJjSS2hwPhukLC9vkq-CMA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T07:01:04.000Z"
+    },
+    {
+      "id": "rss-abf534cd767d",
+      "title": "The AI ROI illusion: will the commodity market win or will the law force the cloud?",
+      "description": "I have a feeling that the massive, trillion-dollar investments into AI data centers will not pay off natively. We are staring at a massive…\nContinue reading on Medium »",
+      "url": "https://medium.com/@raffaele_73146/the-ai-roi-illusion-will-the-commodity-market-win-or-will-the-law-force-the-cloud-b476cc0f2c81?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/832/0*ubxMB1n_KdiktCVP.jpg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T07:01:03.000Z"
+    },
+    {
+      "id": "rss-4de35ba03496",
+      "title": "Claude Opus 5 Makes Frontier Model Choice More Difficult",
+      "description": "Anthropic’s latest release offers more capability at the previous Opus price, but the business case depends on where better reasoning…\nContinue reading on Medium »",
+      "url": "https://medium.com/@ai_93276/claude-opus-5-makes-frontier-model-choice-more-difficult-cbddc67e2a52?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*WJuvdUAid3C2KQLqMQX2NQ.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T07:01:03.000Z"
+    },
+    {
+      "id": "rss-085342b6d64d",
+      "title": "How to Build an AI Nutrition and Diet Planning App in 2026: Complete Guide",
+      "description": "The demand for intelligent health and wellness solutions has never been higher. Consumers now expect personalized meal recommendations…\nContinue reading on Medium »",
+      "url": "https://medium.com/@david.wilson.digital/how-to-build-an-ai-nutrition-and-diet-planning-app-in-2026-complete-guide-493b4dc502b2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*fHHgtzgWjFmvZJPl9c5_kg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T07:00:32.000Z"
+    },
+    {
+      "id": "rss-0a7ef98a9068",
+      "title": "The Voynich Manuscript—You Can’t Read It. You Can Still Measure It.",
+      "description": "What a 600-year-old unreadable manuscript taught me about ciphertext, honest metrics, and knowing when to stop.\nContinue reading on The Quantastic Journal »",
+      "url": "https://thequantasticjournal.com/voynich-manuscript-you-cant-read-it-you-can-still-measure-it-fe9158051e8a?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*4_5fJXZ7nMM48tA48lbXzw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:58:24.000Z"
+    },
+    {
+      "id": "rss-ce8520455dc2",
+      "title": "the belief that you are always worth it",
+      "description": "I came across a content in Tiktok just recently. But I didn’t know that particular post will send me to tears.\nContinue reading on Medium »",
+      "url": "https://medium.com/@creusa.valkyrie/the-belief-that-you-are-always-worth-it-f57d663f48d1?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/748/1*yYI2Y2RLNpRxp7mJTwwsSw@2x.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:58:09.000Z"
+    },
+    {
+      "id": "rss-c752b712daa6",
+      "title": "AI in Science should explain and not just predict.",
+      "description": "Machine learning is becoming increasingly important in science and engineering. From predicting fluid flows to accelerating simulations…\nContinue reading on Medium »",
+      "url": "https://medium.com/@agyeibaahkwame/ai-in-science-should-explain-and-not-just-predict-8f0e8e77915c?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*qKv4fy6ntsKKzrK9C3korQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:57:45.000Z"
+    },
+    {
+      "id": "rss-44b12e40c557",
+      "title": "25 Real Ways to Make Money With ChatGPT (Even If You're Starting From Zero)",
+      "description": "Most people are using ChatGPT to save time. The smart ones are using it to make money.\nContinue reading on Medium »",
+      "url": "https://medium.com/@msimoliunas/25-real-ways-to-make-money-with-chatgpt-even-if-youre-starting-from-zero-678ce021ac3c?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*nTVJi2F0mXQDXBJu-4xt9w.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:57:35.000Z"
+    },
+    {
+      "id": "rss-bb8aecee7bc6",
+      "title": "Some people feel the rain, others just get wet.",
+      "description": "the way we see changes everything.\nContinue reading on Medium »",
+      "url": "https://medium.com/@khayl/some-people-feel-the-rain-others-just-get-wet-fa6842b26ce6?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/660/0*YlY_Ie7M1-6JZKUX.jpg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:57:13.000Z"
+    },
+    {
+      "id": "rss-2f7620e4fdb6",
+      "title": "Top 5 IVF Centres in Ariyalur You Can Trust in 2026",
+      "description": "Starting fertility treatment is a deeply personal decision, and choosing the right clinic is one of the most important steps along the way…\nContinue reading on Medium »",
+      "url": "https://medium.com/@naveenkumar508675/top-5-ivf-centres-in-ariyalur-you-can-trust-in-2026-a1c617f6a695?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*Y5epSG4pEGPT_BL1QVqR1A.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:57:01.000Z"
+    },
+    {
+      "id": "rss-b65234d83597",
+      "title": "My illness doesn’t define me, and yet restricts several areas of my life.",
+      "description": "Like an unwanted guest, a parasite eating every beam of light left in this body.\nContinue reading on Medium »",
+      "url": "https://medium.com/@syfvchkq/my-illness-doesnt-define-me-and-yet-restricts-several-areas-of-my-life-21c01f3fd686?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*YXuZCzraLvVFJCDvWsRkCg@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:56:34.000Z"
+    },
+    {
+      "id": "rss-b480ac324fe0",
+      "title": "Why AI Will Never Be Smarter Than Your Data",
+      "description": "Artificial Intelligence is transforming the way organizations operate.\nContinue reading on Medium »",
+      "url": "https://medium.com/@Pilogian-Lat/why-ai-will-never-be-smarter-than-your-data-ea69dd1cf54a?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*sYQ_eyYLlhNGdkaba4vJ2A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:55:45.000Z"
+    },
+    {
+      "id": "rss-8917714e97b6",
+      "title": "You’re Doing Better Than You Think",
+      "description": "A reminder for anyone who moved abroad alone & is still learning how to build a life from scratch.\nContinue reading on Medium »",
+      "url": "https://medium.com/@kainushsurty/youre-doing-better-than-you-think-f11c9af16199?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*XoRV0cQncEAZFVJbT9HUEQ.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:54:53.000Z"
+    },
+    {
+      "id": "rss-3a65d1acc372",
+      "title": "The Science of Fluid Balance: Why You Feel Bloated (And Foods That Restore Comfort)",
+      "description": "​We have all experienced those mornings: waking up to find your rings feel tight on your fingers, your ankles look slightly swollen, or…\nContinue reading on Medium »",
+      "url": "https://medium.com/@reyhanhussien953/the-science-of-fluid-balance-why-you-feel-bloated-and-foods-that-restore-comfort-6338da2d5abf?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/800/1*-dCpP0FgbHR6Q_DOzP7l7w.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:53:51.000Z"
+    },
+    {
+      "id": "rss-d547374f4552",
+      "title": "Top Benefits of Consulting a Physiotherapist in Navi Mumbai Vashi",
+      "description": "Did you know that tilting your head down just 45 degrees to look at your smartphone puts up to 22 kg of extra pressure on your neck?\nContinue reading on Medium »",
+      "url": "https://medium.com/@wecarephysiotherapyc/top-benefits-of-consulting-a-physiotherapist-in-navi-mumbai-vashi-9704ea5e2a84?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1717/1*vZbdXRFzICJpLPQl9vVrJw.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:53:01.000Z"
+    },
+    {
+      "id": "rss-80c0c0e6b8b9",
+      "title": "End-to-End Preprocessing Pipeline — Prevent Leakage by Design",
+      "description": "The bug that wasn’t in any single step\nContinue reading on Medium »",
+      "url": "https://medium.com/@banerjeevictor06/end-to-end-preprocessing-pipeline-prevent-leakage-by-design-81de0122f960?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*8bVTFnC6ZWpbMIV7JzCkqQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:52:53.000Z"
+    },
+    {
+      "id": "rss-24af4780ee8b",
+      "title": "I Built a Vulkan Inference Engine in Rust — 8.9× Faster, Zero Native Binaries",
+      "description": "Pure-Rust Vulkan inference for ONNX models — measured on 7 models, honest about where it loses\nContinue reading on Medium »",
+      "url": "https://autognosi.medium.com/i-built-a-vulkan-inference-engine-in-rust-8-9-faster-zero-native-binaries-4d46a4f071fa?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*XJPJn_HtCqS-IjZBAYywKw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:51:37.000Z"
+    },
+    {
+      "id": "rss-b9c4e0c0db10",
+      "title": "Cool Cove AC: Your Everyday Portable Indoor Cooling Companion",
+      "description": "Cool Cove When temperatures begin to rise, finding an effective way to stay comfortable indoors becomes a priority. Many people want a…\nContinue reading on Medium »",
+      "url": "https://medium.com/@bricopjass/cool-cove-ac-your-everyday-portable-indoor-cooling-companion-c43e3dc41a9e?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1000/1*-NLTNMn4IciIDw6itwRN_Q.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:51:03.000Z"
+    },
+    {
+      "id": "rss-e728408c4f97",
+      "title": "AI & Robotics Innovation Challenge: Transforming Creative Ideas into Future Technologies",
+      "description": "Since time immemorial, innovation has been the key that propelled man towards greater heights of achievement. In the current times…\nContinue reading on Medium »",
+      "url": "https://medium.com/@nitasri550/ai-robotics-innovation-challenge-transforming-creative-ideas-into-future-technologies-1980ee9b9e73?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*LqBy2qcD0CYuYV7o_j9qJw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:50:25.000Z"
+    },
+    {
+      "id": "rss-e3355d793d22",
+      "title": "How Does an ERCP Hospital Diagnose Bile Duct Problems?",
+      "description": "An ERCP hospital diagnoses bile duct problems by combining endoscopy with real-time X-ray imaging to directly visualize the bile ducts…\nContinue reading on Medium »",
+      "url": "https://medium.com/@drsurendrajangir/how-does-an-ercp-hospital-diagnose-bile-duct-problems-6015a6b41c65?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/640/0*2wDGmGhTuFDQwFz0.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:50:23.000Z"
+    },
+    {
+      "id": "rss-fc27b14abded",
+      "title": "Modeling reveals Sydney's 1789 smallpox outbreak killed as many as 220,000 indigenous Australians",
+      "description": "Groundbreaking modeling has revealed that as many as 220,000 Indigenous Australians died in a devastating 1789 smallpox outbreak that originated in Sydney, tracing its origins to the First Fleet. Soon",
+      "url": "https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/modelling-reveals-sydn.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-28T06:50:01.000Z"
+    },
+    {
+      "id": "rss-17cc9a4d0f1c",
+      "title": "GLP-1 Medications Explained: How They Work, Benefits, Side Effects, and Who They’re For",
+      "description": "By Obi Chisom Winnifred, BMLS | MLSCN Registered | Medical Writer & Clinical Content Specialist\nContinue reading on Medium »",
+      "url": "https://medium.com/@chisomobi561/glp-1-medications-explained-how-they-work-benefits-side-effects-and-who-theyre-for-065214e61fe9?source=rss------medicine-5",
+      "image": "https://cdn-images-1.medium.com/max/1179/1*q-u1XFyVtvaLyHSOVFAbXA.jpeg",
+      "source": "Medium Medicine",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:45:45.000Z"
+    },
+    {
+      "id": "rss-ccbb0b28362c",
+      "title": "Baris Ozcan Safeguards the Data Foundations Behind Digital Business Transformation",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/baris-ozcan-safeguards-the-data-foundations-behind-digital-business-transformation",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/ijoqozlb/Ozcan-Baris.jpeg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:43:37.000Z"
+    },
+    {
+      "id": "rss-c01bc9c9d79c",
+      "title": "Why is Hamilton getting so many penalties? - F1 Q&A",
+      "description": "BBC Sport F1 correspondent Andrew Benson answers your latest questions after the Hungarian Grand Prix.",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cp9e188m751o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bdf/live/45301290-89cf-11f1-b9d9-13fd1053d899.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T06:42:23.000Z"
+    },
+    {
+      "id": "rss-d130c2416761",
+      "title": "The Brain Virus Called Scrolling",
+      "description": "In an interview, Elon Musk was asked about the modern inventions to which he had replied: —\nContinue reading on Medium »",
+      "url": "https://medium.com/@nisarjamali2266/the-brain-virus-called-scrolling-a489a8e6c0e1?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*PD1W3gVFD4R5xOCMG-1LWg.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:41:10.000Z"
+    },
+    {
+      "id": "rss-35fd70bc65da",
+      "title": "Norrie wins first match since April",
+      "description": "British number two Cameron Norrie ends a six-match losing streak with a straight-set win over Aleksandar Kovacevic.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c629683nlg7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c84a/live/32e066e0-8a50-11f1-8aea-37a02a7d69e8.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T06:41:00.000Z"
+    },
+    {
+      "id": "rss-38ec3f19b147",
+      "title": "Is It Safe to Sleep With Earbuds In? The Truth Your Ears Want You to Know",
+      "description": "Picture this.\nContinue reading on Medium »",
+      "url": "https://medium.com/@seo_88461/is-it-safe-to-sleep-with-earbuds-in-the-truth-your-ears-want-you-to-know-21c80878a54c?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1080/1*3-b1x-YF3n4IiJZZBidgUg.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:41:00.000Z"
+    },
+    {
+      "id": "rss-bf726ee7b56c",
+      "title": "Innovative Addiction Recovery Treatments and Techniques Shaping 2026",
+      "description": "Addiction treatment has changed more in the last five years than in the previous three decades combined. The old “one rehab program fits…\nContinue reading on Medium »",
+      "url": "https://medium.com/@hamarasankalp10/innovative-addiction-recovery-treatments-and-techniques-shaping-2026-48a3289168b7?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*DhQSxfaQ2-toNHoRDJVJGQ.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:39:36.000Z"
+    },
+    {
+      "id": "rss-378e340c164b",
+      "title": "Does Your Mind Never Truly Give You a Moment of Peace?",
+      "description": "Why constant overthinking is just background radio — and how to step back as the silent listener.\nContinue reading on Medium »",
+      "url": "https://medium.com/@Rimaknowles/does-your-mind-never-truly-give-you-a-moment-of-peace-6de4ee7ebe72?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*A_ml4EUjpMX7EQbhB3Yxyg.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:38:40.000Z"
+    },
+    {
+      "id": "rss-6f17a732fa53",
+      "title": "China Accuses US AI Companies of Secretly Training on Chinese Models",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/china-accuses-us-ai-companies-of-secretly-training-on-chinese-models",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/ivs9wq9o/US-firms-training-AI-using-Chinese-examples-Beijing.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:31:58.000Z"
+    },
+    {
+      "id": "rss-f997e411e1a2",
+      "title": "Working with Date & Time Features in Machine Learning: Turning Timestamps into Valuable Features",
+      "description": "Introduction\nContinue reading on Medium »",
+      "url": "https://priyanshu20032002.medium.com/working-with-date-time-features-in-machine-learning-turning-timestamps-into-valuable-features-e652a5267b5e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*m6O-ZbMgA-bXcUc7j-TszA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:31:55.000Z"
+    },
+    {
+      "id": "rss-ba6fcf0592f2",
+      "title": "The Engineering Superpower for Surviving and Thriving in Tech – Insights from Farzon Nosiri",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/the-engineering-superpower-for-surviving-and-thriving-in-tech-insights-from-farzon-nosiri",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/02w3kdqd/Farzon-Nosiri.png",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:29:22.000Z"
+    },
+    {
+      "id": "rss-ac0abbc8cd1b",
+      "title": "How AI Companies Build LLM Training Data from the Web",
+      "description": "AI companies don’t train language models on raw HTML. Learn how AI labs fetch, extract, deduplicate, and filter web crawls into a clean…\nContinue reading on Artificial Intelligence in Plain English »",
+      "url": "https://ai.plainenglish.io/how-ai-companies-build-llm-training-data-from-the-web-b46a0b4bb90e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/808/1*-FEquJUe8Ywtl0sLd1VS0A.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:28:43.000Z"
+    },
+    {
+      "id": "rss-dda4e00262f6",
+      "title": "Injured Draper withdraws on eve of another tournament",
+      "description": "Former British number one Jack Draper withdraws from another event because of issues around his recurring long-term arm injury.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cx25jndr1zyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5721/live/f4660bf0-89f4-11f1-ad85-33848ec6bcfe.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T06:28:19.000Z"
+    },
+    {
+      "id": "rss-1ddb9c096359",
+      "title": "Streamlit vs Gradio — the fastest way to turn your Python model into an app in 2026",
+      "description": "Both tools let you go from Python script to shareable app in minutes. Here is which one to reach for and when.\nContinue reading on Medium »",
+      "url": "https://medium.com/@guleseharkhan915/streamlit-vs-gradio-the-fastest-way-to-turn-your-python-model-into-an-app-in-2026-167b6c6c6682?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*p8eiA4x_89FAagt28hbACA.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:26:43.000Z"
+    },
+    {
+      "id": "rss-7e552af87d0d",
+      "title": "Apple’s iPhone Shipments in India Drop for the First Time in Four Years",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/apples-iphone-shipments-in-india-drop-for-the-first-time-in-four-years",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/peoouzyi/iPhone-Shipments-To-India-Fell-This-Quarter-Memory-Chips-Are-The-Reason.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:21:34.000Z"
+    },
+    {
+      "id": "rss-6fb845a23d39",
+      "title": "What Is the Difference Between AI, ML, and Deep Learning?",
+      "description": "AI EXPLAINED BEGINNER GUIDE MACHINE LEARNING 2026\nContinue reading on Medium »",
+      "url": "https://medium.com/@mpservices703/what-is-the-difference-between-ai-ml-and-deep-learning-3fa0940b75f1?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1734/1*zc7eRODd-4UZfnejhp5Smw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:19:21.000Z"
+    },
+    {
+      "id": "rss-b7d47fb0f75d",
+      "title": "Crypto Prices Today: Bitcoin Slips Near $63,235 as Ethereum, XRP, Solana Also Fall Ahead of Fed Verdict",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-slips-near-63235-as-ethereum-xrp-solana-also-fall-ahead-of-fed-verdict",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/ljherbm3/Crypto-Prices-Today-Bitcoin-Slips-Near-63235-as-Ethereum-XRP-Solana-also-Fall-Ahead-of-Fed-Verdict.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:14:08.000Z"
+    },
+    {
+      "id": "rss-f738c160cb3c",
+      "title": "Who am I? Guess Premier League star No 8",
+      "description": "Will you get today's player in as few attempts as possible?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyjlym7kjlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0021/live/38d854d0-859c-11f1-926f-c90d1bcfbc84.png",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T06:14:06.000Z"
+    },
+    {
+      "id": "rss-b27260986b33",
+      "title": "The Diet Mistakes That Slowed Down My Weight Loss",
+      "description": "Okay so weight loss content is everywhere these days, everyone’s got some diet trick or 30 day plan. I’m not here to give you another one…\nContinue reading on Medium »",
+      "url": "https://medium.com/@preet.innovana/the-diet-mistakes-that-slowed-down-my-weight-loss-e9778af32625?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*YtdvUiQ66aIGQ9ArUiZafQ.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:06:34.000Z"
+    },
+    {
+      "id": "rss-0399b458a2d4",
+      "title": "Manage Your Finances Better With These 12 AI Accounting Tools",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/fintech/manage-your-finances-better-with-these-12-ai-accounting-tools",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/sai4q6d7/Manage-Your-Finances-Better-With-These-12-AI-Accounting-Tools.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T06:04:00.000Z"
+    },
+    {
+      "id": "rss-7d0dc1eb6358",
+      "title": "We booked a Travelodge but were forced to move hotel after 1am",
+      "description": "We told it of our 11pm arrival time but when we got there our room was no longer available as it had ‘overbooked’\nI booked and paid for a room in the Travelodge London King’s Cross Royal Scot hotel si",
+      "url": "https://www.theguardian.com/money/2026/jul/28/booked-travelodge-move-hotel-arrival-room",
+      "image": "https://i.guim.co.uk/img/media/f7d37e34cb66cc7ad62712fb0056ea8166451de3/0_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=d208dbbded20766b1249d199494d9d6d",
+      "source": "The Guardian Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T06:00:31.000Z"
+    },
+    {
+      "id": "rss-3d226d81dbf8",
+      "title": "What Every Beginner Should Know Before Buying a Cycling Kit",
+      "description": "Avoid common first-time mistakes and shop with more confidence.\nContinue reading on Medium »",
+      "url": "https://medium.com/@arooj.shoppingspout/what-every-beginner-should-know-before-buying-a-cycling-kit-1c76fe7920ec?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/800/1*GvkS1aBy7oZ1FVFZvODwyw.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-28T05:51:17.000Z"
+    },
+    {
+      "id": "rss-814b745912e2",
+      "title": "‘Spider-Man: Brand New Day’ First Reactions: Tom Holland Has ‘Never Been Better’ in a Sequel That Ditches ‘Multiverse Tedium’ and Delivers a ‘Grounded Spider-Man Tale’",
+      "description": "“Spider-Man: Brand New Day” has finally been unveiled to members of the film press, who are calling Tom Holland’s fourth standalone movie “a grounded Spider-Man tale” that is “thrilling, heartfelt and",
+      "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-first-reactions-tom-holland-1236821722/",
+      "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP138-e1785154645459.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-28T05:35:59.000Z"
+    },
+    {
+      "id": "rss-cf24bf78a455",
+      "title": "Why Chelsea want to sign older players",
+      "description": "Chelsea are targeting deals for Maxence Lacroix, Jordan Henderson and Danny Welbeck - three experienced heads, in an age when the focus has been on youth.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0100/live/44ad9bb0-8a49-11f1-b2ab-0dd01740f9f6.png",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T05:34:08.000Z"
+    },
+    {
+      "id": "rss-811f44cb3732",
+      "title": "Top News Today: Intel Space Chip, Nvidia AI Investment, Blockchain Jobs & More",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/tech-news/top-news-today-intel-space-chip-nvidia-ai-investment-blockchain-jobs-more",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/jl0qy45i/Top-News-Today-Intel-Space-Chip-Nvidia-AI-Investment-Blockchain-Jobs-More.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T05:31:27.000Z"
+    },
+    {
+      "id": "rss-458096a1a1f2",
+      "title": "Hugging Face Has a Deepfake Nudes Problem",
+      "description": "Researchers tested top image editing models on Hugging Face and found they could easily create explicit deepfakes—and 1,000 image editing prompts show how people use the software.",
+      "url": "https://www.wired.com/story/hugging-face-has-a-nonconsensual-deepfakes-problem/",
+      "image": "https://media.wired.com/photos/6a67cfabae27b42b1eabd681/master/pass/Security_HuggingFaceHasaDeepfakeNudesProblem_v1.gif",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:30:00.000Z"
+    },
+    {
+      "id": "rss-1c1532c3ba72",
+      "title": "Gold Price Today: Gold Price Declines 0.48% on MCX to Rs. 1,41,800 Amid Stronger Dollar, Brent at $87.30",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/gold-price-today-gold-price-declines-048-on-mcx-to-rs-141800-amid-stronger-dollar-brent-at-8730",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/1vhwusp6/Gold-Price-Today-Gold-Price-Declines-0.48-on-MCX-to-Rs.-141800-Amid-Stronger-Dollar-Brent-at-87.30.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T05:30:00.000Z"
+    },
+    {
+      "id": "rss-5e9a63865d3b",
+      "title": "Stock Market Update: Nifty 50 Opens 25 points Lower, Sensex Holds Around 76,830 Amid Mixed Global Cues",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/stock-market-update-nifty-50-opens-25-points-lower-sensex-holds-around-76830-amid-mixed-global-cues",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/4isr6x9l/Stock-Market-Update-Nifty-50-Opens-25-points-Lower-Sensex-Holds-Around-76830-Amid-Mixed-Global-Cues.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T05:04:45.000Z"
+    },
+    {
+      "id": "rss-51970d25a3db",
+      "title": "Don't Download a Crypto App Until You Read This 2026 Guide",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/cryptocurrency-analytics-insight/dont-download-a-crypto-app-until-you-read-this-2026-guide",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/f408hvpa/Dont-Download-a-Crypto-App-Until-You-Read-This-2026-Guide.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T05:04:24.000Z"
+    },
+    {
+      "id": "rss-6513236aca58",
+      "title": "Ulta Promo Codes: Up to 50% Off in July 2026",
+      "description": "Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.",
+      "url": "https://www.wired.com/story/ulta-coupon/",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:02:00.000Z"
+    },
+    {
+      "id": "rss-acd38dc510e6",
+      "title": "On the front line of Ecuador's drugs war, police fight gangs, guns and corruption",
+      "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee77/live/c385c6d0-89bb-11f1-965a-d70ca8fc6275.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T05:01:19.000Z"
+    },
+    {
+      "id": "rss-efc75a42c902",
+      "title": "B&H Photo Promo Codes and Deals This July 2026",
+      "description": "Enjoy top deals on cameras, computers, and tech essentials at B&H Photo.",
+      "url": "https://www.wired.com/story/bh-photo-coupon/",
+      "image": "https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-25eff9802194",
+      "title": "AirDoctor Coupon Codes: 40% Off | July 2026",
+      "description": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+      "url": "https://www.wired.com/story/airdoctor-coupon-code/",
+      "image": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-6fda4302d266",
+      "title": "Google Workspace Promo Codes: 14% Off for July",
+      "description": "Boost your productivity and save with exclusive Google Workspace coupons from WIRED. Get up to 14% off plans for three months, including Starter, Standard, and Plus tiers.",
+      "url": "https://www.wired.com/story/google-workspace-promo-code/",
+      "image": "https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-2bb54c33a4bc",
+      "title": "Birdfy Discount Codes: 15% Off Sitewide",
+      "description": "Use these verified Birdfy discount codes to score up to 40% off smart feeders, camera kits, and accessories.",
+      "url": "https://www.wired.com/story/birdfy-discount-code/",
+      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-753f0eaeaac9",
+      "title": "Priceline Promo Codes & Coupons: 10% Off July",
+      "description": "Unlock massive discounts on Priceline hotels, flights, and rental cars. Find verified Priceline coupon codes and deals for Express Deals, student discounts, and more.",
+      "url": "https://www.wired.com/story/priceline-promo-code/",
+      "image": "https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-3c8312635e34",
+      "title": "Booking.com Promo Codes: 20% Off | July 2026",
+      "description": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-c84fd2f20a2b",
+      "title": "Corsair Discount Code: Up to 50% Off for July 2026",
+      "description": "Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.",
+      "url": "https://www.wired.com/story/corsair-coupon/",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-1731f457fc90",
+      "title": "Ray-Ban Promo Codes: Save 50% in July 2026",
+      "description": "Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.",
+      "url": "https://www.wired.com/story/ray-ban-promo-code/",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-69440a50ed2e",
+      "title": "Uber Eats Promo Codes: $15 Off│July 2026",
+      "description": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
+      "url": "https://www.wired.com/story/uber-eats-promo-code/",
+      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-bf8f8b7db933",
+      "title": "25% Off Adidas Promo Code | July 2026",
+      "description": "Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.",
+      "url": "https://www.wired.com/story/adidas-promo-code/",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-4995f092b08f",
+      "title": "Herman Miller Promo Codes: 40% Off July 2026",
+      "description": "Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in July 2026.",
+      "url": "https://www.wired.com/story/herman-miller-promo-code/",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-a78419682859",
+      "title": "Altra Running Promo Codes: 10% Off July 2026",
+      "description": "Score big savings on Altra Running shoes with up to 50% off sale styles, 20% off select models, 10% off your first order when you sign up, plus free standard delivery on every purchase.",
+      "url": "https://www.wired.com/story/altra-promo-code/",
+      "image": "https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-12b00b5123d9",
+      "title": "Newegg Promo Codes and Coupons for July 2026",
+      "description": "Enjoy up to 10% off your entire order with today’s Newegg promo code and discount codes. Save with the latest deals for gaming PCs, laptops, and computer parts.",
+      "url": "https://www.wired.com/story/newegg-promo-code/",
+      "image": "https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T05:00:00.000Z"
+    },
+    {
+      "id": "rss-1c09016f8fc7",
+      "title": "Hong Kong activist allowed to stay in UK after deportation threat",
+      "description": "Wu was detained for hours at London's Heathrow Airport last week and refused entry, he told the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/cpd74e0yy12o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bda/live/10c4d5e0-8a2e-11f1-8577-7fb0b5f56b15.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T04:59:36.000Z"
+    },
+    {
+      "id": "rss-c5d32fe06b5c",
+      "title": "Cancer: Causes, Risk Factors, Prevention, and Treatment.",
+      "description": "Know more about  cancer \nContinue reading on Medium »",
+      "url": "https://medium.com/@parulpal2090/cancer-causes-risk-factors-prevention-and-treatment-42d3dd97d5d4?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/716/1*x0lzeGdsrYic5IR_wV9wng.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-28T04:57:22.000Z"
+    },
+    {
+      "id": "rss-e7619b3ff181",
+      "title": "How I Lost My Pregnancy Weight Every Time",
+      "description": "3 Babies, 3 Times 30 kg, and Back Again\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/how-i-lost-my-pregnancy-weight-every-time-91a6d769b90b?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/996/1*4iGutDJVqXseWDwIBhyaQw.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-28T04:48:58.000Z"
+    },
+    {
+      "id": "rss-48b2fce3ca73",
+      "title": "Kundalini Yoga for Beginners: Chakras, Kriyas, Benefits, Meditation & Safe Daily Practice",
+      "description": "Kundalini Yoga is one of the most transformative branches of yoga, combining physical movement, conscious breathing, meditation, mantra…\nContinue reading on Medium »",
+      "url": "https://medium.com/@nirmalyog75/kundalini-yoga-for-beginners-chakras-kriyas-benefits-meditation-safe-daily-practice-044acb7cbe30?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*P6o_aJV1m5-5Ltr8zXsr7A.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-28T04:42:41.000Z"
+    },
+    {
+      "id": "rss-fed9148bd7c4",
+      "title": "Today’s NYT Mini Crossword Answers for Tuesday, July 28",
+      "description": "",
+      "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-tuesday-july-28/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/50d61b9b-1c76-4678-9a92-f6eca531f4a8.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-28T04:30:00.000Z"
+    },
+    {
+      "id": "rss-fbd20b8f6647",
+      "title": "Bitcoin Price Forecast: Can BTC Sustain its Rally and Confirm a Trend Reversal?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/bitcoin-price-forecast-can-btc-sustain-its-rally-and-confirm-a-trend-reversal",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-27/cyu85y06/Bitcoin-Price-Forecast-Can-BTC-Sustain-Its-Rally-and-Confirm-a-Trend-Reversal-1.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T04:30:00.000Z"
+    },
+    {
+      "id": "rss-b1706a7fe2de",
+      "title": "Understanding Ghrelin: The Hunger Hormone That Influences Your Appetite",
+      "description": "Continue reading on Medium »",
+      "url": "https://thriveinserenity.medium.com/understanding-ghrelin-the-hunger-hormone-that-influences-your-appetite-999febb2c7b0?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*l3Gl-htyvxL4w8miV2hchw.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-28T04:11:06.000Z"
+    },
     {
       "id": "rss-905b9651104a",
       "title": "Zendaya Stuns ‘Spider-Man: Brand New Day’ Premiere in ‘Abstract’ Spider-Inspired Look: ‘It’s Like This Metamorphosis’",
@@ -30,7 +800,7 @@
       "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-spain-madrid-1-fpcq/28int-spain-madrid-1-fpcq-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-28T04:01:35.000Z"
+      "publishedAt": "2026-07-28T04:01:36.000Z"
     },
     {
       "id": "rss-e3490940aee5",
@@ -40,7 +810,7 @@
       "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28int-zelensky-trump-01-wtjf/28int-zelensky-trump-01-wtjf-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-07-28T04:01:27.000Z"
+      "publishedAt": "2026-07-28T04:01:28.000Z"
     },
     {
       "id": "rss-de617c03bd5c",
@@ -111,6 +881,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-28T04:01:01.000Z"
+    },
+    {
+      "id": "rss-c0e199832701",
+      "title": "Revisited: The surprising science of dreams and nightmares – podcast",
+      "description": "In this episode from January 2026, Ian Sample puts listeners’ questions about dreams and nightmares to Dr Michelle Carr, the director of the Dream Engineering Laboratory in Montreal’s Centre for Advan",
+      "url": "https://www.theguardian.com/lifeandstyle/audio/2026/jul/28/revisited-the-surprising-science-of-dreams-and-nightmares-podcast",
+      "image": "https://i.guim.co.uk/img/media/aac29f99f302b04275882cb997363a2c4d44fe3b/503_0_4684_3747/master/4684.jpg?width=140&quality=85&auto=format&fit=max&s=0e95963b3158b3e3eae1848ac5d71452",
+      "source": "The Guardian Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T04:00:29.000Z"
     },
     {
       "id": "rss-82a950573b61",
@@ -273,6 +1053,16 @@
       "publishedAt": "2026-07-28T03:31:06.000Z"
     },
     {
+      "id": "rss-bb2618541c0f",
+      "title": "Kalshi tiptoes back into canceled flight markets with new  JFK airport wager, bets don’t apply to specific flights",
+      "description": "The new contract will let institutional users bet whether 50% of flights will be cancelled at JFK airport over two days in October.",
+      "url": "https://fortune.com/2026/07/27/kalshi-tiptoes-back-into-canceled-flight-markets-with-jfk-airport-wager/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2285600278.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-07-28T03:24:37.000Z"
+    },
+    {
       "id": "rss-ca1b922f8cca",
       "title": "'I just found all the classified stuff downstairs' - Biden to ghostwriter",
       "description": "Recordings between Biden and his ghostwriter reveal references to classified information and memory gaps.",
@@ -331,16 +1121,6 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-28T03:00:00.000Z"
-    },
-    {
-      "id": "rss-39f423251577",
-      "title": "Burnham says pupils in England need clearer pathway into work",
-      "description": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/76a92500-89f7-11f1-ad85-33848ec6bcfe.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-07-28T02:56:21.000Z"
     },
     {
       "id": "rss-1aec27ee5d1f",
@@ -477,7 +1257,7 @@
       "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
       "description": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
       "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/988d/live/89834e70-8a1b-11f1-8e1d-ab6aa2cf2cd1.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32ec/live/92eec930-8a52-11f1-b2ab-0dd01740f9f6.jpg",
       "source": "BBC News",
       "category": "trending",
       "publishedAt": "2026-07-28T01:53:58.000Z"
@@ -491,6 +1271,16 @@
       "source": "Phys.org",
       "category": "science",
       "publishedAt": "2026-07-28T01:40:01.000Z"
+    },
+    {
+      "id": "rss-2d25d2e27557",
+      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
+      "description": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
+      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abbf/live/f36d2c30-8a24-11f1-b2ab-0dd01740f9f6.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T01:39:50.000Z"
     },
     {
       "id": "rss-5bab4d921332",
@@ -853,6 +1643,16 @@
       "publishedAt": "2026-07-28T00:21:34.000Z"
     },
     {
+      "id": "rss-2687425a6506",
+      "title": "Why attachment theory is everywhere right now and how it can help you",
+      "description": "Attachment theory is everywhere right now, but what is it and how can you use it to improve your relationships?",
+      "url": "https://www.bbc.co.uk/news/articles/cnv95790mgpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f567/live/eca661b0-8997-11f1-b2ab-0dd01740f9f6.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T00:21:34.000Z"
+    },
+    {
       "id": "rss-d5d8ab012ec2",
       "title": "I Couldn’t Sleep Before My Night Shifts. I Thought I Just Wasn’t Trying Hard Enough.",
       "description": "When I was working as a hospital nurse, my body was sending me clear warning signs.\nContinue reading on Medium »",
@@ -901,6 +1701,16 @@
       "source": "BBC News",
       "category": "trending",
       "publishedAt": "2026-07-28T00:18:58.000Z"
+    },
+    {
+      "id": "rss-9abf4591bd3d",
+      "title": "Trial begins for Lindsay Clancy, mother on trial in deaths of her 3 children",
+      "description": "A Massachusetts woman is on trial in a case where her lawyers argue that postpartum psychosis was the reason she killed her three children, aged 5 and younger",
+      "url": "https://abcnews.com/Health/wireStory/trial-begins-lindsay-clancy-mother-trial-deaths-3-135109766",
+      "image": "https://s.abcnews.com/images/US/wirestory_b70bfa592ea1c0fbdc62792e4e7b9be6_4x3_384.jpg",
+      "source": "ABC News Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:17:57.000Z"
     },
     {
       "id": "rss-9191ecf6bace",
@@ -1271,16 +2081,6 @@
       "source": "IGN",
       "category": "gaming",
       "publishedAt": "2026-07-27T22:59:47.000Z"
-    },
-    {
-      "id": "rss-2d25d2e27557",
-      "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
-      "description": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
-      "url": "https://www.bbc.co.uk/news/articles/c70gkg62w0ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f55/live/663c7760-86d9-11f1-bba7-35d3e67315de.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-07-27T22:58:49.000Z"
     },
     {
       "id": "rss-f2c762cd045a",
@@ -2783,16 +3583,6 @@
       "publishedAt": "2026-07-27T20:30:37.000Z"
     },
     {
-      "id": "rss-dda4e00262f6",
-      "title": "Injured Draper withdraws on eve of another tournament",
-      "description": "Former British number one Jack Draper withdraws from another event because of issues around his recurring long-term arm injury.",
-      "url": "https://www.bbc.co.uk/sport/tennis/articles/cx25jndr1zyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5721/live/f4660bf0-89f4-11f1-ad85-33848ec6bcfe.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-27T20:30:35.000Z"
-    },
-    {
       "id": "rss-8b44a52709c3",
       "title": "Your eval’s confidence interval assumes independent examples. Yours are clustered.",
       "description": "Every binomial confidence interval you have ever computed on an eval pass rate, Wald, Wilson, Clopper-Pearson, all of them, rests on one…\nContinue reading on Medium »",
@@ -3521,6 +4311,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-27T19:36:59.000Z"
+    },
+    {
+      "id": "rss-3eee303e6865",
+      "title": "As Communities Unite Against Europe’s Wildfires, Politicians Trade Blows",
+      "description": "Spain’s center-left accused conservatives of underfunding the disaster response, while critics of France’s government decried delays.",
+      "url": "https://www.nytimes.com/2026/07/27/world/europe/europe-wildfires-politician-response.html",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27europe-wildfires-response-vlmg/27europe-wildfires-response-vlmg-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-27T19:36:33.000Z"
     },
     {
       "id": "rss-4946cbf29609",
@@ -5281,6 +6081,16 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-07-27T16:52:30.000Z"
+    },
+    {
+      "id": "rss-5b3c7fe08e4f",
+      "title": "Amid France Wildfires, Some Residents Help Firefighters Contain Blazes",
+      "description": "With firefighters stretched thin, volunteers put themselves at risk, using water tanks, hoses and tractors to hold back flames from villages and farms in southwestern France.",
+      "url": "https://www.nytimes.com/2026/07/27/world/europe/residents-farmers-firefighters-france-wildfires.html",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27euro-promo-qtwl/27euro-promo-qtwl-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-27T16:52:12.000Z"
     },
     {
       "id": "rss-31e837a41b5a",
@@ -7491,16 +8301,6 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-27T13:46:57.000Z"
-    },
-    {
-      "id": "rss-9abf4591bd3d",
-      "title": "Trial begins for Lindsay Clancy, mother on trial in deaths of her 3 children",
-      "description": "A Massachusetts woman is on trial in a case where her lawyers are expected to argue that postpartum issues were the reason she killed her three children",
-      "url": "https://abcnews.com/Health/wireStory/trial-begins-lindsay-clancy-mother-trial-deaths-3-135109766",
-      "image": "https://s.abcnews.com/images/US/wirestory_b70bfa592ea1c0fbdc62792e4e7b9be6_4x3_384.jpg",
-      "source": "ABC News Health",
-      "category": "health",
-      "publishedAt": "2026-07-27T13:46:46.000Z"
     },
     {
       "id": "rss-f3a018083b5f",
@@ -27241,16 +28041,6 @@
       "source": "KFF Health News",
       "category": "health",
       "publishedAt": "2026-07-21T09:00:00.000Z"
-    },
-    {
-      "id": "rss-7c73c5efefaf",
-      "title": "British Gas mixed up our energy meter – but now I’m being penalised",
-      "description": "When the problem was finally sorted out in our new-build home, it increased my tariff by 19%\nResidents in our new housing development are being billed for each other’s energy after the meters were mix",
-      "url": "https://www.theguardian.com/money/2026/jul/21/british-gas-energy-meter-home-tariff",
-      "image": "https://i.guim.co.uk/img/media/86af301fcd5e72a80debf60a9a0ced500fe73e94/83_0_3369_2697/master/3369.jpg?width=140&quality=85&auto=format&fit=max&s=76f20b049af9cc7382327b2f00b46257",
-      "source": "The Guardian Health",
-      "category": "health",
-      "publishedAt": "2026-07-21T06:00:03.000Z"
     }
   ]
 }
