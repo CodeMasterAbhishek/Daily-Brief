@@ -1,7 +1,607 @@
 {
-  "lastUpdated": "2026-07-27T23:01:23.058Z",
-  "count": 2601,
+  "lastUpdated": "2026-07-28T00:55:27.308Z",
+  "count": 2656,
   "articles": [
+    {
+      "id": "rss-d16362c434b4",
+      "title": "Building a Production Barcode Scanner: YOLO, U-Net, and 4,000 Pipeline Experiments",
+      "description": "A technical deep-dive into detection, restoration, and the surprising lessons from automated preprocessing optimization.\nContinue reading on Medium »",
+      "url": "https://medium.com/@limousyf/building-a-production-barcode-scanner-yolo-u-net-and-4-000-pipeline-experiments-ae7a6b232941?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*AjQAXiy44xVScmYLtCOn3A.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:54:42.000Z"
+    },
+    {
+      "id": "rss-04ffc3524cb9",
+      "title": "Movement Philosophy Primer: From Passive Rest to Smart Recovery",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@sinhashalini198/movement-philosophy-primer-from-passive-rest-to-smart-recovery-c0518dc8d7ec?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*uEUcMWE_Dj4WhAQG0lLdlg@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:51:43.000Z"
+    },
+    {
+      "id": "rss-bf24cccdd854",
+      "title": "If I were to give up and become an atheist, I would still find myself praying to be loved.",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@chrysanthemeum/if-i-were-to-give-up-and-become-an-atheist-i-would-still-find-myself-praying-to-be-loved-d61b1870da07?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/668/1*hz2t8ne0dE3Ekj41xOiMyw.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:50:02.000Z"
+    },
+    {
+      "id": "rss-f0e85646db69",
+      "title": "Corporate Fixer Now Cancer Warrior",
+      "description": "Leveraging Business Skills to Survive Cancer\nContinue reading on Medium »",
+      "url": "https://medium.com/@terry.schurter/corporate-fixer-now-cancer-warrior-4500dc452321?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*GxeNqettcUIDjFkwADItWQ.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:48:54.000Z"
+    },
+    {
+      "id": "rss-1f9baa1a50ec",
+      "title": "Production-Grade AI Agents",
+      "description": "30 Senior Forward Deployed Engineer Interview Questions and Answers\nContinue reading on Medium »",
+      "url": "https://medium.com/@johirbuet/production-grade-ai-agents-334ceaa210f9?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1774/1*9NQWaF1gF89tYld5FZDzdQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:48:17.000Z"
+    },
+    {
+      "id": "rss-d6a091ed77be",
+      "title": "How Would You Ingest and Update Millions of Documents?",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@johirbuet/how-would-you-ingest-and-update-millions-of-documents-6a7d9eedc174?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1774/1*9NQWaF1gF89tYld5FZDzdQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:47:59.000Z"
+    },
+    {
+      "id": "rss-3a7c259ba89f",
+      "title": "AI Just Flagged 250,000 Fake Cancer Papers. It Was Trained on the Same Pile.",
+      "description": "I read a lot of science I am not fully qualified to evaluate. Most people do. You see a headline about a cancer breakthrough, and you…\nContinue reading on Level Up Coding »",
+      "url": "https://levelup.gitconnected.com/ai-just-flagged-250-000-fake-cancer-papers-it-was-trained-on-the-same-pile-13490b421e10?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1600/1*VhSECznvG34BYhSK-O2nAg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:45:04.000Z"
+    },
+    {
+      "id": "rss-2d6d307d7262",
+      "title": "Why Sri Lanka’s Exam Machine Is Failing Our Children?",
+      "description": "It is not that our children are not trying. It is that the system is fighting the very way they learn.\nContinue reading on Medium »",
+      "url": "https://samisa-abeysinghe.medium.com/why-sri-lankas-exam-machine-is-failing-our-children-d310ff8f9afe?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*HGqKCAslPpFTAyffJQWZJA.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:42:42.000Z"
+    },
+    {
+      "id": "rss-76c40a8e980d",
+      "title": "Seawater samples may offer early clues to changing reef health",
+      "description": "Doctors can often detect diseases in humans using minimally invasive methods, like blood or urine tests, before symptoms become severe. Now, researchers at the Woods Hole Oceanographic Institution (WH",
+      "url": "https://phys.org/news/2026-07-seawater-samples-early-clues-reef.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/study-shows-seawater-m-2.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-28T00:40:06.000Z"
+    },
+    {
+      "id": "rss-e48081508dba",
+      "title": "Water's local asymmetry drives proton hopping between molecules, simulations reveal",
+      "description": "Complex simulations—the most intricate of their kind to date—carried out by an international research team led by scientists at Heidelberg University's Institute for Physical Chemistry, have revealed ",
+      "url": "https://phys.org/news/2026-07-local-asymmetry-proton-molecules-simulations.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/complex-simulations-ne.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-28T00:40:04.000Z"
+    },
+    {
+      "id": "rss-6e91b9a60fe2",
+      "title": "AI Is Running Marketing Now. Is That a Problem?",
+      "description": "The data behind the tool everyone is using and nobody is questioning\nContinue reading on Marketing in the Age of Digital »",
+      "url": "https://medium.com/marketing-in-the-age-of-digital/ai-is-running-marketing-now-is-that-a-problem-915b60069014?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/889/1*7cbxMOkrPaQT8WaxuRuUjw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:35:56.000Z"
+    },
+    {
+      "id": "rss-3bfa55b35ec4",
+      "title": "The “I Built This With One Prompt” Trend: Myth or Method?",
+      "description": "Whenever a new model drops, you see a lot of people posting some insanely cool applications with the caption “I one-shotted this app” or…\nContinue reading on Medium »",
+      "url": "https://medium.com/@augustozz/the-i-built-this-with-one-prompt-trend-myth-or-method-3c31929800d3?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*TS_yryUGg9m8-sEIYJD4xA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:33:57.000Z"
+    },
+    {
+      "id": "rss-7ce8543a89f8",
+      "title": "1-Click Rewriter Pro Review: Can This AI-Powered Content System Help You Create More Digital…",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@snap.business.1100/1-click-rewriter-pro-review-can-this-ai-powered-content-system-help-you-create-more-digital-03fecb5b1fb4?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*pSgoeQKvfejc6Ca3OgPhIw.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:33:49.000Z"
+    },
+    {
+      "id": "rss-ef9ed2ce6978",
+      "title": "How to Become Better Without Changing Who You Are",
+      "description": "You'll grow faster when you stop believing you have to become someone else\nContinue reading on Write A Catalyst »",
+      "url": "https://medium.com/write-a-catalyst/how-to-become-better-without-changing-who-you-are-745e8c771d73?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*1LDORkOIZg66o5BR",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:31:11.000Z"
+    },
+    {
+      "id": "rss-16ff8ca2e60e",
+      "title": "The Biggest Mistake Professionals Make With ChatGPT",
+      "description": "The difference between getting average answers and turning AI into a genuine workplace advantage.\nContinue reading on Medium »",
+      "url": "https://medium.com/@jameswalkerai/the-biggest-mistake-professionals-make-with-chatgpt-fec8df9b75c5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1731/1*D1l-UtZGZeRtGdBt2FVpig.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:31:01.000Z"
+    },
+    {
+      "id": "rss-bf793768cc4c",
+      "title": "What Happens When Every Question Has an Instant Answer?",
+      "description": "The Hidden Cost of Living in a World Where Knowledge Is Always One Click Away\nContinue reading on Medium »",
+      "url": "https://medium.com/@ayeshashanofer973/what-happens-when-every-question-has-an-instant-answer-bc54f58f98f1?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*DTAZp-L_TqhUF-L0hLUMcA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:31:01.000Z"
+    },
+    {
+      "id": "rss-b881fb109e31",
+      "title": "Dual Inverter vs Single Inverter AC: Which Saves More Electricity in 2026?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/air-conditioners/dual-inverter-vs-single-inverter-ac-which-saves-more-electricity-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-27/msvdby9v/Dual-Inverter-vs-Single-Inverter-AC-Which-Saves-More-Electricity-in-2026-1.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:30:00.000Z"
+    },
+    {
+      "id": "rss-c7d130095136",
+      "title": "Auslander",
+      "description": "The one that cruises through the night,\nWhen all is silent, a quiet death descends on the streets,\nThe world’s asleep, as I traverse…\nContinue reading on The Bad Influence »",
+      "url": "https://medium.com/the-bad-influence/auslander-228aa0e7f442?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*_2jfqHyBuboQCu06rR8_xA@2x.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:29:16.000Z"
+    },
+    {
+      "id": "rss-2549962c2f2e",
+      "title": "Trump Backs New Talks but It’s Unclear What He Hopes to Achieve This Time",
+      "description": "Iran denied President Trump’s claim that it wants to talk, and gave no sign that it would make concessions or speak directly with U.S. officials.",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27dc-iran-trump-01-zfcl/27dc-iran-trump-01-zfcl-mediumSquareAt3X-v3.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-28T00:21:41.000Z"
+    },
+    {
+      "id": "rss-dab191898c3b",
+      "title": "LM Studio Bionic adds support for Moonshot AI’s Kimi K3 model",
+      "description": "LM Studio’s agentic workflow platform now lets users run tasks with Kimi K3, Moonshot AI’s 2.8-trillion-parameter model with a 1-million-context window. Here are the details.",
+      "url": "https://9to5mac.com/2026/07/27/lm-studio-bionic-adds-support-for-moonshot-ais-kimi-k3-model/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/lm-studio-bionic.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-28T00:21:34.000Z"
+    },
+    {
+      "id": "rss-d5d8ab012ec2",
+      "title": "I Couldn’t Sleep Before My Night Shifts. I Thought I Just Wasn’t Trying Hard Enough.",
+      "description": "When I was working as a hospital nurse, my body was sending me clear warning signs.\nContinue reading on Medium »",
+      "url": "https://medium.com/@pikonurseai/i-couldnt-sleep-before-my-night-shifts-i-thought-i-just-wasn-t-trying-hard-enough-2da9107b3bac?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1448/1*y3xE4vU_bcjczf3DdUxBtA.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:21:33.000Z"
+    },
+    {
+      "id": "rss-846720ac16ee",
+      "title": "Africa’s Heavy Burden: Sickle Cell Disease",
+      "description": "Why Africa Bears the Heaviest Burden of a Global Condition\nContinue reading on Medium »",
+      "url": "https://medium.com/@alesiakekula07/africas-heavy-burden-sickle-cell-disease-31287ef3f5a2?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*2jj-PFxRrkWtyveIUWvrqQ@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:21:10.000Z"
+    },
+    {
+      "id": "rss-6b7837422470",
+      "title": "Digital revolution forcing archaeology to rethink research data management",
+      "description": "Archaeological excavations generate a vast quantity of documents of various types and formats, which constitute a scientific heritage of great value. However, the way this data is organized, documente",
+      "url": "https://phys.org/news/2026-07-digital-revolution-archaeology-rethink.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2023/archaeological-dig.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-28T00:20:01.000Z"
+    },
+    {
+      "id": "rss-f7858a940a10",
+      "title": "The Business of Looking Prepared for AI",
+      "description": "Artificial intelligence not only created a race to implement technology. It also created a race to look prepared. Suddenly, learning AI…\nContinue reading on Medium »",
+      "url": "https://medium.com/@martin.jurado.p/the-business-of-looking-prepared-for-ai-122efde7eeef?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1491/1*dXkEyALOgTsDs_TxPt4vLQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:19:28.000Z"
+    },
+    {
+      "id": "rss-ef473e334953",
+      "title": "Fourth heatwave grips parts of UK with 35C forecast",
+      "description": "A fourth heatwave of the year is now under way for parts of the UK, with temperatures expected to climb into the mid-30s Celsius later this week.",
+      "url": "https://www.bbc.co.uk/weather/articles/cg4d190z6xko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41a3/live/3e4c4490-89ce-11f1-a7ab-8b30adf0800a.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T00:18:58.000Z"
+    },
+    {
+      "id": "rss-9191ecf6bace",
+      "title": "The Hidden Reason AI Keeps Writing Generic Code",
+      "description": "The real bottleneck isn’t GPT-4, Claude, or Cursor — it’s how you’re prompting them.\nContinue reading on Medium »",
+      "url": "https://medium.com/@nagatomopedro05/the-hidden-reason-ai-keeps-writing-generic-code-64d550e75ee5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*PWrs-CY5DQ9NUaXL_kyP7A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:16:37.000Z"
+    },
+    {
+      "id": "rss-801e546ff2a6",
+      "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
+      "description": "Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4585/live/380a4a50-8a19-11f1-831c-e5ac62e791c5.jpg",
+      "source": "BBC Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:14:41.000Z"
+    },
+    {
+      "id": "rss-7edff776177c",
+      "title": "The Unheard Reflection: Deep Web Research Into Covert Narcissism and the Architecture of Emotional…",
+      "description": "How Digitally Networked Validation Systems Are Engineering a Silent Epidemic of Self-Referential Empathy Collapse\nContinue reading on Medium »",
+      "url": "https://waheedahmedofficial.medium.com/the-unheard-reflection-deep-web-research-into-covert-narcissism-and-the-architecture-of-emotional-d59557bcfb0f?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*ZWWEfvKZO24thmUVBpWQGQ.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:11:01.000Z"
+    },
+    {
+      "id": "rss-e062fff680a0",
+      "title": "The Void Behind the Mask: Exploring Covert Narcissism Through the Lens of Existential Tourism",
+      "description": "When the Search for Authentic Experience Becomes a Mirror of the Empty Self\nContinue reading on Medium »",
+      "url": "https://waheedahmedofficial.medium.com/the-void-behind-the-mask-exploring-covert-narcissism-through-the-lens-of-existential-tourism-fca1e679a25c?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*8Olb3xPoPmmyjloJaZjpYw.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:11:01.000Z"
+    },
+    {
+      "id": "rss-ae702ed6c8a3",
+      "title": "The Gravity of Absence: Decoding the Invisible Physics of Covert Narcissistic Manipulation",
+      "description": "They Don’t Just Lie to You — They Rewire Your Perception of Mass, Morality, and Memory Until You Forget What Was Ever Real\nContinue reading on Medium »",
+      "url": "https://waheedahmedofficial.medium.com/the-gravity-of-absence-decoding-the-invisible-physics-of-covert-narcissistic-manipulation-8a8ce3abc024?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*I8615mDCDwoEqJFOT1ORsQ.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:11:01.000Z"
+    },
+    {
+      "id": "rss-4ce200a590bd",
+      "title": "The Real Product of Machine-Native Coding Is Not Code. It Is Evidence.",
+      "description": "Why the Machine-Native Complexity Standard is building a corpus that lets AI agents explore implementations humans might never write —…\nContinue reading on Medium »",
+      "url": "https://medium.com/@epicureousapc/the-real-product-of-machine-native-coding-is-not-code-it-is-evidence-3c6fdf91d1a1?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1983/1*WEE77KhD-6u8ZfM5Rmt7jg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:10:04.000Z"
+    },
+    {
+      "id": "rss-7e92c7a817fd",
+      "title": "Recreating 180 Years of Chess Style with Policy-Only Fine-Tuning",
+      "description": "How five small neural networks learned to play like 1850, 1920, 1965, 1995, and 2015\nContinue reading on Towards AI »",
+      "url": "https://pub.towardsai.net/recreating-180-years-of-chess-style-with-policy-only-fine-tuning-6eed9ad4b154?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*Tzud1qhj1fyyE46xZo-cOQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:01:02.000Z"
+    },
+    {
+      "id": "rss-11be1f26d856",
+      "title": "Natural Language Processing (NLP) Core Concepts",
+      "description": "Every day, we communicate through emails, social media posts, customer reviews, search queries, documents, and conversations. For humans…\nContinue reading on Medium »",
+      "url": "https://medium.com/@vikashsinghy2k/natural-language-processing-nlp-core-concepts-b3cc101dce7f?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/819/1*FZVhiUKoSKLmxqZH6vr3rg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T00:01:02.000Z"
+    },
+    {
+      "id": "rss-daa68bfe7bb4",
+      "title": "Stay Useful: Why Moving Still Matters",
+      "description": "There is a funny thing that happens as we age. At some point, movement starts getting treated like an extra.\nContinue reading on Medium »",
+      "url": "https://medium.com/@braxtonpatton/stay-useful-why-moving-still-matters-0cf0ce2566d7?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/0*yj4GjPeExw14WqtC.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T00:01:02.000Z"
+    },
+    {
+      "id": "rss-940bbf0faa86",
+      "title": "Red Sox vs. Athletics MLB prop picks: Curtis Mead set for Boston debut Monday, could be in good power spot",
+      "description": "Trade acquisition Curtis Mead will make his Red Sox debut tonight at the Athletics",
+      "url": "\n                                                https://www.cbssports.com/betting/news/red-sox-vs-athletics-mlb-prop-picks-curtis-mead-set-for-boston-debut-monday-could-be-in-good-power-spot/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/27/c3596334-f045-4cee-9c2b-34418f859d4f/usatsi-29413002-1.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T00:00:47.000Z"
+    },
+    {
+      "id": "rss-a1b41bf91e8b",
+      "title": "Marvel Phase 7 and 8 movie slate and release dates: X-Men, Ghostrider, Black Panther 3, and beyond",
+      "description": "The MCU has four untitled movies slated to release in the next two years. Can we predict Marvel's Phase 7 slate?",
+      "url": "https://www.polygon.com/marvel-phase-7-movies-predictions-release-release-dates/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/2287656599.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T00:00:12.000Z"
+    },
+    {
+      "id": "rss-0d6c30b2c270",
+      "title": "Border crossings shut as heavy snow coats Argentine Andes",
+      "description": "Heavy snowfall in the Argentine Andes has forced more than 100 people to evacuate and stalled almost 1,000 trucks on snow-covered roads, while flights were rerouted Monday.",
+      "url": "https://phys.org/news/2026-07-border-heavy-coats-argentine-andes.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/authorities-closed-a-k.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-28T00:00:01.000Z"
+    },
+    {
+      "id": "rss-febbb4dd5e8b",
+      "title": "What is Gymnos, and why is the true fitness training?",
+      "description": "The word means “naked” in Latin. Associated with vulnerability and privacy, aesthetics and intimacy. In our western society, our minds…\nContinue reading on Medium »",
+      "url": "https://gymnos.medium.com/what-is-gymnos-and-why-is-the-true-fitness-training-d49d4074638d?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/925/0*9sm7iDe2oeV8dVsk.jpg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-27T23:55:18.000Z"
+    },
+    {
+      "id": "rss-c2c29a5a573c",
+      "title": "Seattle Police Search for 2nd Suspect in Deadly Food Festival Shooting",
+      "description": "A 15-year-old suspect was in custody, and documents said a second shooter was killed on the scene. Police were looking for at least one more suspect in the attack that left three dead.",
+      "url": "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27nat-seattle-shooting-1-fjcz/27nat-seattle-shooting-1-fjcz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-27T23:52:07.000Z"
+    },
+    {
+      "id": "rss-f24098093094",
+      "title": "Can Parakeet, Whisper, and Qwen Replace Wispr Flow?",
+      "description": "Speech recognition is only half the pipeline. Small local language models are starting to handle the cleanup too.\nContinue reading on Level Up Coding »",
+      "url": "https://levelup.gitconnected.com/can-parakeet-whisper-and-qwen-replace-wispr-flow-a2fdc7305e24?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/0*c7gxXqmA4IpLvtMI.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-27T23:47:58.000Z"
+    },
+    {
+      "id": "rss-3a3031ce8d43",
+      "title": "Badenoch calls for emergency legislation to stop early release scheme",
+      "description": "Last week Andy Burnham announced he was pausing early release plans for September after backlash from survivors and victims.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwxvw5ppw0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f5/live/4ce887f0-89cb-11f1-b9d9-13fd1053d899.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-27T23:44:07.000Z"
+    },
+    {
+      "id": "rss-d4e9ed7cbc9e",
+      "title": "Does EMDR Actually Work? An Honest Look at the Trauma Therapy Behind the Hype",
+      "description": "EMDR is all over your feed. So does it actually work?\nContinue reading on Medium »",
+      "url": "https://medium.com/@LaJollaRecovery/does-emdr-actually-work-an-honest-look-at-the-trauma-therapy-behind-the-hype-2ee7e36519e2?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*FpuKnmkgClB6NpnL.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-27T23:41:01.000Z"
+    },
+    {
+      "id": "rss-26a2df281ed8",
+      "title": "Japan’s PM Says She Doesn’t Sleep. That’s Gonna Get People Killed.",
+      "description": "Her brag went over like a lead balloon in a country where “death by overwork” remains a grave issue.\nContinue reading on Medium »",
+      "url": "https://unseenjapan.medium.com/japans-pm-says-she-doesn-t-sleep-that-s-gonna-get-people-killed-bdbf311410eb?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/0*0WhFSt-eBL8rDLB7.jpg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-27T23:40:45.000Z"
+    },
+    {
+      "id": "rss-63c0c208db1d",
+      "title": "How international aid fragmentation affects corruption in developing countries",
+      "description": "An SKKU research team led by Professor Travers B. Child of the SKK Graduate School of Business (SKK GSB) has become the first in the world to use micro-level data to demonstrate that aid fragmentation",
+      "url": "https://phys.org/news/2026-07-international-aid-fragmentation-affects-corruption.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/developing-country.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-27T23:40:03.000Z"
+    },
+    {
+      "id": "rss-2fe5221e73e7",
+      "title": "When polymers meet primitive membranes: How molecular cooperation may have helped life begin",
+      "description": "A new study suggests that simple molecules on early Earth may have worked together to create more stable, cell-like structures, offering fresh clues about one of science's biggest questions: how life ",
+      "url": "https://phys.org/news/2026-07-polymers-primitive-membranes-molecular-cooperation.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-polymers-meet-pri.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-27T23:40:01.000Z"
+    },
+    {
+      "id": "rss-adba5ea56d75",
+      "title": "Spider-Man: Brand New Day Is Projected to Have the Biggest Opening of 2026",
+      "description": "Spider-Man: Brand New Day is on track to absolutely obliterate the box office this weekend.",
+      "url": "https://www.ign.com/articles/spider-man-brand-new-day-is-projected-to-have-the-biggest-opening-of-2026",
+      "image": "https://assets-prd.ignimgs.com/2026/06/28/spider-man-brand-new-day-miles-morales-1782680519271.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T23:31:39.000Z"
+    },
+    {
+      "id": "rss-ada8705ef8f1",
+      "title": "Halo's new Xbox remake is an instant culture war disaster",
+      "description": "Halo: Campaign Evolved has become a culture war talking point due to the introduction of a character named Lt. Williams.",
+      "url": "https://www.polygon.com/halo-campaign-evolved-lieutenant-williams-culture-war/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/cae1203ac494b7639aae701323d7e6ff6258bce0.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T23:30:12.000Z"
+    },
+    {
+      "id": "rss-7618c420ba1c",
+      "title": "XRP Price Forecast: Can Ripple Regain Momentum After Failed Breakout?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/xrp-price-forecast-can-ripple-regain-momentum-after-failed-breakout",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-27/x3esw373/XRP-Price-Forecast-Can-Ripple-Reclaim-2.00-Resistance",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-27T23:30:00.000Z"
+    },
+    {
+      "id": "rss-71ae3cc05025",
+      "title": "Transparency of Intent",
+      "description": "There is a saying that a true believer is always a student of history and prophecy.\nContinue reading on Medium »",
+      "url": "https://damiedaiz.medium.com/transparency-of-intent-9cca7065f241?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1983/1*vFizaAjyrEx_oeSMSzycjQ@2x.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-27T23:28:38.000Z"
+    },
+    {
+      "id": "rss-200338341b15",
+      "title": "Federal survey shows promising trends for youth mental health and drug use",
+      "description": "A key U.S. government report on mental health, substance use and addiction shows continued improvements in several metrics, especially among young people",
+      "url": "https://abcnews.com/Health/wireStory/federal-survey-shows-promising-trends-youth-mental-health-135134310",
+      "image": "https://s.abcnews.com/images/US/wirestory_19d7638073fe40c7f36766b97e826349_4x3_384.jpg",
+      "source": "ABC News Health",
+      "category": "health",
+      "publishedAt": "2026-07-27T23:27:43.000Z"
+    },
+    {
+      "id": "rss-faf5737e93ee",
+      "title": "Rivian Sues US Government for Tariff Refund",
+      "description": "",
+      "url": "https://www.cnet.com/home/electric-vehicles/rivian-sues-us-government-for-tariff-refund/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/2c54dad3-b66e-4606-b8bb-03fac0e18068.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-27T23:26:04.000Z"
+    },
+    {
+      "id": "rss-a3a833475b49",
+      "title": "Vita Vea landing spots: Veteran DT requests trade from Buccaneers after failed contract extension talks",
+      "description": "Vea held out of minicamp while seeking a new contract",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/buccaneers-vita-vea-requests-trade-landing-spots/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/27/4a4b5529-d430-425e-9819-e41a191aa636/gettyimages-2246824792-1.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-27T23:24:22.000Z"
+    },
+    {
+      "id": "rss-cf618d384bf2",
+      "title": "Tropical species near thermal limits as global warming compresses safety margins",
+      "description": "With global warming and extreme weather intensifying, can animals raise their thermal tolerance to cope with a continuously warming environment? A joint research project by the Division of Science at ",
+      "url": "https://phys.org/news/2026-07-tropical-species-thermal-limits-global.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/lingnan-university-joi.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-27T23:20:04.000Z"
+    },
+    {
+      "id": "rss-fda5cbfafaf2",
+      "title": "How changing environments can preserve an ancient microbial survival strategy",
+      "description": "A research group led by Tetsuhiro Hatakeyama from the Earth-Life Science Institute (ELSI) at the Institute of Science Tokyo has revealed how a seemingly self-destructive survival strategy could persis",
+      "url": "https://phys.org/news/2026-07-environments-ancient-microbial-survival-strategy.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-changing-environme.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-27T23:20:02.000Z"
+    },
+    {
+      "id": "rss-67c295e1b4fb",
+      "title": "Apple Delays Smart Glasses Launch Over Privacy Issues, Report Says",
+      "description": "",
+      "url": "https://www.cnet.com/tech/services-and-software/apple-delays-smart-glasses-launch-over-privacy-issues-report-says/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/4395cf52-a151-42a2-bd1a-d23aa3f073f7.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-27T23:18:50.000Z"
+    },
+    {
+      "id": "rss-44ac8e77b735",
+      "title": "T-Mobile ‘actively working’ to fix ongoing outage, iPhone SOS mode",
+      "description": "Update #2, 4:15 p.m. PT: In a statement to 9to5Mac, a T-Mobile spokesperson said: \n“Our teams are actively working the reports of technical challenges impacting some customers. Any service impacts are",
+      "url": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/tmo-sos.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-27T23:17:44.000Z"
+    },
+    {
+      "id": "rss-cc850ed49ccb",
+      "title": "Trump Blames Affordability Problems on Biden in Michigan Speech",
+      "description": "The president also assured supporters that negotiations over ending the war in Iran, a conflict that has sent fuel and energy prices soaring, are continuing in a “friendly” fashion.",
+      "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27dc-trump-zmlt/27dc-trump-zmlt-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-27T23:13:13.000Z"
+    },
+    {
+      "id": "rss-4ce84b89021d",
+      "title": "Avengers: Secret Wars Is the Only MCU Movie in 2027 as Kevin Feige Promises Quality Over Quantity",
+      "description": "It looks like Avengers: Secret Wars will be the only MCU movie in 2027, as Kevin Feige has promised that Marvel Studios is committed to \"focusing on quality.\"",
+      "url": "https://www.ign.com/articles/avengers-secret-wars-is-the-only-mcu-movie-in-2027-as-kevin-feige-promises-quality-over-quantity",
+      "image": "https://assets-prd.ignimgs.com/2026/07/27/kevin-feige-quality-over-quantity-1785193029320.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T23:07:06.000Z"
+    },
+    {
+      "id": "rss-a001e5859416",
+      "title": "Biden's classified docs narrative crumbles amid release of ghostwriter tapes: 'Be careful'",
+      "description": "Over 70 hours of recordings between Joe Biden and memoir ghostwriter Mark Zwonitzer reveal halting speech and memory struggles during the 2017 sessions.",
+      "url": "https://www.foxnews.com/politics/bidens-classified-docs-narrative-crumbles-amid-release-ghostwriter-tapes",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/Joe-Biden-thinking.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-27T23:00:35.000Z"
+    },
+    {
+      "id": "rss-be82d296d27d",
+      "title": "Ex–Dragon Age Producer Calls EA A ‘Hedge Fund With A Video Game Hobby’",
+      "description": "Hard to argue with that",
+      "url": "https://kotaku.com/ex-dragon-age-producer-calls-ea-a-hedge-fund-with-a-video-game-hobby-2000719579",
+      "image": "https://kotaku.com/app/uploads/2026/07/dragon-age-1280x712.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T23:00:22.000Z"
+    },
     {
       "id": "rss-1569e23e7b31",
       "title": "Seabirds trade their own survival to raise more chicks after energy-intensive breeding seasons",
@@ -23,6 +623,16 @@
       "publishedAt": "2026-07-27T23:00:02.000Z"
     },
     {
+      "id": "rss-cd024aa4ef9d",
+      "title": "Call of Duty: Black Ops Fans Discover Cut Zombies Content Over 15 Years After Release",
+      "description": "Call of Duty: Black Ops fans have uncovered a new cut Zombies mode from the game, over a decade and a half after its original release.",
+      "url": "https://www.ign.com/articles/call-of-duty-black-ops-fans-discover-cut-zombies-content-over-15-years-after-release",
+      "image": "https://assets-prd.ignimgs.com/2026/07/27/black-ops-zombies-1785192840551.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-27T22:59:47.000Z"
+    },
+    {
       "id": "rss-2d25d2e27557",
       "title": "US singer D4vd to go on trial for murder in death of 14-year-old",
       "description": "The star is accused of killing Celeste Rivas Hernandez, whose remains were found in a Tesla registered to his address.",
@@ -31,16 +641,6 @@
       "source": "BBC News",
       "category": "trending",
       "publishedAt": "2026-07-27T22:58:49.000Z"
-    },
-    {
-      "id": "rss-5fb8805974bf",
-      "title": "After Watching Luxury Cars Drag Race, Trump Blames High Costs on Biden",
-      "description": "The president also assured supporters that negotiations over ending the war in Iran, a conflict that has sent fuel and energy prices soaring, are continuing in a “friendly” fashion.",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-michigan-speech-tariffs.html",
-      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27dc-trump-zmlt/27dc-trump-zmlt-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-27T22:57:42.000Z"
     },
     {
       "id": "rss-f2c762cd045a",
@@ -65,7 +665,7 @@
     {
       "id": "rss-0e95de2487d6",
       "title": "‘Obsession’ Star Michael Johnston in Talks to Join ‘The Mummy 4’ With Brendan Fraser and Rachel Weisz",
-      "description": "“Obsession” star Michael Johnston is in early talks to join the fourth installment of “The Mummy,” Variety has confirmed. Johnston played Corey Bryant in the TV series “Teen Wolf,” but it was this yea",
+      "description": "“Obsession” star Michael Johnston is in early talks to join the fourth installment of “The Mummy,” Variety has confirmed. Johnston previously starred in the TV series “Teen Wolf,” but this year’s “Obs",
       "url": "https://variety.com/2026/film/news/mummy-4-michael-johnston-obsession-brendan-fraser-1236822219/",
       "image": "https://variety.com/wp-content/uploads/2026/07/2275703921.jpg",
       "source": "Variety",
@@ -121,6 +721,16 @@
       "source": "Mental Health (Medium)",
       "category": "health",
       "publishedAt": "2026-07-27T22:45:57.000Z"
+    },
+    {
+      "id": "rss-fe503fcdbf8d",
+      "title": "Cody Bellinger lands on IL with hamstring strain: How injury makes Yankees' trade deadline needs even greater",
+      "description": "Already without Aaron Judge and Giancarlo Stanton, the Yanks will now be missing Bellinger for 4-6 weeks",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/yankees-cody-bellinger-injury-trade-deadline/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/484a41c5-61ee-4ea3-a280-89fc046d2aa5/bellinger-getty-2.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-27T22:45:28.000Z"
     },
     {
       "id": "rss-11ab6d2d92cf",
@@ -201,6 +811,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-27T22:31:01.000Z"
+    },
+    {
+      "id": "rss-c6ca4122c8d8",
+      "title": "Free MLB home run picks, odds: Willson Contreras features in expert's top HR player props for Monday, July 27",
+      "description": "SportsLine expert Angelo \"Amags\" Magliocca has found his top MLB home run props picks for Monday, July 27",
+      "url": "\n                                                https://www.cbssports.com/betting/news/free-mlb-home-run-picks-odds-willson-contreras-features-in-experts-top-hr-player-props-for-monday-july-27/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/27/3532f7df-705c-437a-98a2-8f5a649377b1/contreras.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-27T22:30:39.000Z"
     },
     {
       "id": "rss-f3cbca3ee7b8",
@@ -355,7 +975,7 @@
     {
       "id": "rss-aae882b3f5ef",
       "title": "Sam Altman thinks the singularity is already here, but an expert says OpenAI’s Hugging Face breach doesn’t prove it",
-      "description": "“It’s the first time in like more than a decade I've thought about what is the next thing,” the OpenAI CEO said.",
+      "description": "“It’s the first time in like more than a decade I’ve thought about what is the next thing,” the OpenAI CEO said.",
       "url": "https://fortune.com/2026/07/27/sam-altman-ai-singularity-elon-musk-openai-hugging-face-breach/",
       "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2278950606-e1785189637631.jpg?w=2048",
       "source": "Fortune",
@@ -451,16 +1071,6 @@
       "source": "Phys.org",
       "category": "science",
       "publishedAt": "2026-07-27T22:10:01.000Z"
-    },
-    {
-      "id": "rss-007cce4bccfa",
-      "title": "PSA: T-Mobile is down, iPhones showing ‘SOS’ mode",
-      "description": "Update, 3 p.m. PT: Some T-Mobile users report that service is returning to their iPhones. Others, however, say the outage is ongoing. \nT-Mobile is down across the United States, and many iPhone users ",
-      "url": "https://9to5mac.com/2026/07/27/psa-t-mobile-is-down-iphones-forced-into-sos-mode/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2023/02/tmo-sos.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "source": "9to5Mac",
-      "category": "technology",
-      "publishedAt": "2026-07-27T22:07:46.000Z"
     },
     {
       "id": "rss-b9379dc24039",
@@ -601,16 +1211,6 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-07-27T21:55:03.000Z"
-    },
-    {
-      "id": "rss-3a3031ce8d43",
-      "title": "Badenoch calls for emergency legislation to stop early release scheme",
-      "description": "Last week Andy Burnham announced he was pausing early release plans for September after backlash from survivors and victims.",
-      "url": "https://www.bbc.co.uk/news/articles/cjwxvw5ppw0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63f5/live/4ce887f0-89cb-11f1-b9d9-13fd1053d899.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-07-27T21:54:12.000Z"
     },
     {
       "id": "rss-bfafdf34580b",
@@ -891,16 +1491,6 @@
       "source": "Phys.org",
       "category": "science",
       "publishedAt": "2026-07-27T21:20:05.000Z"
-    },
-    {
-      "id": "rss-c2c29a5a573c",
-      "title": "Seattle Police Search for 2nd Suspect in Deadly Food Festival Shooting",
-      "description": "One 15-year-old suspect is in custody, but authorities said they were looking for a second shooter in the attack at a food festival that left three dead.",
-      "url": "https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html",
-      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27nat-seattle-shooting-1-fjcz/27nat-seattle-shooting-1-fjcz-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-27T21:15:55.000Z"
     },
     {
       "id": "rss-69fbc53cd0f4",
@@ -2015,7 +2605,7 @@
     {
       "id": "rss-7bb23b235ff6",
       "title": "Xbox’s huge outage even blocked games on disc",
-      "description": "An extended Xbox outage that began Sunday evening hasn't just caused issues for people trying to play digital games - it blocked people from playing their disc-based games, too.\nXbox's status page ini",
+      "description": "An extended Xbox outage that began Sunday evening didn't just cause issues for people trying to play digital games - it blocked people from playing their disc-based games, too.\nXbox's status page init",
       "url": "https://www.theverge.com/games/971545/xbox-outage-disc-physical-games",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK048_XBOX_2_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -3155,7 +3745,7 @@
     {
       "id": "rss-5236e84aaf8c",
       "title": "25 years on, 2001's 'Planet of the Apes' has become a bit of a guilty pleasure",
-      "description": "Time to fire up the Wayback Machine to pay tribute to this controversial sci-fi reimagining.",
+      "description": "Time to fire up the Wayback Machine to pay tribute to Tim Burton's controversial sci-fi reimagining.",
       "url": "https://www.space.com/entertainment/space-movies-shows/25-years-on-2001s-planet-of-the-apes-has-become-a-bit-of-a-guilty-pleasure",
       "image": "https://cdn.mos.cms.futurecdn.net/WZju2TsJDHXQNUfta2GssZ-1280-80.png",
       "source": "Space.com",
@@ -5791,16 +6381,6 @@
       "source": "GameSpot",
       "category": "gaming",
       "publishedAt": "2026-07-27T14:29:33.000Z"
-    },
-    {
-      "id": "rss-940bbf0faa86",
-      "title": "Red Sox vs. Athletics MLB prop picks: Curtis Mead set for Boston debut Monday, could be in good power spot",
-      "description": "Trade acquisition Curtis Mead will make his Red Sox debut tonight at the Athletics",
-      "url": "\n                                                https://www.cbssports.com/betting/news/red-sox-vs-athletics-mlb-prop-picks-curtis-mead-set-for-boston-debut-monday-could-be-in-good-power-spot/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/27/c3596334-f045-4cee-9c2b-34418f859d4f/usatsi-29413002-1.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-27T14:28:11.000Z"
     },
     {
       "id": "rss-fc11cd909c97",
@@ -12631,16 +13211,6 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-26T17:51:35.000Z"
-    },
-    {
-      "id": "rss-fe503fcdbf8d",
-      "title": "Cody Bellinger lands on IL with hamstring strain: How injury makes Yankees' trade deadline needs even greater",
-      "description": "The Yankees are already without Aaron Judge and Giancarlo Stanton",
-      "url": "\n                                                https://www.cbssports.com/mlb/news/yankees-cody-bellinger-injury-trade-deadline/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/26/484a41c5-61ee-4ea3-a280-89fc046d2aa5/bellinger-getty-2.png",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-26T17:49:23.000Z"
     },
     {
       "id": "rss-ad4ce71af36b",
@@ -25991,26 +26561,6 @@
       "source": "The Guardian Health",
       "category": "health",
       "publishedAt": "2026-07-21T06:00:03.000Z"
-    },
-    {
-      "id": "rss-7de80ce69269",
-      "title": "Road deaths have declined globally since 1990 except in poorer countries, study finds",
-      "description": "New estimates show road deaths are declining in the U.S. and globally",
-      "url": "https://abcnews.com/Health/wireStory/road-deaths-declined-globally-1990-except-poorer-countries-134932132",
-      "image": "https://s.abcnews.com/images/US/wirestory_8ce2ee30e93a7ba2e7b94f45b33308a5_4x3_384.jpg",
-      "source": "ABC News Health",
-      "category": "health",
-      "publishedAt": "2026-07-21T00:47:06.000Z"
-    },
-    {
-      "id": "rss-2614028b9464",
-      "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
-      "description": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5ec/live/5e399080-8435-11f1-bee8-53ce494e1abc.jpg",
-      "source": "BBC Health",
-      "category": "health",
-      "publishedAt": "2026-07-21T00:16:08.000Z"
     }
   ]
 }
