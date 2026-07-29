@@ -1,7 +1,617 @@
 {
-  "lastUpdated": "2026-07-28T22:58:35.150Z",
-  "count": 3749,
+  "lastUpdated": "2026-07-29T00:04:25.837Z",
+  "count": 3806,
   "articles": [
+    {
+      "id": "rss-9823deed5f36",
+      "title": "BG3 third-person camera mod completely changes how you play Baldur's Gate 3",
+      "description": "Modder Relysia has released a new way to explore Faerûn. A true over-the-shoulder camera angle means it's time to play Baldur's Gate 3 again!",
+      "url": "https://www.polygon.com/baldurs-gate-3-camera-mod-bg3/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/bg3-true-third-person-camera-mod.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-07-29T00:03:14.000Z"
+    },
+    {
+      "id": "rss-7b1c99098f9e",
+      "title": "Gaming helps moms recover from parenting stress—but guilt can still get in the way",
+      "description": "Video gaming is a valued leisure activity in Australia. The latest data show 74% of Australian households own at least two gaming devices.",
+      "url": "https://phys.org/news/2026-07-gaming-moms-recover-parenting-stress.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gaming-woman.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-29T00:00:01.000Z"
+    },
+    {
+      "id": "rss-e49695d93d1f",
+      "title": "Iran launches 'attempted surprise attack' on US forces in Middle East",
+      "description": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3265/live/39c93850-8add-11f1-b889-f97dd2fdd738.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T23:57:24.000Z"
+    },
+    {
+      "id": "rss-e6b2ef6cd831",
+      "title": "The evidence that shows today's 20-somethings really do have it worse",
+      "description": "People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e792/live/ba50f450-8ab4-11f1-951f-a70d41b77a63.png",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T23:52:23.000Z"
+    },
+    {
+      "id": "rss-e90b913a9cb9",
+      "title": "Amber heat health alerts to come into force as heatwave reaches 35C peak",
+      "description": "Wednesday is set to be the hottest day of the week for many as a widespread fourth heatwave grips the UK.",
+      "url": "https://www.bbc.co.uk/weather/articles/cgq534n0w85o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/681d/live/2504baf0-8a80-11f1-83c5-cf36fe4b083e.png",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T23:50:34.000Z"
+    },
+    {
+      "id": "rss-0442edae8eb9",
+      "title": "Wendy Scott: AI Won’t Replace L&D Professionals",
+      "description": "Using AI To Build Training Better & Faster\nContinue reading on AI Center — Grow & Earn with AI »",
+      "url": "https://medium.com/ai-center-grow-earn-with-ai/wendy-scott-ai-wont-replace-l-d-professionals-43eb173637b5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1456/0*qYsY3DUCyKyGaeBl.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:50:27.000Z"
+    },
+    {
+      "id": "rss-dbf59e974afd",
+      "title": "Stopping Old Patterns: How to Break Cycles That Keep You Stuck",
+      "description": "Some patterns don’t look destructive at first. They look familiar. Comfortable. Automatic. They feel like “just how I am.” But over time…\nContinue reading on Medium »",
+      "url": "https://medium.com/@elliotmaddy49/stopping-old-patterns-how-to-break-cycles-that-keep-you-stuck-179174eb2561?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/980/0*ezrXlg8XeiioghJQ.jpg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:49:59.000Z"
+    },
+    {
+      "id": "rss-ad9d9ff5bd6e",
+      "title": "Why Me, God?",
+      "description": "A poem about a woman expressing her concerns to God about her autoimmune disease\nContinue reading on Sparkle City Magic »",
+      "url": "https://medium.com/sparklecity-creative-works/why-me-god-b398a99c5842?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1000/1*vLzs-gJSC-M6WInoGSgpRg.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:49:38.000Z"
+    },
+    {
+      "id": "rss-04443fa5f376",
+      "title": "The Hardest Patient Is the Healer",
+      "description": "“I think I am depressed.”\nContinue reading on The Gravity »",
+      "url": "https://medium.com/the-gravity/the-hardest-patient-is-the-healer-b7d3c9e4e119?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/612/0*aLLcFsMoSbfljXXW",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:48:15.000Z"
+    },
+    {
+      "id": "rss-6410e4d6ce69",
+      "title": "Who Wins (and Who Loses) in the Democrats’ New 2028 Primary Calendar?",
+      "description": "Democratic Party officials have approved a new calendar that puts South Carolina at the head of the line. Black and Latino voters will gain new clout.",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/democrats-2028-primary-calendar.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28pol-2028-calendar-01-hpqv/28pol-2028-calendar-01-hpqv-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-28T23:46:36.000Z"
+    },
+    {
+      "id": "rss-197cf0e2611c",
+      "title": "Deep dive into AI caching strategies — from application to model provider",
+      "description": "Caching is the most important optimization in production LLM applications. A typical agent call chain — system prompt, tool schemas…\nContinue reading on Medium »",
+      "url": "https://medium.com/@axdliu/deep-dive-into-ai-caching-strategies-from-application-to-model-provider-6c4eb1c744a2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*1J8v1AoepPEF6XGLgN1fvA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:44:01.000Z"
+    },
+    {
+      "id": "rss-3b521311b794",
+      "title": "How I turned therapy concepts into a machine learning model",
+      "description": "Reflections on building a cognitive distortion classifier from scratch, and what four iterations taught me about the importance of data\nContinue reading on Medium »",
+      "url": "https://medium.com/@shubhiupadhyay/how-i-turned-therapy-concepts-into-a-machine-learning-model-56586a23ecb5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*tifTnUXiQOEi2njJ9YdY0Q.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:42:54.000Z"
+    },
+    {
+      "id": "rss-0d668a87ca9f",
+      "title": "Is Your AI Stack Working in Silos? The Missing Layer for AI Governance and Standardization",
+      "description": "One AI model summarizes a document. Another calculates risk. A recommendation system suggests the next step, while an AI agent coordinates…\nContinue reading on Medium »",
+      "url": "https://medium.com/@rudramayur97/is-your-ai-stack-working-in-silos-the-missing-layer-for-ai-governance-and-standardization-37587b2f85ce?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/844/1*Qmr-Z-zOFWWFUOcANxD03A.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:42:52.000Z"
+    },
+    {
+      "id": "rss-893b45c0fa89",
+      "title": "SDD, the frameworks the market is using",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@wagner.b.rodrigues/sdd-the-frameworks-the-market-is-using-6bfdc23237de?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*4wlj3X1eQWlkzAPGtLoycQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:42:21.000Z"
+    },
+    {
+      "id": "rss-aea03a8188e3",
+      "title": "Online Pilates in My Sixties: Staying Flexible, Strong, and Independent",
+      "description": "t has been about five years since I first started taking private Pilates lessons.\nContinue reading on Medium »",
+      "url": "https://medium.com/@mooncatm/online-pilates-in-my-sixties-staying-flexible-strong-and-independent-859c1b56b68b?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1400/1*Nx5zSjYhutqDLda8dNJWnw.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:42:15.000Z"
+    },
+    {
+      "id": "rss-807170ce85c0",
+      "title": "Senate Confirms Jay Clayton to Lead U.S. Intelligence Community",
+      "description": "Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intelligence from Bill Pulte.",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/00dc-claytonHFO-bzpj/00dc-claytonHFO-bzpj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-28T23:40:40.000Z"
+    },
+    {
+      "id": "rss-2c781efe1447",
+      "title": "I Envy the Trees: How Easy Your Life Must Be",
+      "description": "One day, my mind was full of noisy thoughts, while my soul was losing its peace too.\nContinue reading on Medium »",
+      "url": "https://medium.com/@ekafadhila08/i-envy-the-trees-how-easy-your-life-must-be-05fda59ce1d3?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*sNwI-KQLX3Z9a-lsvlVkTA.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:37:51.000Z"
+    },
+    {
+      "id": "rss-9924eb75d034",
+      "title": "This Was Supposed to Be My Last Day Alive. It Wasn’t.",
+      "description": "•This is a different voice telling the same survival story.A darker mirror. A joke with the same blood underneath. This is a companion…\nContinue reading on Medium »",
+      "url": "https://medium.com/@Sunny539/this-was-supposed-to-be-my-last-day-alive-it-wasnt-76f92ae245df?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*QI1PMADlGKHOWU3NwlqEuA.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:37:45.000Z"
+    },
+    {
+      "id": "rss-c6de39718af7",
+      "title": "iOS 26.6: Everything you need to know",
+      "description": "iOS 26.6 is now available for iPhone users. Here’s everything you need to know about the update, and why it’s more important than you may think.",
+      "url": "https://9to5mac.com/2026/07/28/ios-26-6-new-features-release-date-more/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-26.6-guide.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-07-28T23:37:15.000Z"
+    },
+    {
+      "id": "rss-c771df0e458b",
+      "title": "SDD, os frameworks que o mercado está usando",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@wagner.b.rodrigues/sdd-os-frameworks-que-o-mercado-est%C3%A1-usando-4cde87576148?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1375/1*VuYEwrb5m18-4E39vAPYVg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:36:27.000Z"
+    },
+    {
+      "id": "rss-58db7b6e040a",
+      "title": "Is Willpower Really Like a Muscle? What Science Tells Us About Mental Fatigue and Self-Control",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@mindshiftthoughts/is-willpower-really-like-a-muscle-what-science-tells-us-about-mental-fatigue-and-self-control-d4284ea9fc95?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*2x9-AiKqINYebwxozSekCw@2x.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:36:03.000Z"
+    },
+    {
+      "id": "rss-6a3171ed997e",
+      "title": "AI Will Write Your Code. You Still Have to Own the Decision Behind It.",
+      "description": "Everyone in your Slack channel is arguing about which AI coding tool is fastest.\nContinue reading on Medium »",
+      "url": "https://medium.com/@mhamdouchi/ai-will-write-your-code-you-still-have-to-own-the-decision-behind-it-17a5d42c305d?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*fVvzRpQF5PxUmSofFNwuQA.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:36:01.000Z"
+    },
+    {
+      "id": "rss-9f1d65025c58",
+      "title": "THM: Room 404 Walkthrough | Hacker Holidays: Day 2 | Github Repository",
+      "description": "TryHackMe Room Link\nContinue reading on Medium »",
+      "url": "https://n3nu.medium.com/thm-room-404-walkthrough-hacker-holidays-day-2-github-repository-60d599344233?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/903/1*fXpY07dA3CvF5f5YbxKm7Q.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:35:34.000Z"
+    },
+    {
+      "id": "rss-6632f3573483",
+      "title": "The Science of Coercion",
+      "description": "How corporate wellness programs are designed to manipulate and control you\nContinue reading on Medium »",
+      "url": "https://medium.com/@tomstrummer99/the-science-of-coercion-91aad1832757?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*qR0PiqtbU-cVJTERfgy2BA.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:33:19.000Z"
+    },
+    {
+      "id": "rss-64c82cea4b2f",
+      "title": "Duke AI PM 學習筆記 (七)：從模型監控到模型維護：建立能持續演進的 AI Product",
+      "description": "📚Coursera: AI Product Management Specialization — Duke University\nContinue reading on Medium »",
+      "url": "https://1zhi-lily.medium.com/duke-ai-pm-%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98-%E4%B8%83-%E5%BE%9E%E6%A8%A1%E5%9E%8B%E7%9B%A3%E6%8E%A7%E5%88%B0%E6%A8%A1%E5%9E%8B%E7%B6%AD%E8%AD%B7-%E5%BB%BA%E7%AB%8B%E8%83%BD%E6%8C%81%E7%BA%8C%E6%BC%94%E9%80%B2%E7%9A%84-ai-product-3a945c8e6cf2?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*cKnNmS-PBEm49vd2s2APmQ.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:31:01.000Z"
+    },
+    {
+      "id": "rss-199960d529b5",
+      "title": "The wrong solution to the right problem",
+      "description": "What counts as evidence in development?\nContinue reading on Medium »",
+      "url": "https://medium.com/@nite.tanzarn/the-wrong-solution-to-the-right-problem-ee577263d3d5?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/984/0*ySwKvXlvPKADobXu.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:31:01.000Z"
+    },
+    {
+      "id": "rss-dbab43362a0a",
+      "title": "An Ambitious New Stardew Valley Mod Lets You Run A Supermarket With An ‘Overcooked-Style Kitchen’",
+      "description": "Unless you draw the line at AI-generated dialogue",
+      "url": "https://kotaku.com/an-ambitious-new-stardew-valley-mod-lets-you-run-a-supermarket-with-an-overcooked-style-kitchen-2000719876",
+      "image": "https://kotaku.com/app/uploads/2026/07/farmers-store.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T23:30:31.000Z"
+    },
+    {
+      "id": "rss-770b77ab66a2",
+      "title": "A Typo Landed an Innocent Gamer in Prison for 18 Months",
+      "description": "How much could a single underscore in a username really matter? Just ask Brandon Klayme, who served 18 months in prison before realizing how authorities arrested, charged, and convicted the wrong man.",
+      "url": "https://www.wired.com/story/a-typo-landed-an-innocent-gamer-in-prison-for-18-months/",
+      "image": "https://media.wired.com/photos/6a693a2924032f0976e6aad9/master/pass/Typo-Landed-Innocent-Gamer-in-Prison-Security.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-07-28T23:30:00.000Z"
+    },
+    {
+      "id": "rss-1acc5405c716",
+      "title": "Highest-Paying AI Certifications That Employers Value in 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/courses/highest-paying-ai-certifications-that-employers-value-in-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-28/20o9ezo5/Highest-Paying-AI-Certifications-That-Employers-Value-in-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:30:00.000Z"
+    },
+    {
+      "id": "rss-be8423cfd7e2",
+      "title": "Self doubt is a bitch!",
+      "description": "To all the dreams I refuse to give up on\nContinue reading on Medium »",
+      "url": "https://medium.com/@lettersbytobi/self-doubt-is-a-bitch-85eaecb3c556?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/736/1*wIfb07aUd1zTxc69iv_QwA.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:29:04.000Z"
+    },
+    {
+      "id": "rss-953313c4207e",
+      "title": "The Bug That Isn’t in the Code",
+      "description": "A gene’s coordinates shifted between reference releases, and a feature quietly stopped meaning what its name said.\nContinue reading on Medium »",
+      "url": "https://medium.com/@connectwithestherwisdom/the-bug-that-isnt-in-the-code-927eb74d8a90?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*SYxhxtYecAhV84ICRHs8Qw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:28:04.000Z"
+    },
+    {
+      "id": "rss-b08e712a7c24",
+      "title": "For Her",
+      "description": "Not every broken heart belongs to a love story. Some belong to a friendship\nContinue reading on Medium »",
+      "url": "https://medium.com/@Sunny539/for-her-abf7fd4a1f4f?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*k9COIn-W7xYCsyCfthHlHQ.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:26:46.000Z"
+    },
+    {
+      "id": "rss-524bf750e67e",
+      "title": "Trump’s Spy Chief Spends Final Hours in Job Boasting of Mass Firings",
+      "description": "Bill Pulte, the acting director of national intelligence, said he has terminated nearly a third of the officials in his office, but others doubt the figures are accurate.",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/spy-chief-bill-pulte-final-hours.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28dc-Intel-pwvb/28dc-Intel-pwvb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-28T23:25:50.000Z"
+    },
+    {
+      "id": "rss-cd060e2dcb51",
+      "title": "Hunayn Ibn Ishaq and the Translation of Medical Texts",
+      "description": "Part 10\nContinue reading on Medium »",
+      "url": "https://medium.com/@fullmetalmeme1/hunayn-ibn-ishaq-and-the-translation-of-medical-texts-b5663dc125a0?source=rss------medicine-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*SLIMOvJwz6R0J7dPJjFurQ.png",
+      "source": "Medium Medicine",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:25:19.000Z"
+    },
+    {
+      "id": "rss-197dcfef306c",
+      "title": "I Wasn’t Perfect With My Calories. That’s Why It Worked.",
+      "description": "Consistency beats perfection every time.\nContinue reading on Medium »",
+      "url": "https://eclez.medium.com/i-wasnt-perfect-with-my-calories-that-s-why-it-worked-b4ab0c6b71c4?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*TBOl2MAwAFmP0z_F",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:25:10.000Z"
+    },
+    {
+      "id": "rss-0b04f3b01d97",
+      "title": "Building a Custom Image Classifier with Transfer Learning",
+      "description": "One of the most common abilities that we have as humans, is the ability to “see”, or better yet, our ability to obtain, “vision”. The…\nContinue reading on Medium »",
+      "url": "https://medium.com/@robinsonjason761/building-a-custom-image-classifier-with-transfer-learning-6621d87dee20?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*MwcsOUhzv80BGVAsg593tg.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:23:38.000Z"
+    },
+    {
+      "id": "rss-45cdf52c2c0c",
+      "title": "Domestic Abuse Allegations Rock Max Miller’s Ohio House Race",
+      "description": "Representative Max Miller, a Republican, is facing accusations of abuse from his ex-wife in a bitter family feud that might put his otherwise safe seat in play.",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28dc-miller-jfpq/28dc-miller-jfpq-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-28T23:23:20.000Z"
+    },
+    {
+      "id": "rss-33aa050716e3",
+      "title": "On-Set Visual Effects Workers on ‘Star Wars’ Productions Join IATSE",
+      "description": "A group of U.S. visual effects workers engaged directly by “Star Wars” franchise productions has joined the International Alliance of Theatrical Stage Employees for collective bargaining purposes. The",
+      "url": "https://variety.com/2026/artisans/news/visual-effects-workers-star-wars-productions-join-iatse-1236823009/",
+      "image": "https://variety.com/wp-content/uploads/2026/05/MCDSTWA_WD073_839839.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-28T23:20:51.000Z"
+    },
+    {
+      "id": "rss-fdf90836717e",
+      "title": "Ari Emanuel Blasts States’ ‘Trash’ Lawsuit Aimed at Blocking Paramount-Warner Bros. Merger, Claims It Threatens to ‘Destroy’ Competition",
+      "description": "Hollywood powerbroker Ari Emanuel rallied to the defense of his friend and business associate David Ellison, claiming that the state attorneys general trying to block Paramount’s Warner Bros. Discover",
+      "url": "https://variety.com/2026/film/news/ari-emanuel-lawsuit-paramount-warner-bros-merger-destroy-hollywood-1236822993/",
+      "image": "https://variety.com/wp-content/uploads/2024/05/Endeavor-Ari-Emanuel.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-07-28T23:19:09.000Z"
+    },
+    {
+      "id": "rss-db1891dd9eec",
+      "title": "At Graham’s Farewell, a Glimpse Into Power in Trump’s Washington",
+      "description": "The political evolution of Lindsey Graham, the South Carolina senator, both captivated and confused many of his old friends but reflected the changing order in the nation’s capital.",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-trump-dc.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28dc-graham-top-pblk/28dc-graham-top-pblk-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-28T23:17:05.000Z"
+    },
+    {
+      "id": "rss-1cc12ce42eb6",
+      "title": "Trump Asks Supreme Court to Overturn $83.3 Million Award in Carroll Defamation Case",
+      "description": "President Trump paid E. Jean Carroll more than $5 million from a 2023 lawsuit, but he is now asking the court to overturn a much larger award that a jury ordered him to pay in 2024 for defaming her.",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/00dc-scotus-carroll-fkgb/00dc-scotus-carroll-fkgb-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-28T23:15:54.000Z"
+    },
+    {
+      "id": "rss-2e6cab7895d7",
+      "title": "Dems reject Trump’s top spy pick after demanding replacement, leaving counter-terror tool in air",
+      "description": "Jay Clayton's party-line confirmation as DNI has yet to break the partisan logjam over Section 702 FISA reauthorization in the U.S. Senate.",
+      "url": "https://www.foxnews.com/politics/dems-reject-trumps-top-spy-pick-demanding-replacement",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/jay-clayton-june-2026.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-28T23:14:34.000Z"
+    },
+    {
+      "id": "rss-9b21e18ce43c",
+      "title": "The Measurement Operational Layer That Most Brands Aren’t Ready For",
+      "description": "Marketing measurement is becoming more advanced, but most brands are still not prepared for what comes next. The future connects media…\nContinue reading on Medium »",
+      "url": "https://medium.com/@alvaro.thompson/the-measurement-operational-layer-that-most-brands-arent-ready-for-2ecea8bcd5ea?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*yVH3n_U9lt9IaTYA63ebMg.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:13:01.000Z"
+    },
+    {
+      "id": "rss-4cc492562339",
+      "title": "Trump Will End Subsidies for Medicare Drug Premiums",
+      "description": "Millions of older Americans could pay more for their prescription drug coverage next year.",
+      "url": "https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28biz-medicare-drugs-lzvk/28biz-medicare-drugs-lzvk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-28T23:12:12.000Z"
+    },
+    {
+      "id": "rss-6001cfc20064",
+      "title": "A New Smart Ring Uses Finger Sweat to Track Health",
+      "description": "",
+      "url": "https://www.cnet.com/tech/mobile/new-smart-ring-uses-finger-sweat-track-health/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/UC-San-Diego-smart-ring-3.jpg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-07-28T23:10:58.000Z"
+    },
+    {
+      "id": "rss-d86c2d43574b",
+      "title": "Queen bee pheromones help daughters decide whether to stay or leave the nest",
+      "description": "Female sweat bees need to make a pivotal life decision: remain in the nest to help their mother raise more offspring or leave to establish nests of their own. New research from the Smithsonian Tropica",
+      "url": "https://phys.org/news/2026-07-queen-bee-pheromones-daughters-stay.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/queen-bee-pheromones-h.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-28T23:10:04.000Z"
+    },
+    {
+      "id": "rss-3cf4e9412dc6",
+      "title": "Deformed head shapes in fossilized humans show their infants were probably just as helpless as modern human babies",
+      "description": "Archaic human parents had to look after helpless infants like modern-day parents do, according to new research. Human babies are born less developed than those of other great apes and are therefore un",
+      "url": "https://phys.org/news/2026-07-deformed-fossilized-humans-infants-helpless.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/archaic-human-parents-3.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-28T23:10:01.000Z"
+    },
+    {
+      "id": "rss-608a97bda06d",
+      "title": "Is Being Around People Who Vape Harmful? Here’s What Science Says",
+      "description": "You don’t have to vape to be exposed to it.\nContinue reading on Medium »",
+      "url": "https://yordanoswrites.medium.com/is-being-around-people-who-vape-harmful-heres-what-science-says-540e3e6628df?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*UNZGK3EbWvBf8mQGbumvHg.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:08:33.000Z"
+    },
+    {
+      "id": "rss-0f0ceccd0d10",
+      "title": "Soggy socks & a slathering of deep heat - rain causes chaos in Glasgow",
+      "description": "Torrential rain causes chaos at the athletics in the Commonwealth Games, but England's Amy Hunt produces one of a number of impressive performances.",
+      "url": "https://www.bbc.co.uk/sport/athletics/articles/c80nk2v5gmmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc75/live/2a0c9500-8ad9-11f1-9539-41ab4e295e9f.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T23:08:14.000Z"
+    },
+    {
+      "id": "rss-4d060577b350",
+      "title": "Is POTS Serious? The Word Is Doing Two Jobs at Once",
+      "description": "POTS · Understanding Your Diagnosis\nContinue reading on Medium »",
+      "url": "https://medium.com/@yonathan833/is-pots-serious-the-word-is-doing-two-jobs-at-once-8ebef6aeb880?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*30S907wYglNLT1xdzRUgpA.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:07:18.000Z"
+    },
+    {
+      "id": "rss-c585c969173d",
+      "title": "✨ Stop Making Resolutions. Start Designing Your Life.",
+      "description": "💎 The slow luxury approach to becoming who you want to be\nContinue reading on Medium »",
+      "url": "https://medium.com/@nico.nn.nguyen/stop-making-resolutions-start-designing-your-life-5d2a4cff8156?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*goIh2TcykAI1vpkb",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:06:44.000Z"
+    },
+    {
+      "id": "rss-2ec82470d214",
+      "title": "I Thought My Drinking Meant I Couldn’t Be Autistic. Then I Learned the Truth.",
+      "description": "The habit that convinced me I wasn’t autistic turned out to be surprisingly common among autistic adults.\nContinue reading on Invisible Illness »",
+      "url": "https://medium.com/invisible-illness/i-thought-my-drinking-meant-i-couldnt-be-autistic-then-i-learned-the-truth-e0f48949fa96?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*taUK60zaRZWpXTtb",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:05:06.000Z"
+    },
+    {
+      "id": "rss-63157d036819",
+      "title": "How Will The Future Software Engineer Distinquish Itself When Writing Code Becomes Fully…",
+      "description": "I have not hand-written much code lately.\nContinue reading on Towards AI »",
+      "url": "https://pub.towardsai.net/how-will-the-future-software-engineer-distinquish-itself-when-writing-code-becomes-fully-d09a9fbfe5a8?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*2qK-O-72UMwL9kzTinrtiQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-07-28T23:01:01.000Z"
+    },
+    {
+      "id": "rss-5bb702239b12",
+      "title": "Is sparkling tea a new fun gene-z?",
+      "description": "Tea as a substitute for alcohol at parties\nContinue reading on Medium »",
+      "url": "https://medium.com/@verpust09/is-sparkling-tea-a-new-fun-gene-z-90185167925c?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1290/1*s4qF3DSEEiy1VPjoYGMmxA@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T23:00:54.000Z"
+    },
+    {
+      "id": "rss-061498961f9f",
+      "title": "Polls close in Georgia as voters decide successor in special election",
+      "description": "Gov. Larry Rhoden faces outsider Toby Doeden in South Dakota's first-ever gubernatorial runoff while Georgia Democrats vie to replace Rep. David Scott.",
+      "url": "https://www.foxnews.com/politics/polls-close-georgia-voters-decide-successor-special-election",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Larry-Rhoden-and-David-Scott.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-07-28T23:00:41.000Z"
+    },
+    {
+      "id": "rss-20fb27215e3d",
+      "title": "Brits urged to avoid dangerous plug adaptors this summer - what to watch out for",
+      "description": "Campaign group Electrical Safety First has urged those \"heading abroad this summer to think before they buy\".",
+      "url": "https://www.bbc.co.uk/news/articles/c5yeg1wegpno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcb4/live/f740c5a0-8a75-11f1-a7ab-8b30adf0800a.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T23:00:15.000Z"
+    },
+    {
+      "id": "rss-588a2d7d581d",
+      "title": "Inequalities grow in cities as heat and daylight patterns transform urban life",
+      "description": "Changing patterns of heat and daylight in urban environments are creating growing inequalities, with climate-related shifts reshaping daily life and disproportionately affecting vulnerable communities",
+      "url": "https://phys.org/news/2026-07-inequalities-cities-daylight-patterns-urban.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/heat-and-daylight-in-u.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-07-28T23:00:01.000Z"
+    },
+    {
+      "id": "rss-27a42c23a585",
+      "title": "ICE Arrests Surge at Airports, Opening New Front in Deportation Drive",
+      "description": "Federal agents are arresting spouses of Americans, tech workers and others whose visas have expired, including many who have active applications to stay in the country.",
+      "url": "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/us/dc-ice-airports-chantal/dc-ice-airports-chantal-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-07-28T22:57:28.000Z"
+    },
+    {
+      "id": "rss-a7dae6bf0e4b",
+      "title": "Are there already worrying signs for Vrancken's Hearts?",
+      "description": "Former Hearts forward Ryan Stevenson delivers a scathing verdict as Wouter Vrancken's reign begins with a chastening Champions League elimination.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/clyxgpkkp0mo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3094/live/92dd7f20-8ad6-11f1-b1e6-67a795388f41.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T22:56:30.000Z"
+    },
+    {
+      "id": "rss-9c5426f31e35",
+      "title": "Protein After 40 Isn’t Really About Protein",
+      "description": "The more interesting question isn’t how much protein we can eat. It’s how much physical capacity we want to preserve.\nContinue reading on Medium »",
+      "url": "https://medium.com/@skqvkrcz/protein-after-40-isnt-really-about-protein-54f49e528d82?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/980/1*FcOu63wA3Lu0AzoNHl1Fdg.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-07-28T22:56:22.000Z"
+    },
+    {
+      "id": "rss-b05aa9120370",
+      "title": "Why You Wake Up at 3 a.m. (And What to Do When You Do)",
+      "description": "Your ancestors woke up in the night too. They just didn’t panic about it.\nContinue reading on In Fitness & In Health »",
+      "url": "https://medium.com/in-fitness-and-in-health/why-you-wake-up-at-3-a-m-and-what-to-do-when-you-do-b9fdf83b3311?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*zMsv94byTl6VNeKF",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-07-28T22:56:01.000Z"
+    },
     {
       "id": "rss-a9ad49fd978c",
       "title": "Can Humans remain human?",
@@ -63,24 +673,14 @@
       "publishedAt": "2026-07-28T22:49:02.000Z"
     },
     {
-      "id": "rss-45cdf52c2c0c",
-      "title": "Domestic Abuse Allegations Rock Max Miller’s Ohio House Race",
-      "description": "Representative Max Miller, a Republican, is facing accusations of abuse from his ex-wife in a bitter family feud that might put his otherwise safe seat in play.",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/domestic-abuse-allegations-ohio-house-race.html",
-      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28dc-miller-jfpq/28dc-miller-jfpq-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-28T22:48:59.000Z"
-    },
-    {
-      "id": "rss-db1891dd9eec",
-      "title": "At Graham’s Farewell, a Glimpse Into Power in Trump’s Washington",
-      "description": "The political evolution of Lindsey Graham, the South Carolina senator, both captivated and confused many of his old friends but reflected the changing order in the nation’s capital.",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/at-grahams-farewell-a-glimpse-into-power-in-trumps-washington.html",
-      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28dc-graham-top-pblk/28dc-graham-top-pblk-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-28T22:45:37.000Z"
+      "id": "rss-0addfa447fb1",
+      "title": "Sony Battling Spider-Man: Brand New Day Post-Credit Scene Leaks, Scrubbing Social Media Via Copyright Claims",
+      "description": "Sony is battling a major Spider-Man: Brand New Day leak, and using copyright claims to scrub the movie's post-credits scene from social media.",
+      "url": "https://www.ign.com/articles/sony-battling-spider-man-brand-new-day-post-credit-scene-leaks-scrubbing-social-media-via-copyright-claims",
+      "image": "https://assets-prd.ignimgs.com/2026/06/17/spiderthumb-1781723266727.png",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T22:45:23.000Z"
     },
     {
       "id": "rss-f1a78b10908a",
@@ -227,7 +827,7 @@
       "title": "eBay and its former execs settle cyberstalking case brought by journalist couple",
       "description": "Ina and David Steiner will receive compensation after a 2019 campaign to silence their critiques of the company.",
       "url": "https://www.engadget.com/2225652/ebay-and-its-former-execs-settle-cyberstalking-case-brought-by-journalist-couple/",
-      "image": "https://www.engadget.com/img/gallery/ebay-and-former-execs-settle-cyberstalking-case-brought-by-journalist-couple/l-intro-1785277818.jpg",
+      "image": "https://www.engadget.com/img/gallery/ebay-and-its-former-execs-settle-cyberstalking-case-brought-by-journalist-couple/l-intro-1785281172.jpg",
       "source": "Engadget",
       "category": "technology",
       "publishedAt": "2026-07-28T22:31:41.000Z"
@@ -291,6 +891,26 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-07-28T22:28:16.000Z"
+    },
+    {
+      "id": "rss-38c20018fd04",
+      "title": "Fortnite Adds New Spider-Man, Hulk, and Punisher Skins in Brand New Day Crossover",
+      "description": "Spider-Man: Brand New Day is taking over Fortnite as part of a brand new crossover.",
+      "url": "https://www.ign.com/articles/fortnite-adds-new-spider-man-hulk-and-punisher-skins-in-brand-new-day-crossover",
+      "image": "https://assets-prd.ignimgs.com/2026/07/28/spider-man-fortnite-1785276565341.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-07-28T22:27:07.000Z"
+    },
+    {
+      "id": "rss-c50d8c12303f",
+      "title": "Denzel Ward agrees to extension with Browns, regains status as highest-paid DB in NFL history, per report",
+      "description": "Ward already topped the cornerback earnings leaderboard when he signed his previous deal",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/denzel-ward-agrees-to-extension-browns-highest-paid-db-in-nfl-history/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/28/e254f389-c5a3-470b-a899-69070024ad5c/gettyimages-2254090387-1.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T22:26:16.000Z"
     },
     {
       "id": "rss-e78f58300a2e",
@@ -373,6 +993,16 @@
       "publishedAt": "2026-07-28T22:14:23.000Z"
     },
     {
+      "id": "rss-18354bdd7072",
+      "title": "FIFA wants to sell World Cup stake to private investors: UEFA isn't happy and here's why",
+      "description": "Here's what to know about the controversial proposal that raises questions about the future of the World Cup",
+      "url": "\n                                                https://www.cbssports.com/soccer/news/fifa-sell-world-cup-stake-to-private-investors-uefa-why-2026/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/07/28/d79b7be9-00a5-4a6d-b105-afdf7b851bc2/infantino-trump.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-28T22:10:08.000Z"
+    },
+    {
       "id": "rss-d8c9c268d79d",
       "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
       "description": "Visa aimed Anthropic's Claude Mythos at the infrastructure behind billions of daily transactions, a network that spans more than 200 countries and territories, moves money in roughly 160 currencies, a",
@@ -411,6 +1041,16 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-28T22:08:10.000Z"
+    },
+    {
+      "id": "rss-b45225a0dace",
+      "title": "Why Wimbledon is serving Indian ice cream and Bollywood beats",
+      "description": "Departing from tradition, Wimbledon shed its restraint to target new audiences in cricket-crazy India.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdz0420xzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/319b/live/5097b070-875e-11f1-95ec-a30de4e448c4.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-07-28T22:05:26.000Z"
     },
     {
       "id": "rss-bee911080a3b",
@@ -601,16 +1241,6 @@
       "source": "9to5Mac",
       "category": "technology",
       "publishedAt": "2026-07-28T21:43:08.000Z"
-    },
-    {
-      "id": "rss-1cc12ce42eb6",
-      "title": "Trump Asks Supreme Court to Overturn $83.3 Million Award in Carroll Defamation Case",
-      "description": "President Trump paid E. Jean Carroll more than $5 million from a 2023 lawsuit, but he is now asking the court to overturn a much larger award that a jury ordered him to pay in 2024 for defaming her.",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html",
-      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/00dc-scotus-carroll-fkgb/00dc-scotus-carroll-fkgb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-28T21:40:21.000Z"
     },
     {
       "id": "rss-e944d3045bb1",
@@ -893,16 +1523,6 @@
       "publishedAt": "2026-07-28T21:13:09.000Z"
     },
     {
-      "id": "rss-27a42c23a585",
-      "title": "ICE Arrests Surge at Airports, Opening New Front in Deportation Drive",
-      "description": "Federal agents are arresting spouses of Americans, tech workers and others whose visas have expired, including many who have active applications to stay in the country.",
-      "url": "https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html",
-      "image": "https://static01.nyt.com/images/2026/07/28/us/dc-ice-airports-chantal/dc-ice-airports-chantal-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-28T21:12:54.000Z"
-    },
-    {
       "id": "rss-9eab354ca163",
       "title": "NBA Power Rankings: LeBron James vaults 76ers into top five; Spurs have early edge over Knicks",
       "description": "Philly has to put the puzzle together, but the talent of the individual pieces is extraordinary",
@@ -925,7 +1545,7 @@
     {
       "id": "rss-6a0f901d7b93",
       "title": "The union drive at the Wikimedia Foundation is expanding",
-      "description": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intentions to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, b",
+      "description": "In June, UK staff at the nonprofit that runs Wikipedia became the first to announce their intention to form a union. Now, US-based employees at the Wikimedia Foundation are joining the union drive, bu",
       "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
       "source": "The Verge",
@@ -1403,16 +2023,6 @@
       "publishedAt": "2026-07-28T20:38:22.000Z"
     },
     {
-      "id": "rss-924130eb165a",
-      "title": "Who Wins (and Who Loses) in the Democrats’ New 2028 Primary Calendar?",
-      "description": "Democratic Party officials have approved a new calendar that puts South Carolina at the head of the line. Black and Latino voters will gain new clout.",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/democrats-2028-primary-calendar.html",
-      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28pol-2028-calendar-01-hpqv/28pol-2028-calendar-01-hpqv-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-28T20:36:14.000Z"
-    },
-    {
       "id": "rss-3c6b798b9cd6",
       "title": "Seven AI Agent Research Threads to Watch in 2026",
       "description": "A research-engineering field guide to memory, context engineering, long-horizon agents, benchmarks, loops, harnesses, and the safety…\nContinue reading on Medium »",
@@ -1541,16 +2151,6 @@
       "source": "MacRumors",
       "category": "technology",
       "publishedAt": "2026-07-28T20:19:52.000Z"
-    },
-    {
-      "id": "rss-524bf750e67e",
-      "title": "Trump’s Spy Chief Spends Final Hours in Job Boasting of Mass Firings",
-      "description": "Bill Pulte, the acting director of national intelligence, said he has terminated nearly a third of the officials in his office, but others doubt the figures are accurate.",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/spy-chief-bill-pulte-final-hours.html",
-      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/28dc-Intel-pwvb/28dc-Intel-pwvb-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-28T20:16:22.000Z"
     },
     {
       "id": "rss-5c197c5f2c83",
@@ -3231,16 +3831,6 @@
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-07-28T17:56:25.000Z"
-    },
-    {
-      "id": "rss-18354bdd7072",
-      "title": "FIFA wants to sell World Cup stake to private investors: UEFA isn't happy and here's why",
-      "description": "Here's what to know about the controversial proposal that raises questions about the future of the World Cup",
-      "url": "\n                                                https://www.cbssports.com/soccer/news/fifa-sell-world-cup-stake-to-private-investors-uefa-why-2026/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/28/d79b7be9-00a5-4a6d-b105-afdf7b851bc2/infantino-trump.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-28T17:55:42.000Z"
     },
     {
       "id": "rss-a0169acd77dc",
@@ -37471,26 +38061,6 @@
       "source": "BBC Health",
       "category": "health",
       "publishedAt": "2026-07-22T00:52:35.000Z"
-    },
-    {
-      "id": "rss-fddeb88a1e3f",
-      "title": "More young women in their 20s are getting type 2 diabetes",
-      "description": "England is seeing \"a worrying increase\" in women in their 20s developing type 2 diabetes, say experts. Here's what to look out for.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8vw5k2x8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef88/live/20de43c0-8593-11f1-926f-c90d1bcfbc84.jpg",
-      "source": "BBC Health",
-      "category": "health",
-      "publishedAt": "2026-07-22T00:03:43.000Z"
-    },
-    {
-      "id": "rss-7e8612887c1b",
-      "title": "Ape cuddles could prevent conflicts",
-      "description": "Humans could learn from chimpanzees and bonobos, who turn to group members for physical comfort during tense moments.",
-      "url": "https://www.sciencenews.org/article/ape-physical-touch-stress-relief-chimps",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072126_MR_primate-cuddles_main.jpg?w=800",
-      "source": "Science News",
-      "category": "science",
-      "publishedAt": "2026-07-21T23:01:00.000Z"
     }
   ]
 }
