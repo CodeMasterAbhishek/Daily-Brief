@@ -1,7 +1,717 @@
 {
-  "lastUpdated": "2026-08-01T09:32:16.807Z",
-  "count": 7328,
+  "lastUpdated": "2026-08-01T11:16:07.902Z",
+  "count": 7380,
   "articles": [
+    {
+      "id": "rss-4099a58ae645",
+      "title": "between 2 soon.",
+      "description": "soon, your times will come and you will get married.\nContinue reading on Medium »",
+      "url": "https://medium.com/@itsmaisarah7/between-2-soon-7ae71fadd93c?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/1*yB9DBIt9kga28E0uz6wQ2Q.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:10:39.000Z"
+    },
+    {
+      "id": "rss-df645e1f11d4",
+      "title": "The Wisdom Within: The Forgotten Principle of Health",
+      "description": "Why Your Body Is Constantly Working to Keep You Well\nContinue reading on Purely Being Human »",
+      "url": "https://medium.com/purely-being-human/the-wisdom-within-the-forgotten-principle-of-health-01daae3ee4db?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*EIlpIObChs8QTSiLyQW8rg.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:10:33.000Z"
+    },
+    {
+      "id": "rss-25a045134fc5",
+      "title": "Vitiligo :",
+      "description": "Understanding the condition beyond the skin . . .\nContinue reading on Medium »",
+      "url": "https://medium.com/@vijendrayadav_67902/vitiligo-2b0857685712?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*DaH4y5ZDyyU7Anis",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:09:58.000Z"
+    },
+    {
+      "id": "rss-db35e010127a",
+      "title": "Stop Feeding Your AI. Start Teaching It",
+      "description": "Why the most common mistake I see in AI projects is treating the model like a storage box — and why the human brain is the best user…\nContinue reading on Medium »",
+      "url": "https://medium.com/@seredasv/stop-feeding-your-ai-start-teaching-it-09f717288c54?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1408/1*_TZDBGk5vjP_fOQU8Wc4vw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-08-01T11:07:59.000Z"
+    },
+    {
+      "id": "rss-6d4fabe7b003",
+      "title": "Claude Published a Malicious Package to PyPI During Security Tests — Top 10 AI & Flutter News…",
+      "description": "Claude / Anthropic\nContinue reading on Medium »",
+      "url": "https://blurbrahlab.medium.com/claude-published-a-malicious-package-to-pypi-during-security-tests-top-10-ai-flutter-news-6094e289861c?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*mPje47ZSHMYSwHqYgq9pkA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-08-01T11:06:01.000Z"
+    },
+    {
+      "id": "rss-b58d8e39888e",
+      "title": "Why Some Men Ignore Erectile Dysfunction Until They’re Ready for a Baby",
+      "description": "For many men, Erectile Dysfunction (ED) is easy to dismiss in the early stages.\nContinue reading on Medium »",
+      "url": "https://medium.com/@varunmkaravindsivf/why-some-men-ignore-erectile-dysfunction-until-theyre-ready-for-a-baby-b07cb5b29885?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*5CWNuTG8L-B1Lp2pTQ-SIQ.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:04:09.000Z"
+    },
+    {
+      "id": "rss-06174d7b3224",
+      "title": "Castor Oil in Trinidad and Tobago: 2026 Hair & Skin Guide.",
+      "description": "Introduction.\nContinue reading on Medium »",
+      "url": "https://medium.com/@drherbician/castor-oil-in-trinidad-and-tobago-2026-hair-skin-guide-7da7de9a8ec3?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/0*_ApLaFIoGZhu9lEi.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:03:49.000Z"
+    },
+    {
+      "id": "rss-f5ee3be458ac",
+      "title": "A Tale of Two Earnings — What the Filings Cannot Show",
+      "description": "Lida Liberopoulou · 31 July 2026 · CC BY-SA 4.0\nContinue reading on Medium »",
+      "url": "https://medium.com/@lliberopoulou/a-tale-of-two-earnings-what-the-filings-cannot-show-0ff20dff0d2a?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/885/1*Hwf_Q4XwAvJfTn5sWGv8qg.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-08-01T11:03:17.000Z"
+    },
+    {
+      "id": "rss-7810fddeb45b",
+      "title": "Virtual Psychiatrist Guidance on Navigating Medication Refills Seamlessly",
+      "description": "Managing mental health treatment requires consistency, organization, and open communication with your healthcare provider. For many…\nContinue reading on Medium »",
+      "url": "https://medium.com/@malignpsych/virtual-psychiatrist-guidance-on-navigating-medication-refills-seamlessly-0ceb8a64ab50?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/869/1*EfkYHUe1CGAIUsF2FZPsmA.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:03:15.000Z"
+    },
+    {
+      "id": "rss-215ce3c13f0c",
+      "title": "Meet Dr. Girish Kakde : Leading Radiologist in Pune with 15+ Years of Expertise in MRI, CT Scan &…",
+      "description": "When it comes to medical diagnosis, every treatment decision begins with one essential step — an accurate diagnosis. Behind every clear…\nContinue reading on Medium »",
+      "url": "https://medium.com/@primusdiagnosticcenter/meet-dr-girish-kakde-leading-radiologist-in-pune-with-15-years-of-expertise-in-mri-ct-scan-b2a9171b13cb?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1774/1*NFoNFXoVMRfjQDhLgw6kGg.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:02:14.000Z"
+    },
+    {
+      "id": "rss-e5a71397e953",
+      "title": "robioticsWhy CFU Count Alone Doesn’t Define Probiotic Qualitye.",
+      "description": "The popularity of probiotics in India has increased rapidly over the last few years. Consumers, healthcare brands, and manufacturers are…\nContinue reading on Medium »",
+      "url": "https://medium.com/@syngenicbioenzymes/robioticswhy-cfu-count-alone-doesnt-define-probiotic-qualitye-c9a8f3f569aa?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*LU38DRHO4RbMvc_H7dbzWQ.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:01:58.000Z"
+    },
+    {
+      "id": "rss-9ae869c64b68",
+      "title": "What Complaining Does to the Body: The Health Case for a Guarded Tongue",
+      "description": "Why venting keeps the body’s stress switched on, and the Sunnah’s guard for it.\nContinue reading on Medium »",
+      "url": "https://dailysunnah.medium.com/what-complaining-does-to-the-body-the-health-case-for-a-guarded-tongue-4e4d7352a829?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*pbGKxotiw_ZxUSB3",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:01:02.000Z"
+    },
+    {
+      "id": "rss-e53010cb6db3",
+      "title": "You’re Not Failing Because of Your Product — You’re Failing Because You Don’t Know Your Customer",
+      "description": "Most entrepreneurs spend more time researching products than understanding the people who actually buy them.\nContinue reading on Medium »",
+      "url": "https://medium.com/@sp.egolights/youre-not-failing-because-of-your-product-you-re-failing-because-you-don-t-know-your-customer-f6d79fcbc5ab?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*1M_mWo-k2YkjP_4ZJnCjCA.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-08-01T11:01:01.000Z"
+    },
+    {
+      "id": "rss-801d4a948fa8",
+      "title": "I Canceled Higgsfield and Built a Claude Skill That Does More for Less",
+      "description": "AI creative tools are evolving at an incredible pace. Every month, a new platform promises better images, faster videos, and more powerful…\nContinue reading on Medium »",
+      "url": "https://medium.com/@aitoolinsight/i-canceled-higgsfield-and-built-a-claude-skill-that-does-more-for-less-2a2fc017163b?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1280/0*J54GJF7Ua9A4zq2d.jpg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-08-01T11:01:01.000Z"
+    },
+    {
+      "id": "rss-755da05e7c47",
+      "title": "They Refused to Switch Seats So I Made Their Flight a Living Hell",
+      "description": "When being stubborn bites you in the ass\nContinue reading on Medium »",
+      "url": "https://ivaursano.medium.com/they-refused-to-switch-seats-so-i-made-their-flight-a-living-hell-5c80a50f852a?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1000/1*2WyapyEE6T4KCTKojA_fig.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:01:01.000Z"
+    },
+    {
+      "id": "rss-2dcc120f95dd",
+      "title": "Why Every Tourist Should Pack Norit Before Visiting Bali",
+      "description": "If you spend enough time in Bali, you’ll probably hear someone mention Norit.\nContinue reading on Medium »",
+      "url": "https://medium.com/@404NeilNotFound/norit-charcoal-bali-46412f9ddd60?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1448/1*AE-Dx_hVKarRaPaJql-NTA.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:01:01.000Z"
+    },
+    {
+      "id": "rss-5e57565feaff",
+      "title": "I Used the PARTS Framework to Write a Corporate LinkedIn Post — Here’s the Exact Prompt",
+      "description": "A few weeks ago, I wrote about the PARTS framework — a five-step way to structure AI prompts using Persona, Aim, Recipients, Theme, and…\nContinue reading on Medium »",
+      "url": "https://quratinsights.medium.com/i-used-the-parts-framework-to-write-a-corporate-linkedin-post-heres-the-exact-prompt-dc6c1f3da5eb?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*OQb7nVKeyihEU7xXronrDw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-08-01T11:00:52.000Z"
+    },
+    {
+      "id": "rss-084372428c60",
+      "title": "Nietzsche Predicted the Crisis Facing Modern Men",
+      "description": "More than a century ago, the German philosopher warned about the kind of man modern society would create\nContinue reading on Medium »",
+      "url": "https://medium.com/@paowens59/nietzsche-predicted-the-crisis-facing-modern-men-d57ca9e2a1ba?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*7fhSZORZbaXyq_ZV",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-01T11:00:37.000Z"
+    },
+    {
+      "id": "rss-291234c9992e",
+      "title": "Tired of Your Content Getting Flagged as AI?",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@aisolutionsusa.llc/tired-of-your-content-getting-flagged-as-ai-a3df76489c31?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/794/1*8U-97GcVMYCIT2V-0iBuZg@2x.jpeg",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-08-01T11:00:35.000Z"
+    },
+    {
+      "id": "rss-7a36d6bdec74",
+      "title": "Latest fraud scheme targets taxpayer-funded autism therapy boom",
+      "description": "Medicaid paid over $5.15 billion for ABA therapy between 2018 and 2024, and prosecutors are now targeting alleged fraud schemes worth tens of millions.",
+      "url": "https://www.foxnews.com/politics/latest-fraud-scheme-targets-taxpayer-funded-autism-therapy-boom",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/elementary-students-classroom.png?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-08-01T11:00:21.000Z"
+    },
+    {
+      "id": "rss-980cd3e82422",
+      "title": "Forget Yellowstone, Taylor Sheridan's breakthrough crime thriller is still his sharpest script ever",
+      "description": "The movie that turned Taylor Sheridan into Hollywood's hottest screenwriter is streaming now on HBO Max.",
+      "url": "https://www.polygon.com/taylor-sheridan-sicario-hbo-max-august-streaming-2026/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/sicario-josh-brolin-2.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-01T11:00:12.000Z"
+    },
+    {
+      "id": "rss-4ca16414d931",
+      "title": "Deadly blooms offer a genetic blueprint for making hard-to-synthesize medicinal compounds",
+      "description": "Two plants that cause neurotoxicity and paralysis in the tiniest doses are also known to counter pain, malaria, cancer and pests. For the first time, researchers discovered a way to recreate these pow",
+      "url": "https://phys.org/news/2026-07-deadly-blooms-genetic-blueprint-hard.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/two-deadly-flowers-hav.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-01T11:00:06.000Z"
+    },
+    {
+      "id": "rss-d39ff6820ea5",
+      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+      "description": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
+      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3e1/live/98c7dee0-8d7d-11f1-b2ab-0dd01740f9f6.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-01T11:00:05.000Z"
+    },
+    {
+      "id": "rss-7b7d502e4bb0",
+      "title": "Leave it: Dog trainers help pets avoid poisonous snakes",
+      "description": "Ripley, a medium-sized dog with a strong prey drive, curiously approached Brian, a large western diamondback rattlesnake, until she got a quick zap on the neck meant to simulate a venomous viper's bit",
+      "url": "https://phys.org/news/2026-08-dog-trainers-pets-poisonous-snakes.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/leave-it-dog-trainers.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-01T11:00:01.000Z"
+    },
+    {
+      "id": "rss-bc6c63ba8ec2",
+      "title": "Science news this week: Secret lives of whale sharks revealed, Earth's coldest temperature registered, and Amazonian geoglyphs show clues to lost civilization",
+      "description": "August 1, 2026: Our weekly roundup of the latest science in the news, as well as a few fascinating articles to keep you entertained over the weekend",
+      "url": "https://www.livescience.com/animals/science-news-this-week-secret-lives-of-whale-sharks-revealed-earths-coldest-temperature-registered-and-amazonian-geoglyphs-show-clues-to-lost-civilization",
+      "image": "https://cdn.mos.cms.futurecdn.net/xtigPc9P4DLiGLSgPbZTh-1280-80.jpg",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-08-01T11:00:00.000Z"
+    },
+    {
+      "id": "rss-baa51b5381c5",
+      "title": "How to Use a VPN on Crunchyroll: Best VPNs Compared for 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/vpns/how-to-use-a-vpn-on-crunchyroll-best-vpns-compared-for-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/18x9vf3a/How-to-Use-a-VPN-on-Crunchyroll-Best-VPNs-Compared-for-2026-%E2%80%93-Soham.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-01T11:00:00.000Z"
+    },
+    {
+      "id": "rss-e82e42351465",
+      "title": "The Most Valuable Business Skill in the AI Era",
+      "description": "As AI makes execution faster and cheaper, one business skill is quietly becoming the ultimate competitive advantage.\nContinue reading on Medium »",
+      "url": "https://zaidhusnain96.medium.com/the-most-valuable-business-skill-in-the-ai-era-bcb6f1c8fc00?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*YYA1JiGA6j3TCktRC7vNhw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:58:34.000Z"
+    },
+    {
+      "id": "rss-ad519024a21f",
+      "title": "Kuwait Says It Downed Iranian Drones as Mideast Braces for Possible Escalation",
+      "description": "The wave of strikes came as President Trump threatened to intensify the U.S. campaign against Iran, with both sides showing little sign of backing down.",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-kuwait-drone-strikes-trump-escalation.html",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/01int-iran-strikes-placeholder/31mideast-blog-placeholder-01-lcpz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-01T10:58:22.000Z"
+    },
+    {
+      "id": "rss-bfcd7be61b29",
+      "title": "Retatrutide India: Availability, Price, Approval Status",
+      "description": "Here is the honest answer, with no hype attached and no guessed prices.\nContinue reading on Medium »",
+      "url": "https://medium.com/@medvision04/retatrutide-india-availability-price-approval-status-e4ae94a04dbe?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*VeG8WTYD2ktlZ8Oo6pDORg.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-01T10:58:20.000Z"
+    },
+    {
+      "id": "rss-5b2b4bdad221",
+      "title": "SemGuard: Building a Multilingual Security Gateway for LLMs with Triple-Anchor Semantic Modeling",
+      "description": "TL;DR: LLMs are vulnerable to prompt injections, jailbreaks, and privacy leaks — especially in under-resourced languages like Arabic and…\nContinue reading on Medium »",
+      "url": "https://abdallah-abughallous.medium.com/semguard-building-a-multilingual-security-gateway-for-llms-with-triple-anchor-semantic-modeling-2e4e5bca5680?source=rss------artificial_intelligence-5",
+      "image": "https://cdn-images-1.medium.com/max/1128/1*Wfab1BvL-lMiVxqR7-VNyw.png",
+      "source": "Medium AI",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:58:16.000Z"
+    },
+    {
+      "id": "rss-1152827984c6",
+      "title": "Anthropic Said No to the Most-Requested Feature in Claude Code",
+      "description": "AGENTS.md is the file every other coding agent reads. Anthropic still won’t add it, and the reason isn’t just stubbornness.\nContinue reading on Medium »",
+      "url": "https://medium.com/@anubhavgoyal101/anthropic-said-no-to-the-most-requested-feature-in-claude-code-8109051f804b?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*eCAu_cBa7xIDjyQQRaWZ7A.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:56:13.000Z"
+    },
+    {
+      "id": "rss-820f4660728c",
+      "title": "The Road From Hell",
+      "description": "A choice and then, a journey\nContinue reading on Medium »",
+      "url": "https://medium.com/@mohinikamat/the-road-from-hell-8c4c9eee1fea?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/705/1*OvPlZ8BLDtU1r3jER7s97Q.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-01T10:56:06.000Z"
+    },
+    {
+      "id": "rss-07396815ba47",
+      "title": "Ethereum Eyes $2,000 After Its Strongest Monthly Gain in a Year",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/ethereum-eyes-2000-after-its-strongest-monthly-gain-in-a-year",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/vezppiwe/Ethereum-Eyes-2000-After-Its-Strongest-Monthly-Gain-in-a-Year.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:55:50.000Z"
+    },
+    {
+      "id": "rss-5be3d01129ac",
+      "title": "I Built an AI Voice Assistant Using Open-Source Models (No Paid APIs)",
+      "description": "How I built an AI-powered voice platform with Whisper, Qwen3-TTS, FastAPI, and modern web technologies without relying on expensive APIs.\nContinue reading on Medium »",
+      "url": "https://medium.com/@mohammedasad2518/i-built-an-ai-voice-assistant-using-open-source-models-no-paid-apis-a3a6170591e8?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*f3jPenyHepmdz1vu61jQgw.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:55:01.000Z"
+    },
+    {
+      "id": "rss-25be86c5745d",
+      "title": "I Quit Coffee for 30 Days. My Anxiety Disappeared Too",
+      "description": "The pattern that keeps showing up when people quietly stop drinking coffee\nContinue reading on Write A Catalyst »",
+      "url": "https://medium.com/write-a-catalyst/i-quit-coffee-for-30-days-my-anxiety-disappeared-too-e8b406b2fc64?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*gwu5X518DWAafwgw",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-01T10:48:45.000Z"
+    },
+    {
+      "id": "rss-0773150b2946",
+      "title": "You Never Know What This Month Might Bring",
+      "description": "Photo by Joshua Woroniecki on Unsplash\nContinue reading on Medium »",
+      "url": "https://medium.com/@lavenderlight/you-never-know-what-this-month-might-bring-02a333e8e744?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*jKaEw-hVhoDzFypu",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-01T10:48:25.000Z"
+    },
+    {
+      "id": "rss-676c46ffe5ce",
+      "title": "We Don’t Know What Intelligence Is.",
+      "description": "After months of debating what I came to call the “geometry of intelligence,” I’ve reached a rather uncomfortable conclusion: we don’t…\nContinue reading on Medium »",
+      "url": "https://medium.com/@mikorist/we-dont-know-what-intelligence-is-6f10fbaf0871?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1535/1*ELACf_snJ-WjDmwjWY_9XA.jpeg",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:47:11.000Z"
+    },
+    {
+      "id": "rss-b473f3bfc68e",
+      "title": "I Keep Wanting People in My Life Then Panicking When They Show Up",
+      "description": "I don’t know how to fix that.\nContinue reading on Write A Catalyst »",
+      "url": "https://medium.com/write-a-catalyst/i-keep-wanting-people-in-my-life-then-panicking-when-they-show-up-315d35ea976c?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*zZZAXmgb-uXD8rZ3",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-01T10:47:06.000Z"
+    },
+    {
+      "id": "rss-6144e0dc8045",
+      "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
+      "description": "Most of those who surged into the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
+      "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
+      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-spain-ceuta-top-lbzm/01int-spain-ceuta-top-lbzm-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-01T10:46:11.000Z"
+    },
+    {
+      "id": "rss-aebf1b54e182",
+      "title": "Neurogebra: Bringing Mathematical Transparency to Deep Learning",
+      "description": "Open-Source Contribution\nContinue reading on Medium »",
+      "url": "https://medium.com/@fahimsarker0805/neurogebra-bringing-mathematical-transparency-to-deep-learning-65be771f6389?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*f1zc1arWTO8XjIdRwppQqQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:43:40.000Z"
+    },
+    {
+      "id": "rss-4782701bf950",
+      "title": "HYPE Tests $51 Support as Hyperliquid Expands HIP-4 on Testnet",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/hype-tests-51-support-as-hyperliquid-expands-hip-4-on-testnet",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/nojnxzbd/HYPE-Tests-51-Support-as-Hyperliquid-Expands-HIP-4-on-Testnet.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:35:47.000Z"
+    },
+    {
+      "id": "rss-7b6042135cca",
+      "title": "Google Sequential Attention Shrinks Models for On Device Deployment",
+      "description": "February 2026 research introduces a subset selection method that cuts model size and speeds inference while preserving full accuracy levels\nContinue reading on Medium »",
+      "url": "https://medium.com/@vikramlingam/google-sequential-attention-shrinks-models-for-on-device-deployment-5c7597fef8eb?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/0*PLqa2EvdHB1P24xS.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:31:27.000Z"
+    },
+    {
+      "id": "rss-56a13ca71e57",
+      "title": "Why Your Next Developer Hire Might Be an AI Agent",
+      "description": "Chatbots answer questions. AI agents run databases, execute code, and close tickets while you sleep.\nContinue reading on Medium »",
+      "url": "https://medium.com/@talatwaheed/why-your-next-developer-hire-might-be-an-ai-agent-95b702111805?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*hthD0HzTseS3zBD_dpydng.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:31:01.000Z"
+    },
+    {
+      "id": "rss-44fd2bbd2200",
+      "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+      "description": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+      "url": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+      "image": "https://media.wired.com/photos/6a6d0ac2eedb5ffa3dae51ac/master/pass/SecurityRoundUp_WaterTowersBeingHacked_v1.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-01T10:30:00.000Z"
+    },
+    {
+      "id": "rss-c274ac4d587a",
+      "title": "Boroux vs. Rorra vs. Culligan: Water Filters, Tested Head to Head",
+      "description": "In a world of plasticky water filter pitchers, I tested three new-generation stainless steel filter systems.",
+      "url": "https://www.wired.com/story/steel-water-filters-head-to-head/",
+      "image": "https://media.wired.com/photos/6a6d360053afe159026575c4/master/pass/A-New-Generation-of-Steel-Water-Filters-Cuts-Out-the-Plastic%E2%80%94and-Microplastics.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-01T10:30:00.000Z"
+    },
+    {
+      "id": "rss-2c3b130d4d33",
+      "title": "Top Convertible Refrigerators with Energy Saving Features",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/refrigerators/top-convertible-refrigerators-with-energy-saving-features",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/c4xuhufl/Top-Convertible-Refrigerators-with-Energy-Saving-Features.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:30:00.000Z"
+    },
+    {
+      "id": "rss-0072fbed1ae0",
+      "title": "Solar wind stirs Mars' upper atmosphere, boosting ion loss to space",
+      "description": "Our sun constantly releases a stream of high-speed charged particles, known as the solar wind. Unlike Earth, Mars does not have a strong global magnetic field to shield its atmosphere from this flow. ",
+      "url": "https://phys.org/news/2026-07-solar-mars-upper-atmosphere-boosting.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-the-sun-is-strippi.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-01T10:20:01.000Z"
+    },
+    {
+      "id": "rss-becc8efd3a74",
+      "title": "Despite China’s 996 culture, DeepSeek founder Liang Wenfeng says his workers don’t do overtime or even have KPIs: ‘No one manages them’",
+      "description": "While Silicon Valley races to adopt China's brutal 996 culture, DeepSeek's founder says his $60 billion AI company has no KPIs and no overtime.",
+      "url": "https://fortune.com/2026/08/01/deepseek-founder-liang-wenfeng-workers-dont-do-overtime-or-kpis-china-996-culture/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2196672039_88f134.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-08-01T10:19:00.000Z"
+    },
+    {
+      "id": "rss-2fa213c5e410",
+      "title": "Soap star Shane Richie facing drink-drive charge",
+      "description": "The 62-year-old was arrested at a petrol station and is due in court in September, police say.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y32zmv6kjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61de/live/38553420-8d89-11f1-800e-433295bded5e.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-01T10:15:08.000Z"
+    },
+    {
+      "id": "rss-68d0479cb0f4",
+      "title": "Kamala Harris backs major changes to the Supreme Court, Electoral College ahead of possible 2028 campaign",
+      "description": "Former Vice President Kamala Harris endorsed Supreme Court expansion and abolishing the Electoral College at the National Urban League Conference while weighing a 2028 run.",
+      "url": "https://www.foxnews.com/politics/kamala-harris-backs-major-changes-supreme-court-electoral-college-ahead-possible-2028-campaign",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/kamala-harris-2024-election-autopsy-fox-news.jpeg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-08-01T10:09:10.000Z"
+    },
+    {
+      "id": "rss-5db600e2542b",
+      "title": "Dreo Summer Flash Sale 2026: Lowest Price Ever on Chefmaker, Fan",
+      "description": "On Dreo’s summer flash sale from August 1 to 3, a great misting fan and an even better air fryer are at the lowest prices we’ve seen them.",
+      "url": "https://www.wired.com/story/dreo-chefmaker-turbocool-fan-flash-deal-2026/",
+      "image": "https://media.wired.com/photos/6a6d2d369489ec53630e766b/master/pass/Dreo%E2%80%99s-Summer-Flash-Sale-2026--Lowest-Price-Ever-on-a-Top-Tested-Air-Fryer.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-01T10:09:00.000Z"
+    },
+    {
+      "id": "rss-7bb6b09c206a",
+      "title": "Topluluk Yöntemleri: Random Forest'tan XGBoost'a",
+      "description": "Bagging neden varyansı düşürür, boosting neden yanlılığı — ve LightGBM ile CatBoost aynı formülü neden farklı hesaplar.\nContinue reading on Medium »",
+      "url": "https://medium.com/@serkancan.kaya1999/topluluk-y%C3%B6ntemleri-random-foresttan-xgboost-a-9dda7507b0e2?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1800/1*umDbf88PErnnHfXtgkg-iQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:06:01.000Z"
+    },
+    {
+      "id": "rss-8f3800895014",
+      "title": "Defcon's new badge is a security key you can see inside",
+      "description": "A removable chip lets hackers inspect their badge—and keep using it after Defcon.",
+      "url": "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/defconbadge-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-08-01T10:05:21.000Z"
+    },
+    {
+      "id": "rss-51d4b95fdab6",
+      "title": "Top Electric Cars with Longest Driving Range",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/automotive/top-electric-cars-with-longest-driving-range",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/57l08mha/Top-Electric-Cars-with-Longest-Driving-Range.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:05:00.000Z"
+    },
+    {
+      "id": "rss-45e566576ee6",
+      "title": "The Most Dangerous Feature of AI Models",
+      "description": "In Apple TV’s hit series Severance, employees of the mysterious Lumon Corporation undergo a surgical procedure that splits their…\nContinue reading on Medium »",
+      "url": "https://manuel-brenner.medium.com/the-most-dangerous-feature-of-ai-models-de8f5b7a7c57?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*PAQPUF9xK2eXqCg9",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:03:18.000Z"
+    },
+    {
+      "id": "rss-1e76ca7e4976",
+      "title": "Infantino on the brink? Who might replace him if he goes?",
+      "description": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feaa/live/b1e19dc0-8cf7-11f1-b2ab-0dd01740f9f6.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-01T10:02:43.000Z"
+    },
+    {
+      "id": "rss-c329363aad3e",
+      "title": "How fruit flies chase invisible ribbons of smell to get to their source",
+      "description": "Tracking smells in turbulent air takes a keen sense of direction and sharp memory.",
+      "url": "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-956238116-1152x648.jpg",
+      "source": "Ars Technica",
+      "category": "technology",
+      "publishedAt": "2026-08-01T10:00:19.000Z"
+    },
+    {
+      "id": "rss-224e8316fda0",
+      "title": "10 anime that delivered better endings than Attack on Titan (#1 is pitch-perfect)",
+      "description": "These stories provide impeccable thematic closure.",
+      "url": "https://www.polygon.com/best-anime-endings-better-attack-on-titan/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mikasa-aot.webp",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-01T10:00:12.000Z"
+    },
+    {
+      "id": "rss-21605b978c49",
+      "title": "Agentic AI vs Generative AI: What’s the Difference?",
+      "description": "Every few months, a new AI term takes over LinkedIn feeds and boardroom conversations. Right now, it’s “agentic AI.” But if you’ve been…\nContinue reading on Medium »",
+      "url": "https://medium.com/@markhub24/agentic-ai-vs-generative-ai-whats-the-difference-2b14fd4df57e?source=rss------machine_learning-5",
+      "image": "https://cdn-images-1.medium.com/max/1983/1*Cipjuw0dcub7mtKa1-LuYQ.png",
+      "source": "Medium ML",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:00:12.000Z"
+    },
+    {
+      "id": "rss-bb5c730ffe14",
+      "title": "Brazen social media fraud schemes wreak havoc as Trump official issues stark warning for 'fraudfluencers'",
+      "description": "\"Fraudfluencers\" use social media to recruit others into government fraud schemes, says DOL Inspector General Anthony D'Esposito in a stark warning.",
+      "url": "https://www.foxnews.com/politics/brazen-social-media-fraud-schemes-wreak-havoc-trump-official-issues-stark-warning-fraudfluencers",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Data-Brokers-Photo-3.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-08-01T10:00:02.000Z"
+    },
+    {
+      "id": "rss-3fd272b54694",
+      "title": "A rollercoaster of weather extremes: Drought and heat waves are creating UK's climate whiplash",
+      "description": "The UK is bouncing from one type of extreme weather to another this year. This is climate whiplash. Caused by changes in the fast-moving body of air high in the atmosphere called the jet stream, clima",
+      "url": "https://phys.org/news/2026-07-rollercoaster-weather-extremes-drought-uk.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/drought.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-01T10:00:01.000Z"
+    },
+    {
+      "id": "rss-21bdac8cb26f",
+      "title": "Anthony Scaramucci: don’t let politics cost America the digital economy",
+      "description": "I've been one of Trump's most outspoken critics since my tenure in his White House. But this legislation evolved as lawmakers raised legitimate concerns.",
+      "url": "https://fortune.com/2026/08/01/anthony-scaramucci-clarity-act-trump-crypto-bipartisan/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/mooch-e1782163226710.png?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "rss-e7ca9c6d777d",
+      "title": "SpaceX launches 24 Starlink satellites to orbit from California (photos)",
+      "description": "A SpaceX Falcon 9 rocket launched 24 more of the company's Starlink internet satellites from California's central coast late on Friday night (July 31).",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-falcon-9-launch-group-17-52-ocisly-vandenberg",
+      "image": "https://cdn.mos.cms.futurecdn.net/V5t5pFBZvApqy58xvkRbVg-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "rss-ca9a41e4af0a",
+      "title": "Top Ink Cartridges for Canon Printers in India 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/printers/top-ink-cartridges-for-canon-printers-in-india-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/r3hsj3tx/Top-Ink-Cartridges-for-Canon-Printers-in-India-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-01T10:00:00.000Z"
+    },
+    {
+      "id": "rss-9184fcbe433f",
+      "title": "Crypto Wallets Expand into Trading Payments and Yield Platforms",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/crypto-wallets-expand-into-trading-payments-and-yield-platforms",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/vsw56b0j/Crypto-Wallets-Expand-into-Trading-Payments-and-Yield-Platforms.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-01T09:59:06.000Z"
+    },
+    {
+      "id": "rss-8e5f5b301b7c",
+      "title": "New Balance 1080v14 Review: The Ultimate Max-Cushion Daily Trainer?",
+      "description": "Considered by many to be one of the go-to choices for a soft, cushioned, neutral running shoe, the New Balance 1080 is an obvious choice…\nContinue reading on Medium »",
+      "url": "https://medium.com/@southasianyarns/new-balance-1080v14-review-the-ultimate-max-cushion-daily-trainer-4909c171b979?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*YYRjtAy-8FW8L1opz53ZdA.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-01T09:57:36.000Z"
+    },
+    {
+      "id": "rss-2a4af0ec745e",
+      "title": "OpenAI Finds Additional AI Escape Incidents, Raising Fresh Safety Questions",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/openai-finds-additional-ai-escape-incidents-raising-fresh-safety-questions",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/mnycyh3l/OpenAI-Finds-Additional-AI-Escape-Incidents-Raising-Fresh-Safety-Questions.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-01T09:52:26.000Z"
+    },
+    {
+      "id": "rss-eed7ebbeabcd",
+      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership as investment plan scrapped",
+      "description": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ad/live/497ab970-8d91-11f1-b2ab-0dd01740f9f6.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-01T09:51:05.000Z"
+    },
+    {
+      "id": "rss-bebaedeeabb6",
+      "title": "England beaten by New Zealand in netball semi-final",
+      "description": "England's netballers miss out on a place in the Commonwealth Games gold-medal match after a 61-54 semi-final defeat by a powerful New Zealand side.",
+      "url": "https://www.bbc.co.uk/sport/netball/articles/c151l288y9xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f32/live/a4c5f5c0-8d90-11f1-800e-433295bded5e.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-01T09:41:15.000Z"
+    },
+    {
+      "id": "rss-19f7c3cec70b",
+      "title": "Google, Meta Back High-Paying Construction Jobs to Fuel AI Data Center Expansion",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/google-meta-back-high-paying-construction-jobs-to-fuel-ai-data-center-expansion",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/j9bwe9cn/Google-Meta-Back-High-Paying-Construction-Jobs-to-Fuel-AI-Data-Center-Expansion.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-01T09:31:10.000Z"
+    },
+    {
+      "id": "rss-e23b69c6caec",
+      "title": "Alienware 15 Gaming Laptop Review: Hedging Its Bets",
+      "description": "There are both cheaper and more powerful entry-level gaming laptops out there, but the Alienware 15 walks that tightrope between price and quality.",
+      "url": "https://www.wired.com/review/alienware-15-gaming-laptop/",
+      "image": "https://media.wired.com/photos/6a6d42512800a81073f2596e/master/pass/Review--Alienware-15-Gaming-Laptop.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-01T09:31:00.000Z"
+    },
     {
       "id": "rss-3f4fa5d828cb",
       "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
@@ -10,6 +720,16 @@
       "image": "https://media.wired.com/photos/6a6d14b8b61d0975176f3aa8/master/pass/Security_The%20OpenAI%20and%20Anthropic%20Hacking%20Sprees%20May%20Have%20Legal%20Consequences_v1.jpg",
       "source": "Wired",
       "category": "technology",
+      "publishedAt": "2026-08-01T09:30:00.000Z"
+    },
+    {
+      "id": "rss-102c73d980c2",
+      "title": "Best Cryptocurrency Cards in India: 2026 Buyer's Guide",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/best-cryptocurrency-cards-in-india-2026-buyers-guide",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-01/qp6bsdgq/Best-Cryptocurrency-Cards-in-India-2026-Buyers-Guide.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
       "publishedAt": "2026-08-01T09:30:00.000Z"
     },
     {
@@ -51,6 +771,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-08-01T09:24:06.000Z"
+    },
+    {
+      "id": "rss-21dccecc6446",
+      "title": "Fire on the Screen, Quiet in the Halls: What the World Cup Taught Me About the Neuroscience of Hope",
+      "description": "An elderly patient stopped a nurse in our hallway last week, slowly dragging his heavy metal IV pole behind him. The wheels made a…\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/fire-on-the-screen-quiet-in-the-halls-what-the-world-cup-taught-me-about-the-neuroscience-of-hope-8cc09093f8c0?source=rss------medicine-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*Pr2MaHskaM-z12kL",
+      "source": "Medium Medicine",
+      "category": "health",
+      "publishedAt": "2026-08-01T09:23:43.000Z"
     },
     {
       "id": "rss-566b735295ca",
@@ -141,6 +871,16 @@
       "source": "Medium AI",
       "category": "ai",
       "publishedAt": "2026-08-01T09:14:13.000Z"
+    },
+    {
+      "id": "rss-c9eb64061c30",
+      "title": "Sir John Curtice: The \"Burnham bounce\" is real but it's not massive",
+      "description": "The governing party's poll ratings have improved but they're only just ahead of Reform",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a967/live/e6b44e00-8cc8-11f1-b8ee-9b3c26ad07bb.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-01T09:13:00.000Z"
     },
     {
       "id": "rss-f6f6b5256a2f",
@@ -263,6 +1003,26 @@
       "publishedAt": "2026-08-01T09:01:57.000Z"
     },
     {
+      "id": "rss-6b60ab46755c",
+      "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
+      "description": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
+      "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
+      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-iran-defeat-assess-cwph/01int-iran-defeat-assess-cwph-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-01T09:01:52.000Z"
+    },
+    {
+      "id": "rss-4e0c836a1caf",
+      "title": "Trump Administration Is Undoing Plans to Boost Workplace Heat Protections",
+      "description": "The Biden administration took steps to shield workers from extreme temperatures. The Trump administration is taking a gentler approach with employers.",
+      "url": "https://www.nytimes.com/2026/08/01/climate/heat-workplace-protections-osha-trump.html",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30cli-workplace-heat-01-tgpk/30cli-workplace-heat-01-tgpk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-01T09:01:03.000Z"
+    },
+    {
       "id": "rss-76103ff81a17",
       "title": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
       "description": "Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.",
@@ -271,6 +1031,26 @@
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-08-01T09:00:56.000Z"
+    },
+    {
+      "id": "rss-0aef594234cc",
+      "title": "Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts",
+      "description": "The president decided to buy 11 polar icebreakers after a game of golf with Finland’s president. Experts say it’s far from clear the United States needs so many.",
+      "url": "https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/00dc-trump-arctic-ships-top-new-wmcv/00dc-trump-arctic-ships-top-new-wmcv-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-01T09:00:17.000Z"
+    },
+    {
+      "id": "rss-2766bf52ccac",
+      "title": "The U.S. Deported Him to Jail in Russia. Then He Escaped.",
+      "description": "Facing a long prison sentence or a forced trip to the front line of a war he opposes, Artyom Vovchenko believed it was worth taking a risk.",
+      "url": "https://www.nytimes.com/2026/08/01/world/europe/russia-war-deserter.html",
+      "image": "https://static01.nyt.com/images/2026/04/09/multimedia/00int-russia-deportation-01-jlwh/00int-russia-deportation-01-jlwh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-01T09:00:09.000Z"
     },
     {
       "id": "rss-c3fa61722793",
@@ -323,6 +1103,26 @@
       "publishedAt": "2026-08-01T09:00:00.000Z"
     },
     {
+      "id": "rss-1681e555d831",
+      "title": "Christopher Nolan’s Odyssey communicates a timeless — and tragic — aspect of war",
+      "description": "Matt Damon's Odysseus dramatizes a condition clinicians call moral injury — distinct from PTSD — that still shows up in veterans today.",
+      "url": "https://fortune.com/2026/08/01/christopher-nolan-matt-damon-odyssey-moral-injury-ptsd/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286159304-e1785516192228.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-08-01T09:00:00.000Z"
+    },
+    {
+      "id": "rss-88da094a8224",
+      "title": "Amazon’s Andy Jassy sees a $1 trillion cloud built on businesses like the PGA Tour—which swapped its server trucks for AI broadcasts",
+      "description": "AWS just posted $42.2 billion in revenue with its fastest growth in 18 quarters and the AI platform saw more spending last quarter than in every prior quarter since launch combined.",
+      "url": "https://fortune.com/2026/08/01/amazon-andy-jassy-cloud-trillion-pga-tour/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287737479.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-08-01T09:00:00.000Z"
+    },
+    {
       "id": "rss-0c5fccc230fe",
       "title": "The Science of Snacking",
       "description": "How Brain Biology, Habits, and Modern Food Environments Shape Our Eating Choices\nContinue reading on Medium »",
@@ -371,16 +1171,6 @@
       "source": "Mental Health (Medium)",
       "category": "health",
       "publishedAt": "2026-08-01T08:52:26.000Z"
-    },
-    {
-      "id": "rss-6144e0dc8045",
-      "title": "Spain Installs Floating Barrier in Ceuta After Influx of Migrants",
-      "description": "Most of those who surged into the territory, a Spanish exclave in Africa, have returned across the border to Morocco. At least 67 people died trying to enter, the authorities said.",
-      "url": "https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco-border.html",
-      "image": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-spain-cueta-01-cqlt/01int-spain-cueta-01-cqlt-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-01T08:49:40.000Z"
     },
     {
       "id": "rss-70ab61f4350f",
@@ -477,7 +1267,7 @@
       "title": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
       "description": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
       "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8710/live/778466c0-8d4d-11f1-b2ab-0dd01740f9f6.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e537/live/b81c7060-8d8e-11f1-b8ee-9b3c26ad07bb.jpg",
       "source": "BBC News",
       "category": "trending",
       "publishedAt": "2026-08-01T08:24:09.000Z"
@@ -533,6 +1323,16 @@
       "publishedAt": "2026-08-01T08:00:00.000Z"
     },
     {
+      "id": "rss-7f7cf7670266",
+      "title": "Wall Street’s hidden recruiting pipeline isn’t an Ivy League diploma—it’s the teammate who triples your odds of getting hired",
+      "description": "A new study of more than 120,000 Ivy League graduates finds locker room ties, not diplomas, do the real gatekeeping into finance's top firms",
+      "url": "https://fortune.com/2026/08/01/wall-street-recruiting-pipeline-ivy-league-sports-teams-hiring-edge/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-876642784-e1785528266422.jpg?w=2048",
+      "source": "Fortune",
+      "category": "business",
+      "publishedAt": "2026-08-01T08:00:00.000Z"
+    },
+    {
       "id": "rss-18895146bd8b",
       "title": "What’s Ahead!",
       "description": "Phase 2\nContinue reading on Medium »",
@@ -551,6 +1351,16 @@
       "source": "Medium Fitness",
       "category": "health",
       "publishedAt": "2026-08-01T07:57:43.000Z"
+    },
+    {
+      "id": "rss-bd86a1659528",
+      "title": "Stick to spending limits, PM and chancellor tell ministers in joint memo",
+      "description": "The Chancellor said the Budget on 28 October would “meet our fiscal rules” and give families \"stability\" to plan for the future.",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-01T07:48:01.000Z"
     },
     {
       "id": "rss-b5e919990561",
@@ -1573,6 +2383,16 @@
       "publishedAt": "2026-08-01T03:40:17.000Z"
     },
     {
+      "id": "rss-90974207a870",
+      "title": "Evidence Indicates U.S. Dropped Bomb on Residential Area in Iran, Killing 3 Civilians",
+      "description": "The weapon, one of the largest in the U.S.’s arsenal, struck a house in a heavily populated area, according to a Times analysis.",
+      "url": "https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/2026-07-31-vi-qeshm-anno-index/2026-07-31-vi-qeshm-anno-index-mediumSquareAt3X-v3.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-01T03:40:13.000Z"
+    },
+    {
       "id": "rss-fd906f44b325",
       "title": "The Prior Injury That’s Never in the Main Chart",
       "description": "It was a dental clearance form. A patient listing past surgeries for an unrelated appointment. That’s where the shoulder injury was hiding.\nContinue reading on Medium »",
@@ -1581,16 +2401,6 @@
       "source": "Medium Health",
       "category": "health",
       "publishedAt": "2026-08-01T03:36:01.000Z"
-    },
-    {
-      "id": "rss-03622fa06b79",
-      "title": "Budget in October, Healey announces, as ministers urged to stick to spending limits",
-      "description": "The new chancellor pledged to move money and power out of Westminster, and into every postcode around Britain.",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f911/live/99ae70c0-8ced-11f1-a573-93159e2b55da.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-08-01T03:34:26.000Z"
     },
     {
       "id": "rss-0352449caea1",
@@ -2093,16 +2903,6 @@
       "publishedAt": "2026-08-01T00:13:59.000Z"
     },
     {
-      "id": "rss-1e76ca7e4976",
-      "title": "Infantino on the brink? Who might replace him if he goes?",
-      "description": "Fifa president Gianni Infantino is in the eye of a storm after scrapping his attempt to sell stakes in the World Cup. If he goes, who comes in?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feaa/live/b1e19dc0-8cf7-11f1-b2ab-0dd01740f9f6.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-01T00:04:26.000Z"
-    },
-    {
       "id": "rss-f31b0981ea18",
       "title": "How Cardio Exercise Improves Your Body and Brain",
       "description": "When most people think about cardio exercise, they usually think about burning calories or losing weight. While those benefits are…\nContinue reading on Medium »",
@@ -2211,6 +3011,16 @@
       "source": "Medium ML",
       "category": "ai",
       "publishedAt": "2026-07-31T23:47:21.000Z"
+    },
+    {
+      "id": "rss-74886693b932",
+      "title": "Highlights: Dundee Utd 1-1 Rangers",
+      "description": "Derek McInnes' era as Rangers manager got off to an underwhelming start as Dundee United hold them to an opening Scottish Premiership draw.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c62enlg40j5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1d8/live/aa3f6db0-8d36-11f1-a7ab-8b30adf0800a.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-07-31T23:45:21.000Z"
     },
     {
       "id": "rss-5ec170c6feb1",
@@ -72991,296 +73801,6 @@
       "source": "Fortune",
       "category": "business",
       "publishedAt": "2026-07-25T11:30:00.000Z"
-    },
-    {
-      "id": "rss-ad84267eb3bd",
-      "title": "OpenAI's rogue agent went on a hacking spree that lasted days, Reuters says",
-      "description": "Reuters reports that the OpenAI agent that hacked Hugging Face had been free for a week before the company noticed.",
-      "url": "https://www.engadget.com/2223141/openai-rogue-agent-days-hacking-spree-reuters/",
-      "image": "https://www.engadget.com/img/gallery/openais-rogue-agent-went-on-a-hacking-spree-that-lasted-days-reuters-says/l-intro-1784977962.jpg",
-      "source": "Engadget",
-      "category": "technology",
-      "publishedAt": "2026-07-25T11:15:05.000Z"
-    },
-    {
-      "id": "rss-0ab23c833724",
-      "title": "Medice — Medical & Doctor WordPress Theme",
-      "description": "Discover Medice, the ultimate medical WordPress theme for doctors and healthcare professionals. Explore appointment forms, department…\nContinue reading on Medium »",
-      "url": "https://medium.com/@garantiwebt/medice-medical-doctor-wordpress-theme-49bbcb0606fc?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/800/1*7wsnqJMpk5yA3H92QQBW5g.jpeg",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-07-25T11:09:55.000Z"
-    },
-    {
-      "id": "rss-914bd5fa3f5e",
-      "title": "Growing concerns before Defoe exit - Woking director",
-      "description": "Woking director of football Jody Brown says there were \"growing concerns\" across the club before the National League side parted ways with former England striker Jermain Defoe as manager.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4y3dr9w0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5336/live/3b8eefb0-8815-11f1-afbe-b9a38c21b1d6.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-25T11:08:50.000Z"
-    },
-    {
-      "id": "rss-07c2ee4f0224",
-      "title": "First IVF-Conceived Baby Born",
-      "description": "Major medical milestone brings hope to millions\nContinue reading on Day in History »",
-      "url": "https://medium.com/day-in-history/first-ivf-conceived-baby-born-53d1a7684bd9?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*qGirZ4FT3G51jIH_",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-07-25T11:06:01.000Z"
-    },
-    {
-      "id": "rss-379925a8d270",
-      "title": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
-      "description": "Friendly hobby machine or serious production tool? Here’s how to know which one is for you.",
-      "url": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
-      "image": "https://media.wired.com/photos/6a63d9e79c06320a6eaf7c7b/master/pass/Cricut-Explore-5-vs.-Siser-Romeo--Choosing-the-Right-Smart-Cutting-Machine.jpg",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-07-25T11:06:00.000Z"
-    },
-    {
-      "id": "rss-54c5ffa6b608",
-      "title": "Could Mount be final piece in Man Utd midfield jigsaw?",
-      "description": "Mason Mount has been outstanding alongside new arrival Andrey Santos for Manchester United in their first two pre-season games.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cpd7e8jw9qqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10e/live/84e71c50-87f2-11f1-b8ee-9b3c26ad07bb.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-25T11:01:53.000Z"
-    },
-    {
-      "id": "rss-3a985de43261",
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "description": "Museums are embracing data-driven curation and a shifting technology landscape.",
-      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748-1152x648.jpg",
-      "source": "Ars Technica",
-      "category": "technology",
-      "publishedAt": "2026-07-25T11:00:32.000Z"
-    },
-    {
-      "id": "rss-4e6ce332fb83",
-      "title": "The New Tactic Trump Thinks Will Rally Voters",
-      "description": "Three Opinion writers discuss whether the president’s Red Scare strategy will work.",
-      "url": "https://www.nytimes.com/2026/07/25/opinion/trump-iran-socialism-communism-dsa.html",
-      "image": "https://static01.nyt.com/images/2026/07/25/opinion/25opinions-roundtable-image/25opinions-roundtable-image-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-25T11:00:26.000Z"
-    },
-    {
-      "id": "rss-193af75b037b",
-      "title": "3 Clever Things You Can Do With an Old Amazon Kindle",
-      "description": "These e-readers are more useful in their old age than you might think.",
-      "url": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/",
-      "image": "https://media.wired.com/photos/6a54f054a11255754862914b/master/pass/OldKindle.jpg",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "id": "rss-17f1eab2e6e1",
-      "title": "Dinos with swords, making music with gnomes and other new indie games worth checking out",
-      "description": "Plus, email as turn-based combat (which is really just regular email).",
-      "url": "https://www.engadget.com/2222862/dinos-with-swords-making-music-gnomes-new-indie-games/",
-      "image": "https://www.engadget.com/img/gallery/dinos-with-swords-making-music-with-gnomes-and-other-new-indie-games-worth-checking-out/l-intro-1784922872.jpg",
-      "source": "Engadget",
-      "category": "technology",
-      "publishedAt": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "id": "rss-5031dad993ad",
-      "title": "The Messi Test and how the Spaniards messed with it: what the World Cup final taught me about the jobs AI can’t touch",
-      "description": "Where it truly mattered, humans decided the game.",
-      "url": "https://fortune.com/2026/07/25/world-cup-messi-test-spain-ai-jobs-disruption/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286815084-e1784927307997.jpg?w=2048",
-      "source": "Fortune",
-      "category": "business",
-      "publishedAt": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "id": "rss-e2529c3ab469",
-      "title": "How to watch 'Shark Week' 2026 — schedule, dates & episodes",
-      "description": "Here's how to watch \"Shark Week\" 2026 online from anywhere, including the dates, schedule and synopses for the seven-day extravaganza.",
-      "url": "https://www.livescience.com/animals/how-to-watch-shark-week-2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/3n84HqkRVp26CiWs8VVa74-1280-80.jpg",
-      "source": "Live Science",
-      "category": "science",
-      "publishedAt": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "id": "rss-0a577d6d85d3",
-      "title": "No, OpenAI's models didn't go 'rogue' when they broke into Hugging Face. Here's what really happened.",
-      "description": "Experts say the models didn't \"go rogue\" when they escaped a controlled cybersecurity test and hacked Hugging Face. Instead, they were pursuing the goal humans had given them in ways nobody anticipate",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/no-openais-model-didnt-go-rogue-when-it-hacked-into-huggingface-heres-what-really-happened",
-      "image": "https://cdn.mos.cms.futurecdn.net/ePXKwCLMNuwPvv4Aq3MavT-1280-80.png",
-      "source": "Live Science",
-      "category": "science",
-      "publishedAt": "2026-07-25T11:00:00.000Z"
-    },
-    {
-      "id": "rss-e06a26b6312f",
-      "title": "I Couldn’t Memorize the Maxillary Artery Branches — So I Turned Them Into a Road Trip",
-      "description": "A simple road trip mnemonic to master the three parts and branches of the maxillary artery.\nContinue reading on Medium »",
-      "url": "https://medium.com/@liyanaduna/i-couldnt-memorize-the-maxillary-artery-branches-so-i-turned-them-into-a-road-trip-0c182dfceb90?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/1722/1*WvfhhSF6nVWuGx4ANUBHLA.jpeg",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-07-25T10:58:48.000Z"
-    },
-    {
-      "id": "rss-9779c5b5ca9f",
-      "title": "Obama Presidential Center subcontractors file fresh payment claims totaling nearly $900K",
-      "description": "Three subcontractors claim nearly $900,000 in unpaid work on Home Court, the Obama Presidential Center's basketball facility hosting WNBA All-Star events.",
-      "url": "https://www.foxnews.com/politics/obama-presidential-center-subcontractors-file-fresh-payment-claims-totaling-nearly-900k",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/obama-center-worker.jpg?ve=1&tl=1",
-      "source": "Fox News Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-25T10:58:11.000Z"
-    },
-    {
-      "id": "rss-64d82f1774eb",
-      "title": "Big Tech accused of stonewalling European social media researchers",
-      "description": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
-      "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/10/getty-security-1152x648.jpg",
-      "source": "Ars Technica",
-      "category": "technology",
-      "publishedAt": "2026-07-25T10:45:32.000Z"
-    },
-    {
-      "id": "rss-4d6a42faf170",
-      "title": "Why Leatherology Makes Some of the Best Totes for Work (2026)",
-      "description": "I packed these Leatherology totes with laptops, chargers, and everything else my workday demands. Months later, they’re still the bags I keep reaching for.",
-      "url": "https://www.wired.com/story/leatherology-totes-for-carrying-tech/",
-      "image": "https://media.wired.com/photos/6a63cf1d723bcb28e61a3047/master/pass/These-Leather-Totes-Are-Surprisingly-Good-at-Carrying-Tech.jpg",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-07-25T10:38:00.000Z"
-    },
-    {
-      "id": "rss-26f6cfeb4a85",
-      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
-      "description": "Plus: Russian hackers are trying to steal US nuclear scientists’ emails, the State Department bans known scammers from entering the United States, and more.",
-      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
-      "image": "https://media.wired.com/photos/6a639d3adc5893971a3d0afd/master/pass/GettyImages-2278950606.jpg",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-07-25T10:30:00.000Z"
-    },
-    {
-      "id": "rss-c5f5d3cf2c6f",
-      "title": "Karl-Anthony Towns Knows the Knicks’ Win Was Bigger Than Basketball",
-      "description": "New York’s star center on playing for his mom, Patrick Ewing, generations of emotional fans — and himself.",
-      "url": "https://www.nytimes.com/2026/07/25/magazine/karl-anthony-towns-interview.html",
-      "image": "https://static01.nyt.com/images/2026/08/02/magazine/02mag-interview-towns-03/02mag-interview-towns-03-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-25T10:27:49.000Z"
-    },
-    {
-      "id": "rss-26f5333a0790",
-      "title": "Unhappy Tottenham players should leave - De Zerbi",
-      "description": "Tottenham Hotspur manager Roberto de Zerbi says players who are not \"proud and happy to stay\" at the club should leave.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdewlp710l0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/371f/live/ec62a970-880c-11f1-afbe-b9a38c21b1d6.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-25T10:26:41.000Z"
-    },
-    {
-      "id": "rss-da0140c51944",
-      "title": "Amazon accused of poaching HBO employees in Warner Bros. lawsuit",
-      "description": "Warner Bros. Discovery has sued Amazon for 'inducing' its employees to breach their contracts.",
-      "url": "https://www.engadget.com/2223135/amazon-accused-poaching-hbo-employees-warner-bros-lawsuit/",
-      "image": "https://www.engadget.com/img/gallery/amazon-accused-of-poaching-hbo-employees-in-warner-bros-lawsuit/l-intro-1784973887.jpg",
-      "source": "Engadget",
-      "category": "technology",
-      "publishedAt": "2026-07-25T10:08:37.000Z"
-    },
-    {
-      "id": "rss-1fbc0f0e2c8b",
-      "title": "From locker rooms to Congress: Jay Feely latest athlete seeking to take lessons in leadership to Capitol Hill",
-      "description": "Jay Feely explains how NFL pressure prepared him for Congress as he joins a long history of athletes like Scott Turner and Tommy Tuberville in politics.",
-      "url": "https://www.foxnews.com/politics/from-locker-rooms-congress-jay-feely-latest-athlete-seeking-take-lessons-leadership-capitol-hill",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/jay-feely-arizona-cardinals.jpg?ve=1&tl=1",
-      "source": "Fox News Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-25T10:00:59.000Z"
-    },
-    {
-      "id": "rss-cd3a35caa9d2",
-      "title": "Here's what you missed from Trump's first WHCA Dinner as president: 5 takeaways from his night with the press",
-      "description": "Trump roasted Robert F. Kennedy, Kaitlan Collins, and Bari Weiss while sharing rare warm words for journalists at the historic dinner event.",
-      "url": "https://www.foxnews.com/politics/heres-what-you-missed-from-trumps-first-whca-dinner-president-5-takeaways-from-his-night-press",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/trump-speaking-whca-dinner.jpg?ve=1&tl=1",
-      "source": "Fox News Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-25T10:00:38.000Z"
-    },
-    {
-      "id": "rss-d3f73a7efee5",
-      "title": "Mace breaks with Trump, questions whether Lindsey Graham's sister is 'qualified' for ballot",
-      "description": "Nancy Mace questions whether Darline Graham meets South Carolina ballot eligibility rules, citing new state laws on Republican primary voting.",
-      "url": "https://www.foxnews.com/politics/mace-breaks-trump-questions-whether-lindsey-grahams-sister-qualified-ballot",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/mace-trump-darline-graham-split.jpg?ve=1&tl=1",
-      "source": "Fox News Politics",
-      "category": "politics",
-      "publishedAt": "2026-07-25T10:00:16.000Z"
-    },
-    {
-      "id": "rss-a9e8c61e0a62",
-      "title": "Best Laptops (2026): My Top Recommendations After Testing Hundreds",
-      "description": "I’ve been reviewing laptops for over a decade, and here's my advice on how to find the right laptop for you.",
-      "url": "https://www.wired.com/story/best-laptops/",
-      "image": "https://media.wired.com/photos/69be039cf062c9cdcba42e33/master/pass/macbook-air-m5-03.JPG",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-07-25T10:00:00.000Z"
-    },
-    {
-      "id": "rss-03a59497fed3",
-      "title": "‘The Odyssey’ Was Made for Imax 70mm. Good Luck Watching It That Way",
-      "description": "Over the last several years, the Imax format has taken on a few different forms—but only a few dozen theaters are capable of screening it in its full glory.",
-      "url": "https://www.wired.com/story/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way/",
-      "image": "https://media.wired.com/photos/6a5fc180262e397baf375f6c/master/pass/GettyImages-2227996588.jpg",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-07-25T10:00:00.000Z"
-    },
-    {
-      "id": "rss-6699406d2574",
-      "title": "Apple @ Work: Apple TV proves to be more reliable than Android in new digital signage report",
-      "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary t",
-      "url": "https://9to5mac.com/2026/07/25/apple-tv-proves-to-be-more-reliable-than-android-in-new-digital-signage-report/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/07/apple-tv-4k-tvos-26.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "source": "9to5Mac",
-      "category": "technology",
-      "publishedAt": "2026-07-25T10:00:00.000Z"
-    },
-    {
-      "id": "rss-961cfef60d39",
-      "title": "NASA astronaut, 2 cosmonauts returning to Earth on July 26: Watch it live",
-      "description": "NASA astronaut Chris Williams and two Russian cosmonauts will return to Earth from the International Space Station early Sunday morning (July 26), and you can watch their homecoming live.",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
-      "image": "https://cdn.mos.cms.futurecdn.net/uwU5kfeFw5jbH5i938FtQe-1280-80.jpg",
-      "source": "Space.com",
-      "category": "science",
-      "publishedAt": "2026-07-25T10:00:00.000Z"
-    },
-    {
-      "id": "rss-d40dcec2c9fd",
-      "title": "Defense tech investors thought the war in Iran could make them millionaires. Instead, they faced a Wall Street bloodbath",
-      "description": "Firms like Northrop Grumman are struggling on the market despite record military spending. Investors are now watching Congress—and a new generation of startups.",
-      "url": "https://fortune.com/2026/07/25/defense-tech-investors-thought-the-war-in-iran-could-make-them-millionaires-instead-they-faced-a-wall-street-bloodbath/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2263711616-e1784832954938.jpg?w=2048",
-      "source": "Fortune",
-      "category": "business",
-      "publishedAt": "2026-07-25T09:54:00.000Z"
     }
   ]
 }
