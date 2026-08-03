@@ -1,7 +1,587 @@
 {
-  "lastUpdated": "2026-08-03T00:05:37.141Z",
-  "count": 6184,
+  "lastUpdated": "2026-08-03T04:06:15.929Z",
+  "count": 6201,
   "articles": [
+    {
+      "id": "rss-83da98be5bdf",
+      "title": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
+      "description": "To help prevent heat-related deaths, the French government has asked postal workers to check in on older people.",
+      "url": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30france-post-01-czbk/30france-post-01-czbk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-03T04:01:09.000Z"
+    },
+    {
+      "id": "rss-46a8f53f47e6",
+      "title": "‘Do You Think if I Had a Job I Would Have Gone?’",
+      "description": "Moroccan migrants described their despair at their economic future, explaining what propelled them across the border with Spain.",
+      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-ceuta-morocco-bjmf/03int-ceuta-morocco-bjmf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-03T04:01:06.000Z"
+    },
+    {
+      "id": "rss-fb1db38ec9d3",
+      "title": "‘Am I 68? 69?’ Irvine Welsh on growing old, getting clean, bashing out his new novel – and flirting with guns",
+      "description": "Three decades after he channelled his heroin addiction into the cult classic Trainspotting, the Scottish author has discovered the joys of yoga, breathwork and standing desks. But is he quite as ‘Zen’",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/03/irvine-welsh-trainspotting-new-novel-can-nothing-save-us",
+      "image": "https://i.guim.co.uk/img/media/3754027b7fad14620d36d9a73b0fab920c3c8b4d/26_1256_4372_3497/master/4372.jpg?width=140&quality=85&auto=format&fit=max&s=5aeb3662114cda6130654bac6ec21229",
+      "source": "The Guardian Health",
+      "category": "health",
+      "publishedAt": "2026-08-03T04:00:40.000Z"
+    },
+    {
+      "id": "rss-6ffb790a7f77",
+      "title": "How fitness, speed and position shape competition in expanding populations",
+      "description": "A study published in the Journal of Statistical Mechanics: Theory and Experiment (JSTAT), inspired by the behavior of bacterial colonies observed in previous experiments, uses mathematical models to d",
+      "url": "https://phys.org/news/2026-07-position-competition-populations.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacterial-colonies.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-03T04:00:02.000Z"
+    },
+    {
+      "id": "rss-61d96f2ce27e",
+      "title": "Dandruff: Its Causes and Treatment",
+      "description": "Have you ever brushed your hair only to notice tiny white flakes on your shoulders? Or found yourself constantly scratching your scalp…\nContinue reading on Medium »",
+      "url": "https://medium.com/@homoeo-amigo/dandruff-its-causes-and-treatment-333eb069e5f3?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*TgWH4AGzZNLbLzQLpcxX2w.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:58:59.000Z"
+    },
+    {
+      "id": "rss-b8f9cf8d2422",
+      "title": "Nobody Told Me Heartburn Could Do This To My Throat",
+      "description": "I Ignored My Heartburn For Years. Then I Almost Choked On Dinner.\nContinue reading on Medium »",
+      "url": "https://todaykoreanhealth.medium.com/nobody-told-me-heartburn-could-do-this-to-my-throat-b992638c9e3f?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*jWhBuxBqlNmxm4C_2MCkmQ@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:58:32.000Z"
+    },
+    {
+      "id": "rss-8d29f24e5714",
+      "title": "How Great Playgrounds Create Stronger Communities",
+      "description": "At Pacific Recreation Group, we believe every playground has the opportunity to inspire connection, creativity, and lifelong memories.\nContinue reading on Medium »",
+      "url": "https://medium.com/@pacificrecreationgroup/how-great-playgrounds-create-stronger-communities-7c19a94d965f?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1206/1*UShpjChcNBW94e_pyozTNA@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:58:14.000Z"
+    },
+    {
+      "id": "rss-05fbb24868b0",
+      "title": "Outside the Moscow restaurant where bomb killed three",
+      "description": "The BBC's Russia editor reports from Kudrinskaya Square, where the blast took place.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx8qp451lko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d9c/live/64155f20-8ed0-11f1-93cd-770ec532eabb.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T03:53:05.000Z"
+    },
+    {
+      "id": "rss-b7d0ae581014",
+      "title": "can Ayurveda cure everything?",
+      "description": "Responsible medicine doesn't promise any miracles.\nContinue reading on Medium »",
+      "url": "https://medium.com/@swarayu/can-ayurveda-cure-everything-c987458a0dfb?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*I2chn_QHjPMa9firepwN4A.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:48:27.000Z"
+    },
+    {
+      "id": "rss-f674724bc10b",
+      "title": "We All Let Someone Down In Life, Don’t Let It Be Yourself",
+      "description": "A friend once told me, “You can’t love everybody,” and she was right. Omg so right.\nContinue reading on Medium »",
+      "url": "https://medium.com/@dylancotterthomascotter/we-all-let-someone-down-in-life-dont-let-it-be-yourself-cd3dbf0cd299?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2048/1*SzbH8kAQkxYSY2KzTGEwbA.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:47:59.000Z"
+    },
+    {
+      "id": "rss-8ec68fa3ae23",
+      "title": "Exercise a medicine, if prescribed correctly...",
+      "description": "A Physiotherapist\nContinue reading on Medium »",
+      "url": "https://medium.com/@desirable_timberwolf_cat_732/exercise-a-medicine-if-prescribed-correctly-db5142a6aa2d?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1254/1*WhstcCf1ZWPZBH8pt97kfQ.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:42:58.000Z"
+    },
+    {
+      "id": "rss-2288fd8e754b",
+      "title": "Betty White, Seven of Nine and Rain Man Walk into this Bar…",
+      "description": "Actually Autistic. You can’t act us. Without being us… That’s just tourism on the cheap.\nContinue reading on ArtfullyAutistic »",
+      "url": "https://medium.com/artfullyautistic/betty-white-seven-of-nine-and-rain-man-walk-into-this-bar-9f34e270d7a4?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1456/0*VKuPStkDbV7OPw7C.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:33:45.000Z"
+    },
+    {
+      "id": "rss-d0f742c32421",
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac2b/live/2be8ca90-8eb4-11f1-a122-d789962f080e.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T03:32:21.000Z"
+    },
+    {
+      "id": "rss-14d7a8abadbc",
+      "title": "How to Practice Pranayama in 7pranayama App Better Than 99% of People",
+      "description": "This year, 7Pranayama celebrates its 10th anniversary — and what a journey it has been. We started this app not as a business venture but…\nContinue reading on Medium »",
+      "url": "https://7pranayama.medium.com/how-to-practice-pranayama-in-7pranayama-app-better-than-99-of-people-b4b9a63db521?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*3UkuWksvuNJRpLZNJow0Og.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:31:34.000Z"
+    },
+    {
+      "id": "rss-aa97c8d86bb4",
+      "title": "10 Things Two People Feel Around Each Other That Neither of Them Knows How to Name",
+      "description": "The feeling is real before the word for it exists. Most of the significant things that happen between two people arrive before language…\nContinue reading on Medium »",
+      "url": "https://medium.com/@aesspi/10-things-two-people-feel-around-each-other-that-neither-of-them-knows-how-to-name-df0f7e519794?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*xs-all4eSJOynGxs",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:31:01.000Z"
+    },
+    {
+      "id": "rss-2e820cb839cc",
+      "title": "The Architecture of Effortless Focus",
+      "description": "What Charles Darwin and modern neuroscience teach us about deep work.\nContinue reading on Medium »",
+      "url": "https://medium.com/@OpsovLife/the-architecture-of-effortless-focus-80a37c7abe09?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/600/0*I9tCZP0wtbERiv-0",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:31:01.000Z"
+    },
+    {
+      "id": "rss-f9b8a7bc02fb",
+      "title": "The Quiet Crisis of Adult Friendships",
+      "description": "Making friends as an adult has never been harder — and almost nobody talks about it.\nContinue reading on Medium »",
+      "url": "https://medium.com/@ayur_vaidhya/the-quiet-crisis-of-adult-friendships-6815abc0aa6b?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*fv0gbrsyEKdGyhoXYXJk8Q.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:31:01.000Z"
+    },
+    {
+      "id": "rss-7808c4bbb64f",
+      "title": "Why You Quit Right Before Success",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@MentalStrengthHub/why-you-quit-right-before-success-7d241d9ce203?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*OH8o3G7GgvhNtCZKSGhj9A.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:30:11.000Z"
+    },
+    {
+      "id": "rss-6054f73ff05d",
+      "title": "The MysticalOaks Daily Almanac for August 3, 2026",
+      "description": "The Courage to Become\nContinue reading on MysticalOaks »",
+      "url": "https://medium.com/mysticaloaks/the-mysticaloaks-daily-almanac-for-august-3-2026-fb3a157b6525?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1344/1*OhPbmj9ToDyoR-yqag8e-g.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:25:05.000Z"
+    },
+    {
+      "id": "rss-1c5c3f95254f",
+      "title": "What If the Life You’re Living Is Being Directed by Beliefs You Can’t See?",
+      "description": "Reconcile Your Unconscious Beliefs\nContinue reading on The Startup »",
+      "url": "https://medium.com/swlh/what-if-the-life-youre-living-is-being-directed-by-beliefs-you-can-t-see-abbd898e05da?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*VXHhh0OQ7MVaNBh7",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:24:46.000Z"
+    },
+    {
+      "id": "rss-cf4dcc1aa8b0",
+      "title": "The Longevity Gap: Why Living Longer Has Created a New Caregiving Crisis",
+      "description": "For most of human history, the challenge was living long enough.\nContinue reading on Medium »",
+      "url": "https://optimaljon.medium.com/the-longevity-gap-why-living-longer-has-created-a-new-caregiving-crisis-7cbe64d0defe?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1052/1*5qid1cfSedtrh968h4W0FQ.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-03T03:12:04.000Z"
+    },
+    {
+      "id": "rss-ae8e6641facf",
+      "title": "Founder vs CEO: What Changes When You Scale Your Business",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/business/founder-vs-ceo-what-changes-when-you-scale-your-business",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-31/wmd16bk0/Founder-vs-CEO-What-Changes-When-You-Scale-Your-Business-2.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-03T03:00:00.000Z"
+    },
+    {
+      "id": "rss-25705e62d615",
+      "title": "Fantasy Baseball Trade Deadline Tracker: Kevin Gausman dealt to Cubs; Luis Garcia, Freddy Peralta also on move",
+      "description": "Scott White and Chris Towers break down all the deadline moves as they happen",
+      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-trade-deadline-tracker-kevin-gausman-dealt-to-cubs-luis-garcia-freddy-peralta-also-on-move/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/06/30/a2d3d6b0-c0c4-4ebe-aad8-695b491b6f36/luis-garcia.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-03T02:57:53.000Z"
+    },
+    {
+      "id": "rss-b27d8057b98b",
+      "title": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
+      "description": "Firefighters were hopeful that improving weather conditions in Washington state could help efforts to contain the blaze, which officials described as the largest natural disaster in the history of Spo",
+      "url": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02nat-spokane-wildfires-1-zglf/02nat-spokane-wildfires-1-zglf-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-03T02:56:13.000Z"
+    },
+    {
+      "id": "rss-e6dbb448f4dc",
+      "title": "Long-Distance Marriage: 3 Shocking Outcomes That Will Change Your Relationship Forever",
+      "description": "Discover the three inevitable paths every long-distance marriage faces and how to navigate them successfully\nContinue reading on Medium »",
+      "url": "https://medium.com/@claire-moore/long-distance-marriage-3-shocking-outcomes-that-will-change-your-relationship-forever-8a2ac86ffb6a?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/600/0*88IBBEMC_h77zanF",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-03T02:56:01.000Z"
+    },
+    {
+      "id": "rss-831bb912f015",
+      "title": "Title\n7 Healthy Habits That Changed My Energy and Focus\nSubtitle\nSmall daily habits can create big…",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@tanjinaralabonna/title-7-healthy-habits-that-changed-my-energy-and-focus-subtitle-small-daily-habits-can-create-big-e5a7e55d7e5c?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/720/1*s3io-6v1v4F72xp0Xe_vYQ.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-03T02:54:45.000Z"
+    },
+    {
+      "id": "rss-06a4025dbdc0",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717b/live/62dcb0b0-8ed3-11f1-b2f6-e1f7eea93d58.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T02:43:06.000Z"
+    },
+    {
+      "id": "rss-5f9deeb2d7da",
+      "title": "So you missed out on Tarik Skubal: The best starting pitchers still available on the trade market",
+      "description": "Skubal is headed to the Dodgers and now the rest of the league will look elsewhere for rotation help",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-starting-pitchers-casey-mize-reid-detmers-clay-holmes-kevin-gasuman/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/03/28899f55-3a56-4358-a13c-c4e1fb1e6360/casey-mize-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-03T02:32:43.000Z"
+    },
+    {
+      "id": "rss-71d09f92fab2",
+      "title": "Why The Hardest-Working People You Know Are Getting Nowhere",
+      "description": "https://youtu.be/ZxAuvmUH8fY\\\nContinue reading on Medium »",
+      "url": "https://medium.com/@fitnancebro/why-the-hardest-working-people-you-know-are-getting-nowhere-42d21ec92c41?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*HuGjBsQb1WF5SpzZhrSvOw.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-03T02:31:50.000Z"
+    },
+    {
+      "id": "rss-e00a0484623a",
+      "title": "New Spider-Man film sees second-biggest ever global opening weekend",
+      "description": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
+      "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0d2/live/86e16b80-8ede-11f1-893f-93ecdb580a16.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T02:27:30.000Z"
+    },
+    {
+      "id": "rss-a5a9a053e6f7",
+      "title": "MacBook Air Experiencing 'Major' Shortage Despite $200 Price Increase",
+      "description": "Despite receiving a price increase in June, the MacBook Air is currently experiencing a \"major\" shortage, according to Bloomberg's Mark Gurman.\r\n\r\n\r\n\"Retail store sources say Apple is struggling to ke",
+      "url": "https://www.macrumors.com/2026/08/02/macbook-air-shortage-report/",
+      "image": "https://images.macrumors.com/article-new/2025/03/M4-MacBook-Air-13-and-15-inch-Feature.jpg",
+      "source": "MacRumors",
+      "category": "technology",
+      "publishedAt": "2026-08-03T02:12:10.000Z"
+    },
+    {
+      "id": "rss-0d1dab439a7e",
+      "title": "Heat health alerts in England as temperatures set to reach 34C",
+      "description": "Temperatures are expected to reach 34C in some areas of England.",
+      "url": "https://www.bbc.co.uk/weather/articles/c17199dy4yxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/147d/live/ada09660-8e70-11f1-b8ee-9b3c26ad07bb.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T02:06:27.000Z"
+    },
+    {
+      "id": "rss-0edb66b177f7",
+      "title": "Week 20 Fantasy Baseball Waiver Wire: Changes afoot as the deadline looms",
+      "description": "With the MLB trade deadline set to spark major roster shakeups, we highlight the top Week 20 waiver wire targets you need to add before your league mates do",
+      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/week-20-fantasy-baseball-waiver-wire/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/03/d2132460-2664-4d51-a244-04276c0560fe/clark.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-03T02:03:53.000Z"
+    },
+    {
+      "id": "rss-1e1b95e5c993",
+      "title": "Trailblazing former Republican Rep Kay Granger dies at 83: 'Broke barriers'",
+      "description": "Former Rep. Kay Granger, a trailblazing Texas Republican who served nearly three decades in Congress and became Fort Worth’s first female mayor, has died at 83.",
+      "url": "https://www.foxnews.com/politics/trailblazing-former-republican-rep-kay-granger-dies-83-broke-barriers",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/kay-granger-03.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-08-03T02:01:52.000Z"
+    },
+    {
+      "id": "rss-7ed164fdeabb",
+      "title": "House of the Dragon reveals the reason behind Fire & Blood’s most infamous betrayal",
+      "description": "Ormund Hightower's schemes know no bounds, as he sets the stage for perhaps the single biggest betrayal of the entire war.",
+      "url": "https://www.polygon.com/house-of-the-dragon-season-6-episode-7-ending-explained/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/ulf-tames-silverwing-and-rides-into-kingslanding-to-bait-aemond-hod-s2-episode-7-1-31-screenshot.png",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T02:00:22.000Z"
+    },
+    {
+      "id": "rss-5dbd157db584",
+      "title": "‘House of the Dragon’: Gayle Rankin on That ‘F — ed Up’ Aemond-Alys-Alicent Scene, ‘Unbearable’ Family Dinner and Dragon Egg Plans",
+      "description": "SPOILER ALERT: This article contains spoilers for Season 3, Episode 7 of “House of the Dragon,” now streaming on HBO Max. Gayle Rankin’s Alys Rivers has dealt with an Oedipus complex before during her",
+      "url": "https://variety.com/2026/tv/news/house-of-the-dragon-aemond-alys-rivers-alicent-sex-eggs-1236824981/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/House-of-the-Dragon-1.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-08-03T02:00:00.000Z"
+    },
+    {
+      "id": "rss-3a088165d0b9",
+      "title": "Kevin Gausman trade grades: Cubs get an A as they land impact starter from Blue Jays",
+      "description": "The reigning AL champs are moving the successful righty at the trade deadline, and Chicago certainly needs him",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/kevin-gausman-trade-grades-cubs-blue-jays/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/03/d9c83c04-e65a-4aa6-8b52-bc8b78f3dcec/gausman-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-03T01:59:20.000Z"
+    },
+    {
+      "id": "rss-ffe04eee0581",
+      "title": "What If Chronic Toxoplasmosis Could Be Eradicated?",
+      "description": "Get the full paper here -> DOI: https://doi.org/10.5281/zenodo.21765724\nContinue reading on Medium »",
+      "url": "https://medium.com/@ambitionmagician/what-if-chronic-toxoplasmosis-could-be-eradicated-aee1cc502983?source=rss------medicine-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*3bHzfPAZdhCYagm0AtfqTw.png",
+      "source": "Medium Medicine",
+      "category": "health",
+      "publishedAt": "2026-08-03T01:56:34.000Z"
+    },
+    {
+      "id": "rss-74aed3207758",
+      "title": "Marvel's Wolverine ESRB Rating Promises 'a Handful of Sequences' Featuring 'Exposed Buttocks'",
+      "description": "Marvel's Wolverine will have gore, intense violence, strong language, and at least a few scenes featuring \"a character's exposed buttocks,\" according to its Entertainment Software Rating Board (ESRB) ",
+      "url": "https://www.ign.com/articles/marvels-wolverine-esrb-rating-promises-a-handful-of-sequences-featuring-exposed-buttocks",
+      "image": "https://assets-prd.ignimgs.com/2026/06/02/wolverine-main-1780437427510.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T01:54:47.000Z"
+    },
+    {
+      "id": "rss-d7622a34b1f0",
+      "title": "Kevin Owens makes emotional surprise return at WWE SummerSlam after neck injury that nearly ended career",
+      "description": "Owens is on a collision course with CM Punk for the Undisputed WWE Championship after his surprise return at SummerSlam",
+      "url": "\n                                                https://www.cbssports.com/wwe/news/kevin-owens-return-wwe-summerslam-2026/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/02/42eff599-45fe-4c49-ba3a-414e17a16c6c/kevin-owens-wwe-summerslam-return-night-2-entrance-pro-wrestling-cbs-sports-aug-2-2026.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-03T01:33:52.000Z"
+    },
+    {
+      "id": "rss-6bf3478953bc",
+      "title": "MLB trade deadline tracker: Following every move of the 2026 deadline",
+      "description": "The 2026 trade deadline is set for Monday, Aug. 3, and the deals look like they could go right down to the last minute",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-tracker-2026/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/02/272e2612-6442-451d-bb64-334e69529ed3/peralta-getty-4.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-03T01:27:59.000Z"
+    },
+    {
+      "id": "rss-80cede8a640f",
+      "title": "Almost £200,000 of fuel stolen from UK forecourts every day since Iran war began",
+      "description": "Incidents of fuel being taken without payment have risen by a fifth in five months, according to industry analysis.",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mrrlkjppo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42db/live/1194f890-8e8b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T01:04:23.000Z"
+    },
+    {
+      "id": "rss-5b5d5208de7b",
+      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
+      "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
+      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf8/live/a535ae60-8ecb-11f1-b8ee-9b3c26ad07bb.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T01:03:31.000Z"
+    },
+    {
+      "id": "rss-c3c851515d4d",
+      "title": "At least five Al Fayed survivors confirmed as modern slavery victims",
+      "description": "The rulings include women trafficked internationally and within the UK, and one case found to have taken place entirely within Harrods.",
+      "url": "https://www.bbc.co.uk/news/articles/c151k0k4eqgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5555/live/918eec80-8eaf-11f1-9745-d1e5ae126085.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T01:02:10.000Z"
+    },
+    {
+      "id": "rss-689dbac5c447",
+      "title": "Spider-Man: Brand New Day may have just set up a major Avengers: Doomsday threat",
+      "description": "Peter Parker's created tech to control his own mutations that could be used by the Sentinels to subdue the X-Men.",
+      "url": "https://www.polygon.com/spider-man-brand-new-day-sentinels-avengers-doomsday-explained/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/mcdspma_sp130_h.JPG",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T01:00:12.000Z"
+    },
+    {
+      "id": "rss-fc2ebf6467f5",
+      "title": "What 9 Years in Business Taught Me: Movement Is the Most Underrated Productivity Tool",
+      "description": "After nine years of building a wellness company, I've realized the biggest driver of my team's output isn't a tool, a policy or a hire — it's something most leaders walk past every day.",
+      "url": "https://www.entrepreneur.com/building-a-business/what-9-years-in-business-taught-me-movement-is-the-most-underrated-productivity-tool",
+      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/underrated-productivity-tool-0726_g2150600718.jpg",
+      "source": "Entrepreneur",
+      "category": "business",
+      "publishedAt": "2026-08-03T01:00:00.000Z"
+    },
+    {
+      "id": "rss-31a7266812ce",
+      "title": "What are the 'luteal uglies'? And how they're affecting women",
+      "description": "More women than ever are talking about the luteal phase on social media, but how does it actually affect you?",
+      "url": "https://www.bbc.co.uk/news/articles/cy0jk6wjkn0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3784/live/e4105750-8ced-11f1-a573-93159e2b55da.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T00:57:22.000Z"
+    },
+    {
+      "id": "rss-bbf500400b8a",
+      "title": "The Papers: Police warn on early release and 'le rip-off'",
+      "description": "A range of stories feature on Monday's front pages, with Andy Burnham's vow to cut the number of people arriving in the UK on small boats a focus for some.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywj4z65xwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd0/live/e6f595d0-8ec2-11f1-b2ab-0dd01740f9f6.png",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T00:47:23.000Z"
+    },
+    {
+      "id": "rss-cddd50c85afc",
+      "title": "Gunman Acted Alone in Idaho In-N-Out Attack, Authorities Say",
+      "description": "An off-duty state trooper and private citizen returned fire and are credited with slowing the 24-year-old shooter.",
+      "url": "https://www.nytimes.com/2026/08/02/us/gunman-acted-alone-in-idaho-in-n-out-attack-authorities-say.html",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02nat-idaho-victims-gbht/02nat-idaho-victims-gbht-mediumSquareAt3X-v2.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-03T00:32:27.000Z"
+    },
+    {
+      "id": "rss-1e5003a11130",
+      "title": "WNBA trade deadline winners and losers: Lynx stay on top by staying pat, Mercury and Plum liven playoff race",
+      "description": "Even though the trade deadline was quiet, it still had ripple effects",
+      "url": "\n                                                https://www.cbssports.com/wnba/news/wnba-trade-deadline-winners-and-losers-lynx-rolling-plum-trade-playoffs/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/03/948189f3-9e23-410d-a0d7-cdaadf82f4db/minnesota-lynx-celebrate-trade-deadline.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-03T00:31:20.000Z"
+    },
+    {
+      "id": "rss-1a425615da21",
+      "title": "Rideshare launches boost regional GDP and flexible jobs, study finds",
+      "description": "Ride-hailing has become a routine part of urban life in the United States, but its broader economic impacts have been difficult to measure. As Uber and Lyft expanded across hundreds of cities over the",
+      "url": "https://phys.org/news/2026-07-rideshare-boost-regional-gdp-flexible.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uber.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-03T00:30:04.000Z"
+    },
+    {
+      "id": "rss-7fc35dedb109",
+      "title": "U.S. and Japan Coordinated to Help Stabilize the Yen",
+      "description": "U.S. and Japanese officials confirmed on Sunday that the Treasury Department had moved last week to help the currency.",
+      "url": "https://www.nytimes.com/2026/08/02/business/us-japan-yen.html",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02biz-us-yen-vpgh/02biz-us-yen-vpgh-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-03T00:23:27.000Z"
+    },
+    {
+      "id": "rss-719092e7be5e",
+      "title": "Wonder Man Showrunner Confirms 'Contracts Were Signed, Schedules Were Cleared' Before Marvel Canceled Season 2",
+      "description": "Wonder Man showrunner Andrew Guest sounded off on Marvel's decision to cancel Season 2, confirming that \"contracts were signed\" and \"schedules were cleared\" before its abrupt demise.",
+      "url": "https://www.ign.com/articles/wonder-man-showrunner-confirms-contracts-were-signed-schedules-were-cleared-before-marvel-canceled-season-2",
+      "image": "https://assets-prd.ignimgs.com/2025/10/11/wonderman-vcms-thumbs-1760207102445.jpg",
+      "source": "IGN",
+      "category": "gaming",
+      "publishedAt": "2026-08-03T00:20:22.000Z"
+    },
+    {
+      "id": "rss-16adde09ddb0",
+      "title": "New Round of Trump Threats and Pullbacks Raises Uncertainty in Mideast",
+      "description": "Analysts and lawmakers are trying to divine whether Mr. Trump’s latest announcement means negotiations with Iran will truly get underway Monday or if the president is just working through unappealing ",
+      "url": "https://www.nytimes.com/2026/08/02/us/politics/trump-iran-negotiations.html",
+      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02DC-TRUMP-lpfg/02DC-TRUMP-lpfg-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-03T00:15:32.000Z"
+    },
+    {
+      "id": "rss-6bd0814c7358",
+      "title": "‘Jimmy’ Review: Woozily Seductive Mood Piece Wanders Europe in Pursuit of James Baldwin’s Spirit",
+      "description": "“If not me, who?” said actor Billy Porter in a 2024 Guardian interview, explaining the rationale for his plan to direct and star in a biopic of Black queer author and activist James Baldwin. “Who’s go",
+      "url": "https://variety.com/2026/film/reviews/jimmy-review-1236826059/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Yashaddai-Owens-Jimmy2.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-08-03T00:13:33.000Z"
+    },
+    {
+      "id": "rss-178660a29334",
+      "title": "Benches clear in Guardians vs. Diamondbacks game after bunt attempt during perfect game bid",
+      "description": "Baseball's unwritten rules were apparently broken as a few Guardians took exception to Tim Tawa's bunt attempt",
+      "url": "\n                                                https://www.cbssports.com/mlb/news/benches-clear-guardians-diamondbacks-bunt-perfect-game/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/03/eda95dd1-3c70-43cc-9d45-206bfcfe5640/guardians-diamondbacks-getty.png",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-03T00:12:15.000Z"
+    },
+    {
+      "id": "rss-d5528c5bb60a",
+      "title": "Setelah Belasungkawa, Lalu apa?",
+      "description": "Sebuah pertanyaan yang merupakan ruang yang luas untuk berpikir. Lagipula, bagaimana bisa, belum saja 2026 menggenapkan ke-12 bulannya…\nContinue reading on Medium »",
+      "url": "https://medium.com/@hi.aaliyazahrah/setelah-belasungkawa-lalu-apa-3a72338250fe?source=rss------medicine-5",
+      "image": "https://cdn-images-1.medium.com/max/958/1*D8wLRwADz9dyZ1BQFAxWXQ.jpeg",
+      "source": "Medium Medicine",
+      "category": "health",
+      "publishedAt": "2026-08-03T00:11:26.000Z"
+    },
+    {
+      "id": "rss-b775f5a72903",
+      "title": "Trump suggests new talks with Iran to begin on Monday",
+      "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13fa/live/ad119c30-8ec5-11f1-942d-9772a4b2ac54.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-03T00:11:18.000Z"
+    },
     {
       "id": "rss-b13d1a647daa",
       "title": "Have You Competed in These Geriatric Olympic Events?",
@@ -20,7 +600,7 @@
       "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02DC-CONG-MILLER1-pwtj/02DC-CONG-MILLER1-pwtj-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-08-02T23:55:47.000Z"
+      "publishedAt": "2026-08-02T23:55:48.000Z"
     },
     {
       "id": "rss-435865b49106",
@@ -80,7 +660,7 @@
       "image": "https://static01.nyt.com/images/2026/08/02/us/02nat-idaho-wwk1/02nat-idaho-wwk1-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-08-02T23:41:22.000Z"
+      "publishedAt": "2026-08-02T23:41:23.000Z"
     },
     {
       "id": "rss-58e031e27805",
@@ -91,16 +671,6 @@
       "source": "Medium Fitness",
       "category": "health",
       "publishedAt": "2026-08-02T23:39:07.000Z"
-    },
-    {
-      "id": "rss-b27d8057b98b",
-      "title": "Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate",
-      "description": "Firefighters were hopeful that improving weather conditions in Washington state could help efforts to contain the blaze, which officials described as the largest natural disaster in the history of Spo",
-      "url": "https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html",
-      "image": "https://static01.nyt.com/images/2026/08/02/multimedia/02nat-spokane-wildfires-1-zglf/02nat-spokane-wildfires-1-zglf-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-02T23:32:39.000Z"
     },
     {
       "id": "rss-5cfb68ec14e4",
@@ -197,7 +767,7 @@
       "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
       "description": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
       "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20eb/live/f8bc6960-8eb8-11f1-a782-577ce30c5eae.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg",
       "source": "BBC News",
       "category": "trending",
       "publishedAt": "2026-08-02T23:15:14.000Z"
@@ -211,16 +781,6 @@
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-08-02T23:01:43.000Z"
-    },
-    {
-      "id": "rss-d7622a34b1f0",
-      "title": "Kevin Owens makes emotional surprise return at WWE SummerSlam after neck injury that nearly ended career",
-      "description": "Owens is on a collision course with CM Punk for the Undisputed WWE Championship after his surprise return at SummerSlam",
-      "url": "\n                                                https://www.cbssports.com/wwe/news/kevin-owens-return-wwe-summerslam-2026/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/08/02/42eff599-45fe-4c49-ba3a-414e17a16c6c/kevin-owens-wwe-summerslam-return-night-2-entrance-pro-wrestling-cbs-sports-aug-2-2026.png",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-02T23:01:13.000Z"
     },
     {
       "id": "rss-7c424871f943",
@@ -473,16 +1033,6 @@
       "publishedAt": "2026-08-02T21:56:02.000Z"
     },
     {
-      "id": "rss-6bf3478953bc",
-      "title": "MLB trade deadline tracker: Following every move of the 2026 deadline",
-      "description": "The 2026 trade deadline is set for Monday, Aug. 3, and the deals look like they could go right down to the last minute",
-      "url": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-tracker-2026/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/08/02/272e2612-6442-451d-bb64-334e69529ed3/peralta-getty-4.png",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-02T21:55:51.000Z"
-    },
-    {
       "id": "rss-30d5db64b527",
       "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
       "description": "Two minutes and thirty seconds into the title track of Rachika Nayar's Heaven Come Crashing, an absolutely massive drum and bass beat drops. As a fan of Nayar's debut record Our Hands Against The Dusk",
@@ -625,7 +1175,7 @@
     {
       "id": "rss-12707fc20969",
       "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
-      "description": "The prime minister says enforcement is increased but there also need to be more safe routes into the UK.",
+      "description": "The PM says enforcement is being increased but there also need to be more safe routes into the UK.",
       "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f40/live/437e3850-8ebb-11f1-8ef4-9df8a1651b2c.jpg",
       "source": "BBC News",
@@ -761,16 +1311,6 @@
       "source": "Phys.org",
       "category": "science",
       "publishedAt": "2026-08-02T20:40:01.000Z"
-    },
-    {
-      "id": "rss-5b5d5208de7b",
-      "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
-      "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
-      "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf8/live/a535ae60-8ecb-11f1-b8ee-9b3c26ad07bb.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-08-02T20:36:37.000Z"
     },
     {
       "id": "rss-550743a89b62",
@@ -1483,16 +2023,6 @@
       "publishedAt": "2026-08-02T18:26:59.000Z"
     },
     {
-      "id": "rss-5f9deeb2d7da",
-      "title": "So you missed out on Tarik Skubal: The best starting pitchers still available on the trade market",
-      "description": "Skubal is headed to the Dodgers and now the rest of the league will look elsewhere for rotation help",
-      "url": "\n                                                https://www.cbssports.com/mlb/news/mlb-trade-deadline-starting-pitchers-casey-mize-reid-detmers-clay-holmes-kevin-gasuman/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/08/02/250e310d-7ca2-494d-ae1d-37cd09d51abc/detmers-getty-1.png",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-02T18:21:00.000Z"
-    },
-    {
       "id": "rss-fefc5bea7726",
       "title": "Sen. Bernie Moreno says Rep. Max Miller shouldn’t serve in the House, calling former son-in-law a ‘danger to my daughter’ and granddaughter",
       "description": "Emily Moreno has said that Miller scalded, hit and threatened her while they were married. Miller denied those allegations.",
@@ -1837,7 +2367,7 @@
       "title": "‘Spider-Man: Brand New Day’ Obliterates Expectations With $927 Million Global Debut",
       "description": "All hail Peter Parker. Sony and Marvel’s web-slinging adventure “Spider-Man: Brand New Day” climbed to $927 million globally, a mind-blowing, jaw-dropping and totally epic opening weekend haul. Few fi",
       "url": "https://variety.com/2026/film/box-office/spider-man-brand-new-day-global-debut-nears-1-billion-1236825975/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP138-e1785154645459.jpg",
+      "image": "https://variety.com/wp-content/uploads/2026/07/MCDSPMA_SP128.jpg",
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-08-02T16:46:52.000Z"
@@ -3389,7 +3919,7 @@
       "url": "https://www.nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html",
       "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27ST-NICOLE-LEPERA-01-tzwk/27ST-NICOLE-LEPERA-01-tzwk-mediumSquareAt3X.jpg",
       "source": "New York Times",
-      "category": "trending",
+      "category": "health",
       "publishedAt": "2026-08-02T12:16:37.000Z"
     },
     {
@@ -61481,366 +62011,6 @@
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-07-27T04:09:36.000Z"
-    },
-    {
-      "id": "rss-f882c86e4d77",
-      "title": "Iran War Forces Energy Buyers to ‘Unshackle’ From Global Markets",
-      "description": "Developing Asian nations, scarred by Middle East supply shocks, are working to scale back their reliance on imported fuels, including liquefied natural gas.",
-      "url": "https://www.nytimes.com/2026/07/27/business/natural-gas-lng-asia-exposure.html",
-      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/Biz-LNG-Future-01-lvfw/Biz-LNG-Future-01-lvfw-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-07-27T04:01:10.000Z"
-    },
-    {
-      "id": "rss-684937199fc5",
-      "title": "Saber-toothed cats' spinal tumors suggest inbred species struggled to survive",
-      "description": "The fossilized spines of saber-toothed cats in the La Brea Tar Pits reveal evidence of an unexpectedly high prevalence of rare spinal nerve tumors, suggesting that the species became inbred just befor",
-      "url": "https://phys.org/news/2026-07-saber-toothed-cats-spinal-tumors.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/saber-toothed-cats-spi.jpg",
-      "source": "Phys.org",
-      "category": "science",
-      "publishedAt": "2026-07-27T04:00:01.000Z"
-    },
-    {
-      "id": "rss-40772fa51b10",
-      "title": "Emmy Rossum Crime Drama ‘Furious’ Elevates Trauma Tropes Through Strong Performances: TV Review",
-      "description": "The Hulu crime drama “Furious” may be (loosely) inspired by the 1987 thriller “Black Widow,” but the series has several other, and frankly stronger, influences at work. After all, in swapping out a se",
-      "url": "https://variety.com/2026/tv/reviews/furious-review-emmy-rossum-hulu-1236820524/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/179059_0597_V1.jpg",
-      "source": "Variety",
-      "category": "entertainment",
-      "publishedAt": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "id": "rss-4ff909e39807",
-      "title": "Spines of saber-toothed cats tell a tale of the doomed species",
-      "description": "Remains pulled from the La Brea Tar Pits revealed deformed vertebrae and rare tumors, possible signs of inbreeding among now-extinct saber-toothed cats.",
-      "url": "https://www.sciencenews.org/article/spine-saber-toothed-cat-tumor-extinct",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/07/072326_JB_saber-toothed-tumors_main.jpg?w=800",
-      "source": "Science News",
-      "category": "science",
-      "publishedAt": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "id": "rss-6caf09b2f9d8",
-      "title": "Best Programming Languages for Database Administrators to Master",
-      "description": "",
-      "url": "https://www.analyticsinsight.net/programming/best-programming-languages-for-database-administrators-to-master",
-      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/a4103u7g/Best-Programming-Languages-for-Database-Administrators-to-Master.jpg",
-      "source": "Analytics Insight",
-      "category": "ai",
-      "publishedAt": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "id": "rss-dcf4c020001d",
-      "title": "Life Isn’t About Avoiding Challenges",
-      "description": "It’s about becoming someone who learns, grows, and keeps moving forward.\nContinue reading on Medium »",
-      "url": "https://medium.com/@mkymf/life-isnt-about-avoiding-challenges-c2a13db90e35?source=rss------health-5",
-      "image": "https://cdn-images-1.medium.com/max/1320/1*3g_Yp8UrUmHumq3ZD2T1uw@2x.jpeg",
-      "source": "Medium Health",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:45:41.000Z"
-    },
-    {
-      "id": "rss-35c02da2d4cc",
-      "title": "Want to Fix Your Achy Joints? Look Inside Your Gut.",
-      "description": "The surprising link between chronic anaemia, blood flow, and joint repair.\nContinue reading on Integrative Wellness Journal (IWJ) »",
-      "url": "https://medium.com/integrative-wellness-journal-iwj/want-to-fix-your-achy-joints-look-inside-your-gut-3b4cc71bb176?source=rss------health-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*AWQ9RR2W-eXwYJdC",
-      "source": "Medium Health",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:33:18.000Z"
-    },
-    {
-      "id": "rss-32c244679ab3",
-      "title": "Your Brain Was Never Meant To Work Like This",
-      "description": "Stop fighting the wave\nContinue reading on ILLUMINATION »",
-      "url": "https://medium.com/illumination/your-brain-was-never-meant-to-work-like-this-e7989e35c402?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*25aHAAA7RtdX_0iS",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:32:03.000Z"
-    },
-    {
-      "id": "rss-25f9e1bab6a6",
-      "title": "10 Signs Someone Has Left a Permanent Mark on How You Love",
-      "description": "Some people change you temporarily. The relationship ends and you return, more or less, to who you were before it. Some people change you…\nContinue reading on Medium »",
-      "url": "https://medium.com/@aesspi/10-signs-someone-has-left-a-permanent-mark-on-how-you-love-3b7e30faa337?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*5lsmaZjWA6OEfEsB",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:31:01.000Z"
-    },
-    {
-      "id": "rss-0d4a92ca1f7b",
-      "title": "The Myth of the Harder Grind",
-      "description": "How ancient navigators and modern neuroscience reveal the secret to true momentum.\nContinue reading on Medium »",
-      "url": "https://medium.com/@OpsovLife/the-myth-of-the-harder-grind-3bff3f527fcd?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/768/1*5TUUegnQRjGl-waKfU6YjA.jpeg",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:31:01.000Z"
-    },
-    {
-      "id": "rss-c75345b98382",
-      "title": "Social Media and Identity Crisis: Why We Lost Ourselves to the Feed",
-      "description": "And that's exactly why quitting social media almost didn't save me.\n\nContinue reading on ILLUMINATION »",
-      "url": "https://medium.com/illumination/social-media-and-identity-crisis-why-we-lost-ourselves-to-the-feed-1b3d890ef3ab?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*VFtC18C7Ua2L8Vsyww1DQg.jpeg",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:30:56.000Z"
-    },
-    {
-      "id": "rss-c4ed2a6eeaa1",
-      "title": "Olivia’s Journey Through Midlife: 10 Wellness Lessons Every Woman Can Learn",
-      "description": "When Olivia celebrated her 40th birthday, she realized her body was changing in ways she hadn’t expected. Instead of feeling discouraged…\nContinue reading on Medium »",
-      "url": "https://medium.com/@biby40pin/olivias-journey-through-midlife-10-wellness-lessons-every-woman-can-learn-b4cc2929e405?source=rss------health-5",
-      "image": "https://cdn-images-1.medium.com/max/1024/1*axk95oNoIVoMA3Ddru3C3A.png",
-      "source": "Medium Health",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:27:34.000Z"
-    },
-    {
-      "id": "rss-d6375c044a1f",
-      "title": "Why Everyone Suddenly Cares About Paraxanthine (And What It Means for Your 2 PM Crash)",
-      "description": "Disclosure: This article contains affiliate links. If you purchase through them, I may earn a commission at no extra cost to you.\nContinue reading on Medium »",
-      "url": "https://medium.com/@arslanalyhatmi/why-everyone-suddenly-cares-about-paraxanthine-and-what-it-means-for-your-2-pm-crash-9ce2149da770?source=rss------health-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*GOQgi3GM4haWGpfxkrD49Q.png",
-      "source": "Medium Health",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:26:56.000Z"
-    },
-    {
-      "id": "rss-8c721dd1c6a2",
-      "title": "The Childhood I Buried Kept Growing Up With Me.",
-      "description": "Some wounds become scars. Others become personalities.\nContinue reading on Medium »",
-      "url": "https://afterthecommaa.medium.com/the-childhood-i-buried-kept-growing-up-with-me-2bba37f1201f?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/736/1*d6txUoRPpGt0elY9xVdCAg.jpeg",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:22:40.000Z"
-    },
-    {
-      "id": "rss-7a17400ae940",
-      "title": "Nobody Asked If I Was Okay. They Just Needed Me to Survive.",
-      "description": "There is no funeral for a stolen childhood. It disappears quietly, and everyone congratulates the child for growing up so fast.\nContinue reading on Medium »",
-      "url": "https://afterthecommaa.medium.com/nobody-asked-if-i-was-okay-they-just-needed-me-to-survive-e2b798e585b8?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/736/1*XzK1dov1gGIFH9i759jhfw.jpeg",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:20:46.000Z"
-    },
-    {
-      "id": "rss-e0099ed000f0",
-      "title": "ViriFlow Reviews: The Secret Science Behind This Prostate Healing Dropper!",
-      "description": "For aging guys who want to preserve their urinary health and maintain optimal bladder function, dealing with frequent late night trips to…\nContinue reading on Medium »",
-      "url": "https://medium.com/@lusjiu/viriflow-reviews-the-secret-science-behind-this-prostate-healing-dropper-eb127a108f7c?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/800/1*Z-TFP3EOnERgA08V6GMQow.jpeg",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:19:32.000Z"
-    },
-    {
-      "id": "rss-2c7da5bd2028",
-      "title": "If You Took Seneca Seriously for 30 Days, You’d Be Furious at Yourself",
-      "description": "On Day 19, I realised something that made me sick to my stomach.\nContinue reading on Medium »",
-      "url": "https://medium.com/@eyluldemir/if-you-took-seneca-seriously-for-30-days-youd-be-furious-at-yourself-22fdb0cda841?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/738/1*VahJifs7FPjpPP2278CeIA.jpeg",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:18:09.000Z"
-    },
-    {
-      "id": "rss-ef1017be35e3",
-      "title": "Can Doctors get Angry?",
-      "description": "Continue reading on Medium »",
-      "url": "https://medium.com/@swarayu/can-doctors-get-angry-c077f67dd577?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/1122/1*L-GBdDczE7gyt8TpNnNJwQ.png",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:06:56.000Z"
-    },
-    {
-      "id": "rss-020c65143423",
-      "title": "Patient Feedback System: Turn Every Patient Visit into an Opportunity to Improve",
-      "description": "Patient satisfaction plays a vital role in the success of any clinic or hospital. Yet many healthcare providers rely on occasional verbal…\nContinue reading on Medium »",
-      "url": "https://medium.com/@sarvabook/patient-feedback-system-turn-every-patient-visit-into-an-opportunity-to-improve-533d6d6ff457?source=rss------health-5",
-      "image": "https://cdn-images-1.medium.com/max/1254/1*2yqjzGubmQiloU57XVhGyw.png",
-      "source": "Medium Health",
-      "category": "health",
-      "publishedAt": "2026-07-27T03:00:26.000Z"
-    },
-    {
-      "id": "rss-f0077bf6e17a",
-      "title": "Rick and Morty's season 9 finale had to be that brutal, showrunners say",
-      "description": "The episode explores the dysfunctional dynamic at the core of the series and how the title characters have changed over the course of 9 seasons.",
-      "url": "https://www.polygon.com/rick-and-morty-season-9-finale-interview/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/ram-s9-still-3.jpg",
-      "source": "Polygon",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T03:00:12.000Z"
-    },
-    {
-      "id": "rss-e5aa72ca0efd",
-      "title": "How OYO Uses AI for Dynamic Pricing and Hotel Operations",
-      "description": "",
-      "url": "https://www.analyticsinsight.net/artificial-intelligence/how-oyo-uses-ai-for-dynamic-pricing-and-hotel-operations",
-      "image": "https://media.assettype.com/analyticsinsight/2026-07-24/arr58gai/How-OYO-Uses-AI-for-Dynamic-Pricing-and-Hotel-Operations.jpg",
-      "source": "Analytics Insight",
-      "category": "ai",
-      "publishedAt": "2026-07-27T03:00:00.000Z"
-    },
-    {
-      "id": "rss-7556d8e6250a",
-      "title": "The 1200-Calorie Trap: Why Women Need to Stop Starving Their Metabolism",
-      "description": "How a universal dieting myth is breaking down female physiology, and what it actually takes to fuel your body for sustainable energy.\nContinue reading on Medium »",
-      "url": "https://medium.com/@indahayulestari0908/the-1200-calorie-trap-why-women-need-to-stop-starving-their-metabolism-a2bad093a62b?source=rss------health-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*tq5M7HQaMd76FEBN",
-      "source": "Medium Health",
-      "category": "health",
-      "publishedAt": "2026-07-27T02:51:35.000Z"
-    },
-    {
-      "id": "rss-dd7927d111b0",
-      "title": "Fantasy Baseball Week 19 Preview: Two-start pitcher rankings feature Max Fried, Jake Bennett",
-      "description": "Here's how this week's two-start slate stacks up",
-      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-19-preview-two-start-pitcher-rankings-feature-fried-bennett/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/d4acc2f7-d2bb-4267-8005-399c4d7b8ecf/jake-bennett.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-27T02:44:48.000Z"
-    },
-    {
-      "id": "rss-49a563bfe45a",
-      "title": "Fantasy Baseball Week 19 Preview: Top 10 sleeper hitters highlight Ty France, Nick Gonzales",
-      "description": "Best matchups include the Yankees, Royals and Giants",
-      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-19-preview-top-10-sleeper-hitters-highlight-ty-france-nick-gonzales/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/58961f1e-7b1b-4b2d-9d43-4aae8ef3d276/ty-france.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-27T02:44:10.000Z"
-    },
-    {
-      "id": "rss-b4a6b5586679",
-      "title": "Fantasy Baseball Week 19 Preview: Top 10 sleeper pitchers include Peter Lambert, Shane Drohan",
-      "description": "You can find some good pitchers on the waiver wire still if you're willing to gamble on workload",
-      "url": "\n                                                https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-week-19-sleeper-pitchers-include-peter-lambert-shane-drohan/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/07/24/3d7067dd-c6ea-4e24-8b30-ac708eb073ba/peter-lambert.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-07-27T02:25:13.000Z"
-    },
-    {
-      "id": "rss-fa04adbcd4d4",
-      "title": "The Right Equipment at the Right Time",
-      "description": "A few thoughts on the necessity of training equipment and why people should grow into their gear — not the other way around\nContinue reading on Runner's Life »",
-      "url": "https://medium.com/runners-life/the-right-equipment-at-the-right-time-f315c2e3c24a?source=rss------fitness-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*BniDLH1O34tBSwwfnG_kIg.png",
-      "source": "Medium Fitness",
-      "category": "health",
-      "publishedAt": "2026-07-27T02:06:33.000Z"
-    },
-    {
-      "id": "rss-b14e12f6bb7a",
-      "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
-      "description": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate.",
-      "url": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2e4/live/a5e80750-894d-11f1-b8ee-9b3c26ad07bb.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-07-27T02:04:10.000Z"
-    },
-    {
-      "id": "rss-48c1926afee4",
-      "title": "House of the Dragon season 3 episode 6 ending explained: Is [spoilers] dead?",
-      "description": "House of the Dragon season 3 episode 6 leaves one key character's fate uncertain, but Fire & Blood offers some clarity about what's really going on.",
-      "url": "https://www.polygon.com/house-of-the-dragon-season-3-episode-6-ending-corlys-velaryon-explained/",
-      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/07/emma-d-arcy-_1.jpg",
-      "source": "Polygon",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T02:00:22.000Z"
-    },
-    {
-      "id": "rss-75723f044bb3",
-      "title": "‘House of the Dragon’ Actor Benjamin Evan Ainsworth on ‘Absurdity’ of Assassination Attempt, Daeron’s Growing Power and if Ormund Is Dyeing the Kid’s Hair",
-      "description": "SPOILER ALERT: This article contains spoilers for Season 3, Episode 3 of “House of the Dragon,” now streaming on HBO Max. Daeron Targaryen (Benjamin Evan Ainsworth) is growing up: On this week’s episo",
-      "url": "https://variety.com/2026/tv/features/house-of-the-dragon-daeron-assassination-attempt-ormund-1236820311/",
-      "image": "https://variety.com/wp-content/uploads/2026/07/House-of-the-Dragon-9.jpg",
-      "source": "Variety",
-      "category": "entertainment",
-      "publishedAt": "2026-07-27T02:00:00.000Z"
-    },
-    {
-      "id": "rss-a5b436d321d0",
-      "title": "Marvel Reveals First Clip of Sadie Sink in Spider-Man: Brand New Day, But Fans Aren't Sure What She's Trying to Say in It",
-      "description": "Marvel has revealed a very, very short clip featuring Sadie Sink in Spider-Man: Brand New Day, and fans are doing their best to piece together what her mystery character is saying in it.",
-      "url": "https://www.ign.com/articles/marvel-reveals-first-clip-of-sadie-sink-in-spider-man-brand-new-day-but-fans-arent-sure-what-shes-trying-to-say-in-it",
-      "image": "https://assets-prd.ignimgs.com/2026/07/27/sadie-sink-spider-man-1785115153005.png",
-      "source": "IGN",
-      "category": "gaming",
-      "publishedAt": "2026-07-27T01:27:32.000Z"
-    },
-    {
-      "id": "rss-0c0c373c7f52",
-      "title": "Here's What the 'iPhone 20' is Expected to Look Like",
-      "description": "Apple's 20th anniversary iPhone is expected to arrive in the fall of 2027 with the most significant design overhaul the device has seen since the iPhone X.\r\n\r\n\r\nIn many ways, the device is expected to",
-      "url": "https://www.macrumors.com/2026/07/26/what-iphone-20-is-expected-to-look-like/",
-      "image": "https://images.macrumors.com/article-new/2026/07/iphone-20-anniversary.jpg",
-      "source": "MacRumors",
-      "category": "technology",
-      "publishedAt": "2026-07-27T01:00:12.000Z"
-    },
-    {
-      "id": "rss-6209d6aedeab",
-      "title": "PSA: Apple TV, Apple Music, and more are currently down for some users [Update: Fixed]",
-      "description": "Update, 6:15 p.m PT: Apple says all the problems previously listed on its Developer website have been resolved. All of the outages listed on its consumer System Status page have also been fixed. \nAppl",
-      "url": "https://9to5mac.com/2026/07/26/psa-apple-tv-apple-music-and-more-are-currently-down-for-some-users/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-tv-logo-ocean-sunset.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "source": "9to5Mac",
-      "category": "technology",
-      "publishedAt": "2026-07-27T00:52:24.000Z"
-    },
-    {
-      "id": "rss-640c3c5e7a7a",
-      "title": "NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-      "description": "The complexity of modern chip design continues to grow as engineering teams work to develop increasingly sophisticated CPUs, GPUs and AI systems. To help meet that challenge, NVIDIA is collaborating w",
-      "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
-      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/07/cpu-corp-blog-vera-superchip-1280x680-4939150.jpg",
-      "source": "NVIDIA AI Blog",
-      "category": "ai",
-      "publishedAt": "2026-07-27T00:45:42.000Z"
-    },
-    {
-      "id": "rss-ca0ec23fc41e",
-      "title": "Tigray's old grapevines have survived against the odds: New research uncovers their genetic and historic value",
-      "description": "The northern highlands of Ethiopia are among Africa's oldest agricultural landscapes. Some of the world's most important crops originated here, particularly pulses and grains, including teff. Yet anot",
-      "url": "https://phys.org/news/2026-07-tigray-grapevines-survived-odds-uncovers.html",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/tigrays-old-grapevines.jpg",
-      "source": "Phys.org",
-      "category": "science",
-      "publishedAt": "2026-07-27T00:30:01.000Z"
-    },
-    {
-      "id": "rss-d949aa851fa9",
-      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-      "description": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-07-27T00:27:58.000Z"
-    },
-    {
-      "id": "rss-f4a6671930dd",
-      "title": "Kospi index and U.S. stock futures jump as new Hormuz talks send oil prices plunging amid Iran war pause while Wall Street awaits Fed meeting",
-      "description": "Iran and Oman are also in talks that center around having Iran run vessel transit through the Strait of Hormuz with fewer restrictions on ships.",
-      "url": "https://fortune.com/2026/07/26/kospi-index-dow-futures-us-stocks-hormuz-talks-oil-prices-iran-war-fed-meeting/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/9826590-e1785104927137.jpg?w=2048",
-      "source": "Fortune",
-      "category": "business",
-      "publishedAt": "2026-07-27T00:25:04.000Z"
     }
   ]
 }
