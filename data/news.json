@@ -1,7 +1,477 @@
 {
-  "lastUpdated": "2026-08-11T03:43:55.744Z",
-  "count": 6405,
+  "lastUpdated": "2026-08-11T05:08:19.755Z",
+  "count": 6417,
   "articles": [
+    {
+      "id": "rss-bcb6b9192d7d",
+      "title": "My brother was found dead – but police didn't realise for days that he had been shot",
+      "description": "Brian Low was murdered while walking his dog by a former colleague whose hatred had festered for years.",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dprklpgzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6690/live/f020b280-94a7-11f1-afe9-fb1a837ec5d9.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-11T05:03:29.000Z"
+    },
+    {
+      "id": "rss-017ddf0aaf7e",
+      "title": "Jewish school heads spend more time on security than education, review finds",
+      "description": "It's one of the findings from an independent review into antisemitism in schools and colleges.",
+      "url": "https://www.bbc.co.uk/news/articles/c98vm1n64ljo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99d4/live/cd6933a0-48aa-11f1-90e6-350a323e11ac.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-11T05:01:28.000Z"
+    },
+    {
+      "id": "rss-a96b9a2d9ce4",
+      "title": "Why Do I Get PMS Cravings? The Science Behind Period Cravings and the Menstrual Cycle",
+      "description": "When it comes to our female clientele at The Fit Bear, we always factor in their biological cycle. As they grow older, menstruation…\nContinue reading on Medium »",
+      "url": "https://medium.com/@team_6897/why-do-i-get-pms-cravings-the-science-behind-period-cravings-and-the-menstrual-cycle-f74af0d784cc?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*xvePKPUezGgm4E2pYicm4g.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-11T05:01:01.000Z"
+    },
+    {
+      "id": "rss-8df8fa0ed3b5",
+      "title": "LG Promo Codes and Coupons for August 2026",
+      "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+      "url": "https://www.wired.com/story/lg-promo-code/",
+      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-6012c961867c",
+      "title": "Meta Quest Promo Codes and Coupons for August 2026",
+      "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
+      "url": "https://www.wired.com/story/meta-quest-promo-code/",
+      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-b692dc9e415e",
+      "title": "Best Buy Discount Codes: Up to 60% Off",
+      "description": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
+      "url": "https://www.wired.com/story/best-buy-discount-code/",
+      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-4314c0d773d6",
+      "title": "Chewy Promo Codes: $20 Off August 2026",
+      "description": "Explore Chewy coupon codes for $30 off, $20 off your first order $49, 50% off pet food, and more August 2026 discounts.",
+      "url": "https://www.wired.com/story/chewy-promo-code/",
+      "image": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-98551d3eb0b7",
+      "title": "Mattress Firm Coupons: Save up to $700 |",
+      "description": "Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.",
+      "url": "https://www.wired.com/story/mattress-firm-coupon/",
+      "image": "https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-22f42a7f07e3",
+      "title": "Home Depot Promo Codes: 30% Off in August 2026",
+      "description": "Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this August.",
+      "url": "https://www.wired.com/story/home-depot-promo-code/",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-6fcc6d736fe9",
+      "title": "Peacock Promo Codes: 40% Off August 2026",
+      "description": "Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.",
+      "url": "https://www.wired.com/story/peacock-promo-code/",
+      "image": "https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-f5f50a6c37b8",
+      "title": "Booking.com Promo Codes: 20% Off | August 2026",
+      "description": "Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.",
+      "url": "https://www.wired.com/story/booking-com-promo-code/",
+      "image": "https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-1887ca6baef5",
+      "title": "Valvoline Coupons and Promo Codes for August 2026",
+      "description": "We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
+      "url": "https://www.wired.com/story/valvoline-coupons/",
+      "image": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-264a649fecab",
+      "title": "Dell Coupon Codes: 20% Off for August 2026",
+      "description": "Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.",
+      "url": "https://www.wired.com/story/dell-coupon-code/",
+      "image": "https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-95f521dcff53",
+      "title": "30% Off Canon Promo Codes | August 2026",
+      "description": "Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this August.",
+      "url": "https://www.wired.com/story/canon-promo-code/",
+      "image": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-777bfdcca025",
+      "title": "Skullcandy Discount Code: 30% Off | August 2026",
+      "description": "Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.",
+      "url": "https://www.wired.com/story/skullcandy-discount-code/",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-469f0f6f18cc",
+      "title": "AT&T Promo Codes: $50 Off This August 2026",
+      "description": "Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&T coupons and deals.",
+      "url": "https://www.wired.com/story/att-promo-code/",
+      "image": "https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-123712e68ea1",
+      "title": "Squarespace Promo Codes: 20% Off in August 2026",
+      "description": "Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.",
+      "url": "https://www.wired.com/story/squarespace-promo-code/",
+      "image": "https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-d9067ebe22aa",
+      "title": "Best Casetify Promo Codes | 15% Off July",
+      "description": "Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.",
+      "url": "https://www.wired.com/story/casetify-promo-code/",
+      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+      "source": "Wired",
+      "category": "technology",
+      "publishedAt": "2026-08-11T05:00:00.000Z"
+    },
+    {
+      "id": "rss-63d66bddbb8c",
+      "title": "How to Find a Tech Job in August (2026) - Complete Information",
+      "description": "Introduction\nContinue reading on Medium »",
+      "url": "https://medium.com/@RakeshEducation/how-to-find-a-tech-job-in-august-2026-complete-information-cecc7dcd1761?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1672/1*jpfgczZftYIuj7mIRVSc1w.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:58:06.000Z"
+    },
+    {
+      "id": "rss-1b7529dec2c5",
+      "title": "I Rebuilt My Life After Hitting Rock Bottom",
+      "description": "I hit rock bottom, then rebuilt my life with small systems, honest help, and daily habits you can copy.\nContinue reading on Write Your World »",
+      "url": "https://medium.com/write-your-world/i-rebuilt-my-life-after-hitting-rock-bottom-f3311397b48b?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*ESabtL4wTj5m5kS_",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:57:42.000Z"
+    },
+    {
+      "id": "rss-338890ef0d39",
+      "title": "What If You’re Looking for Good Fortune in the Wrong Places?",
+      "description": "Ancient knowledge explains 38 ways to acquire a fortunate life that is truly meaningful .  Are you lucky? \nContinue reading on The Quiet Chapter »",
+      "url": "https://medium.com/the-quiet-chapter/what-if-youre-looking-for-good-fortune-in-the-wrong-places-971452d07bd7?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*kFnk3ZM5hTqgsiCTCf7uQA@2x.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:56:44.000Z"
+    },
+    {
+      "id": "rss-6506dddf5992",
+      "title": "The Comfort Zone Was Never Comfortable.",
+      "description": "We mistake familiarity for comfort and it silently shapes the life we settle for…\nContinue reading on Medium »",
+      "url": "https://medium.com/@iamsamindri/the-comfort-zone-was-never-comfortable-9667fa52ddcc?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/736/0*QBeVrek-kxN8Pvja.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:55:35.000Z"
+    },
+    {
+      "id": "rss-fc2ae1c4b4f1",
+      "title": "Things That Feel Expensive but Actually Save You Money",
+      "description": "Spending more upfront can feel counterintuitive, but certain purchases reduce long-term costs through durability, efficiency, or…\nContinue reading on Medium »",
+      "url": "https://medium.com/@marketing_75020/things-that-feel-expensive-but-actually-save-you-money-dea63091ffb6?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1122/1*8IgrOzX4gVw6u1AbSFsv7g.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:55:01.000Z"
+    },
+    {
+      "id": "rss-5b46488d1958",
+      "title": "Breast Augmentation in Islamabad: The Future of Individual Beauty Design and Body Harmony",
+      "description": "Beauty has always been a reflection of individuality, confidence, and personal expression. In today’s world, aesthetic enhancement is no…\nContinue reading on Medium »",
+      "url": "https://medium.com/@umar.umii078/breast-augmentation-in-islamabad-the-future-of-individual-beauty-design-and-body-harmony-f9540dfc0939?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2048/1*1KnYErfh4BjVzdihonrY7A.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:53:42.000Z"
+    },
+    {
+      "id": "rss-48f09a9cd449",
+      "title": "Autism Spectrum Disorder: Understanding the Signs, Assessment and Importance of Early Support",
+      "description": "Every child has their own way of communicating, learning, playing, and experiencing the world. Some children may develop certain skills…\nContinue reading on Medium »",
+      "url": "https://medium.com/@nikhil.m_51433/autism-spectrum-disorder-understanding-the-signs-assessment-and-importance-of-early-support-675c94e5137a?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*x0arPpm6bg-a6L5mAaZEVA.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:53:19.000Z"
+    },
+    {
+      "id": "rss-c759afe80e8a",
+      "title": "Waarom blijf je steeds in hetzelfde patroon hangen?",
+      "description": "Herken je dit? Je zet stappen, je hebt de ambitie, maar op de een of andere manier kom je steeds weer op hetzelfde punt terug. Dat is geen…\nContinue reading on Medium »",
+      "url": "https://medium.com/@l.tabor/waarom-blijf-je-steeds-in-hetzelfde-patroon-hangen-aaa0bde24935?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1376/1*CDFLGkjiEXvHlERWLdW9lg.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:50:55.000Z"
+    },
+    {
+      "id": "rss-605717e96f80",
+      "title": "The Party Was Still Going When I Left. Nobody Noticed.",
+      "description": "I found my jacket under three other jackets.\nTook me a while.\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/the-party-was-still-going-when-i-left-nobody-noticed-6625e8a087c4?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*XVFOowu71cbet9-0",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:49:21.000Z"
+    },
+    {
+      "id": "rss-9497e37b3481",
+      "title": "TheyaVue Reviews: Fake Vision Support Supplement Websites Exposed!",
+      "description": "Unlocking Eye Health: What Is TheyaVue Vision Support?\nContinue reading on Medium »",
+      "url": "https://medium.com/@mahsew/theyavue-reviews-fake-vision-support-supplement-websites-exposed-37398f8f1eb0?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/600/1*m9DwR2q4USej7ZMfQL-MmQ.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:49:19.000Z"
+    },
+    {
+      "id": "rss-c225a141bf32",
+      "title": "My Gut Microbiome Score Was 12/100. I Stopped Eating More Fiber for 30 Days",
+      "description": "Here’s What Actually Happened\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/my-gut-microbiome-score-was-12-100-i-stopped-eating-more-fiber-for-30-days-358d39c30dee?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*lOOKH7n57S54jvzv",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:49:18.000Z"
+    },
+    {
+      "id": "rss-682a3735e142",
+      "title": "The 365-Day Reset Button",
+      "description": "How an ACL injury permanently rewires an athlete’s body, career and competitive future\nContinue reading on SportsRaid »",
+      "url": "https://medium.com/sportsraid/the-365-day-reset-button-863f46d119bc?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/686/0*jePPi-c4jeRG_AWb",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:47:03.000Z"
+    },
+    {
+      "id": "rss-9473c0f79b95",
+      "title": "How to Stay Fit When You Have No Time — A Realistic Guide",
+      "description": "The time problem is real.\nContinue reading on Medium »",
+      "url": "https://medium.com/@sundus.saghir/how-to-stay-fit-when-you-have-no-time-a-realistic-guide-9b511ba7b4d8?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1280/1*RM_ji1TiXv12SuMrdZhZ7g.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:45:54.000Z"
+    },
+    {
+      "id": "rss-0a848ce23fcd",
+      "title": "Metabolic Health Tests: What Should You Check?",
+      "description": "Continue reading on Medium »",
+      "url": "https://thriveinserenity.medium.com/metabolic-health-tests-what-should-you-check-398a16b87c9a?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*u5oMDr1igRVP3adRIk4HZQ.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:44:48.000Z"
+    },
+    {
+      "id": "rss-495e88608701",
+      "title": "Best Piles Doctor in Jaipur — Dr. Anshul Shah",
+      "description": "Dr. Anshul Shah is a trusted Piles Doctor and Fistula Specialist in Jaipur, providing specialized care for piles, fistula, fissure, and…\nContinue reading on Medium »",
+      "url": "https://medium.com/@shahdranshul/best-piles-doctor-in-jaipur-dr-anshul-shah-11d5d380b62a?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/848/1*thUHdm4-a3nRvLkymBcX9A.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:34:22.000Z"
+    },
+    {
+      "id": "rss-3cb4dbd07880",
+      "title": "Why Do Stitches Look So Different in China and the U.S.?",
+      "description": "From raised wounds to scar tension, I started to rethink what suturing really means\nContinue reading on Medium »",
+      "url": "https://medium.com/@Wuyouzheng/why-do-stitches-look-so-different-in-china-and-the-u-s-d9bef8229923?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1303/1*A38057qZSk5T_oWRYLnlfA.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:32:40.000Z"
+    },
+    {
+      "id": "rss-f72022fdfaa8",
+      "title": "Samsung Galaxy Tab vs iPad: Complete Buying Guide for 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/phones/samsung-galaxy-tab-vs-ipad-complete-buying-guide-for-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-10/20xgrr6d/Samsung-Galaxy-Tab-vs-iPad-Complete-Buying-Guide-for-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-11T04:30:00.000Z"
+    },
+    {
+      "id": "rss-df4c8ad0239c",
+      "title": "The Hidden Secrets of Fat Loss",
+      "description": "Small changes for big results.\nContinue reading on ILLUMINATION »",
+      "url": "https://medium.com/illumination/the-hidden-secrets-of-fat-loss-889d6e17b576?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/907/1*znbPLIXEKecbDRYSJXjnZg.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:27:52.000Z"
+    },
+    {
+      "id": "rss-faf382db8e1f",
+      "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+      "description": "Andy Burnham is confident a solution can be found to exclude two of PC Harper's killers from an early release scheme, the BBC understands.",
+      "url": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70de/live/acb174c0-923c-11f1-af4d-5164294a85c7.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-11T04:25:55.000Z"
+    },
+    {
+      "id": "rss-8881b8460ca3",
+      "title": "Best Apple Watch and AirPods Deals This August 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/deals/best-apple-watch-and-airpods-deals-this-august-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-11/9auzud6w/Best-Apple-Watch-and-AirPods-Deals-This-August-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-11T04:25:00.000Z"
+    },
+    {
+      "id": "rss-742cb0c221b5",
+      "title": "Skincare Before Style: How Healthy Skin Became the New Professional Power Move",
+      "description": "Preparing for a significant client encounter consistently resembles a minor performance. You mentally review the checklist, adjust your…\nContinue reading on Medium »",
+      "url": "https://medium.com/@chrisgayle2322/skincare-before-style-how-healthy-skin-became-the-new-professional-power-move-5b6aec049e7d?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*ix5p00ui8xABKNuSDK7T9w.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:21:45.000Z"
+    },
+    {
+      "id": "rss-488c2644f318",
+      "title": "Today I attended a technical interview for a Java Backend / Technical Lead role focused on Spring…",
+      "description": "Photo by Leuchtturm Entertainment on Unsplash\nContinue reading on Medium »",
+      "url": "https://medium.com/@anil-singh/today-i-attended-a-technical-interview-for-a-java-backend-technical-lead-role-focused-on-spring-99866721f138?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*3uFucpBuwxo2u5Gu",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:17:43.000Z"
+    },
+    {
+      "id": "rss-3f79310d5af2",
+      "title": "Why Sleep Is Important: The Habit We Often Ignore\nWe often talk about healthy eating, exercise, and…",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@tanjinaralabonna/why-sleep-is-important-the-habit-we-often-ignore-we-often-talk-about-healthy-eating-exercise-and-d110b1e3b3ab?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/675/1*wEGhSi1aMAI7cuW4DrR35A.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-11T04:11:23.000Z"
+    },
+    {
+      "id": "rss-c08b75396114",
+      "title": "At least 132 killed in Colombia's largest  earthquake in years",
+      "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b4c/live/491511d0-953c-11f1-a0b1-8d38ae2a7560.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-11T04:06:07.000Z"
+    },
+    {
+      "id": "rss-9c9a89fe863f",
+      "title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
+      "description": "President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
+      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10dc-trump-plane-gfwk/10dc-trump-plane-gfwk-mediumSquareAt3X-v2.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-11T04:01:30.000Z"
+    },
+    {
+      "id": "rss-d4e504adf2a8",
+      "title": "How Central Bank Gold Buying is Supporting the Gold Price Rally?",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/banking/how-central-bank-gold-buying-is-supporting-the-gold-price-rally",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-10/3514lx7u/How-Central-Bank-Gold-Buying-Is-Supporting-the-Gold-Price-Rally.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-11T04:00:00.000Z"
+    },
+    {
+      "id": "rss-97d97d16a203",
+      "title": "Top 10 Self-made Women Entrepreneurs - India 2026",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/entrepreneur/top-10-self-made-women-entrepreneurs-india-2026",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-11/wdoh1l79/Top-10-self-made-women-entrepreneurs-India-2026.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-11T03:55:00.000Z"
+    },
+    {
+      "id": "rss-74c3189e1869",
+      "title": "Firefighting in New Forest to continue for several days",
+      "description": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.",
+      "url": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e663/live/03c34160-9492-11f1-9ade-bb7c8a2b6bc0.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-11T03:51:06.000Z"
+    },
+    {
+      "id": "rss-5e752c1c2b1a",
+      "title": "Start Your Day with These 5 Habits",
+      "description": "As a fitness trainer, my usual wake-up time is around 5:00 AM, and my immediate habit right after waking up is drinking a glass of water…\nContinue reading on Medium »",
+      "url": "https://medium.com/@imcoachluis/start-your-day-with-these-5-habits-c7367ad33d14?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*8nCFj-Q9tBuZM42rWaiS8A.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-11T03:43:03.000Z"
+    },
     {
       "id": "rss-6a45c112cb02",
       "title": "Rabbis Plead With Mamdani to Tone Down His Anti-Israel Messaging",
@@ -11,6 +481,16 @@
       "source": "New York Times",
       "category": "trending",
       "publishedAt": "2026-08-11T03:36:20.000Z"
+    },
+    {
+      "id": "rss-d12eebba2281",
+      "title": "6 Robotics Founders Shaping the Future",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/photo/6-robotics-founders-shaping-the-future",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-11/xpbrld9c/6-Robotics-Founders-Shaping-the-Future.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-11T03:35:00.000Z"
     },
     {
       "id": "rss-6d5ef66f425f",
@@ -121,16 +601,6 @@
       "source": "Mental Health (Medium)",
       "category": "health",
       "publishedAt": "2026-08-11T03:15:59.000Z"
-    },
-    {
-      "id": "rss-9c9a89fe863f",
-      "title": "Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats",
-      "description": "President Trump hid in an airport catering cart and was taken to a military jet for a secret flight out of country after the NATO summit last month.",
-      "url": "https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html",
-      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10dc-trump-plane-gfwk/10dc-trump-plane-gfwk-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-11T03:15:13.000Z"
     },
     {
       "id": "rss-5d7ad3ac5bb2",
@@ -263,16 +733,6 @@
       "publishedAt": "2026-08-11T02:29:20.000Z"
     },
     {
-      "id": "rss-c39529e41936",
-      "title": "New Forest firefighting to continue overnight as cars abandoned",
-      "description": "One woman says she thought her family's car might go up in flames as the fire took hold on Sunday.",
-      "url": "https://www.bbc.co.uk/news/articles/clye8l9422no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e663/live/03c34160-9492-11f1-9ade-bb7c8a2b6bc0.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-08-11T02:25:31.000Z"
-    },
-    {
       "id": "rss-a13267d6e074",
       "title": "Trump used catering truck, Air Force One decoy to evade Iran threat: report",
       "description": "President Donald Trump secretly exited Air Force One via a catering truck at the NATO summit in Turkey, boarding a smaller jet to evade Iran threats, according to a report.",
@@ -301,16 +761,6 @@
       "source": "NYT Politics",
       "category": "politics",
       "publishedAt": "2026-08-11T02:00:03.000Z"
-    },
-    {
-      "id": "rss-c08b75396114",
-      "title": "At least 132 killed in Colombia's largest  earthquake in years",
-      "description": "The magnitude 7.4 quake had its epicentre in Chocó province, near the Pacific Coast, but could be felt in cities hundreds of kilometres away.",
-      "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2041/live/b92c7aa0-94fe-11f1-870d-5d08c49babb2.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-08-11T01:59:40.000Z"
     },
     {
       "id": "rss-a9e270ebd20b",
@@ -1330,7 +1780,7 @@
       "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10Int-Colombia-Quake-Photos-01-zhtw/10Int-Colombia-Quake-Photos-01-zhtw-mediumSquareAt3X-v2.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-08-10T22:04:02.000Z"
+      "publishedAt": "2026-08-10T22:04:03.000Z"
     },
     {
       "id": "rss-803a91b83b02",
@@ -1431,16 +1881,6 @@
       "source": "Mental Health (Medium)",
       "category": "health",
       "publishedAt": "2026-08-10T21:59:47.000Z"
-    },
-    {
-      "id": "rss-bcb6b9192d7d",
-      "title": "My brother was found dead – but police didn't realise for days that he had been shot",
-      "description": "Brian Low was murdered while walking his dog by a former colleague whose hatred had festered for years.",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dprklpgzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6690/live/f020b280-94a7-11f1-afe9-fb1a837ec5d9.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-08-10T21:58:43.000Z"
     },
     {
       "id": "rss-e51c054753ba",
@@ -35183,16 +35623,6 @@
       "publishedAt": "2026-08-07T05:00:00.000Z"
     },
     {
-      "id": "rss-8df8fa0ed3b5",
-      "title": "LG Promo Codes and Coupons for August 2026",
-      "description": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-      "url": "https://www.wired.com/story/lg-promo-code/",
-      "image": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-07T05:00:00.000Z"
-    },
-    {
       "id": "rss-48d902f39eb6",
       "title": "Nike Promo Codes and Discounts: 30% for August 2026",
       "description": "Check out our deals for Nike this August 2026, including 15% off select purchases.",
@@ -53243,16 +53673,6 @@
       "publishedAt": "2026-08-05T05:00:00.000Z"
     },
     {
-      "id": "rss-6012c961867c",
-      "title": "Meta Quest Promo Codes and Coupons for August 2026",
-      "description": "Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.",
-      "url": "https://www.wired.com/story/meta-quest-promo-code/",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-05T05:00:00.000Z"
-    },
-    {
       "id": "rss-3281eca72d37",
       "title": "Hoka Coupon Codes: 30% Off in August 2026",
       "description": "Unlock free expedited shipping or 10% off with today’s Hoka discount codes, plus save up to 30% with the best discounts for August 2026.",
@@ -63751,306 +64171,6 @@
       "source": "Mental Health (Medium)",
       "category": "health",
       "publishedAt": "2026-08-04T05:12:43.000Z"
-    },
-    {
-      "id": "rss-5b0f0945c17b",
-      "title": "AI Analyst, Trust and Safety, Workspace, Google",
-      "description": "",
-      "url": "https://www.analyticsinsight.net/job-openings/ai-analyst-trust-and-safety-workspace-google",
-      "image": "https://media.assettype.com/analyticsinsight/2026-08-04/349kqrey/AI-Analyst-Trust-and-Safety-Workspace-Google.jpg",
-      "source": "Analytics Insight",
-      "category": "ai",
-      "publishedAt": "2026-08-04T05:07:56.000Z"
-    },
-    {
-      "id": "rss-ca6bb216b380",
-      "title": "Should I Run From This World To Find My Peace?",
-      "description": "Continue reading on Medium »",
-      "url": "https://medium.com/@novijuyon472/should-i-run-from-this-world-to-find-my-peace-f247889ca085?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/736/1*RgtvvI7g_EMsuPAGroBazA.jpeg",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-08-04T05:05:35.000Z"
-    },
-    {
-      "id": "rss-38f36a162936",
-      "title": "Mahasiswa FK UNAIR Ikuti Research Exchange Program di Swedia untuk Mendalami Mekanisme Autisme…",
-      "description": "Mahasiswa Fakultas Kedokteran Universitas Airlangga (FK UNAIR), melalui program SCORE Research Exchange IFMSA, berhasil mengikuti kegiatan…\nContinue reading on Medium »",
-      "url": "https://medium.com/@emailibeketiga/mahasiswa-fk-unair-ikuti-research-exchange-program-di-swedia-untuk-mendalami-mekanisme-autisme-7d3d94a820c6?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/1200/1*e7xb2GGg8E3sTe_j0n96fg.jpeg",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-08-04T05:03:00.000Z"
-    },
-    {
-      "id": "rss-06b5e7bac6fb",
-      "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
-      "description": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
-      "url": "https://www.wired.com/story/lowes-promo-code/",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-ad30d1a4b214",
-      "title": "Loop Earplugs Discount Codes: 40% Off",
-      "description": "Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.",
-      "url": "https://www.wired.com/story/loop-earplugs-discount-code/",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-60c3ff92388f",
-      "title": "Instacart Promo Code: $15 Off | August 2026",
-      "description": "Find the best Instacart promo code for massive savings in August 2026.",
-      "url": "https://www.wired.com/story/instacart-promo/code/",
-      "image": "https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-4fa68c16a93a",
-      "title": "Lovehoney Coupon Offers: Toys, Lingerie, and Gift Set Discounts",
-      "description": "Save on Lovehoney, including bestselling toys, lingerie, and popular gift sets for date nights, self-care, and couples’ play.",
-      "url": "https://www.wired.com/story/lovehoney-discount-code/",
-      "image": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-21fbaf894719",
-      "title": "Wayfair Coupons: Up to 80% Off August 2026",
-      "description": "Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.",
-      "url": "https://www.wired.com/story/wayfair-promo-code/",
-      "image": "https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-887ba3f13808",
-      "title": "Expedia Coupons: 40% Off",
-      "description": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
-      "url": "https://www.wired.com/story/expedia-coupon/",
-      "image": "https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-b692dc9e415e",
-      "title": "Best Buy Discount Codes: Up to 60% Off",
-      "description": "Find the latest Best Buy promo codes and offers, including 10% back in rewards for new cardmembers and free 2-day shipping with My Best Buy Plus, here at WIRED.",
-      "url": "https://www.wired.com/story/best-buy-discount-code/",
-      "image": "https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-42553eae55e2",
-      "title": "20% Off Sephora Promo Code | August 2026",
-      "description": "Earn more points on skincare purchases when you use our Sephora coupon.",
-      "url": "https://www.wired.com/story/sephora-promo-code/",
-      "image": "https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-f277d032911c",
-      "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
-      "description": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
-      "url": "https://www.wired.com/story/we-vibe-discount-code/",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-df1c171912c3",
-      "title": "Lenovo Coupon Codes and Deals in August 2026",
-      "description": "Whether you’re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-      "url": "https://www.wired.com/story/lenovo-coupon-code/",
-      "image": "https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-c0d9ec473641",
-      "title": "Nomad Goods Promo Codes: Get 25% Off in August 2026",
-      "description": "Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in August 2026.",
-      "url": "https://www.wired.com/story/nomad-discount-code/",
-      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-75a3432371a7",
-      "title": "Bartesian Discount Codes: 35% Off",
-      "description": "Upgrade your home bar with the latest Bartesian coupon codes and discounts. Save on the Professional Cocktail Maker, enjoy subscription discounts, and get free shipping on your favorite capsules.",
-      "url": "https://www.wired.com/story/bartesian-discount-code/",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-7946753eeeec",
-      "title": "Maytag Promo Codes: 15% Off Appliances",
-      "description": "Upgrade your home for less with these verified Maytag discount codes, military savings, and limited-time closeout offers on washers, dryers, and more.",
-      "url": "https://www.wired.com/story/maytag-promo-code/",
-      "image": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-0b5e20a857d9",
-      "title": "Target Promo Code: $50 Off | August 2026",
-      "description": "Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.",
-      "url": "https://www.wired.com/story/target-promo-code/",
-      "image": "https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-0fa96a3fc85c",
-      "title": "Uplift Promo Codes: $570 Off",
-      "description": "Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories during the Spring Setup Sale.",
-      "url": "https://www.wired.com/story/uplift-desk-coupon-code/",
-      "image": "https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-bad6639d386e",
-      "title": "Litter-Robot Promo Codes: Up to $150 Off",
-      "description": "Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.",
-      "url": "https://www.wired.com/story/litter-robot-promo-code/",
-      "image": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-      "source": "Wired",
-      "category": "technology",
-      "publishedAt": "2026-08-04T05:00:00.000Z"
-    },
-    {
-      "id": "rss-2e8e5d75cd24",
-      "title": "clothed in compassion",
-      "description": "Continue reading on Medium »",
-      "url": "https://medium.com/@zee.z/clothed-in-compassion-88b8b60e5c2b?source=rss------mental_health-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/1*7JSM4vVCko_9bQRKDjFr2w@2x.jpeg",
-      "source": "Mental Health (Medium)",
-      "category": "health",
-      "publishedAt": "2026-08-04T04:59:09.000Z"
-    },
-    {
-      "id": "rss-38e524d09ee4",
-      "title": "Reddit Posting Rules: Why Posts Get Removed and How to Avoid Common Mistakes",
-      "description": "",
-      "url": "https://www.analyticsinsight.net/apps/reddit/reddit-posting-rules-why-posts-get-removed-and-how-to-avoid-common-mistakes",
-      "image": "https://media.assettype.com/analyticsinsight/2026-08-03/gd8zxalk/Reddit-Posting-Rules-Why-Posts-Get-Removed-and-How-to-Avoid-Common-Mistakes-2.jpg",
-      "source": "Analytics Insight",
-      "category": "ai",
-      "publishedAt": "2026-08-04T04:55:00.000Z"
-    },
-    {
-      "id": "rss-5c0d25cc5d6d",
-      "title": "OAC Technology Marks 25 Years Of Strengthening Its Nationwide IT Presence",
-      "description": "",
-      "url": "https://www.analyticsinsight.net/tech-news/oac-technology-marks-25-years-of-strengthening-its-nationwide-it-presence",
-      "image": "https://media.assettype.com/analyticsinsight/2026-08-04/qxojkx9o/OAC-Technology.png",
-      "source": "Analytics Insight",
-      "category": "ai",
-      "publishedAt": "2026-08-04T04:47:44.000Z"
-    },
-    {
-      "id": "rss-b20023488b26",
-      "title": "The Fitness Industry Has Quietly Convinced Us That Feeling Guilty Is Normal",
-      "description": "The problem isn’t that we’re lazy. It’s that we’ve mistaken punishment for progress.\nContinue reading on Medium »",
-      "url": "https://medium.com/@sibusiso18alois/the-fitness-industry-has-quietly-convinced-us-that-feeling-guilty-is-normal-ac8ce3964243?source=rss------fitness-5",
-      "image": "https://cdn-images-1.medium.com/max/1408/1*836lyUW_qsrSfVuvcEJPEw.jpeg",
-      "source": "Medium Fitness",
-      "category": "health",
-      "publishedAt": "2026-08-04T04:46:29.000Z"
-    },
-    {
-      "id": "rss-fa54e3e29136",
-      "title": "Geno Segers Apologizes For Transgender Comments After ‘Hadestown’ Exit: ‘I Recognize the Impact of My Statements’",
-      "description": "Geno Segers took to Instagram on Monday to apologize after facing backlash over resurfaced social media comments about the transgender community. “I wish to extend my most sincere apologies to everyon",
-      "url": "https://variety.com/2026/theater/news/geno-segers-apology-transgender-comments-hadestown-1236827212/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/MixCollage-03-Aug-2026-09-27-PM-3237.jpg",
-      "source": "Variety",
-      "category": "entertainment",
-      "publishedAt": "2026-08-04T04:38:17.000Z"
-    },
-    {
-      "id": "rss-388c98a3482b",
-      "title": "The AI race isn’t about models, it’s about infrastructure—and the U.S. is still far ahead",
-      "description": "So long as the U.S. controls the underlying infrastructure that enables AI ecosystems, it will stay dominant.",
-      "url": "https://fortune.com/2026/08/04/ai-race-is-about-infrastructure-not-models-us-far-ahead/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2169813657-e1785805622691.jpg?w=2048",
-      "source": "Fortune",
-      "category": "business",
-      "publishedAt": "2026-08-04T04:30:00.000Z"
-    },
-    {
-      "id": "rss-926b442f180c",
-      "title": "France wildfires reveal hundreds of WW2 shells in village",
-      "description": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions.",
-      "url": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3146/live/72c59ca0-8fb2-11f1-a9e7-cb00cf477e15.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-08-04T04:22:12.000Z"
-    },
-    {
-      "id": "rss-ee5ef375a38b",
-      "title": "Maximum Dose of Ibuprofen in 24 Hours: Dosage, Risks, and Safety Tips",
-      "description": "Millions of people reach for ibuprofen to relieve headaches, muscle pain, toothaches, menstrual cramps, or fever. Because it’s available…\nContinue reading on Medium »",
-      "url": "https://medium.com/@startupeditor2023/maximum-dose-of-ibuprofen-in-24-hours-dosage-risks-and-safety-tips-91f5400a867d?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/696/0*HAVl2LTLoD4PzfSA.jpg",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-08-04T04:12:54.000Z"
-    },
-    {
-      "id": "rss-88caaf92e403",
-      "title": "Andy Burnham’s First Weeks as UK Prime Minister: TikToks, Podcasts and Promises",
-      "description": "Andy Burnham’s social media push appears to be resonating with some voters. But he faces big decisions about how to pay for his promises.",
-      "url": "https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html",
-      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/04int-uk-burnham-image-01-mtkl/04int-uk-burnham-image-01-mtkl-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-04T04:01:18.000Z"
-    },
-    {
-      "id": "rss-7662076fe2a2",
-      "title": "What Cathie Wood's Latest Nvidia Bet Means for Investors",
-      "description": "",
-      "url": "https://www.analyticsinsight.net/stocks/what-cathie-woods-latest-nvidia-bet-means-for-investors",
-      "image": "https://media.assettype.com/analyticsinsight/2026-08-03/zeour3mz/What-Cathie-Woods-Latest-Nvidia-Bet-Means-for-Investors-2.jpg",
-      "source": "Analytics Insight",
-      "category": "ai",
-      "publishedAt": "2026-08-04T04:00:00.000Z"
-    },
-    {
-      "id": "rss-5fe7252f1403",
-      "title": "Benefits of Integrative Medicine for a Healthier and More Balanced Life",
-      "description": "Healthcare is no longer limited to treating symptoms after they appear. More people are seeking personalized care that focuses on…\nContinue reading on Medium »",
-      "url": "https://medium.com/@healyfaustralia/benefits-of-integrative-medicine-for-a-healthier-and-more-balanced-life-2b082939c2a3?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/1114/1*MdSxRg2849i5CQgrV8f74w.jpeg",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-08-04T03:48:40.000Z"
     }
   ]
 }
