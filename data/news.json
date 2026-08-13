@@ -1,16 +1,876 @@
 {
-  "lastUpdated": "2026-08-13T17:04:16.220Z",
-  "count": 6916,
+  "lastUpdated": "2026-08-13T18:26:42.299Z",
+  "count": 6950,
   "articles": [
+    {
+      "id": "rss-20e2b75ae101",
+      "title": "Trump Administration Lets Parts of the National Firearms Act Lapse",
+      "description": "The retreat by the Justice Department effectively allowed a pillar of the Prohibition-era National Firearms Act to lapse.",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/national-firearms-act-gun-control-doj.html",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13dc-guns-mamw/13dc-guns-mamw-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-08-13T18:23:08.000Z"
+    },
+    {
+      "id": "rss-fab24ccafa38",
+      "title": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
+      "description": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
+      "url": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
+      "image": "https://static01.nyt.com/images/2026/08/16/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-13T18:22:07.000Z"
+    },
+    {
+      "id": "rss-003159bdba2f",
+      "title": "India faces rising uncompensable heat stress, especially during monsoon season",
+      "description": "Animals struggle to cool down in extreme heat and high humidity, and heat stress is rising in many regions around the world. This is especially true for people in tropical countries, including populou",
+      "url": "https://phys.org/news/2026-08-india-uncompensable-stress-monsoon-season.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/india-crowded-city.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-13T18:20:05.000Z"
+    },
+    {
+      "id": "rss-f2ca45704b2c",
+      "title": "How multilayer nanocoatings dissipate energy at the nanoscale to prevent failure",
+      "description": "An international research team including Alexander Korsunsky from the Skoltech Engineering Center has, for the first time, directly measured mechanical stresses at the contact between a diamond indent",
+      "url": "https://phys.org/news/2026-08-multilayer-nanocoatings-dissipate-energy-nanoscale.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-uncover-ho-8.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-13T18:20:03.000Z"
+    },
+    {
+      "id": "rss-9034f95a69dd",
+      "title": "Why Do We Practice Conversations That Never Happen?",
+      "description": "My brain has a strange habit of starting conversations that nobody else agreed to participate in.\nContinue reading on Medium »",
+      "url": "https://medium.com/@vashisanskruti/why-do-we-practice-conversations-that-never-happen-3f6cca33fa1a?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*C9upoMTKKT5C_tt7ONA0Dg@2x.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-13T18:19:19.000Z"
+    },
+    {
+      "id": "rss-c962df18384d",
+      "title": "Millions of Europeans struggle with another wave of extreme heat",
+      "description": "Millions of people across Europe—particularly in France, Italy, Spain and the UK—sweltered through another wave of extreme temperatures Thursday as the continent's latest heat wave intensified.",
+      "url": "https://phys.org/news/2026-08-millions-europeans-struggle-extreme.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-extended-heatwaves.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-13T18:19:12.000Z"
+    },
+    {
+      "id": "rss-eaaf747f1689",
+      "title": "Draper slumps to first-round loss in Cincinnati",
+      "description": "Jack Draper slumps to a straight sets defeat in the first round of the Cincinnati Open after leading 5-2 in the second set.",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cm2gp2xmdkjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/328e/live/735e74e0-973f-11f1-96db-71945ca8cae7.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T18:16:17.000Z"
+    },
+    {
+      "id": "rss-4af4db339ed0",
+      "title": "Part 7/9. STABILIZED — How quitting alcohol changed my life",
+      "description": "Facing physical pain without numbing it led to a diagnosis — and a new, respectful relationship with my body.\nContinue reading on Medium »",
+      "url": "https://medium.com/@mmedvednik/part-7-9-stabilized-how-quitting-alcohol-changed-my-life-1c31a78305c6?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1500/1*CSYdAQTyqvcjMYRDcnqrzg.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-13T18:16:01.000Z"
+    },
+    {
+      "id": "rss-0de9596b6061",
+      "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
+      "description": "The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/dc-minn-whjk/dc-minn-whjk-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-13T18:15:50.000Z"
+    },
+    {
+      "id": "rss-382a87bebe57",
+      "title": "The Guilt That’s Eating Me from the Inside Out part 6",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@thejoanharris/the-guilt-thats-eating-me-from-the-inside-out-part-6-08113ad26b69?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*JPKT3Og0mi2b-E7pGJjifQ@2x.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-13T18:14:33.000Z"
+    },
+    {
+      "id": "rss-33d5c4e2c935",
+      "title": "California May Let Residents Choose ‘Jewish’ as an Ethnic Identifier",
+      "description": "A bill would allow Jews to identify themselves as an ethnic group on state forms. Supporters argue it’s a step toward acknowledging the complex nature of Jewish identity.",
+      "url": "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13nat-jewish-bill-jzgq/13nat-jewish-bill-jzgq-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-13T18:14:28.000Z"
+    },
+    {
+      "id": "rss-7a7c25adcc2f",
+      "title": "Apology",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@slavomrakrsna/apology-2f6cf463ac25?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*yrdWDEhHmGyOQqHWr7fSCA@2x.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-13T18:14:13.000Z"
+    },
+    {
+      "id": "rss-e8ecac66786e",
+      "title": "‘Assassin’s Creed’ Creator’s New Action-Adventure Game ‘1666: Amsterdam’ Sets Early Access Release (Gaming News Roundup)",
+      "description": "Panache Digital Games announced “1666: Amsterdam” will release in Early Access on Aug. 25. From “Assassin’s Creed” series creator Patrice Désilets, the dark, third-person narrative action-adventure ga",
+      "url": "https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/1.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-08-13T18:14:00.000Z"
+    },
+    {
+      "id": "rss-99c0d0dee802",
+      "title": "Creator Agency Fixated Taps Mary Murcko as Chief Revenue Officer",
+      "description": "Media biz veteran Mary Murcko has joined Fixated, an agency that provides support services for creators ranging from talent representation to creator economy support services. Murcko has been tapped t",
+      "url": "https://variety.com/2026/biz/news/mary-murcko-fixated-chief-revenue-officer-creator-economy-1236833514/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/image0-e1786643173157.png",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-08-13T18:13:23.000Z"
+    },
+    {
+      "id": "rss-c18a42abef83",
+      "title": "Instagram Has a New Logo for Some Reason",
+      "description": "",
+      "url": "https://www.cnet.com/news/social-media/instagram-has-a-new-logo-for-some-reason/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/instagram-new-logo.png",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-08-13T18:11:09.000Z"
+    },
+    {
+      "id": "rss-ec861db86577",
+      "title": "The contradictory reality of having everything yet feeling bored like you have nothing",
+      "description": "All of us have a tiny rectangular device that fits in our pocket, yet it holds every movie, song and piece of human knowledge ever…\nContinue reading on Medium »",
+      "url": "https://medium.com/@almanbazaz095/the-contradictory-reality-of-having-everything-yet-feeling-bored-like-you-have-nothing-988f0db9d539?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1200/0*T6F6JYc31hf01b0Q.jpg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-13T18:10:03.000Z"
+    },
+    {
+      "id": "rss-8899f55be6b2",
+      "title": "Target Begins Pokémon TCG 30th Anniversary Pre-orders, but There's a Catch",
+      "description": "TCG fans will be able to purchase an Eevee product ahead of Pokémon's 30th anniversary release on September 16, 2026.",
+      "url": "https://www.polygon.com/target-pokemon-tcg-30th-anniversary-preorders/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/06/pika3.JPG",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T18:09:59.000Z"
+    },
+    {
+      "id": "rss-e61f23b4ef16",
+      "title": "Food Poisoning Symptoms: 7 Warning Signs to Know",
+      "description": "Nausea, cramps, or diarrhea after eating? Here's how to spot it early and recover fast.\nContinue reading on Medium »",
+      "url": "https://medium.com/@mhanif001990/food-poisoning-symptoms-7-warning-signs-to-know-6ffc64e99c3f?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*opY3noLZucd2DGdhdYlO7Q.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-13T18:09:06.000Z"
+    },
+    {
+      "id": "rss-4c3a184b985a",
+      "title": "Trump’s Immigration Policy Echoes 1920s Turn Against Certain Newcomers",
+      "description": "U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/00dc-immig-crackdown-wlmt/00dc-immig-crackdown-wlmt-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-08-13T18:08:36.000Z"
+    },
+    {
+      "id": "rss-cb5f11c9f4d1",
+      "title": "Fantasy hockey 2026-2027 top-rated players: Connor McDavid leads top 100, Macklin Celebrini rises",
+      "description": "Cale Makar anchors an elite group of defensemen, while Andrei Vasilevskiy leads the top options in goal",
+      "url": "\n                                                https://www.cbssports.com/fantasy/hockey/news/fantasy-hockey-2026-2027-top-rated-players/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/13/0a121b36-6894-475a-ada5-cb80a2b4d1ed/connor-mcdavid-edmonton-oilers.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T18:05:49.000Z"
+    },
+    {
+      "id": "rss-6ba07592a0af",
+      "title": "Ebola Outbreak in the DRC Has Now Reached a Sixth Province",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@surujbm8/ebola-outbreak-in-the-drc-has-now-reached-a-sixth-province-cff83f677c77?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1024/1*mANbwWE9g7SwDu1DSmr2yQ.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-13T18:05:39.000Z"
+    },
+    {
+      "id": "rss-a13d0f21ca14",
+      "title": "Functional Medicine Lab Testing: Why NuGeneLabs Goes Beyond the Lab Report",
+      "description": "Go beyond the lab report with clear interpretation, personalized lifestyle guidance, and supplement recommendations based on your results.\nContinue reading on Medium »",
+      "url": "https://medium.com/@info_13169/functional-medicine-lab-testing-nugenelabs-e25343dbe26c?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1484/1*8MmY5ybetn5BgIGmXehd9Q.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-13T18:03:23.000Z"
+    },
+    {
+      "id": "rss-758b1d0db85b",
+      "title": "The Whole Truth",
+      "description": "My husband’s response reminds me of Dustin Poynter’s videos. You might know him as the “Green Flag Guy” or, depending on your social media…\nContinue reading on Medium »",
+      "url": "https://medium.com/@theagproject/the-whole-truth-f59492ad96bc?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1365/1*diEgEGPGEfrD3BMZnD7sCQ.jpeg",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-13T18:03:12.000Z"
+    },
+    {
+      "id": "rss-c1b1c3f67bc6",
+      "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+      "description": "Google is rolling out Gemini 3.7 Flash, a new version of its workhorse AI model that puts coding, agentic workflows and knowledge work at the center of the upgrade — while temporarily cutting API pric",
+      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/2hiXA5MTlT6U93qXfs9J8Q/e9a84e4962a92f6170fb5761a78b3d5f/Gemini_Generated_Image_9mr5qd9mr5qd9mr5.png?w=300&q=30",
+      "source": "VentureBeat",
+      "category": "technology",
+      "publishedAt": "2026-08-13T18:02:54.000Z"
+    },
+    {
+      "id": "rss-d7123ab95a37",
+      "title": "White House launches interactive map tracking billions in suspected fraud",
+      "description": "The White House launched The Fraud Ledger, an interactive dashboard tracking $230 billion in suspected fraud uncovered by JD Vance's task force.",
+      "url": "https://www.foxnews.com/politics/white-house-launches-interactive-map-tracking-billions-suspected-fraud",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/white-house-fraud-tracker-sba.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-08-13T18:01:30.000Z"
+    },
+    {
+      "id": "rss-3552839b325f",
+      "title": "NFL futures betting: Aaron Donald expert's pick for NFL Comeback Player of the Year, plus a deep CPOY sleeper",
+      "description": "Could a rumored return from retirement lead to major awards hardware? Here are two high-value Comeback Player of the Year futures to bet on right now",
+      "url": "\n                                                https://www.cbssports.com/betting/news/nfl-futures-betting-aaron-donald-experts-pick-for-nfl-comeback-player-of-the-year-plus-a-deep-cpoy-sleeper/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/13/3fe8beb7-1f53-4278-9f24-eb97e5e5e734/aaron-donald.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T18:01:19.000Z"
+    },
+    {
+      "id": "rss-0dcbfd9565d1",
+      "title": "Sprite Spree Week schedule for Fortnite Chapter 7 Season 3",
+      "description": "Sprite Spree Week is starting on Saturday, Aug. 15 and will last until the end of Fortnite Chapter 7 Season 3. Here's the schedule of days.",
+      "url": "https://www.polygon.com/fortnite-chapter-7-season-3-sprite-spree-week-schedule-hours-days-mythic-galaxy-holo-cube-gem/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/jlee_260813_1001_fn_spriteweek.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T18:01:12.000Z"
+    },
+    {
+      "id": "rss-c7f040790fb6",
+      "title": "What time does the Fortnite Unstable live event start?",
+      "description": "Fortnite Chapter 7 Season 3 comes to an end soon, and players can wrap up the Override storyline in the Unstable event.",
+      "url": "https://www.polygon.com/fortnite-chapter-7-season-3-unstable-event-time-when/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fortnite-unstable-story-moment.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T18:01:12.000Z"
+    },
+    {
+      "id": "rss-864ba43be5a0",
+      "title": "Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?",
+      "description": "It's the battle of the year as we pit EA's two excellent PC-only shooters against each other to figure out which is the best",
+      "url": "https://kotaku.com/battlefield-1942-vs-medal-of-honor-allied-assault-which-is-the-better-ww2-shooter-2000724128",
+      "image": "https://kotaku.com/app/uploads/2026/08/bfvsmoh-1280x720.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T18:00:19.000Z"
+    },
+    {
+      "id": "rss-5bfcbd70a18a",
+      "title": "Review of studies on single-use plastics reveals broader circular economy approach is needed",
+      "description": "A review of research published in the Interdisciplinary Environmental Review on single-use plastics argues that tackling the waste problem will require a shift from recycling alone to a broader circul",
+      "url": "https://phys.org/news/2026-08-plastics-reveals-broader-circular-economy.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/single-use-plastics.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-13T18:00:08.000Z"
+    },
+    {
+      "id": "rss-fce059a6b0b4",
+      "title": "Paleontologists reconstruct forests of 56 million years ago with chilling parallels for our warming planet",
+      "description": "If you want to know how rapidly pumping carbon dioxide into the atmosphere will affect future forest ecosystems, you have to look into the distant past. The researchers behind a new study published in",
+      "url": "https://phys.org/news/2026-08-paleontologists-reconstruct-forests-million-years.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/paleontologists-recons-1.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-13T18:00:06.000Z"
+    },
+    {
+      "id": "rss-04aacd4b2d37",
+      "title": "You can now just point at a mess and this robot vacuum will suck it up",
+      "description": "The Matic robot vacuum now offers gesture controlled spot cleaning and a built-in voice assistant. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nMatic, my current favorite robot vacuum, just got a ",
+      "url": "https://www.theverge.com/tech/979516/matic-cues-robot-vacuum-gesture-control-hands-on-review",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_8725.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+      "source": "The Verge",
+      "category": "technology",
+      "publishedAt": "2026-08-13T18:00:00.000Z"
+    },
+    {
+      "id": "rss-d456e6ac2a97",
+      "title": "‘Remarkable’ discovery upends our understanding of how brains store memories",
+      "description": "Memories in mice persisted even after they lost the connections that we thought were needed for recall, expanding our knowledge of memory in the mammalian brain",
+      "url": "https://www.newscientist.com/article/2584638-remarkable-discovery-upends-our-understanding-of-how-brains-store-memories/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_308195965.jpg",
+      "source": "New Scientist",
+      "category": "science",
+      "publishedAt": "2026-08-13T18:00:00.000Z"
+    },
+    {
+      "id": "rss-9ed8167865c7",
+      "title": "Matic Cues feature lets you just talk to your robot vacuum or point at a mess to clean",
+      "description": "Matic has added voice and gesture control to its robot vacuum and mop through a software update called Matic Cues. After testing both features, the short and sweet of it is that voice control is reall",
+      "url": "https://9to5mac.com/2026/08/13/matic-cues-lets-you-just-talk-to-your-robot-vacuum-or-point-at-a-mess-to-clean/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/03/matic-homekit.webp?w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-08-13T18:00:00.000Z"
+    },
+    {
+      "id": "rss-1bc8e1fbc78c",
+      "title": "'The X-Files' creator Chris Carter says new director's cut of 'I Want to Believe' is 'the horror movie that we really wanted to make' (interview)",
+      "description": "Chris Carter, creator of \"The X-Files\", is revisiting the 2008 film \"The X-Files: I Want to Believe\" in an new R-rated director's cut coming to Hulu on Aug. 14.",
+      "url": "https://www.space.com/entertainment/space-movies-shows/the-x-files-creator-chris-carter-says-new-directors-cut-of-i-want-to-believe-is-the-horror-movie-that-we-really-wanted-to-make-interview",
+      "image": "https://cdn.mos.cms.futurecdn.net/BG4nC93SFzdC9ktwcn3b9C-1280-80.jpg",
+      "source": "Space.com",
+      "category": "science",
+      "publishedAt": "2026-08-13T18:00:00.000Z"
+    },
+    {
+      "id": "rss-2946734da98b",
+      "title": "The glue that binds a proton may be key to its identity",
+      "description": "Gluons do more than hold protons together. They may also help define the proton’s identity through a quantum property called baryon number.",
+      "url": "https://www.sciencenews.org/article/gluons-proton-identity-baryon",
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/081326_EC_proton_main.jpg?w=800",
+      "source": "Science News",
+      "category": "science",
+      "publishedAt": "2026-08-13T18:00:00.000Z"
+    },
+    {
+      "id": "rss-f2811f9c4dbe",
+      "title": "Google Pixel Watch 5: New Offline Feature Improves Accessibility",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/google-pixel-watch-5-new-offline-feature-improves-accessibility",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-13/03wcvw5g/Google%E2%80%99s-Pixel-Watch-5-dives-deeper-into-AI-and-health.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-13T18:00:00.000Z"
+    },
+    {
+      "id": "rss-d07ae96c1fed",
+      "title": "6 Things You Need to Know About the Shocking $12.5 Billion Lakers Sale",
+      "description": "Read this article on Variety’s sister website Sportico. The record-breaking Los Angeles Lakers sale, announced Wednesday to a largely unsuspecting audience, is packed with intrigue.  The seller, Mark ",
+      "url": "https://variety.com/2026/sports/news/los-angeles-lakers-sale-1236834013/",
+      "image": "https://variety.com/wp-content/uploads/2020/04/GettyImages-2267327557.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-08-13T17:59:21.000Z"
+    },
+    {
+      "id": "rss-cf98dd180593",
+      "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
+      "description": "The vote to add “Restored and Renovated by President Donald J. Trump” is an aggressive test of a judge’s order to remove his name.",
+      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13cul-kennedy-center-gqfj/13cul-kennedy-center-gqfj-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-13T17:56:54.000Z"
+    },
+    {
+      "id": "rss-1fb156c03f41",
+      "title": "Netflix FTX Series ‘The Altruists’ Sets November Release Date, Drops First Look Photos",
+      "description": "Netflix has set the release date for “The Altruists,” inspired by Sam Bankman-Fried and Caroline Ellison’s rise and fall from financial power. “The Altruists” hits Netflix November 19. Netflix has als",
+      "url": "https://variety.com/2026/tv/news/netflix-the-altruists-release-date-first-look-photos-1236833976/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/The_Altruists_n_S1_E2_00_17_50_02_C.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-08-13T17:56:23.000Z"
+    },
+    {
+      "id": "rss-dae9e2b3e385",
+      "title": "Why You Remember the Feeling but Forget What Happened",
+      "description": "How emotional memories survive without the details\nContinue reading on Medium »",
+      "url": "https://jawad473.medium.com/why-you-remember-the-feeling-but-forget-what-happened-8cc9aab2ad19?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/0*WXsDSGAO3CLErwsn",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:55:58.000Z"
+    },
+    {
+      "id": "rss-b02ff93c2a8e",
+      "title": "Why Everything You Know About Stress Is Making It Worse",
+      "description": "She connected with me over a Zoom call on a Tuesday afternoon with eleven years of effort in her eyes.\nContinue reading on Medium »",
+      "url": "https://medium.com/@shakti.kush/why-everything-you-know-about-stress-is-making-it-worse-658089d1c5f9?source=rss------mental_health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*DnonHKLUrlK0pHNZCtJKCg.png",
+      "source": "Mental Health (Medium)",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:55:34.000Z"
+    },
+    {
+      "id": "rss-7fb9c2082ea4",
+      "title": "UFC 330 -- Islam Makhachev vs. Ian Garry: Fight card, date, odds, location and more for Philadelphia",
+      "description": "The welterweight and women's strawweight titles are on the line this weekend",
+      "url": "\n                                                https://www.cbssports.com/ufc/news/ufc-330-fight-card-odds-date-islam-makhachev-ian-machado-garry/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/10/4ffc3a03-5d4c-46c4-b3f6-a000700bc1da/islam-makhachev-kneel.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T17:55:24.000Z"
+    },
+    {
+      "id": "rss-083ea330ca4c",
+      "title": "Abhi and Niyu vs The Sham Sharma Show (2026): Which Indian Current Affairs YouTube Channel Offers…",
+      "description": "Looking Beyond Headlines: Which YouTube Channel Helps You Understand India Better?\nContinue reading on Medium »",
+      "url": "https://medium.com/@sdplacement8/abhi-and-niyu-vs-the-sham-sharma-show-2026-which-indian-current-affairs-youtube-channel-offers-7426e0d5dee6?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*EXpYFDplQB9CqofhNI4Sww.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:55:16.000Z"
+    },
+    {
+      "id": "rss-5c5d95e0382e",
+      "title": "Of Animals and Alarm Clocks",
+      "description": "This piece was originally written in 2015 for the now-defunct Pen&Prep blog. I gave a presentation covering similar materials for my…\nContinue reading on Medium »",
+      "url": "https://samuelrjohn.medium.com/of-animals-and-alarm-clocks-5da0a03109a5?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/936/1*LmnPBABTh3LZvkW6-b9rLQ.png",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:53:17.000Z"
+    },
+    {
+      "id": "rss-505a7341cd09",
+      "title": "Drinking: Choice, Luxury, Habit or a Trap?",
+      "description": "Why we drink: how social pressure shapes our habits and the hidden risks behind the glass.\nContinue reading on Medium »",
+      "url": "https://medium.com/@penmystery30/drinking-choice-luxury-habit-or-a-trap-f4118484e41c?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/1920/1*PK9fy-vXaCeu5njwK3U1cw.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:53:06.000Z"
+    },
+    {
+      "id": "rss-c14c5db66c57",
+      "title": "From 20 Methadone Pills a Day to Cutting My Own Veins: My Brutal Journey Out of Addiction (A True…",
+      "description": "## Chapter One: The Beginning — From the Village to the City\nContinue reading on Medium »",
+      "url": "https://medium.com/@khaledisardashtiruhollah/from-20-methadone-pills-a-day-to-cutting-my-own-veins-my-brutal-journey-out-of-addiction-a-true-916a772230ce?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*IIIr6MHPOTNsh7tIN3QLxA.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:51:51.000Z"
+    },
+    {
+      "id": "rss-ffb1a85406f7",
+      "title": "HOW TO WASH YOUR CLOTHES EFFECTIVELY",
+      "description": "The fine art of Cloth Washing \nContinue reading on Medium »",
+      "url": "https://medium.com/@hyjamnovem/how-to-wash-your-clothes-effectively-6995805a6675?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/736/1*yUxRqmhl7B4NHExyBqF1tw.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:48:26.000Z"
+    },
+    {
+      "id": "rss-b671f8decbcb",
+      "title": "Matthew McConaughey Turned Down Playing Joel in HBO’s ‘Last of Us’ Even Though It Was ‘Really Good’: ‘It Wasn’t for Me at the Time’",
+      "description": "Matthew McConaughey joined the HBO Hall of Fame with his Emmy-nominated lead role on the first season of “True Detective,” and he nearly landed another major part in the network’s video game adaptatio",
+      "url": "https://variety.com/2026/tv/news/matthew-mcconaughey-last-of-us-hbo-joel-1236833955/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/2-split-final.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-08-13T17:46:49.000Z"
+    },
+    {
+      "id": "rss-63d118158b66",
+      "title": "New 'Attack on Titan' Project Will Be Announced Next Week, WIT Studio Teases",
+      "description": "It looks like WIT Studio isn't done with 'Attack on Titan' because it just announced it will reveal something new on Aug. 20.",
+      "url": "https://www.polygon.com/attack-on-titan-studio-teases-new-project/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/24559596/Screenshot_2023_04_04_080156.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:46:04.000Z"
+    },
+    {
+      "id": "rss-4698873738df",
+      "title": "How Cryptocurrencies are Reshaping Global Politics, Power",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/how-cryptocurrencies-are-reshaping-global-politics-power",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-13/5qgmqwfg/How-Cryptocurrencies-Are-Reshaping-Global-Politics-and-Power.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-13T17:45:00.000Z"
+    },
+    {
+      "id": "rss-defb21ee6afc",
+      "title": "Tentang sempak dan perjuangan",
+      "description": "Continue reading on Medium »",
+      "url": "https://medium.com/@azizlubis23/tentang-sempak-dan-perjuangan-2025396e94c2?source=rss------health-5",
+      "image": "https://cdn-images-1.medium.com/max/2600/1*qyZvomNPzC_Bt5dHfz-4xQ@2x.jpeg",
+      "source": "Medium Health",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:43:16.000Z"
+    },
+    {
+      "id": "rss-aec682fcc072",
+      "title": "How Filmhub is Investing in the Creator Economy Through New Deal With UnderCurrent (EXCLUSIVE)",
+      "description": "As part of the global distribution and sales company’s investment in the creator economy, Filmhub has inked a partnership with talent management company UnderCurrent. Filmhub’s goal with the partnersh",
+      "url": "https://variety.com/2026/digital/news/filmhub-undercurrent-deal-kelsi-davies-jimmy-here-1236833214/",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Alan-Filmhub.jpg",
+      "source": "Variety",
+      "category": "entertainment",
+      "publishedAt": "2026-08-13T17:42:47.000Z"
+    },
+    {
+      "id": "rss-64777172eb87",
+      "title": "How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions",
+      "description": "Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.",
+      "url": "https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00dc-scotus-argumentd-fpgw/00dc-scotus-argumentd-fpgw-mediumSquareAt3X.jpg",
+      "source": "NYT Politics",
+      "category": "politics",
+      "publishedAt": "2026-08-13T17:40:07.000Z"
+    },
+    {
+      "id": "rss-f3aeb75355cd",
+      "title": "Climate change decided who ruled as top predator 35 million years ago",
+      "description": "An international team of researchers from Belgium, France, Switzerland, Spain and the U.S. has reconstructed the evolution of body mass in carnivorous mammals during the Paleogene—a crucial window in ",
+      "url": "https://phys.org/news/2026-08-climate-predator-million-years.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/climate-change-decided.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-13T17:40:03.000Z"
+    },
+    {
+      "id": "rss-4c70b13449b0",
+      "title": "GPS tracking study reveals why invasive barred owls are winning the battle for California's old-growth forests",
+      "description": "Newly published research offers some of the clearest evidence yet of why the invasive barred owl has become one of the greatest threats to the northern spotted owl and delivers encouraging evidence th",
+      "url": "https://phys.org/news/2026-08-gps-tracking-reveals-invasive-barred.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/gps-tracking-study-rev.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-13T17:40:01.000Z"
+    },
+    {
+      "id": "rss-cc97dd796687",
+      "title": "Marvel Tokon Nears 500K Sales In Its First Week Despite Fighting Games’ Niche Appeal",
+      "description": "A week has passed since Marvel Tokon: Fighting Souls launched for PC and PS5, and the new fighting game is off to a solid start. According to new estimates by Alinea Analytics, the game has reportedly",
+      "url": "https://www.gamespot.com/articles/marvel-tokon-nears-500k-sales-in-its-first-week-despite-fighting-games-niche-appeal/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Marvel-Tokon-Wolverine.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:37:51.000Z"
+    },
+    {
+      "id": "rss-23ae56e5fe24",
+      "title": "Where to find the Hokuryu Sunflower Farm in Forza Horizon 6",
+      "description": "Here's where you can find the Hokuryu Sunflower Farm in Forza Horizon 6, the place you must visit to complete the Series 4 #SunnySnap photo challenge.",
+      "url": "https://www.polygon.com/forza-horizon-6-fh6-hokuryu-sunflower-farm-location-where-to-find/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/fh6_guide_photochallenge_header.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:37:16.000Z"
+    },
+    {
+      "id": "rss-1bfa7341dc22",
+      "title": "'I worked really hard and it paid off': Elation, nerves and proud parents as students get results",
+      "description": "A Ukrainian refugee, a firefighter and triplets are among the students reacting to their results.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gd47j24wyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de8d/live/3d2a06d0-9723-11f1-a7ab-8b30adf0800a.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-13T17:35:53.000Z"
+    },
+    {
+      "id": "rss-45e8c62ec1f7",
+      "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
+      "description": "He is charged with stalking resulting in the death of an executive, but the specifics of his plea were unclear. A murder trial in state court is set for next month.",
+      "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html",
+      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00met-mangione-gbqv/00met-mangione-gbqv-mediumSquareAt3X-v2.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-13T17:31:48.000Z"
+    },
+    {
+      "id": "rss-38f3ca42f40b",
+      "title": "Covid Vaccines Are Not Linked to Miscarriage. Here’s How We Know.",
+      "description": "Prominent Republicans and others have falsely claimed this week that the shots are linked, despite years of data showing they are safe.",
+      "url": "https://www.nytimes.com/2026/08/13/well/covid-vaccine-pregnancy-miscarriage-fauci.html",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13well-pregnant-vax-mfbc/13well-pregnant-vax-mfbc-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:30:20.000Z"
+    },
+    {
+      "id": "rss-143ddacfaa97",
+      "title": "'They basically used these dried-up wells just to throw people in': 43 skeletons found in Roman-era well may be evidence of deadly plague",
+      "description": "Archaeologists have analyzed dozens of skeletons from a mass burial in a well. The lack of injuries suggests the people may have died from a plague rather than a battle.",
+      "url": "https://www.livescience.com/archaeology/romans/they-basically-used-these-dried-up-wells-just-to-throw-people-in-43-skeletons-found-in-roman-era-well-may-be-evidence-of-deadly-plague",
+      "image": "https://cdn.mos.cms.futurecdn.net/weieabkxuzXvoRUkrmN9t6-1280-80.png",
+      "source": "Live Science",
+      "category": "science",
+      "publishedAt": "2026-08-13T17:30:16.000Z"
+    },
+    {
+      "id": "rss-73050641adab",
+      "title": "S&P 500 Hits Record High as Tech Stocks Rally and Oil Prices Retreat",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/stocks/sp-500-hits-record-high-as-tech-stocks-rally-and-oil-prices-retreat",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-13/hoprcbbb/US-stock-update-6.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-13T17:30:00.000Z"
+    },
+    {
+      "id": "rss-e2780c3df4f1",
+      "title": "I Changed My Breakfast for 30 Days — And I Finally Stopped Thinking About Food All Morning",
+      "description": "For years, breakfast was the meal I paid the least attention to.\nContinue reading on Medium »",
+      "url": "https://medium.com/@coachsarahevans/i-changed-my-breakfast-for-30-days-and-i-finally-stopped-thinking-about-food-all-morning-4c8a7f5e8d13?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*8v0ANOP1XVXlDc_sRVb9bw.png",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:25:43.000Z"
+    },
+    {
+      "id": "rss-81a1857db2fd",
+      "title": "Flock tries to make its cameras harder for cops to misuse",
+      "description": "Flock tries to make its cameras harder for cops to misuse.",
+      "url": "https://www.engadget.com/2236415/flock-tries-to-make-its-cameras-harder-for-cops-to-misuse/",
+      "image": "https://www.engadget.com/img/gallery/flock-tries-to-make-its-cameras-harder-for-cops-to-misuse/l-intro-1786641877.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-08-13T17:25:34.000Z"
+    },
+    {
+      "id": "rss-537016610e38",
+      "title": "Popular Indian YouTubers Who Became Entrepreneurs",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/photo/popular-indian-youtubers-who-became-entrepreneurs",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-13/cp30zwed/Popular-Indian-YouTubers-Who-Became-Entrepreneurs.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-13T17:24:36.000Z"
+    },
+    {
+      "id": "rss-ca7d76bb0cca",
+      "title": "10 House incumbent lawmakers who saw their 2026 re-election bids end in primary defeat",
+      "description": "10 incumbent U.S. House lawmakers so far have lost their primaries while running in the 2026 election cycle, including three Republicans and seven Democrats.",
+      "url": "https://www.foxnews.com/politics/10-house-incumbent-lawmakers-who-saw-2026-re-election-bids-end-primary-defeat",
+      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/crenshaw-massie-thanedar-split-1.jpg?ve=1&tl=1",
+      "source": "Fox News Politics",
+      "category": "politics",
+      "publishedAt": "2026-08-13T17:23:56.000Z"
+    },
+    {
+      "id": "rss-ce9c2bd810f8",
+      "title": "How to get fire bricks in Grounded 2",
+      "description": "Here's how to get fire bricks in Grounded 2, including how to unlock the fire brick recipe and get crushed quartz from phantom quartz",
+      "url": "https://www.polygon.com/grounded-2-fire-bricks-recipe-how-to-get/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/grounded-2-fire-brick.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:22:57.000Z"
+    },
+    {
+      "id": "rss-25093249fdaa",
+      "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
+      "description": "An amber extreme heat warning is in place for parts of England until midnight.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/f5d3b4c0-9731-11f1-b2ab-0dd01740f9f6.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-13T17:22:42.000Z"
+    },
+    {
+      "id": "rss-182fdce0c6a8",
+      "title": "Ignore Your Growing Backlog–It’s Time To Play South Of Midnight On Steam",
+      "description": "Look, it's no surprise to anyone for me to admit that I like South of Midnight. I've written about it being a love letter to the American Deep South, noted how it was one of the best Xbox games of 202",
+      "url": "https://www.gamespot.com/articles/ignore-your-growing-backlog-its-time-to-play-south-of-midnight-on-steam/",
+      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/south-of-midnight-release-date-revealed-at-xbox-developer-di_9ejn.jpg?w=300",
+      "source": "GameSpot",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:22:14.000Z"
+    },
+    {
+      "id": "rss-f9b9c13c3037",
+      "title": "After Bombing in Theaters, Amazon's $200M Sci-Fi Epic Is a Prime Video Sensation 3 Weeks Running",
+      "description": "‘Masters of the Universe’ has found new life on Prime Video after earning just $113 million worldwide against its massive budget.",
+      "url": "https://www.polygon.com/masters-of-the-universe-amazon-prime-video-streaming/",
+      "image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/08/mcdmaof_mg035.jpg",
+      "source": "Polygon",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:20:09.000Z"
+    },
+    {
+      "id": "rss-71362fdb7b17",
+      "title": "Soft-bodied sea slug reconfigures anatomy to simplify feeding control",
+      "description": "Made entirely of muscle, with no rigid skeleton, muscular hydrostats like octopus arms, elephant trunks and human tongues can move in ways traditional mechanical systems cannot. Between crawling acros",
+      "url": "https://phys.org/news/2026-08-soft-bodied-sea-slug-reconfigures.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/when-the-body-does-the.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-13T17:20:05.000Z"
+    },
+    {
+      "id": "rss-0edfaf09705c",
+      "title": "New research explores how home languages can strengthen early English reading instruction",
+      "description": "During a reading lesson, Mateo, an elementary multilingual learner (MLL) in a Delaware public school, read \"sit\" as \"seat.\" Jon Kittle, his reading interventionist, walked him through the short vowel ",
+      "url": "https://phys.org/news/2026-08-explores-home-languages-early-english.html",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breaking-barriers-for.jpg",
+      "source": "Phys.org",
+      "category": "science",
+      "publishedAt": "2026-08-13T17:20:03.000Z"
+    },
+    {
+      "id": "rss-d16afe92c80b",
+      "title": "Want to Earn on YouTube? Creators Now Need Twice the Watch Hours",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/ampstories/apps/want-to-earn-on-youtube-creators-now-need-twice-the-watch-hours",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-13/9w54i6ls/Want-to-Earn-on-YouTube-Creators-Now-Need-Twice-the-Watch-Hours.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-13T17:20:00.000Z"
+    },
+    {
+      "id": "rss-0f9084c0c33e",
+      "title": "7 Things We Learned About Insomniac’s Wolverine From The Latest Previews",
+      "description": "Logan’s solo game is taking pieces of X-Men history and remixing them for a new story",
+      "url": "https://kotaku.com/marvels-wolverine-insomniac-previews-ps5-story-characters-2000724190",
+      "image": "https://kotaku.com/app/uploads/2026/08/wolverinepreviews.jpg",
+      "source": "Kotaku",
+      "category": "gaming",
+      "publishedAt": "2026-08-13T17:15:14.000Z"
+    },
+    {
+      "id": "rss-9be386436c73",
+      "title": "Pearl Abyss is Betting Big On DokeV After Crimson Desert’s Success",
+      "description": "",
+      "url": "https://www.analyticsinsight.net/news/pearl-abyss-is-betting-big-on-dokev-after-crimson-deserts-success",
+      "image": "https://media.assettype.com/analyticsinsight/2026-08-13/z9ie22sp/Pearl-Abyss-Is-Shifting-Personnel-from-Crimson-Desert-to-DokeV-Planning-Demos-Next-Year-and-a-Launch-in-2H-2028.jpg",
+      "source": "Analytics Insight",
+      "category": "ai",
+      "publishedAt": "2026-08-13T17:15:00.000Z"
+    },
+    {
+      "id": "rss-7d316661a693",
+      "title": "MacBook Neo 2 will get the big upgrade it needs most, per rumors",
+      "description": "MacBook Neo is still only a few months old, but it’s been a big hit for Apple. And rumors say its successor is coming next year, with MacBook Neo 2 getting the key upgrade it needs most: more RAM.",
+      "url": "https://9to5mac.com/2026/08/13/macbook-neo-2-will-get-the-big-upgrade-it-needs-most-per-rumors/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/macbook-neo-2-fi-new.jpg?quality=82&#038;strip=all&#038;w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-08-13T17:12:58.000Z"
+    },
+    {
+      "id": "rss-e954ec714880",
+      "title": "NFL training camp injuries tracker: Latest updates on Chuba Hubbard, Christian McCaffrey, Alec Pierce and more",
+      "description": "Keep track of every major injury, setback, and recovery timeline across the league as teams prepare for the upcoming season",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/10/a757d3f9-a119-4dfd-aaba-3dbabfc883d4/christian-mccaffrey.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T17:12:35.000Z"
+    },
+    {
+      "id": "rss-859f83389129",
+      "title": "Aerial footage shows derailed train",
+      "description": "A train has derailed near Lewes in East Sussex, British Transport Police say.",
+      "url": "https://www.bbc.co.uk/news/videos/cn5np5x00edo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b984/live/4615fab0-9741-11f1-870d-5d08c49babb2.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-13T17:09:23.000Z"
+    },
+    {
+      "id": "rss-d77c41cee1ee",
+      "title": "Bonnie Tyler's classic hit spiked in streams during solar eclipse",
+      "description": "Bonnie Tyler's friend Mal Pope heard Total Eclipse of the Heart playing throughout Mumbles in Swansea.",
+      "url": "https://www.bbc.co.uk/news/articles/c75g9g50y9eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/51d3/live/eba5e8b0-972c-11f1-bbb3-ebc49f706d46.jpg",
+      "source": "BBC News",
+      "category": "trending",
+      "publishedAt": "2026-08-13T17:07:42.000Z"
+    },
+    {
+      "id": "rss-20202e80eb41",
+      "title": "Use this space to roast the new Instagram logo",
+      "description": "Use this space to roast the new Instagram logo.",
+      "url": "https://www.engadget.com/2236398/use-this-space-to-roast-the-new-instagram-logo/",
+      "image": "https://www.engadget.com/img/gallery/use-this-space-to-roast-the-new-instagram-logo/l-intro-1786641117.jpg",
+      "source": "Engadget",
+      "category": "technology",
+      "publishedAt": "2026-08-13T17:06:30.000Z"
+    },
+    {
+      "id": "rss-48fda30c5f78",
+      "title": "Fin Jack’s Approach to Fitness: Building Strength, Discipline and a Standard That Lasts",
+      "description": "A successful career can demand long hours, constant decisions and a schedule that leaves little room for unnecessary complications. For…\nContinue reading on Medium »",
+      "url": "https://medium.com/@worldnewslatest/fin-jacks-approach-to-fitness-building-strength-discipline-and-a-standard-that-lasts-b7550f11cd6c?source=rss------fitness-5",
+      "image": "https://cdn-images-1.medium.com/max/1536/1*FYCln0xgu-PhuB6srg9tzQ.jpeg",
+      "source": "Medium Fitness",
+      "category": "health",
+      "publishedAt": "2026-08-13T17:04:46.000Z"
+    },
+    {
+      "id": "rss-5a2287ed8fb2",
+      "title": "It's hard to win them all: Predicting the first loss for 13 top College Football Playoff contenders",
+      "description": "Going undefeated is a tall order for even college football's most talented teams. Here's where each contender could see their dreams of a perfect season come to an end",
+      "url": "\n                                                https://www.cbssports.com/college-football/news/predicting-first-loss-13-college-football-playoff-contenders/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/12/dbdc1195-1642-46b2-9c32-6e82f2a70ab8/arch-v-ohio-state-2.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T17:04:29.000Z"
+    },
+    {
+      "id": "rss-68d91a4073f3",
+      "title": "Predicting MVP for each AFC team, plus eight teams that need the preseason the most and rookies to watch",
+      "description": "Here's everything you need to know about the NFL for Aug. 13",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/predicting-mvp-for-each-afc-team-plus-eight-teams-that-need-the-preseason-the-most-and-rookies-to-watch/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/06/13234c5f-f060-4977-97e3-71e837e71e22/kenneth-walker-kansas-city-chiefs-imagn-images.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T17:03:01.000Z"
+    },
+    {
+      "id": "rss-866e4299714c",
+      "title": "OpenAI previews ‘Ultrafast’ GPT-5.6 Sol running up to 14 times faster",
+      "description": "OpenAI is previewing a new way to run its most capable GPT-5.6 model at dramatically higher speeds. The company says its new Ultrafast service tier can run GPT-5.6 Sol up to 14 times faster than stand",
+      "url": "https://9to5mac.com/2026/08/13/openai-previews-ultrafast-gpt-5-6-sol-running-up-to-14-times-faster/",
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-orange.webp?w=1600",
+      "source": "9to5Mac",
+      "category": "technology",
+      "publishedAt": "2026-08-13T17:02:00.000Z"
+    },
     {
       "id": "rss-97859c18e37d",
       "title": "Comedian Sebastian Maniscalco Launching New SiriusXM Interview Show With Guests Including Jerry Seinfeld and Ray Romano (EXCLUSIVE)",
       "description": "Sebastian Maniscalco is hosting a new monthly series on SiriusXM, “We Got Company,” in which the veteran stand-up comedian and actor will sit down for extended one-on-one conversations with notable gu",
       "url": "https://variety.com/2026/digital/news/sebastian-maniscalco-we-got-company-siriusxm-jerry-seinfeld-ray-romano-1236831348/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/Sebastian-Maniscalco.jpg",
+      "image": "https://variety.com/wp-content/uploads/2026/08/Sebastian-Maniscalco-1.jpg",
       "source": "Variety",
       "category": "entertainment",
       "publishedAt": "2026-08-13T17:01:38.000Z"
+    },
+    {
+      "id": "rss-e21c1797bbc1",
+      "title": "Aaron Rodgers sounds off on the problems with the NFL preseason: 'It's not real football'",
+      "description": "The Steelers quarterback does not sound eager to face his former team in Pittsburgh's preseason opener",
+      "url": "\n                                                https://www.cbssports.com/nfl/news/aaron-rodgers-steelers-packers-preseason-football/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/13/0f472d4a-996a-45ff-b3d4-cc348bbbb2a3/steelers.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T17:01:36.000Z"
     },
     {
       "id": "rss-e5b4737d8a29",
@@ -153,6 +1013,16 @@
       "publishedAt": "2026-08-13T16:57:08.000Z"
     },
     {
+      "id": "rss-5a1ee92ca329",
+      "title": "Fantasy football rankings 2026: Breakouts via model that called McMillan's huge season",
+      "description": "SportsLine simulated the NFL season 10,000 times and revealed its 2026 Fantasy football breakouts for 2026 Fantasy football draft prep",
+      "url": "\n                                                https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-2026-breakouts-via-model-that-called-mcmillans-huge-season/\n                    ",
+      "image": "https://sportshub.cbsistatic.com/i/2026/08/13/bb25a531-0bd3-4d78-a138-a936d790c3b4/omarion-hampton-justin-herbert-chargers.jpg",
+      "source": "CBS Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T16:56:18.000Z"
+    },
+    {
       "id": "rss-33e3b1ee7a79",
       "title": "I Learned That Real Rest Requires More Than Sleep",
       "description": "Your body can rest while another part still needs care.\nContinue reading on Medium »",
@@ -171,16 +1041,6 @@
       "source": "Polygon",
       "category": "gaming",
       "publishedAt": "2026-08-13T16:54:01.000Z"
-    },
-    {
-      "id": "rss-25093249fdaa",
-      "title": "UK sees hottest day of the year as 38.1C recorded in Kew Gardens",
-      "description": "An amber extreme heat warning is in place for parts of England until midnight.",
-      "url": "https://www.bbc.co.uk/news/articles/c8xnwz7kl2vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442c/live/f5d3b4c0-9731-11f1-b2ab-0dd01740f9f6.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-08-13T16:53:28.000Z"
     },
     {
       "id": "rss-78c95784e59a",
@@ -253,16 +1113,6 @@
       "publishedAt": "2026-08-13T16:47:37.000Z"
     },
     {
-      "id": "rss-85182b8e0d72",
-      "title": "Trump-Led Board Votes Again to Close Kennedy Center for Renovations",
-      "description": "The decision will be reviewed by a federal judge who previously said the board had not thoroughly evaluated the president’s plan.",
-      "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
-      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13cul-kennedy-center-gqfj/13cul-kennedy-center-gqfj-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-13T16:47:28.000Z"
-    },
-    {
       "id": "rss-d6e726956a57",
       "title": "Instagram Unveils ‘More Modern’ New Logo, and People Are Already Making Fun of It",
       "description": "Meta’s Instagram proudly launched a new logo Thursday — its first update in a decade — and the trolling has already begun. “The wordmark at the top of the app hasn’t changed in 10 years, so it was tim",
@@ -281,6 +1131,16 @@
       "source": "BBC News",
       "category": "trending",
       "publishedAt": "2026-08-13T16:45:06.000Z"
+    },
+    {
+      "id": "rss-f9488bd7bf6a",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "description": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp",
+      "source": "Google AI",
+      "category": "ai",
+      "publishedAt": "2026-08-13T16:45:00.000Z"
     },
     {
       "id": "rss-0d7ee9543df5",
@@ -363,14 +1223,14 @@
       "publishedAt": "2026-08-13T16:36:37.000Z"
     },
     {
-      "id": "rss-0de9596b6061",
-      "title": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
-      "description": "The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
-      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/dc-minn-whjk/dc-minn-whjk-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-13T16:35:42.000Z"
+      "id": "rss-db81b645b2e5",
+      "title": "LIV set to cancel season-ending Team Championship",
+      "description": "LIV Golf players have been warned that the season-ending Team Championship later this month is set to be cancelled.",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/c1512e13n40o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29e8/live/08261af0-9732-11f1-bbb3-ebc49f706d46.jpg",
+      "source": "BBC Sports",
+      "category": "sports",
+      "publishedAt": "2026-08-13T16:36:15.000Z"
     },
     {
       "id": "rss-8e1c11932ff0",
@@ -537,7 +1397,7 @@
       "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
       "description": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie",
       "url": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70a8/live/c5ff88a0-971d-11f1-870d-5d08c49babb2.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bc7/live/e2c4de90-9740-11f1-870d-5d08c49babb2.jpg",
       "source": "BBC Sports",
       "category": "sports",
       "publishedAt": "2026-08-13T16:21:51.000Z"
@@ -583,16 +1443,6 @@
       "publishedAt": "2026-08-13T16:20:00.000Z"
     },
     {
-      "id": "rss-33d5c4e2c935",
-      "title": "California May Let Residents Choose ‘Jewish’ as an Ethnic Identifier",
-      "description": "A bill would allow Jews to identify themselves as an ethnic group on state forms. Supporters argue it’s a step toward acknowledging the complex nature of Jewish identity.",
-      "url": "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html",
-      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13nat-jewish-bill-jzgq/13nat-jewish-bill-jzgq-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-13T16:17:52.000Z"
-    },
-    {
       "id": "rss-13ae9e24bf1e",
       "title": "Warren’s ancestry saga roars back after Dem ally touts Native Senate first: ‘Arrows fired’",
       "description": "Elizabeth Warren's past Native American claims face a new criticisms as Minnesota's Democratic Senate nominee says no Native woman has served in the US Senate.",
@@ -611,16 +1461,6 @@
       "source": "Medium Health",
       "category": "health",
       "publishedAt": "2026-08-13T16:16:53.000Z"
-    },
-    {
-      "id": "rss-45e8c62ec1f7",
-      "title": "Luigi Mangione, Facing Stalking Charges in Federal Court, Is Expected to Plead Guilty",
-      "description": "Mr. Mangione faces stalking charges resulting in the death of an executive in Manhattan. Mr. Mangione could always change his mind at the last minute. A separate murder trial is set to begin next mont",
-      "url": "https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html",
-      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00met-mangione-gbqv/00met-mangione-gbqv-mediumSquareAt3X-v2.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-13T16:14:51.000Z"
     },
     {
       "id": "rss-e5ec3a9f289f",
@@ -770,7 +1610,7 @@
       "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13thedocket-nl-top-tfwz/13thedocket-nl-top-tfwz-mediumSquareAt3X.jpg",
       "source": "New York Times",
       "category": "trending",
-      "publishedAt": "2026-08-13T16:01:04.000Z"
+      "publishedAt": "2026-08-13T16:01:05.000Z"
     },
     {
       "id": "rss-8ce7140a74a3",
@@ -1257,7 +2097,7 @@
       "title": "The most popular GameCube emulator is no longer the only one",
       "description": "Everyone thinks of Dolphin for GameCube emulation, but what if there was another option? This newcomer emulator could be your next party night choice.",
       "url": "https://www.engadget.com/2233858/most-popular-gamecube-emulator-dolphin-not-only-one/",
-      "image": "https://www.engadget.com/img/gallery/the-most-popular-gamecube-emulator-is-no-longer-the-only-one/l-intro-1786384099.jpg",
+      "image": "https://www.engadget.com/img/gallery/most-popular-gamecube-emulator-dolphin-not-only-one/l-intro-1786642604.jpg",
       "source": "Engadget",
       "category": "technology",
       "publishedAt": "2026-08-13T15:30:00.000Z"
@@ -1461,6 +2301,16 @@
       "source": "Polygon",
       "category": "gaming",
       "publishedAt": "2026-08-13T15:19:50.000Z"
+    },
+    {
+      "id": "rss-5f2e413a9f0a",
+      "title": "The Golden Age of Mexican Food Is Here. And It’s Complicated.",
+      "description": "Even at a time of anti-immigration politics, there has never been a richer variety of Mexican restaurants in the United States.",
+      "url": "https://www.nytimes.com/2026/08/13/dining/mexican-food-scene-united-states-immigration.html",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13FD-mexican-cover1-mphz/13FD-mexican-cover1-mphz-mediumSquareAt3X.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-08-13T15:18:47.000Z"
     },
     {
       "id": "rss-40f8d71ba019",
@@ -2029,7 +2879,7 @@
       "url": "https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html",
       "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00dc-mosquitoes-top-01-zmbl/00dc-mosquitoes-top-01-zmbl-mediumSquareAt3X.jpg",
       "source": "New York Times",
-      "category": "health",
+      "category": "trending",
       "publishedAt": "2026-08-13T14:49:56.000Z"
     },
     {
@@ -2189,7 +3039,7 @@
       "url": "https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html",
       "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13met-insurance-loss-lfmw/13met-insurance-loss-lfmw-mediumSquareAt3X.jpg",
       "source": "New York Times",
-      "category": "trending",
+      "category": "health",
       "publishedAt": "2026-08-13T14:26:29.000Z"
     },
     {
@@ -2271,16 +3121,6 @@
       "source": "Analytics Insight",
       "category": "ai",
       "publishedAt": "2026-08-13T14:15:00.000Z"
-    },
-    {
-      "id": "rss-64777172eb87",
-      "title": "How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions",
-      "description": "Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html",
-      "image": "https://static01.nyt.com/images/2026/08/12/multimedia/00dc-scotus-argumentd-fpgw/00dc-scotus-argumentd-fpgw-mediumSquareAt3X.jpg",
-      "source": "NYT Politics",
-      "category": "politics",
-      "publishedAt": "2026-08-13T14:12:38.000Z"
     },
     {
       "id": "rss-cae2695e4c47",
@@ -6353,16 +7193,6 @@
       "publishedAt": "2026-08-13T04:09:12.000Z"
     },
     {
-      "id": "rss-d6e042cb6edc",
-      "title": "Trump Administration Lets Parts of the National Firearms Act Lapse",
-      "description": "The retreat by the Justice Department effectively allowed a pillar of the Prohibition-era National Firearms Act to lapse.",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/national-firearms-act-gun-control-doj.html",
-      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13dc-guns-mamw/13dc-guns-mamw-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-13T04:07:39.000Z"
-    },
-    {
       "id": "rss-bc815aa4e715",
       "title": "Best Dentist in Sector 19 Noida | Dr Sabherwals Dental",
       "description": "Looking for the best dentist in Sector 19 Noida? Dr Sabherwal's Dental Centre offers expert dental implants & root canal treatment.\nContinue reading on Medium »",
@@ -8891,16 +9721,6 @@
       "source": "Mental Health (Medium)",
       "category": "health",
       "publishedAt": "2026-08-12T20:18:42.000Z"
-    },
-    {
-      "id": "rss-e8ecac66786e",
-      "title": "‘Assassin’s Creed’ Creator’s New Action-Adventure Game ‘1666: Amsterdam’ Sets Early Access Release (Gaming News Roundup)",
-      "description": "Panache Digital Games announced “1666: Amsterdam” will release in Early Access on Aug. 25. From “Assassin’s Creed” series creator Patrice Désilets, the dark, third-person narrative action-adventure ga",
-      "url": "https://variety.com/2026/digital/news/gaming-news-roundup-week-of-august-10-1236831438/",
-      "image": "https://variety.com/wp-content/uploads/2026/08/1.png",
-      "source": "Variety",
-      "category": "entertainment",
-      "publishedAt": "2026-08-12T20:17:00.000Z"
     },
     {
       "id": "rss-e71f79652d79",
@@ -21363,16 +22183,6 @@
       "publishedAt": "2026-08-11T20:15:00.000Z"
     },
     {
-      "id": "rss-b46877919514",
-      "title": "NFL training camp injuries tracker: Latest updates on Christian McCaffrey, Alec Pierce and more",
-      "description": "Keep track of every major injury, setback, and recovery timeline across the league as teams prepare for the upcoming season",
-      "url": "\n                                                https://www.cbssports.com/nfl/news/nfl-training-camp-injuries-tracker/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/08/10/a757d3f9-a119-4dfd-aaba-3dbabfc883d4/christian-mccaffrey.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-11T20:13:01.000Z"
-    },
-    {
       "id": "rss-bebe1f7a5d42",
       "title": "Your Mind Is Lying to You: Saturn Retrograde & Karmic Awakening",
       "description": "Have you been overthinking lately?\nContinue reading on Medium »",
@@ -22941,16 +23751,6 @@
       "source": "Medium Health",
       "category": "health",
       "publishedAt": "2026-08-11T18:02:03.000Z"
-    },
-    {
-      "id": "rss-2c78abffe4e3",
-      "title": "UFC 330 -- Islam Makhachev vs. Ian Machado Garry: Fight card, odds, date, location and more for Philadelphia",
-      "description": "The welterweight and women's strawweight titles are on the line this weekend",
-      "url": "\n                                                https://www.cbssports.com/ufc/news/ufc-330-fight-card-odds-date-islam-makhachev-ian-machado-garry/\n                    ",
-      "image": "https://sportshub.cbsistatic.com/i/2026/08/10/4ffc3a03-5d4c-46c4-b3f6-a000700bc1da/islam-makhachev-kneel.jpg",
-      "source": "CBS Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-11T18:01:30.000Z"
     },
     {
       "id": "rss-e058af20da7b",
@@ -68701,466 +69501,6 @@
       "source": "BBC Sports",
       "category": "sports",
       "publishedAt": "2026-08-06T18:27:53.000Z"
-    },
-    {
-      "id": "rss-831a997a1118",
-      "title": "When a Fever Is Not Just a Fever: Red Flags Doctors Look For",
-      "description": "Most fevers are not dangerous. A fever is usually just the body doing what it’s supposed to do: fighting off an infection.\nContinue reading on Medium »",
-      "url": "https://medium.com/@zaland.7114/when-a-fever-is-not-just-a-fever-red-flags-doctors-look-for-1627489581f8?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/1242/1*6PF2zl-1PSnRV6aY8ZpUXA.png",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-08-06T18:26:10.000Z"
-    },
-    {
-      "id": "rss-abb9af74b263",
-      "title": "7 Steps I’ll Take If I Were 30% Body Fat Again.",
-      "description": "Someone who has a roadmap can always find their way back\nContinue reading on Medium »",
-      "url": "https://medium.com/@Seanveaux/7-steps-ill-take-if-i-were-30-body-fat-again-011ba7efc410?source=rss------fitness-5",
-      "image": "https://cdn-images-1.medium.com/max/2000/1*wZ_ge-rjXlDA80gMbEUEyw.jpeg",
-      "source": "Medium Fitness",
-      "category": "health",
-      "publishedAt": "2026-08-06T18:25:57.000Z"
-    },
-    {
-      "id": "rss-a9b46fd42e20",
-      "title": "Fallout Season 3 Set Leak Might Hint At The Show Visiting Fallout 3′s Capital Wasteland",
-      "description": "A sneaky picture taken by a fan heavily implies that an oddly specific order of the Brotherhood of Steel will show up in the next season of Fallout",
-      "url": "https://kotaku.com/fallout-season-3-set-leak-might-hint-at-the-show-visiting-fallout-3s-capital-wasteland-2000722221",
-      "image": "https://kotaku.com/app/uploads/2026/08/Fallout-3-feature-1280x720.jpg",
-      "source": "Kotaku",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T18:25:43.000Z"
-    },
-    {
-      "id": "rss-730212e31c58",
-      "title": "Apple’s latest macOS updates address a serious Screen Sharing vulnerability",
-      "description": "Apple has now published the security details for today’s macOS Tahoe, Sequoia, and Sonoma updates, revealing that all three address a serious Screen Sharing vulnerability. Here is what Apple fixed.",
-      "url": "https://9to5mac.com/2026/08/06/apples-latest-macos-updates-address-a-serious-screen-sharing-vulnerability/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "source": "9to5Mac",
-      "category": "technology",
-      "publishedAt": "2026-08-06T18:21:56.000Z"
-    },
-    {
-      "id": "rss-7e62b0fe4d72",
-      "title": "Democrats targeting 12 additional red districts in midterms push to retake House",
-      "description": "The DCCC is targeting 12 additional deep-red House districts, including seats held by Lauren Boebert and Mike Lawler, as Democrats eye midterm flips.",
-      "url": "https://www.foxnews.com/politics/democrats-targeting-12-additional-red-districts-midterms-push-retake-house",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/lauren-boebert.png?ve=1&tl=1",
-      "source": "Fox News Politics",
-      "category": "politics",
-      "publishedAt": "2026-08-06T18:21:20.000Z"
-    },
-    {
-      "id": "rss-9ce3f87cece0",
-      "title": "'This Is Unbelievably Scummy' - GTA 6 Fans Are Annoyed By Netflix's Paywalled Extended Look at the Game",
-      "description": "Grand Theft Auto 6 fans aren't thrilled with Rockstar's decision to release the next look at the game through Netflix.",
-      "url": "https://www.ign.com/articles/this-is-unbelievably-scummy-gta-6-fans-are-annoyed-by-netflixs-paywalled-extended-look-at-the-game",
-      "image": "https://assets-prd.ignimgs.com/2026/06/18/jason-and-lucia-03-landscape-1781798123709.jpg",
-      "source": "IGN",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T18:20:54.000Z"
-    },
-    {
-      "id": "rss-5cb6bddcadb2",
-      "title": "Blue Origin narrowing in on root cause of catastrophic rocket accident",
-      "description": "\"The anomaly originated at the main oxygen valve on one of the BE-4 engines.\"",
-      "url": "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/ng4explosion-1152x648.jpg",
-      "source": "Ars Technica",
-      "category": "technology",
-      "publishedAt": "2026-08-06T18:20:32.000Z"
-    },
-    {
-      "id": "rss-3459ea7f468c",
-      "title": "You Could One Day Stream Disney Movies for Free. Here’s Why.",
-      "description": "It's all part of the media giant's new streaming strategy.",
-      "url": "https://www.entrepreneur.com/business-news/you-could-watch-your-next-disney-movie-for-free-strategy",
-      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/08/josh-damaro-0826_g2268801233-new.jpg",
-      "source": "Entrepreneur",
-      "category": "business",
-      "publishedAt": "2026-08-06T18:19:56.000Z"
-    },
-    {
-      "id": "rss-0481612b0b42",
-      "title": "Five Myths About Antibiotics That Refuse to Die",
-      "description": "A miracle drug can become a victim of its own success, and that’s basically what’s happened to antibiotics. They’ve turned once-fatal…\nContinue reading on Medium »",
-      "url": "https://medium.com/@zaland.7114/five-myths-about-antibiotics-that-refuse-to-die-46f0b79f812f?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/1010/1*1KooHic3iGWCvA4Bg1rwoQ.jpeg",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-08-06T18:19:41.000Z"
-    },
-    {
-      "id": "rss-a6da01d58b5e",
-      "title": "The Blood Oxygen Reading on Your Watch Would Fail the Standard a Medical Oximeter Has to Meet",
-      "description": "There’s a specific number that makes this whole topic legible, and it comes from the FDA rather than from any manufacturer.\nContinue reading on Medium »",
-      "url": "https://medium.com/@ozoagunkem/the-blood-oxygen-reading-on-your-watch-would-fail-the-standard-a-medical-oximeter-has-to-meet-12219e214ce8?source=rss------fitness-5",
-      "image": "https://cdn-images-1.medium.com/max/2000/1*-x8t6zf0IPXLa4C0mehmUQ.png",
-      "source": "Medium Fitness",
-      "category": "health",
-      "publishedAt": "2026-08-06T18:17:05.000Z"
-    },
-    {
-      "id": "rss-1817168d3784",
-      "title": "Peak’s Final Major Update Will Add A Danger-Filled Dungeon",
-      "description": "Peak, the mountain-climbing with friends \"friendslop\" title that sold more than 10 million copies in its first year, is set to receive its final major update on August 11, and it looks to be an approp",
-      "url": "https://www.gamespot.com/articles/peaks-final-major-update-will-add-a-danger-filled-dungeon/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Peak-Final-Update.jpg?w=300",
-      "source": "GameSpot",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T18:15:33.000Z"
-    },
-    {
-      "id": "rss-2f05cd6faa63",
-      "title": "The Warrior Cats Books are Finally Getting a Major Video Game Adaptation",
-      "description": "Erin Hunter’s iconic young adult book series, Warriors, is finally getting its first major video game, and it’s a turn-based RPG.",
-      "url": "https://www.ign.com/articles/the-warrior-cats-books-are-finally-getting-a-major-video-game-adaptation",
-      "image": "https://assets-prd.ignimgs.com/2026/08/06/warrior-cats-video-game-announced-1786039004866.jpg",
-      "source": "IGN",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T18:08:30.000Z"
-    },
-    {
-      "id": "rss-73158230bcc4",
-      "title": "Another Blockchain Game Studio Shuts Down As Crypto Trend Sputters Out",
-      "description": "The ongoing collapse of the crypto gaming industry claimed another victim this week, with blockchain startup Proof of Play announcing its demise roughly one year after shutting down its flagship game,",
-      "url": "https://www.gamespot.com/articles/another-blockchain-game-studio-shuts-down-as-crypto-trend-sputters-out/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/piratenation2.jpg?w=300",
-      "source": "GameSpot",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T18:07:32.000Z"
-    },
-    {
-      "id": "rss-81cc726dfe00",
-      "title": "Trafford joins Leeds from Man City in potential £45m deal",
-      "description": "Leeds United sign Manchester City and England goalkeeper James Trafford in a deal worth up to £45m.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0l592513y9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a4/live/6b9d7d70-9184-11f1-9587-294e25c71c14.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-06T18:04:21.000Z"
-    },
-    {
-      "id": "rss-bd5d4d906d8f",
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "description": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9015/live/b6fc8870-9223-11f1-af4d-5164294a85c7.jpg",
-      "source": "BBC Health",
-      "category": "health",
-      "publishedAt": "2026-08-06T18:01:52.000Z"
-    },
-    {
-      "id": "rss-fb88c2148df2",
-      "title": "Fled to America at 11. Stole at 18. Deported to Vietnam at 44.",
-      "description": "The Trump administration is sending back record numbers of Vietnamese, Laotians and Hmong. Many came to the United States as young war refugees and later committed crimes.",
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/deportations-southeast-asians-trump.html",
-      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/00nat-immigration-asians-promo-blmg/00nat-immigration-asians-promo-blmg-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "trending",
-      "publishedAt": "2026-08-06T18:00:44.000Z"
-    },
-    {
-      "id": "rss-7df6a3b60fbc",
-      "title": "How Startups Scale Smarter With Data-Driven Decision Making",
-      "description": "Here's how data-driven decision making helps startups scale with confidence.",
-      "url": "https://www.entrepreneur.com/business-news/how-startups-scale-smarter-with-data-driven-decision-making",
-      "image": "https://www.entrepreneur.com/wp-content/uploads/sites/2/2026/07/startups-scale-smarter-data-driven-decision-making-0726-g-1463459171.jpg",
-      "source": "Entrepreneur",
-      "category": "business",
-      "publishedAt": "2026-08-06T18:00:00.000Z"
-    },
-    {
-      "id": "rss-c513869a8f18",
-      "title": "It’s good for the planet to scrap a new petrol car and buy electric",
-      "description": "Carbon savings from driving EVs are so large that it makes sense to scrap a working petrol car to make the switch",
-      "url": "https://www.newscientist.com/article/2583523-its-good-for-the-planet-to-scrap-a-new-petrol-car-and-buy-electric/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
-      "image": "https://www.newscientist.com/wp-content/uploads/2026/08/SEI_307456371.jpg",
-      "source": "New Scientist",
-      "category": "science",
-      "publishedAt": "2026-08-06T18:00:00.000Z"
-    },
-    {
-      "id": "rss-0b4a1130bdbd",
-      "title": "Sugar may have been a key ingredient in human evolution",
-      "description": "A sweet tooth for sugars from fruits and honey may have helped fuel brain growth in our primate cousins and early human ancestors, a new study suggests.",
-      "url": "https://www.sciencenews.org/article/sugar-ingredient-human-evolution-fruit",
-      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/08/080626_JB_brainevolution_main.jpg?w=800",
-      "source": "Science News",
-      "category": "science",
-      "publishedAt": "2026-08-06T18:00:00.000Z"
-    },
-    {
-      "id": "rss-e6c129c9ab3a",
-      "title": "Vinicius Jr and Real Madrid agree new six-year deal",
-      "description": "Brazil winger Vinicius Jr will stay at Real Madrid after agreeing improved terms with the Spanish side despite interest from Arsenal.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1517j1q129o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b037/live/b97bb050-91c2-11f1-af4d-5164294a85c7.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-06T17:58:41.000Z"
-    },
-    {
-      "id": "rss-e6855a05a6c0",
-      "title": "FDA approves first mRNA vaccine for seasonal flu",
-      "description": "The Food and Drug Administration's approval of an mRNA vaccine for flu comes after the agency initially refused to review the approval request for the shot.",
-      "url": "https://www.livescience.com/health/medicine-drugs/fda-approves-first-mrna-vaccine-for-seasonal-flu",
-      "image": "https://cdn.mos.cms.futurecdn.net/8xmCDjsNegTCNDXrT9kmXY-1280-80.jpg",
-      "source": "Live Science",
-      "category": "science",
-      "publishedAt": "2026-08-06T17:54:01.000Z"
-    },
-    {
-      "id": "rss-757f7da3d9f6",
-      "title": "The Legend Of Zelda Live-Action Movie May Have Found Its Ganondorf",
-      "description": "The live-action The Legend of Zelda movie from Sony Pictures and Nintendo has already cast its Zelda and Link, but what about all the other roles? A new report claims that Australian actor Uli Latukef",
-      "url": "https://www.gamespot.com/articles/the-legend-of-zelda-live-action-movie-may-have-found-its-ganondorf/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-at-1.35.27-PM.png?w=300",
-      "source": "GameSpot",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T17:54:01.000Z"
-    },
-    {
-      "id": "rss-169ad5361fdc",
-      "title": "Le Court wins stage six of Tour after mechanical failure",
-      "description": "Kimberley Le Court wins a sprint finish to seal victory in stage six of the Tour de France Femmes on Thursday, as Swiss rider Marlen Reusser holds on to the overall lead.",
-      "url": "https://www.bbc.co.uk/sport/cycling/articles/cp87zgl332qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f59/live/f2152cc0-91b8-11f1-bab9-173de0e7d358.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-06T17:52:56.000Z"
-    },
-    {
-      "id": "rss-b0e8e6f800f6",
-      "title": "Suno is adding audio watermarks so AI-generated songs are more easily identifiable",
-      "description": "Suno is adding audio watermarks so AI-generated songs are more easily identifiable",
-      "url": "https://www.engadget.com/2231870/suno-adding-audio-watermarks-ai-generated-songs-identifiable/",
-      "image": "https://www.engadget.com/img/gallery/suno-is-adding-audio-watermarks-so-ai-generated-songs-are-more-easily-identifiable/l-intro-1786038411.jpg",
-      "source": "Engadget",
-      "category": "technology",
-      "publishedAt": "2026-08-06T17:51:42.000Z"
-    },
-    {
-      "id": "rss-e7e2d2267b04",
-      "title": "The Chart With No Name On It",
-      "description": "Medical language exists so the next doctor can pick up where I left off. Some days, it still isn’t enough to hold what’s actually there\nContinue reading on Namaste Now! »",
-      "url": "https://medium.com/namaste-now/the-chart-with-no-name-on-it-540bbbabcd2f?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*0d45_QZTkfmhSliV",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-08-06T17:50:19.000Z"
-    },
-    {
-      "id": "rss-509f9bcee678",
-      "title": "Apple releases security updates to macOS Tahoe, Sequoia, and Sonoma [U]",
-      "description": "Update, 2:24 p.m. ET: Apple has now revealed that the updates address a Screen Sharing vulnerability. You can learn more about it here. The original story follows below.\nApple rolled out macOS Sonoma ",
-      "url": "https://9to5mac.com/2026/08/06/apple-releases-security-updates-to-macos-tahoe-sequoia-and-sonoma/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/08/update.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "source": "9to5Mac",
-      "category": "technology",
-      "publishedAt": "2026-08-06T17:45:36.000Z"
-    },
-    {
-      "id": "rss-fe2d1ac88b51",
-      "title": "The Menopause Symptom Doctors Still Won’t Name — For One Specific Reason",
-      "description": "It’s not hot flashes. It’s not brain fog. It’s the one that makes you feel like you’re losing your personality, not your hormones.\nContinue reading on Bouncin’ and Behavin’ Blogs »",
-      "url": "https://medium.com/bouncin-and-behavin-blogs/the-menopause-symptom-doctors-still-wont-name-for-one-specific-reason-2c086dc68e1f?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*QjH2fG7q8ZiqSjwy",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-08-06T17:43:51.000Z"
-    },
-    {
-      "id": "rss-2432a247b389",
-      "title": "The Latest PS5 Boxes Come With A Pretty Bleak Warning",
-      "description": "The writing is on the wall for PlayStation and its plans for an all-digital gaming future--or on the PlayStation 5 packaging, to be exact. With Sony ending the production of game discs in January 2028",
-      "url": "https://www.gamespot.com/articles/the-latest-ps5-boxes-come-with-a-pretty-bleak-warning/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/PS5-consoles.jpg?w=300",
-      "source": "GameSpot",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T17:41:41.000Z"
-    },
-    {
-      "id": "rss-198736f2bd65",
-      "title": "Suno shares plans to combat spammy AI music",
-      "description": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\t\n\nSuno announced plans to implement a new watermarking technology and download ",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "technology",
-      "publishedAt": "2026-08-06T17:39:43.000Z"
-    },
-    {
-      "id": "rss-5f38ebab7bad",
-      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
-      "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71f0/live/b4489d60-91b2-11f1-a7ab-8b30adf0800a.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-08-06T17:38:51.000Z"
-    },
-    {
-      "id": "rss-b9e27de6e246",
-      "title": "Burrito debate rips open GOP civil war on affordability: ‘We will lose, and deserve it’",
-      "description": "A college student's complaint about a $20 burrito sparked a fierce GOP debate on affordability, even drawing in JD Vance and Rep. Dan Crenshaw.",
-      "url": "https://www.foxnews.com/politics/burrito-debate-rips-open-gop-civil-war-affordability-we-lose-deserve-it",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/burrito-debate.jpg?ve=1&tl=1",
-      "source": "Fox News Politics",
-      "category": "politics",
-      "publishedAt": "2026-08-06T17:37:17.000Z"
-    },
-    {
-      "id": "rss-8fe56024891c",
-      "title": "Brendan Carr officially unleashes broadcast consolidation",
-      "description": "The era of set broadcast ownership limits is officially over, after the Federal Communications Commission (FCC) voted Thursday to end the national ownership cap rule.\nThe agency's two Republicans, Cha",
-      "url": "https://www.theverge.com/policy/976287/fcc-broadcast-ownership-rule-ends",
-      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKP211_BRENDAN_CARR_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-      "source": "The Verge",
-      "category": "technology",
-      "publishedAt": "2026-08-06T17:35:38.000Z"
-    },
-    {
-      "id": "rss-4fa12ae13f47",
-      "title": "Hope for hearing resurrection?",
-      "description": "The new research is not what we expected.\nContinue reading on Medium »",
-      "url": "https://thepsychoaudiologist.medium.com/hope-for-hearing-resurrection-788430c580c4?source=rss------medicine-5",
-      "image": "https://cdn-images-1.medium.com/max/1398/1*joFmFST-EjUo8kpJvtvyUg.png",
-      "source": "Medium Medicine",
-      "category": "health",
-      "publishedAt": "2026-08-06T17:35:01.000Z"
-    },
-    {
-      "id": "rss-64e5da8cb4c3",
-      "title": "Apple Releases macOS Tahoe 26.6.1 With Security Fixes",
-      "description": "Apple today released macOS Tahoe 26.6.1, an update to the ‌macOS Tahoe‌ operating system that came out last year. ‌macOS Tahoe‌ 26.6.1 comes a little over a week after Apple released macOS Tahoe 26.6.",
-      "url": "https://www.macrumors.com/2026/08/06/apple-releases-macos-tahoe-26-6-1/",
-      "image": "https://images.macrumors.com/article-new/2025/06/macOS-Tahoe-26-Feature.jpg",
-      "source": "MacRumors",
-      "category": "technology",
-      "publishedAt": "2026-08-06T17:34:39.000Z"
-    },
-    {
-      "id": "rss-b7bb02fe85f4",
-      "title": "Apple earnings, universal clipboard interoperability, iPhone event chatter",
-      "description": "Benjamin and Chance return for another episode recapping the week in Apple news, including the interesting details of Apple’s most recent earnings calls, the last of the Tim Cook era. Also, Apple comp",
-      "url": "https://9to5mac.com/2026/08/06/happy-hour-602/",
-      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&#038;strip=all&#038;w=1600",
-      "source": "9to5Mac",
-      "category": "technology",
-      "publishedAt": "2026-08-06T17:32:29.000Z"
-    },
-    {
-      "id": "rss-9c5631700fb6",
-      "title": "What Is Fauci Being Accused of and Why Is He Being Held in Contempt?",
-      "description": "The case is unique, legal scholars say, because of the tension between the Fifth Amendment and the reach of a presidential pardon. The potential consequences could be grave.",
-      "url": "https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html",
-      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/05dc-fauci-legal-explainer-zpbc/05dc-fauci-legal-explainer-zpbc-mediumSquareAt3X.jpg",
-      "source": "New York Times",
-      "category": "health",
-      "publishedAt": "2026-08-06T17:30:21.000Z"
-    },
-    {
-      "id": "rss-28c5042a6ed6",
-      "title": "Boxer charged with killing aid worker in Greece after his wife gave police 'key' details",
-      "description": "Sharif Ahmadzai, who is 26 and from Afghanistan, faces charges of homicide with intent, robbery and weapons offences.",
-      "url": "https://www.bbc.co.uk/news/articles/cj6390k0e26o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b273/live/5c68f2e0-91a1-11f1-964d-6f76397ea067.jpg",
-      "source": "BBC News",
-      "category": "trending",
-      "publishedAt": "2026-08-06T17:26:56.000Z"
-    },
-    {
-      "id": "rss-fcfb664e83d5",
-      "title": "Japanese Officials Keep Lobbying Trump To Stop Posting Political Memes That Involve Franchises Like Mario, Pokémon, And Naruto",
-      "description": "The Japanese Ministry of Foreign Affairs is worried the memes are damaging the IP",
-      "url": "https://kotaku.com/trump-administration-social-media-pokemon-naruto-memes-japanese-government-response-2000722196",
-      "image": "https://kotaku.com/app/uploads/2026/07/angry-pikachu-1280x719.jpg",
-      "source": "Kotaku",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T17:25:53.000Z"
-    },
-    {
-      "id": "rss-80b12d02eb8b",
-      "title": "'Fake' moderate Talarico's Texas surge tests Paxton in fight to hold crucial GOP Senate seat",
-      "description": "Ken Paxton says he's confident Texans will reject James Talarico once they learn about his record on border security, energy and social issues.",
-      "url": "https://www.foxnews.com/politics/fake-moderate-talarico-texas-surge-tests-paxton-fight-hold-crucial-gop-senate-seat",
-      "image": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/talarico-paxton-split.png?ve=1&tl=1",
-      "source": "Fox News Politics",
-      "category": "politics",
-      "publishedAt": "2026-08-06T17:25:20.000Z"
-    },
-    {
-      "id": "rss-f2739f39e43b",
-      "title": "Google Wallet Now Lets Parents Create Secure Tap and Pay Balances for Kids",
-      "description": "",
-      "url": "https://www.cnet.com/tech/services-and-software/google-wallet-now-lets-parents-create-secure-tap-and-pay-balances-for-kids/",
-      "image": "https://www.cnet.com/wp-content/uploads/sites/2/Blog-Header-Image-1.png",
-      "source": "CNET",
-      "category": "technology",
-      "publishedAt": "2026-08-06T17:24:52.000Z"
-    },
-    {
-      "id": "rss-3e2eb8a0a177",
-      "title": "First photos of SpaceX lunar rocket crash show blackened hole torn into the moon's surface",
-      "description": "New images from South Korea's Danuri lunar orbiter reveal where a runaway SpaceX rocket part slammed into the moon on Wednesday.",
-      "url": "https://www.livescience.com/space/space-exploration/first-photos-of-spacex-lunar-rocket-crash-show-blackened-hole-torn-into-the-moons-surface",
-      "image": "https://cdn.mos.cms.futurecdn.net/9m4gwGXTo5NDeKZdLW5FPQ-1280-80.webp",
-      "source": "Live Science",
-      "category": "science",
-      "publishedAt": "2026-08-06T17:22:50.000Z"
-    },
-    {
-      "id": "rss-6484f56e788d",
-      "title": "Halo Co-Creator Calls Out Remake For Pandering To “New Era Of Players With 0% Attention Span,” But He Really Loves The Upgrades Overall",
-      "description": "The co-creator of Halo and designer of Master Chief, Marcus Lehto, has weighed in with his thoughts about the latest Halo remake, Halo: Campaign Evolved.\nPosting on social media, Lehto said he has bee",
-      "url": "https://www.gamespot.com/articles/halo-co-creator-calls-out-remake-for-pandering-to-new-era-of-players-with-0-attention-span/",
-      "image": "https://www.gamespot.com/wp-content/uploads/2026/08/campaignevolved.jpg?w=300",
-      "source": "GameSpot",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T17:22:41.000Z"
-    },
-    {
-      "id": "rss-2afd11f06558",
-      "title": "Kerr stars as MI London overcome early trouble to defeat London Spirit",
-      "description": "Melie Kerr plays a magnificent lone hand with the bat to keep struggling MI London's faint qualification hopes alive in the women's Hundred.",
-      "url": "https://www.bbc.co.uk/sport/cricket/videos/cvgwqwp8379o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af4b/live/c16be970-91bc-11f1-b2ab-0dd01740f9f6.jpg",
-      "source": "BBC Sports",
-      "category": "sports",
-      "publishedAt": "2026-08-06T17:22:27.000Z"
-    },
-    {
-      "id": "rss-3e4a666276ad",
-      "title": "Every Woman Deserves to Feel Strong",
-      "description": "The benefits of exercise go far beyond the mirror.\nContinue reading on Quirky Rants »",
-      "url": "https://medium.com/quirky-rants/every-woman-deserves-to-feel-strong-a74290393875?source=rss------fitness-5",
-      "image": "https://cdn-images-1.medium.com/max/2600/0*1QsLOS_UKerFA9pH",
-      "source": "Medium Fitness",
-      "category": "health",
-      "publishedAt": "2026-08-06T17:18:42.000Z"
-    },
-    {
-      "id": "rss-6c6d30225827",
-      "title": "Parasitic zombie-ant fungus thrives in mosses, too",
-      "description": "This may help fungi survive host scarcity and explains why infected hosts prefer the mosses as death sites.",
-      "url": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/fungi1-1152x648-1785957606.jpg",
-      "source": "Ars Technica",
-      "category": "technology",
-      "publishedAt": "2026-08-06T17:13:45.000Z"
-    },
-    {
-      "id": "rss-9f8ac17d0d06",
-      "title": "Marvel Tōkon Isn’t Booting Up For People At Launch, But Here’s How To Fix It",
-      "description": "Arc System Works’ new Marvel fighting game is giving folks trouble at the boot screen",
-      "url": "https://kotaku.com/marvel-tokon-isnt-booting-up-for-people-at-launch-but-heres-how-to-fix-it-2000722241",
-      "image": "https://kotaku.com/app/uploads/2026/05/marveltokonfightingsouls_lob_mas_mob_03-1280x610.jpg",
-      "source": "Kotaku",
-      "category": "gaming",
-      "publishedAt": "2026-08-06T17:11:35.000Z"
     }
   ]
 }
