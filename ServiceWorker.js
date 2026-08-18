@@ -39,22 +39,23 @@ self.addEventListener('activate', event => {
 
 // Fetch event - Cache falling back to network, and network falling back to cache for data
 self.addEventListener('fetch', event => {
-    // For the news data JSON, try network first, then cache (Stale-While-Revalidate pattern)
+    // For the news data JSON, implement true Stale-While-Revalidate pattern
     if (event.request.url.includes('data/news.json')) {
         event.respondWith(
-            fetch(event.request)
-                .then(response => {
-                    // Update cache with new data
+            caches.match(event.request, { ignoreSearch: true }).then(cachedResponse => {
+                const networkFetch = fetch(event.request).then(response => {
                     const clonedResponse = response.clone();
                     caches.open(CACHE_NAME).then(cache => {
                         cache.put(event.request, clonedResponse);
                     });
                     return response;
-                })
-                .catch(() => {
-                    // If network fails, return cached data
-                    return caches.match(event.request);
-                })
+                }).catch(() => {
+                    // Ignore network errors in the background
+                });
+                
+                // Return cache immediately if available, otherwise wait for network
+                return cachedResponse || networkFetch;
+            })
         );
     } else {
         // For static assets, Cache First, falling back to network

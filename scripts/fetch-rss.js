@@ -138,6 +138,43 @@ async function run() {
         articles: mergedArray
     }, null, 2));
 
+    // SEO Pre-rendering
+    try {
+        const INDEX_FILE = path.join(__dirname, '../index.html');
+        let indexHtml = fs.readFileSync(INDEX_FILE, 'utf-8');
+        
+        let seoHtml = '<noscript><div class="seo-articles">';
+        mergedArray.slice(0, 20).forEach(article => {
+            seoHtml += `
+                <article>
+                    <h2><a href="${article.url}">${article.title}</a></h2>
+                    <p>${article.description || ''}</p>
+                    <span>${article.source} - ${article.category}</span>
+                </article>
+            `;
+        });
+        seoHtml += '</div></noscript>';
+
+        // Inject before the end of the news container
+        indexHtml = indexHtml.replace(/<section id="news-container"[^>]*>[\s\S]*?<\/section>/, (match) => {
+            // If we previously injected, we can replace it, but it's simpler to just replace the whole section's inner HTML 
+            // Actually, we just need it in the DOM. Let's put it right after the news-container
+            return match;
+        });
+
+        // Better: Inject right before </main>
+        indexHtml = indexHtml.replace(/<\/main>/, `${seoHtml}\n    </main>`);
+        // Note: The replace above will accumulate <noscript> blocks if run multiple times locally.
+        // Let's clean up old ones first:
+        indexHtml = indexHtml.replace(/<noscript><div class="seo-articles">[\s\S]*?<\/div><\/noscript>\n\s*/g, '');
+        indexHtml = indexHtml.replace(/<\/main>/, `${seoHtml}\n    </main>`);
+        
+        fs.writeFileSync(INDEX_FILE, indexHtml);
+        console.log(`[${new Date().toISOString()}] Successfully pre-rendered SEO articles into index.html`);
+    } catch(e) {
+        console.error("Failed to pre-render SEO HTML:", e);
+    }
+
     console.log(`[${new Date().toISOString()}] Successfully saved ${mergedArray.length} total articles.`);
     process.exit(0);
 }
