@@ -418,3 +418,10 @@
   0% { background-position: 200% 0; }
   100% { background-position: -200% 0; }
 }
+
+.chip[draggable="true"] {
+  cursor: grab;
+}
+.chip.dragging {
+  cursor: grabbing;
+}
