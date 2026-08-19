@@ -18,8 +18,8 @@ const parser = new Parser({
     }
 });
 
-const FEEDS_FILE = path.join(__dirname, '../data/rss-feeds.json');
-const DATA_DIR = path.join(__dirname, '../data');
+const FEEDS_FILE = path.join(__dirname, '../../public/data/rss-feeds.json');
+const DATA_DIR = path.join(__dirname, '../../public/data');
 const METADATA_FILE = path.join(DATA_DIR, 'metadata.json');
 const OLD_NEWS_FILE = path.join(DATA_DIR, 'news.json');
 const LIVE_BASE_URL = 'https://codemasterabhishek.github.io/Daily-Brief/data';
@@ -187,7 +187,7 @@ async function run() {
 
     // 11. SEO Pre-rendering
     try {
-        const INDEX_FILE = path.join(__dirname, '../index.html');
+        const INDEX_FILE = path.join(__dirname, '../../public/index.html');
         let indexHtml = fs.readFileSync(INDEX_FILE, 'utf-8');
         let seoHtml = '<noscript><div class="seo-articles">';
         uniqueArray.slice(0, 20).forEach(article => {
