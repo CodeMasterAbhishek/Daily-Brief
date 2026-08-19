@@ -303,7 +303,6 @@ export function filterArticles(category) {
     const cards = document.querySelectorAll('.card');
     const heroContainer = document.getElementById('hero-container');
     
-    // Hide Hero when filtering specific categories to give grid priority, unless it's 'all' or 'trending'
     if (category === 'all' || category === 'trending') {
         if(heroContainer.innerHTML.trim() !== '') heroContainer.style.display = 'block';
     } else {
@@ -322,4 +321,19 @@ export function filterArticles(category) {
             card.style.display = 'none';
         }
     });
+}
+
+// Show skeletons while fetching chunks
+export function showSkeletons(containerId = 'news-container', count = 10) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    const skeletonHTML = '<article class="card temp-skeleton"><div class="card-img-wrap skeleton"></div><div class="card-content"><div class="skeleton skeleton-text short"></div><div class="skeleton skeleton-text"></div><div class="skeleton skeleton-text"></div><div class="skeleton skeleton-text"></div></div></article>';
+    container.insertAdjacentHTML('beforeend', skeletonHTML.repeat(count));
+}
+
+export function removeSkeletons(containerId = 'news-container') {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+    const skeletons = container.querySelectorAll('.temp-skeleton');
+    skeletons.forEach(s => s.remove());
 }
