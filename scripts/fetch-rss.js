@@ -72,10 +72,21 @@ async function run() {
     
     // Load existing to merge and deduplicate
     let existingData = { articles: [] };
-    if (fs.existsSync(OUTPUT_FILE)) {
-        try {
-            existingData = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf-8'));
-        } catch(e) {}
+    try {
+        console.log(`[${new Date().toISOString()}] Fetching existing database from live site to maintain history...`);
+        const liveDataUrl = 'https://codemasterabhishek.github.io/Daily-Brief/data/news.json';
+        const response = await fetch(`${liveDataUrl}?t=${Date.now()}`);
+        if (response.ok) {
+            existingData = await response.json();
+            console.log(`Successfully loaded ${existingData.articles?.length || 0} existing articles.`);
+        }
+    } catch(e) {
+        console.log("Could not load live database, falling back to local file if it exists.");
+        if (fs.existsSync(OUTPUT_FILE)) {
+            try {
+                existingData = JSON.parse(fs.readFileSync(OUTPUT_FILE, 'utf-8'));
+            } catch(err) {}
+        }
     }
 
     const fetchPromises = feeds.map(async feed => {
