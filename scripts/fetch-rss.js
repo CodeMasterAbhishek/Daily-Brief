@@ -22,25 +22,46 @@ const FEEDS_FILE = path.join(__dirname, '../data/rss-feeds.json');
 const OUTPUT_FILE = path.join(__dirname, '../data/news.json');
 
 async function extractImage(item) {
+    let img = null;
     if (item.mediaContent && item.mediaContent['$'] && item.mediaContent['$'].url) {
-        return item.mediaContent['$'].url;
+        img = item.mediaContent['$'].url;
+    } else if (item.mediaThumbnail && item.mediaThumbnail['$'] && item.mediaThumbnail['$'].url) {
+        img = item.mediaThumbnail['$'].url;
+    } else if (item.enclosure && item.enclosure.url) {
+        img = item.enclosure.url;
+    } else if (item.image && item.image.url) {
+        img = item.image.url;
+    } else {
+        // Try finding img tag in content
+        const content = item.content || item['content:encoded'] || '';
+        const imgMatch = content.match(/<img[^>]+src="([^">]+)"/);
+        if (imgMatch && imgMatch[1]) {
+            img = imgMatch[1];
+        }
     }
-    if (item.mediaThumbnail && item.mediaThumbnail['$'] && item.mediaThumbnail['$'].url) {
-        return item.mediaThumbnail['$'].url;
+
+    if (!img) return null;
+
+    // --- High-Resolution Image Upgrades ---
+    
+    // BBC News: Upgrade 240px thumbnails to 976px
+    if (img.includes('ichef.bbci.co.uk') && img.includes('/240/')) {
+        img = img.replace('/240/', '/976/');
     }
-    if (item.enclosure && item.enclosure.url) {
-        return item.enclosure.url;
+    // Phys.org: Upgrade '/tmb/' (thumbnail) to '/800w/'
+    else if (img.includes('scx1.b-cdn.net') && img.includes('/tmb/')) {
+        img = img.replace('/tmb/', '/800w/');
     }
-    if (item.image && item.image.url) {
-        return item.image.url;
+    // IGN / TechCrunch / Polygon: Strip restrictive query parameters like ?w=150
+    else if ((img.includes('ignimgs.com') || img.includes('techcrunch.com') || img.includes('polygon.com')) && img.includes('?')) {
+        img = img.split('?')[0]; 
     }
-    // Try finding img tag in content
-    const content = item.content || item['content:encoded'] || '';
-    const imgMatch = content.match(/<img[^>]+src="([^">]+)"/);
-    if (imgMatch && imgMatch[1]) {
-        return imgMatch[1];
+    // New York Times: Replace small thumbnails with superJumbo
+    else if (img.includes('nytimes.com')) {
+        img = img.replace('-moth.', '-superJumbo.').replace('-thumbStandard.', '-superJumbo.');
     }
-    return null;
+    
+    return img;
 }
 
 async function run() {
