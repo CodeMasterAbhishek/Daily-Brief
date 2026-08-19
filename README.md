@@ -7,6 +7,9 @@
   [![Platform](https://img.shields.io/badge/Platform-GitHub%20Pages-success.svg)](#)
 
   **[View Live Website](https://CodeMasterAbhishek.github.io/Daily-Brief/)**
+
+  <br />
+  <img src="assets/hero-screenshot.png" alt="Daily Brief Interface" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
 
 ---
@@ -17,7 +20,7 @@ Daily Brief is designed around a modern **GitOps Backend** architecture. Rather 
 
 1. **Automated RSS Pipeline:** Every 30 minutes, a headless script scrapes ~50 of the world's most reputable niche news publishers (BBC, WSJ, MacRumors, IGN, etc.).
 2. **Aggressive Deduplication:** The engine runs a strict cross-category global deduplication algorithm, ensuring only 100% unique, high-quality stories make it through.
-3. **Static Delivery:** It compiles the data into a single, static JSON database (`data/news.json`). The frontend fetches this file natively.
+3. **Static API Delivery:** It compiles the data into chunked monthly JSON databases (`public/data/news-YYYY-MM.json`). The frontend fetches only what it needs, keeping the initial load lightning fast.
 
 Because it's completely static and served via GitHub's CDN, the hosting cost is **$0**, the page load is near **instantaneous**, and the architecture is bulletproof against scaling issues.
 
@@ -29,8 +32,8 @@ Because it's completely static and served via GitHub's CDN, the hosting cost is 
 - **Premium UI / UX:** Beautiful glassmorphism, dynamic dark/light mode, smooth micro-animations, and full ultrawide monitor support.
 - **Strict Deduplication Engine:** Automatically detects and purges identical wire stories across different publishers.
 - **Client-Side Read Receipts:** Instantly dims articles you have already clicked on using privacy-first LocalStorage.
-- **Automated Pruning:** Keeps the database lean by automatically deleting news older than 7 days, maintaining blazing-fast load times.
-- **Infinite Scrolling & Skeletons:** Smoothly loads more news as you scroll, with a perfectly responsive loading skeleton system.
+- **Infinite Data Sharding:** Automatically groups articles into monthly chunks so you can scroll infinitely without hitting browser memory limits.
+- **Customizable Layout:** Drag-and-drop category chips to reorder your news feed exactly how you like it.
 - **PWA Ready:** Implements a Service Worker for intelligent caching and offline resiliency.
 
 ---
@@ -48,8 +51,8 @@ sequenceDiagram
     Note over RSS, Action: Scheduled every 30 minutes
     Action->>RSS: Fetch and parse XML streams
     Action->>Action: Deduplicate and sanitize data
-    Action->>Repo: Commit updated news.json
-    Repo->>CDN: Trigger edge deployment
+    Action->>Repo: Save monthly chunks (news-*.json)
+    Repo->>CDN: Deploy `public/` artifact directly
     Client->>CDN: Request website
     CDN-->>Client: Serve static assets instantly
 ```
@@ -62,20 +65,16 @@ sequenceDiagram
 /
 ├── .github/workflows/
 │   └── update-rss.yml    # Action for RSS updates (runs every 30 mins)
-├── css/
-│   ├── variables.css     # Design tokens and themes
-│   ├── layout.css        # Grid and responsive layouts
-│   └── style.css         # Component styles and animations
-├── data/
-│   ├── news.json         # Master database consumed by the app
-│   └── rss-feeds.json    # List of the 50 trusted RSS publishers
-├── js/
-│   ├── api.js            # Data fetching logic
-│   ├── ui.js             # DOM manipulation and rendering
-│   └── app.js            # Main initialization and events
-├── scripts/
-│   └── fetch-rss.js      # RSS parsing script
-├── index.html            # Main entry point
+├── public/               # The production website deployed to GitHub Pages
+│   ├── css/
+│   ├── js/
+│   ├── data/             # Monthly static JSON APIs
+│   ├── index.html
+│   ├── manifest.json
+│   └── ServiceWorker.js
+├── src/                  # Backend Node.js tooling
+│   └── scripts/
+│       └── fetch-rss.js  # Automated aggregation script
 └── package.json          # Node dependencies (rss-parser)
 ```
 
@@ -86,15 +85,14 @@ sequenceDiagram
 Want to run your own version of Daily Brief? 
 
 1. **Fork or Clone the Repository:** Clone this repository to your own GitHub account.
-2. **Customize News Sources (Optional):** Edit the `data/rss-feeds.json` file to add or remove RSS feeds. No API keys are required!
-3. **Enable GitHub Pages:** 
+2. **Customize News Sources (Optional):** Edit the `public/data/rss-feeds.json` file to add or remove RSS feeds. No API keys are required!
+3. **Enable GitHub Pages via Actions:** 
    - Go to **Settings > Pages** in your repository.
-   - Under "Build and deployment", set the Source to **Deploy from a branch**.
-   - Select the `main` branch and `/root` folder, and save.
+   - Under "Build and deployment", set the Source to **GitHub Actions**.
 4. **Trigger the First Update:**
    - Go to the **Actions** tab.
    - Select the "Fetch RSS News (Every 30 Mins)" workflow.
-   - Click **Run workflow** to generate your first `news.json` database!
+   - Click **Run workflow** to generate your first data chunks and deploy the site!
 
 ---
 
