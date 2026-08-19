@@ -283,10 +283,12 @@ export function renderArticles(articles, containerId = 'news-container', append 
     gridArticles.forEach((article, index) => {
         html += createCardHTML(article);
         
-        // Inject an advertisement every 5 articles
+        // Inject an advertisement every 5 articles (Currently disabled)
+        /*
         if ((index + 1) % 5 === 0) {
             html += createAdCardHTML();
         }
+        */
     });
     
     if (append) {
