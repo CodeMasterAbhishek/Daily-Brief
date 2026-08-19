@@ -155,9 +155,83 @@ async function renderPage(append = false) {
     }
 }
 
-// Category Filtering
+// Category Filtering and Drag & Drop
+const filtersContainer = document.querySelector('.filters');
+let draggedChip = null;
+
+// Initialize custom order if saved
+const savedOrder = JSON.parse(localStorage.getItem('categoryOrder'));
+if (savedOrder && Array.isArray(savedOrder)) {
+    const chipMap = new Map();
+    document.querySelectorAll('.chip').forEach(chip => {
+        chipMap.set(chip.dataset.category, chip);
+    });
+    
+    filtersContainer.innerHTML = '';
+    
+    savedOrder.forEach(cat => {
+        if (chipMap.has(cat)) {
+            filtersContainer.appendChild(chipMap.get(cat));
+            chipMap.delete(cat);
+        }
+    });
+    
+    chipMap.forEach(chip => {
+        filtersContainer.appendChild(chip);
+    });
+}
+
+function getDragAfterElement(container, x) {
+    // Select all chips except the one currently being dragged
+    const draggableElements = [...container.querySelectorAll('.chip:not(.dragging)')];
+    
+    return draggableElements.reduce((closest, child) => {
+        const box = child.getBoundingClientRect();
+        const offset = x - box.left - box.width / 2;
+        if (offset < 0 && offset > closest.offset) {
+            return { offset: offset, element: child };
+        } else {
+            return closest;
+        }
+    }, { offset: Number.NEGATIVE_INFINITY }).element;
+}
+
+filtersContainer.addEventListener('dragover', (e) => {
+    e.preventDefault(); 
+    if (!draggedChip) return;
+    
+    const afterElement = getDragAfterElement(filtersContainer, e.clientX);
+    if (afterElement == null) {
+        filtersContainer.appendChild(draggedChip);
+    } else {
+        filtersContainer.insertBefore(draggedChip, afterElement);
+    }
+});
+
 const filterChips = document.querySelectorAll('.chip');
 filterChips.forEach(chip => {
+    // Drag & Drop Listeners
+    chip.setAttribute('draggable', true);
+    
+    chip.addEventListener('dragstart', (e) => {
+        draggedChip = chip;
+        chip.classList.add('dragging');
+        chip.style.opacity = '0.5';
+        e.dataTransfer.effectAllowed = 'move';
+        e.dataTransfer.setData('text/plain', chip.dataset.category);
+    });
+    
+    chip.addEventListener('dragend', () => {
+        chip.classList.remove('dragging');
+        chip.style.opacity = '1';
+        draggedChip = null;
+        
+        // Save new order
+        const currentOrder = Array.from(filtersContainer.querySelectorAll('.chip')).map(c => c.dataset.category);
+        localStorage.setItem('categoryOrder', JSON.stringify(currentOrder));
+    });
+
+    // Click Listener
     chip.addEventListener('click', (e) => {
         filterChips.forEach(c => c.classList.remove('active'));
         e.target.classList.add('active');
