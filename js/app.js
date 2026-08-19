@@ -1,5 +1,5 @@
 import { initMetadata, fetchChunkData, currentMetadata } from './api.js';
-import { renderArticles, filterArticles } from './ui.js';
+import { renderArticles, filterArticles, showSkeletons, removeSkeletons } from './ui.js';
 
 // Setup current year in footer
 document.getElementById('year').textContent = new Date().getFullYear();
@@ -53,7 +53,8 @@ async function loadNextChunkIfAvailable() {
     if (!currentMetadata || loadedChunksCount >= currentMetadata.chunks.length) return false;
     
     isFetchingChunk = true;
-    paginationSection.style.display = 'block';
+    paginationSection.style.display = 'none';
+    showSkeletons('news-container', 15);
     
     const chunkName = currentMetadata.chunks[loadedChunksCount];
     const newArticles = await fetchChunkData(chunkName);
@@ -65,6 +66,7 @@ async function loadNextChunkIfAvailable() {
     allArticles = allArticles.concat(uniqueNew);
     loadedChunksCount++;
     isFetchingChunk = false;
+    removeSkeletons('news-container');
     return true;
 }
 
