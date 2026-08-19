@@ -4,8 +4,8 @@
   "description": "Static News Aggregator",
   "type": "module",
   "scripts": {
-    "fetch-rss": "node scripts/fetch-rss.js",
-    "upgrade-images": "node scripts/upgrade-images.js"
+    "fetch-rss": "node src/scripts/fetch-rss.js",
+    "upgrade-images": "node src/scripts/upgrade-images.js"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

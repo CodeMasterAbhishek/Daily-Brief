@@ -32,7 +32,7 @@ jobs:
         run: npm install
 
       - name: Run RSS Fetch Script
-        run: node scripts/fetch-rss.js
+        run: npm run fetch-rss
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -40,7 +40,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: './public'
 
       - name: Deploy to GitHub Pages
         id: deployment

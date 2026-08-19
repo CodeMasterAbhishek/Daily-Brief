@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Brief | Global News</title>
+    
+    <!-- Meta Tags for SEO & Social -->
+    <meta name="description" content="Curated daily news across all major categories. The most important stories of the day, with zero noise.">
+    <meta property="og:title" content="Daily Brief">
+    <meta property="og:description" content="The absolute top stories across all categories today.">
+    <meta property="og:type" content="website">
+    
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/layout.css">
+    <link rel="stylesheet" href="css/style.css">
+    
+    <!-- PWA Manifest -->
+    <link rel="manifest" href="manifest.json">
+
+    <!-- Google AdSense (Currently disabled) -->
+    <!--
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7333900795499359" crossorigin="anonymous"></script>
+    -->
+</head>
+<body>
+
+    <header>
+        <div class="container header-content">
+            <a href="#" class="logo">Daily<span>Brief</span></a>
+            
+            <section class="filters" aria-label="Category filters">
+                <button class="chip active" data-category="all">All News</button>
+                <button class="chip" data-category="trending">Trending</button>
+                <button class="chip" data-category="technology">Technology</button>
+                <button class="chip" data-category="ai">AI</button>
+                <button class="chip" data-category="politics">Politics</button>
+                <button class="chip" data-category="business">Business</button>
+                <button class="chip" data-category="entertainment">Entertainment</button>
+                <button class="chip" data-category="science">Science</button>
+                <button class="chip" data-category="sports">Sports</button>
+                <button class="chip" data-category="health">Health</button>
+                <button class="chip" data-category="gaming">Gaming</button>
+            </section>
+
+            <nav>
+                <button id="fullscreen-toggle" class="btn-icon" aria-label="Toggle Fullscreen" style="margin-right: 0.5rem;">
+                    <svg id="icon-expand" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
+                    <svg id="icon-compress" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none;"><path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path></svg>
+                </button>
+                <button id="theme-toggle" class="btn-icon" aria-label="Toggle Dark Mode">
+                    <!-- Sun/Moon icon will be injected via JS -->
+                    <svg viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+
+        <!-- Hero Section -->
+        <section id="hero-container" aria-label="Featured article" style="margin-bottom: var(--space-2xl);">
+            <!-- Dynamic hero article will be injected here -->
+        </section>
+
+        <!-- Dynamic Content Area (Grid) -->
+        <section id="news-container" class="news-grid" aria-live="polite">
+        </section>
+        
+        <!-- Inject perfect grid of skeletons instantly before main JS loads -->
+        <script>
+            function renderSkeletons() {
+                var container = document.getElementById('news-container');
+                // Only render if container is empty or currently holds skeletons
+                if (!container || (container.innerHTML.trim() !== '' && !container.innerHTML.includes('skeleton-text'))) return;
+                
+                var width = window.innerWidth || document.documentElement.clientWidth || 1024;
+                var height = window.innerHeight || document.documentElement.clientHeight || 768;
+                
+                var columns = width > 768 ? Math.max(1, Math.floor((width * 0.95) / 340)) : 1;
+                var rows = Math.max(2, Math.ceil(height / 400));
+                var total = columns * rows;
+                
+                var skeletonHTML = '<article class="card"><div class="card-img-wrap skeleton"></div><div class="card-content"><div class="skeleton skeleton-text short"></div><div class="skeleton skeleton-text"></div><div class="skeleton skeleton-text"></div><div class="skeleton skeleton-text"></div></div></article>';
+                container.innerHTML = skeletonHTML.repeat(total);
+            }
+            renderSkeletons();
+            // Re-calculate if they resize the window before the API finishes loading
+            window.addEventListener('resize', renderSkeletons);
+            document.addEventListener('DOMContentLoaded', renderSkeletons);
+        </script>
+
+        <!-- Infinite Scroll Sentinel -->
+        <section id="pagination" style="text-align: center; margin-top: 3rem; margin-bottom: 1rem; display: none;">
+            <div style="opacity: 0.6; font-size: 0.9rem;">Loading more articles...</div>
+        </section>
+    <noscript><div class="seo-articles"><article><h2><a href="https://phys.org/news/2026-08-bacteria-internal-power-cables-respiration.html">Some bacteria build internal 'power cables' to extend respiration beyond the cell membrane</a></h2><p>All living cells need energy, and most generate it through respiration, a series of chemical reactions normally confined to the cell membrane. Because this machinery takes up space, a cell's energy-ge</p><span>Phys.org - science</span></article><article><h2><a href="https://medium.com/clear-kind/occams-porch-the-help-that-stops-helping-0bf033204c0b?source=rss------mental_health-5">Occam’s Porch—The Help That Stops Helping</a></h2><p>What lifeguards know about saving someone, and what the rest of us have to learn the hard way
+Continue reading on Clear & Kind »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://waheedahmedofficial.medium.com/the-invisible-armor-how-christopher-petersons-24-character-strengths-scientifically-neutralize-d7990f2fd7c5?source=rss------mental_health-5">The Invisible Armor: How Christopher Peterson’s 24 Character Strengths Scientifically Neutralize…</a></h2><p>Forget arguing, explaining, or grey-rocking. The ultimate defense against psychological manipulation isn’t a tactic — it’s the…
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://waheedahmedofficial.medium.com/the-psychological-bs-detector-how-a-1980s-color-wheel-exposes-the-difference-between-real-b1ffe9b052cf?source=rss------mental_health-5">The Psychological BS Detector: How a 1980s Color Wheel Exposes the Difference Between Real…</a></h2><p>We are living in the golden age of “I understand.” But neuroscience and a dead psychologist’s color wheel suggest most of us are lying to…
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://waheedahmedofficial.medium.com/the-hidden-gift-of-being-erased-how-covert-abuse-unlocks-a-type-of-strength-you-cant-learn-595d61d537bd?source=rss------mental_health-5">The Hidden Gift of Being Erased: How Covert Abuse Unlocks a Type of Strength You Can’t Learn…</a></h2><p>They didn’t break you. They forced you to rebuild yourself from scratch — and that version of you is unbreakable.
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://www.nytimes.com/2026/08/18/us/politics/mills-elijah-florida-republican-primary.html">Representative Cory Mills Loses G.O.P. House Primary in Florida</a></h2><p>Mr. Mills, who is under investigation by the House Ethics Committee and has faced allegations of assault and threatening behavior toward women, lost to Ryan Elijah, a former TV news anchor.</p><span>NYT Politics - politics</span></article><article><h2><a href="https://www.foxnews.com/politics/rubios-gop-successor-clears-key-hurdle-finish-his-six-year-senate-term">Rubio’s GOP successor clears key hurdle to finish his six-year Senate term</a></h2><p>Trump-backed Sen. Ashley Moody, R-Fla., defeated her challengers in Florida's GOP Senate primary to keep Marco Rubio's former seat through 2029.</p><span>Fox News Politics - politics</span></article><article><h2><a href="https://www.nytimes.com/2026/08/18/us/politics/ashley-moody-florida-republican-senate-primary.html">5 Things to Know About Ashley Moody, Republican Senate Candidate in Florida</a></h2><p>The Republican incumbent has President Trump’s support, but has little name recognition to many in her state.</p><span>NYT Politics - politics</span></article><article><h2><a href="https://waheedahmedofficial.medium.com/the-art-of-strategic-exhaustion-how-covert-narcissists-weaponize-your-brains-giving-up-134d0d6a0704?source=rss------mental_health-5">The Art of Strategic Exhaustion: How Covert Narcissists Weaponize Your Brain’s “Giving Up”…</a></h2><p>Martin Seligman discovered why we collapse under pressure. Decades later, emotional manipulators are using that exact neurological…
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://waheedahmedofficial.medium.com/the-narcissists-loophole-why-richard-lazarus-s-gold-standard-for-stress-relief-is-actually-making-45c6885606f7?source=rss------mental_health-5">The Narcissist’s Loophole: Why Richard Lazarus’s Gold Standard for Stress Relief Is Actually Making…</a></h2><p>Your coping mechanisms aren’t broken. They are being weaponized against you. Here is the science of why “self-care” fails in the toxic…
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://waheedahmedofficial.medium.com/the-micro-expression-that-predicts-divorce-how-gottmans-contempt-curse-unmasks-the-covert-5ec90f1b1384?source=rss------mental_health-5">The Micro-Expression That Predicts Divorce: How Gottman’s “Contempt Curse” Unmasks the Covert…</a></h2><p>They don’t scream. They don’t rage. They just give you “The Look.” Here is the science behind the facial expression that silently destroys…
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://waheedahmedofficial.medium.com/the-ghost-in-the-mirror-how-covert-narcissists-orchestrate-the-assassination-of-your-true-self-9380ed1d3fa6?source=rss------mental_health-5">The Ghost in the Mirror: How Covert Narcissists Orchestrate the Assassination of Your True Self</a></h2><p>William James called the “Self” the sum of all we call ours.
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://www.foxnews.com/politics/trumps-handpicked-desantis-successor-wins-crowded-gop-primary-florida-governor">Trump's handpicked DeSantis successor wins crowded GOP primary for Florida governor</a></h2><p>Byron Donalds secured Trump's endorsement before even announcing his run, but the crowded GOP primary field included Florida Lt. Gov. Jay Collins.</p><span>Fox News Politics - politics</span></article><article><h2><a href="https://medium.com/@IvIeMph/fired-as-dad-without-a-dji-mini-why-every-father-needs-a-drone-for-family-travel-memories-32e5e907929c?source=rss------mental_health-5">Fired as Dad Without a DJI Mini? Why Every Father Needs a Drone for Family Travel Memories</a></h2><p>Highlights
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://www.nytimes.com/2026/08/18/us/politics/byron-donalds-florida-governor-republican-primary.html">Byron Donalds Wins Republican Nomination for Florida Governor</a></h2><p>Mr. Donalds, a conservative congressman with the backing of President Trump, seeks to become the state’s first Black governor.</p><span>New York Times - trending</span></article><article><h2><a href="https://www.nytimes.com/2026/08/18/us/politics/david-jolly-florida-governor-democratic-primary.html">Former Republican David Jolly Wins Democratic Nomination for Florida Governor</a></h2><p>The former Republican congressman will try to appeal to voters disaffected with President Trump in a state where Republicans significantly outnumber Democrats.</p><span>NYT Politics - politics</span></article><article><h2><a href="https://www.nytimes.com/2026/08/18/us/politics/florida-democratic-senate-primary-results.html">Angie Nixon Scores Upset Win in Florida Senate Primary</a></h2><p>The underdog faces another uphill battle this November against a Republican incumbent heavily favored to win.</p><span>NYT Politics - politics</span></article><article><h2><a href="https://medium.com/@dineshvenkat/the-floor-knows-everything-816c97d8b0bd?source=rss------health-5">The Floor Knows Everything</a></h2><p>My name is irrelevant.
+Continue reading on Medium »</p><span>Medium Health - health</span></article><article><h2><a href="https://www.foxnews.com/politics/antiracism-activist-blames-white-owned-media-lynched-black-scholars-death-sparks-online-outrage">Antiracism activist blames 'White-owned' media for 'lynched' Black scholar's death, sparks online outrage</a></h2><p>Ibram X. Kendi accused the mainstream media of contributing to Jason Arday's death in a fiery article, sparking intense backlash from critics online.</p><span>Fox News Politics - politics</span></article><article><h2><a href="https://phys.org/news/2026-08-international-health-fishing-stocks.html">New set of international rules needed to protect health of fishing stocks, study shows</a></h2><p>The global community should work to establish an array of new international legal rules to protect the health of fish stocks, new research says. Rather than one set of laws covering all possible marit</p><span>Phys.org - science</span></article></div></noscript>
+    <noscript><div class="seo-articles"><article><h2><a href="https://www.macrumors.com/2026/08/19/beats-360-headphones/">Beats 360 Over-Ear Headphones Leak in Retail Listings</a></h2><p>One of the Beats codenames MacRumors found in the macOS Tahoe 26.7 update (B518) appears to be for the Beats 360, a new set of over-ear headphones that we could see launch soon.
+
+
+Multiple Reddit u</p><span>MacRumors - technology</span></article><article><h2><a href="https://www.gamespot.com/articles/army-unit-gives-soldiers-4-day-pass-to-play-gta-6-if-they-re-enlist/">Army Unit Gives Soldiers 4-Day Pass To Play GTA 6 If They Re-Enlist</a></h2><p>In an effort to encourage soldiers to re-enlist, one US Army unit in Georgia is offering a four-day pass around the time GTA 6 launches in November.
+The incentive is only for soldiers at Fort Stewart </p><span>GameSpot - gaming</span></article><article><h2><a href="https://www.bbc.co.uk/sport/cricket/videos/c8dnz7vq842o?at_medium=RSS&at_campaign=rss">England's two-man show - Tongue and Robinson take five wickets each</a></h2><p>Ollie Robinson and Josh Tongue have a day to remember as they both take five-wicket hauls, as England bowl Pakistan out for 171 on day one of the first Test at Headingley.</p><span>BBC Sports - sports</span></article><article><h2><a href="https://medium.com/@ibkumar.hcl/how-do-i-lose-weight-naturally-735b05d2f84f?source=rss------health-5">How do I lose weight naturally?</a></h2><p>do you lose weight when you sleep
+Continue reading on Medium »</p><span>Medium Health - health</span></article><article><h2><a href="https://medium.com/@sadiahadia50/he-never-cried-not-even-once-757eae7a3cbc?source=rss------health-5">He never cried. Not even once.</a></h2><p>He never cried. Not even once. Until the night a forgotten family note changed everything.
+Continue reading on Medium »</p><span>Medium Health - health</span></article><article><h2><a href="https://medium.com/one-plate-story/my-first-attempt-at-banana-bread-came-out-really-good-2c2e828b502e?source=rss------mental_health-5">My First Attempt at Banana Bread Came Out Really Good!</a></h2><p>I don’t even like bananas, but my husband does, so I decided to try something I had never baked before.
+Continue reading on One Plate Story »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://www.nytimes.com/2026/08/19/style/jennifer-hegseth.html">‘It’s Bonkers’: Jennifer Hegseth’s Hands-On Role in Her Husband’s Pentagon</a></h2><p>After an 18-year career at Fox News, she is now her husband’s most influential adviser and de facto producer, shaping the job like no Pentagon spouse has before.</p><span>New York Times - trending</span></article><article><h2><a href="https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html">Judge Is Asked to Block Inscription of Trump’s Name on Kennedy Center</a></h2><p>The request from a Democratic lawmaker follows a decision by the Trump-allied board to add “Restored and Renovated by President Donald J. Trump” to the building.</p><span>NYT Politics - politics</span></article><article><h2><a href="https://medium.com/@icaj2000/the-question-that-can-change-a-childs-life-dr-b34e705b4b29?source=rss------mental_health-5">The Question That Can Change a Child’s Life: Dr.</a></h2><p>By George Cassidy Payne
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://medium.com/@sashtta/you-cant-hide-what-you-actually-want-dc020ce27d2a?source=rss------mental_health-5">You Can’t Hide What You Actually Want</a></h2><p>On the quiet paradox of self-defense, therapy, and why your real needs always leave a trace, creating cracks in even the most fortified…
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="
+                                                https://www.cbssports.com/wnba/news/nneka-ogwumike-retires-legendary-wnba-career/
+                    ">Nneka Ogwumike retires: Legendary WNBA player to call it a career after 15th season</a></h2><p>Ogwumike, 36, is one of the WNBA's all-time leading scorers and rebounders and has been the president of the players association for a decade</p><span>CBS Sports - sports</span></article><article><h2><a href="https://www.macrumors.com/2026/08/19/anker-and-jackery-1500-off/">Anker and Jackery Kick Off Power Station Sales With Up to $1,500 Off</a></h2><p>Anker and Jackery have introduced big discounts across their most popular portable power stations this week, including up to $1,500 off select models from each company. We're tracking Anker's best dea</p><span>MacRumors - technology</span></article><article><h2><a href="https://variety.com/2026/tv/awards/widows-bay-emmys-comedy-contenders-conundrum-1236837738/">‘Widow’s Bay’ and Other Contenders Continue to Complicate Emmy’s Comedy Conundrum</a></h2><p>You’re probably as tired of the “what’s a comedy?” debate as I am, particularly when it comes to awards shows like the Emmys. FX’s “The Bear” reignited that conversation a few years ago, even though i</p><span>Variety - entertainment</span></article><article><h2><a href="https://9to5mac.com/2026/08/19/meta-ai-is-now-available-as-a-more-capable-desktop-app-for-mac/">Meta AI is now available as a more capable desktop app for Mac</a></h2><p>Meta continues to get serious about its AI technology. The latest sign? A dedicated Mac app for Meta AI.</p><span>9to5Mac - technology</span></article><article><h2><a href="https://elvarahealth.medium.com/the-10-best-home-workouts-for-beginners-start-in-just-20-minutes-bdeb36f60092?source=rss------health-5">The 10 Best Home Workouts for Beginners (Start in Just 20 Minutes)</a></h2><p>You don’t need a gym to change your body — you just need a floor, 20 minutes, and consistency.
+Continue reading on Medium »</p><span>Medium Health - health</span></article><article><h2><a href="https://medium.com/@fitcookglow/oats-banana-smoothie-a-quick-healthy-breakfast-for-busy-mornings-1836d560a1dc?source=rss------fitness-5">Oats Banana Smoothie: A Quick, Healthy Breakfast for Busy Mornings</a></h2><p>Healthy eating doesn’t always have to mean complicated recipes. Sometimes, all you need are a few simple ingredients from your kitchen to…
+Continue reading on Medium »</p><span>Medium Fitness - health</span></article><article><h2><a href="https://medium.com/@ifechukwucreative07/feeling-stuck-and-invisible-read-this-231245fe468f?source=rss------mental_health-5">Feeling stuck and invisible? Read this.</a></h2><p>Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://medium.com/@chikasteph0/only-when-youve-survived-a-storm-will-you-know-what-peace-feels-like-f3e4446608d9?source=rss------mental_health-5">Only when you’ve survived a storm will you know what peace feels like</a></h2><p>A reflection on the seasons that break us, reshape us, and teach us to live again.
+Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article><article><h2><a href="https://medium.com/@MuhammadAhmadcrypto/you-dont-need-an-expensive-routine-you-need-the-right-one-bac6313bcdae?source=rss------health-5">You Don’t Need an Expensive Routine, You Need the Right One</a></h2><p>Skip the expensive routine. These budget-friendly skincare and haircare basics actually work — and cost far less.
+Continue reading on Medium »</p><span>Medium Health - health</span></article><article><h2><a href="https://medium.com/@tafm4/how-the-mind-creates-good-reasons-for-bad-decisions-7b1c7880c0d8?source=rss------mental_health-5">How the Mind Creates Good Reasons for Bad Decisions</a></h2><p>Continue reading on Medium »</p><span>Mental Health (Medium) - health</span></article></div></noscript>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; <span id="year"></span> Daily Brief.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
