@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 // Fetch event - Cache falling back to network, and network falling back to cache for data
 self.addEventListener('fetch', event => {
     // For the news data JSON, implement true Stale-While-Revalidate pattern
-    if (event.request.url.includes('data/news.json')) {
+    if (event.request.url.includes('/data/') && event.request.url.endsWith('.json')) {
         event.respondWith(
             caches.match(event.request, { ignoreSearch: true }).then(cachedResponse => {
                 const networkFetch = fetch(event.request).then(response => {

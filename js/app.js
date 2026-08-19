@@ -1,4 +1,4 @@
-import { fetchNewsData } from './api.js';
+import { initMetadata, fetchChunkData, currentMetadata } from './api.js';
 import { renderArticles, filterArticles } from './ui.js';
 
 // Setup current year in footer
@@ -25,10 +25,8 @@ function setTheme(isDark) {
     }
 }
 
-// Initialize theme from local storage or system preference
 const savedTheme = localStorage.getItem('theme');
 const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-
 if (savedTheme === 'dark' || (!savedTheme && prefersDark)) {
     setTheme(true);
 } else {
@@ -45,21 +43,44 @@ let allArticles = [];
 let currentCategory = sessionStorage.getItem('currentCategory') || 'all';
 const ITEMS_PER_PAGE = 30;
 let currentPage = 1;
+let loadedChunksCount = 0;
+let isFetchingChunk = false;
 
 const paginationSection = document.getElementById('pagination');
 
+async function loadNextChunkIfAvailable() {
+    if (isFetchingChunk) return false;
+    if (!currentMetadata || loadedChunksCount >= currentMetadata.chunks.length) return false;
+    
+    isFetchingChunk = true;
+    paginationSection.style.display = 'block';
+    
+    const chunkName = currentMetadata.chunks[loadedChunksCount];
+    const newArticles = await fetchChunkData(chunkName);
+    
+    // Deduplicate just in case of cross-chunk overlap during migration
+    const existingIds = new Set(allArticles.map(a => a.id));
+    const uniqueNew = newArticles.filter(a => !existingIds.has(a.id));
+    
+    allArticles = allArticles.concat(uniqueNew);
+    loadedChunksCount++;
+    isFetchingChunk = false;
+    return true;
+}
+
 // Main Initialization
 async function init() {
-    // Restore active state to the correct chip on page load
     const filterChips = document.querySelectorAll('.chip');
     filterChips.forEach(c => c.classList.remove('active'));
     const activeChip = document.querySelector(`.chip[data-category="${currentCategory}"]`);
     if (activeChip) activeChip.classList.add('active');
 
     try {
-        allArticles = await fetchNewsData();
+        await initMetadata();
+        if (currentMetadata && currentMetadata.latest) {
+            await loadNextChunkIfAvailable();
+        }
         
-        // Give a slight delay just to show off the skeleton loaders briefly
         setTimeout(() => {
             renderPage();
         }, 300); 
@@ -69,26 +90,37 @@ async function init() {
     }
 }
 
-function renderPage(append = false) {
-    // Filter articles
-    const filteredArticles = allArticles.filter(article => {
+async function renderPage(append = false) {
+    let filteredArticles = allArticles.filter(article => {
         if (currentCategory === 'all') return true;
         return article.category === currentCategory;
     });
 
-    // Calculate slice
     const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
-    const endIndex = startIndex + ITEMS_PER_PAGE;
-    const articlesToShow = filteredArticles.slice(startIndex, endIndex);
+    let endIndex = startIndex + ITEMS_PER_PAGE;
 
-    // Render
+    // If we don't have enough articles to fill the page, and there are more chunks, fetch them
+    while (filteredArticles.length < endIndex && loadedChunksCount < (currentMetadata?.chunks?.length || 0)) {
+        const fetchedMore = await loadNextChunkIfAvailable();
+        if (fetchedMore) {
+            filteredArticles = allArticles.filter(article => {
+                if (currentCategory === 'all') return true;
+                return article.category === currentCategory;
+            });
+        } else {
+            break; // No more chunks available
+        }
+    }
+
+    const articlesToShow = filteredArticles.slice(startIndex, endIndex);
     renderArticles(articlesToShow, 'news-container', append);
 
-    // Show/Hide Load More button
-    if (endIndex < filteredArticles.length) {
+    if (endIndex < filteredArticles.length || loadedChunksCount < (currentMetadata?.chunks?.length || 0)) {
         paginationSection.style.display = 'block';
     } else {
         paginationSection.style.display = 'none';
+        paginationSection.innerHTML = '<div style="opacity: 0.6; font-size: 0.9rem;">You have reached the end of the history.</div>';
+        paginationSection.style.display = 'block';
     }
 }
 
@@ -96,50 +128,41 @@ function renderPage(append = false) {
 const filterChips = document.querySelectorAll('.chip');
 filterChips.forEach(chip => {
     chip.addEventListener('click', (e) => {
-        // Remove active class from all filters
         filterChips.forEach(c => c.classList.remove('active'));
-        
-        // Add to clicked
         e.target.classList.add('active');
         
-        // Filter the UI and reset pagination
         currentCategory = e.target.dataset.category;
         sessionStorage.setItem('currentCategory', currentCategory);
         currentPage = 1;
-        renderPage(false); // don't append, replace
+        renderPage(false); 
     });
 });
 
 // Infinite Scroll Observer
 const observerOptions = {
     root: null,
-    rootMargin: '100px', // Load a bit before it comes into view
+    rootMargin: '100px', 
     threshold: 0
 };
 
 const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting && paginationSection.style.display !== 'none') {
+    entries.forEach(async entry => {
+        if (entry.isIntersecting && !isFetchingChunk) {
+            // We only increment currentPage if we actually rendered something previously
+            // But if we run out of filtered articles locally, renderPage will automatically fetch the next chunk anyway.
             currentPage++;
-            renderPage(true);
+            await renderPage(true);
         }
     });
 }, observerOptions);
 
 observer.observe(paginationSection);
 
-// Start app
 document.addEventListener('DOMContentLoaded', init);
 
-// Register Service Worker for PWA
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
         navigator.serviceWorker.register('./ServiceWorker.js')
-            .then(registration => {
-                console.log('ServiceWorker registration successful with scope: ', registration.scope);
-            })
-            .catch(err => {
-                console.error('ServiceWorker registration failed: ', err);
-            });
+            .catch(err => console.error('ServiceWorker registration failed: ', err));
     });
 }
