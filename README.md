@@ -7,7 +7,6 @@
 
   <br />
 
-
   <p>A premium, blazing-fast, serverless news aggregator powered entirely by GitHub Pages.</p>
 
   [![Deploy to GitHub Pages](https://github.com/CodeMasterAbhishek/Daily-Brief/actions/workflows/update-rss.yml/badge.svg)](https://github.com/CodeMasterAbhishek/Daily-Brief/actions/workflows/update-rss.yml)
