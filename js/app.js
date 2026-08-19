@@ -38,6 +38,35 @@ themeToggle.addEventListener('click', () => {
     setTheme(!isDark);
 });
 
+// Fullscreen Management
+const fullscreenToggle = document.getElementById('fullscreen-toggle');
+const iconExpand = document.getElementById('icon-expand');
+const iconCompress = document.getElementById('icon-compress');
+
+if (fullscreenToggle) {
+    fullscreenToggle.addEventListener('click', () => {
+        if (!document.fullscreenElement) {
+            document.documentElement.requestFullscreen().catch(err => {
+                console.error(`Error attempting to enable fullscreen: ${err.message}`);
+            });
+        } else {
+            if (document.exitFullscreen) {
+                document.exitFullscreen();
+            }
+        }
+    });
+
+    document.addEventListener('fullscreenchange', () => {
+        if (document.fullscreenElement) {
+            iconExpand.style.display = 'none';
+            iconCompress.style.display = 'block';
+        } else {
+            iconExpand.style.display = 'block';
+            iconCompress.style.display = 'none';
+        }
+    });
+}
+
 // Pagination State
 let allArticles = [];
 let currentCategory = sessionStorage.getItem('currentCategory') || 'all';

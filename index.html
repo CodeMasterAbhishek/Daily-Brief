@@ -38,18 +38,22 @@
             <section class="filters" aria-label="Category filters">
                 <button class="chip active" data-category="all">All News</button>
                 <button class="chip" data-category="trending">Trending</button>
+                <button class="chip" data-category="technology">Technology</button>
+                <button class="chip" data-category="ai">AI</button>
                 <button class="chip" data-category="politics">Politics</button>
                 <button class="chip" data-category="business">Business</button>
-                <button class="chip" data-category="sports">Sports</button>
-                <button class="chip" data-category="technology">Technology</button>
                 <button class="chip" data-category="entertainment">Entertainment</button>
                 <button class="chip" data-category="science">Science</button>
+                <button class="chip" data-category="sports">Sports</button>
                 <button class="chip" data-category="health">Health</button>
-                <button class="chip" data-category="ai">AI</button>
                 <button class="chip" data-category="gaming">Gaming</button>
             </section>
 
             <nav>
+                <button id="fullscreen-toggle" class="btn-icon" aria-label="Toggle Fullscreen" style="margin-right: 0.5rem;">
+                    <svg id="icon-expand" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
+                    <svg id="icon-compress" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display:none;"><path d="M8 3v3a2 2 0 0 1-2 2H3m18 0h-3a2 2 0 0 1-2-2V3m0 18v-3a2 2 0 0 1 2-2h3M3 16h3a2 2 0 0 1 2 2v3"></path></svg>
+                </button>
                 <button id="theme-toggle" class="btn-icon" aria-label="Toggle Dark Mode">
                     <!-- Sun/Moon icon will be injected via JS -->
                     <svg viewBox="0 0 24 24"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
