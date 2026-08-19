@@ -1,5 +1,12 @@
 <div align="center">
   <h1>Daily Brief</h1>
+  
+  <a href="https://CodeMasterAbhishek.github.io/Daily-Brief/">
+    <img src="assets/hero-screenshot.png" alt="Daily Brief Interface" />
+  </a>
+
+  <br />
+
   <p>A premium, blazing-fast, serverless news aggregator powered entirely by GitHub Pages.</p>
 
   [![Deploy to GitHub Pages](https://github.com/CodeMasterAbhishek/Daily-Brief/actions/workflows/update-rss.yml/badge.svg)](https://github.com/CodeMasterAbhishek/Daily-Brief/actions/workflows/update-rss.yml)
@@ -7,9 +14,6 @@
   [![Platform](https://img.shields.io/badge/Platform-GitHub%20Pages-success.svg)](#)
 
   **[View Live Website](https://CodeMasterAbhishek.github.io/Daily-Brief/)**
-
-  <br />
-  <img src="assets/hero-screenshot.png" alt="Daily Brief Interface" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" />
 </div>
 
 ---
