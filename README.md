@@ -61,26 +61,6 @@ sequenceDiagram
     CDN-->>Client: Serve static assets instantly
 ```
 
----
-
-## Folder Structure
-
-```text
-/
-├── .github/workflows/
-│   └── update-rss.yml    # Action for RSS updates (runs every 30 mins)
-├── public/               # The production website deployed to GitHub Pages
-│   ├── css/
-│   ├── js/
-│   ├── data/             # Monthly static JSON APIs
-│   ├── index.html
-│   ├── manifest.json
-│   └── ServiceWorker.js
-├── src/                  # Backend Node.js tooling
-│   └── scripts/
-│       └── fetch-rss.js  # Automated aggregation script
-└── package.json          # Node dependencies (rss-parser)
-```
 
 ---
 
