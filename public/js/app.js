@@ -82,7 +82,6 @@ const archiveCalendar = document.getElementById('archive-calendar');
 const archiveCalGrid = document.getElementById('cal-grid');
 const archiveCalMonthLabel = document.getElementById('cal-month-label');
 const archiveLatestButton = document.getElementById('date-latest');
-const archiveLabel = document.getElementById('archive-label');
 const datePrevButton = document.getElementById('date-prev');
 const dateNextButton = document.getElementById('date-next');
 const calPrevMonthButton = document.getElementById('cal-prev-month');
@@ -117,11 +116,7 @@ function archiveBounds() {
         .sort();
     const today = todayKey();
     if (!months.length) return { min: '2024-07-01', max: today };
-    const min = `${months[0]}-01`;
-    const [year, month] = months[months.length - 1].split('-').map(Number);
-    const lastDay = new Date(year, month, 0).getDate();
-    const archiveEnd = `${months[months.length - 1]}-${String(lastDay).padStart(2, '0')}`;
-    return { min, max: today > archiveEnd ? today : archiveEnd };
+    return { min: `${months[0]}-01`, max: today };
 }
 
 function matchesFilters(article) {
@@ -204,11 +199,11 @@ function renderCalendar() {
         month: 'long', year: 'numeric'
     });
 
-    const monthStart = `${year}-${String(month + 1).padStart(2, '0')}-01`;
     const lastDate = new Date(year, month + 1, 0).getDate();
     const monthEnd = `${year}-${String(month + 1).padStart(2, '0')}-${String(lastDate).padStart(2, '0')}`;
+    const nextMonthStart = new Intl.DateTimeFormat('en-CA').format(new Date(year, month + 1, 1));
     if (calPrevMonthButton) calPrevMonthButton.disabled = monthEnd <= min;
-    if (calNextMonthButton) calNextMonthButton.disabled = monthStart >= max;
+    if (calNextMonthButton) calNextMonthButton.disabled = nextMonthStart > max;
 
     const firstWeekday = (new Date(year, month, 1).getDay() + 6) % 7;
     const today = todayKey();
@@ -251,25 +246,14 @@ function updateArchiveChrome() {
             : 'Latest news. Choose a date from the archive');
     }
     if (archiveLatestButton) archiveLatestButton.hidden = !selectedDate;
+    const viewDay = selectedDate || todayKey();
     if (datePrevButton) datePrevButton.disabled = Boolean(selectedDate && selectedDate <= min);
-    if (dateNextButton) dateNextButton.disabled = Boolean(selectedDate && selectedDate >= max);
+    if (dateNextButton) dateNextButton.disabled = viewDay >= max;
     if (isCalendarOpen()) renderCalendar();
-
-    if (archiveLabel) {
-        if (selectedDate) {
-            const readable = new Date(`${selectedDate}T12:00:00`).toLocaleDateString(undefined, {
-                weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
-            });
-            archiveLabel.textContent = readable;
-            archiveLabel.hidden = false;
-        } else {
-            archiveLabel.hidden = true;
-            archiveLabel.textContent = '';
-        }
-    }
 }
 
 async function setSelectedDate(day) {
+    if (day && day > todayKey()) return;
     selectedDate = day || '';
     if (selectedDate) sessionStorage.setItem('selectedDate', selectedDate);
     else sessionStorage.removeItem('selectedDate');
@@ -287,6 +271,10 @@ async function init() {
 
     try {
         await initMetadata();
+        if (selectedDate && selectedDate > todayKey()) {
+            selectedDate = '';
+            sessionStorage.removeItem('selectedDate');
+        }
         updateArchiveChrome();
         if (selectedDate) {
             await ensureChunkLoaded(chunkNameForDay(selectedDate));

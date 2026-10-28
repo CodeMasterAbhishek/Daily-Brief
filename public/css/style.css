@@ -180,14 +180,6 @@
   background: var(--border-color);
 }
 
-.archive-label {
-  font-family: var(--font-sans);
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--text-secondary);
-  margin: 0 0 var(--space-lg);
-}
-
 /* Category Filters (Inside Header) */
 .filters {
   display: flex;
