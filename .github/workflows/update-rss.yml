@@ -6,8 +6,9 @@ on:
     - cron: '*/30 * * * *'
   workflow_dispatch: # Allow manual trigger
 
-env:
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
 
 jobs:
   update-rss:
