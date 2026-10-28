@@ -263,7 +263,7 @@ function initHeroSlider() {
 }
 
 // Render the list of articles to the container
-export function renderArticles(articles, containerId = 'news-container', append = false) {
+export function renderArticles(articles, containerId = 'news-container', append = false, emptyMessage = 'No news available right now.') {
     const gridContainer = document.getElementById(containerId);
     const heroContainer = document.getElementById('hero-container');
     
@@ -273,7 +273,7 @@ export function renderArticles(articles, containerId = 'news-container', append 
         if (!append) {
             gridContainer.innerHTML = `
                 <div style="grid-column: 1 / -1; display: flex; align-items: center; justify-content: center; min-height: 60vh; color: var(--text-secondary);">
-                    <h2>No news available right now.</h2>
+                    <h2>${escapeHtml(emptyMessage)}</h2>
                 </div>
             `;
             heroContainer.innerHTML = '';

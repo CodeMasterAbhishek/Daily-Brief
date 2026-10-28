@@ -191,7 +191,9 @@ async function run() {
         }
     }
 
-    // 7. Group into Monthly Chunks
+    // 7. Group into Monthly Chunks. Keep every month forever so the site can
+    // browse the archive by date. GitHub Pages is large enough for years of
+    // sharded JSON; do not expire stories by age.
     const chunks = {};
     uniqueArray.forEach(article => {
         // e.g., "2026-08"

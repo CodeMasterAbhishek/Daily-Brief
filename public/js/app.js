@@ -70,45 +70,132 @@ if (fullscreenToggle) {
 // Pagination State
 let allArticles = [];
 let currentCategory = sessionStorage.getItem('currentCategory') || 'all';
+let selectedDate = sessionStorage.getItem('selectedDate') || '';
 const ITEMS_PER_PAGE = 30;
 let currentPage = 1;
-let loadedChunksCount = 0;
+const loadedChunkNames = new Set();
 let isFetchingChunk = false;
 
 const paginationSection = document.getElementById('pagination');
+const archiveDateInput = document.getElementById('archive-date');
+const archiveLatestButton = document.getElementById('date-latest');
+const archiveLabel = document.getElementById('archive-label');
+const datePrevButton = document.getElementById('date-prev');
+const dateNextButton = document.getElementById('date-next');
 
-async function loadNextChunkIfAvailable() {
-    if (isFetchingChunk) return false;
-    if (!currentMetadata || loadedChunksCount >= currentMetadata.chunks.length) return false;
-    
+function todayKey() {
+    return new Intl.DateTimeFormat('en-CA').format(new Date());
+}
+
+function toDayKey(iso) {
+    const date = new Date(iso);
+    if (Number.isNaN(date.getTime())) return '';
+    return new Intl.DateTimeFormat('en-CA').format(date);
+}
+
+function chunkNameForDay(day) {
+    return day ? `news-${day.slice(0, 7)}` : null;
+}
+
+function shiftDay(day, delta) {
+    const date = new Date(`${day}T12:00:00`);
+    date.setDate(date.getDate() + delta);
+    return new Intl.DateTimeFormat('en-CA').format(date);
+}
+
+function archiveBounds() {
+    const months = (currentMetadata?.chunks || [])
+        .map(name => name.replace(/^news-/, ''))
+        .filter(Boolean)
+        .sort();
+    const today = todayKey();
+    if (!months.length) return { min: '2024-07-01', max: today };
+    const min = `${months[0]}-01`;
+    const [year, month] = months[months.length - 1].split('-').map(Number);
+    const lastDay = new Date(year, month, 0).getDate();
+    const archiveEnd = `${months[months.length - 1]}-${String(lastDay).padStart(2, '0')}`;
+    return { min, max: today > archiveEnd ? today : archiveEnd };
+}
+
+function matchesFilters(article) {
+    if (selectedDate && toDayKey(article.publishedAt) !== selectedDate) return false;
+    if (currentCategory === 'all') return true;
+    if (currentCategory === 'trending') {
+        if (selectedDate) return article.tier === 1 || article.trending === true;
+        return article.trending === true || article.category === 'trending';
+    }
+    return article.category === currentCategory;
+}
+
+async function ensureChunkLoaded(chunkName) {
+    if (!chunkName || loadedChunkNames.has(chunkName)) return loadedChunkNames.has(chunkName);
     isFetchingChunk = true;
     paginationSection.style.display = 'none';
-    showSkeletons('news-container', 15);
-    
-    const chunkName = currentMetadata.chunks[loadedChunksCount];
+    showSkeletons('news-container', 12);
     const newArticles = await fetchChunkData(chunkName);
-    
-    // Deduplicate just in case of cross-chunk overlap during migration
-    const existingIds = new Set(allArticles.map(a => a.id));
-    const uniqueNew = newArticles.filter(a => !existingIds.has(a.id));
-    
-    allArticles = allArticles.concat(uniqueNew);
-    loadedChunksCount++;
+    const existingIds = new Set(allArticles.map(article => article.id));
+    allArticles = allArticles.concat(newArticles.filter(article => !existingIds.has(article.id)));
+    loadedChunkNames.add(chunkName);
     isFetchingChunk = false;
     removeSkeletons('news-container');
+    return newArticles.length > 0;
+}
+
+async function loadNextChunkIfAvailable() {
+    if (isFetchingChunk || !currentMetadata?.chunks) return false;
+    const next = currentMetadata.chunks.find(name => !loadedChunkNames.has(name));
+    if (!next) return false;
+    await ensureChunkLoaded(next);
     return true;
+}
+
+function updateArchiveChrome() {
+    const { min, max } = archiveBounds();
+    if (archiveDateInput) {
+        archiveDateInput.min = min;
+        archiveDateInput.max = max;
+        archiveDateInput.value = selectedDate || '';
+    }
+    if (archiveLatestButton) archiveLatestButton.hidden = !selectedDate;
+    if (datePrevButton) datePrevButton.disabled = Boolean(selectedDate && selectedDate <= min);
+    if (dateNextButton) dateNextButton.disabled = Boolean(selectedDate && selectedDate >= max);
+
+    if (archiveLabel) {
+        if (selectedDate) {
+            const readable = new Date(`${selectedDate}T12:00:00`).toLocaleDateString(undefined, {
+                weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
+            });
+            archiveLabel.textContent = readable;
+            archiveLabel.hidden = false;
+        } else {
+            archiveLabel.hidden = true;
+            archiveLabel.textContent = '';
+        }
+    }
+}
+
+async function setSelectedDate(day) {
+    selectedDate = day || '';
+    if (selectedDate) sessionStorage.setItem('selectedDate', selectedDate);
+    else sessionStorage.removeItem('selectedDate');
+    currentPage = 1;
+    updateArchiveChrome();
+    await renderPage(false);
 }
 
 // Main Initialization
 async function init() {
-    const filterChips = document.querySelectorAll('.chip');
+    const filterChips = document.querySelectorAll('.filters .chip');
     filterChips.forEach(c => c.classList.remove('active'));
-    const activeChip = document.querySelector(`.chip[data-category="${currentCategory}"]`);
+    const activeChip = document.querySelector(`.filters .chip[data-category="${currentCategory}"]`);
     if (activeChip) activeChip.classList.add('active');
 
     try {
         await initMetadata();
-        if (currentMetadata && currentMetadata.latest) {
+        updateArchiveChrome();
+        if (selectedDate) {
+            await ensureChunkLoaded(chunkNameForDay(selectedDate));
+        } else if (currentMetadata && currentMetadata.latest) {
             await loadNextChunkIfAvailable();
         }
         
@@ -122,37 +209,39 @@ async function init() {
 }
 
 async function renderPage(append = false) {
-    let filteredArticles = allArticles.filter(article => {
-        if (currentCategory === 'all') return true;
-        if (currentCategory === 'trending') return article.trending === true || article.category === 'trending';
-        return article.category === currentCategory;
-    });
+    if (selectedDate) {
+        await ensureChunkLoaded(chunkNameForDay(selectedDate));
+    }
+
+    let filteredArticles = allArticles.filter(matchesFilters);
 
     const startIndex = (currentPage - 1) * ITEMS_PER_PAGE;
     let endIndex = startIndex + ITEMS_PER_PAGE;
 
-    // If we don't have enough articles to fill the page, and there are more chunks, fetch them
-    while (filteredArticles.length < endIndex && loadedChunksCount < (currentMetadata?.chunks?.length || 0)) {
-        const fetchedMore = await loadNextChunkIfAvailable();
-        if (fetchedMore) {
-            filteredArticles = allArticles.filter(article => {
-                if (currentCategory === 'all') return true;
-                if (currentCategory === 'trending') return article.trending === true || article.category === 'trending';
-                return article.category === currentCategory;
-            });
-        } else {
-            break; // No more chunks available
+    if (!selectedDate) {
+        while (filteredArticles.length < endIndex && loadedChunkNames.size < (currentMetadata?.chunks?.length || 0)) {
+            const fetchedMore = await loadNextChunkIfAvailable();
+            if (fetchedMore) {
+                filteredArticles = allArticles.filter(matchesFilters);
+            } else {
+                break;
+            }
         }
     }
 
     const articlesToShow = filteredArticles.slice(startIndex, endIndex);
-    renderArticles(articlesToShow, 'news-container', append);
+    const emptyMessage = selectedDate
+        ? `No stories saved for ${new Date(`${selectedDate}T12:00:00`).toLocaleDateString(undefined, { month: 'long', day: 'numeric', year: 'numeric' })}.`
+        : 'No news available right now.';
+    renderArticles(articlesToShow, 'news-container', append, emptyMessage);
 
-    if (endIndex < filteredArticles.length || loadedChunksCount < (currentMetadata?.chunks?.length || 0)) {
+    const moreInMemory = endIndex < filteredArticles.length;
+    const moreChunks = !selectedDate && loadedChunkNames.size < (currentMetadata?.chunks?.length || 0);
+    if (moreInMemory || moreChunks) {
         paginationSection.style.display = 'block';
+        paginationSection.innerHTML = '<div style="opacity: 0.6; font-size: 0.9rem;">Loading more articles...</div>';
     } else {
-        paginationSection.style.display = 'none';
-        paginationSection.innerHTML = '<div style="opacity: 0.6; font-size: 0.9rem;">You have reached the end of the history.</div>';
+        paginationSection.innerHTML = `<div style="opacity: 0.6; font-size: 0.9rem;">${selectedDate ? 'That’s all for this day.' : 'You have reached the end of the history.'}</div>`;
         paginationSection.style.display = 'block';
     }
 }
@@ -165,7 +254,7 @@ let draggedChip = null;
 const savedOrder = JSON.parse(localStorage.getItem('categoryOrder'));
 if (savedOrder && Array.isArray(savedOrder)) {
     const chipMap = new Map();
-    document.querySelectorAll('.chip').forEach(chip => {
+    document.querySelectorAll('.filters .chip').forEach(chip => {
         chipMap.set(chip.dataset.category, chip);
     });
     
@@ -210,7 +299,7 @@ filtersContainer.addEventListener('dragover', (e) => {
     }
 });
 
-const filterChips = document.querySelectorAll('.chip');
+const filterChips = document.querySelectorAll('.filters .chip');
 filterChips.forEach(chip => {
     // Drag & Drop Listeners
     chip.setAttribute('draggable', true);
@@ -234,16 +323,54 @@ filterChips.forEach(chip => {
     });
 
     // Click Listener
-    chip.addEventListener('click', (e) => {
+    chip.addEventListener('click', async (e) => {
         filterChips.forEach(c => c.classList.remove('active'));
-        e.target.classList.add('active');
+        e.currentTarget.classList.add('active');
         
-        currentCategory = e.target.dataset.category;
+        currentCategory = e.currentTarget.dataset.category;
         sessionStorage.setItem('currentCategory', currentCategory);
         currentPage = 1;
-        renderPage(false); 
+        await renderPage(false); 
     });
 });
+
+if (archiveDateInput) {
+    archiveDateInput.addEventListener('change', async () => {
+        await setSelectedDate(archiveDateInput.value);
+    });
+}
+
+if (datePrevButton) {
+    datePrevButton.addEventListener('click', async () => {
+        const from = selectedDate || todayKey();
+        await setSelectedDate(shiftDay(from, -1));
+    });
+}
+
+if (dateNextButton) {
+    dateNextButton.addEventListener('click', async () => {
+        const from = selectedDate || todayKey();
+        const { max } = archiveBounds();
+        const next = shiftDay(from, 1);
+        if (next > max) return;
+        await setSelectedDate(next);
+    });
+}
+
+if (archiveLatestButton) {
+    archiveLatestButton.addEventListener('click', async () => {
+        await setSelectedDate('');
+    });
+}
+
+const homeLink = document.getElementById('home-link');
+if (homeLink) {
+    homeLink.addEventListener('click', async (event) => {
+        event.preventDefault();
+        await setSelectedDate('');
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+}
 
 // Infinite Scroll Observer
 const observerOptions = {
@@ -255,8 +382,6 @@ const observerOptions = {
 const observer = new IntersectionObserver((entries) => {
     entries.forEach(async entry => {
         if (entry.isIntersecting && !isFetchingChunk) {
-            // We only increment currentPage if we actually rendered something previously
-            // But if we run out of filtered articles locally, renderPage will automatically fetch the next chunk anyway.
             currentPage++;
             await renderPage(true);
         }

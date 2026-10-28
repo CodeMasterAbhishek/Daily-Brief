@@ -68,8 +68,10 @@ nav {
   grid-row: 1 / 2;
   justify-self: end;
   display: flex;
-  gap: var(--space-lg);
+  gap: var(--space-sm);
   align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .filters {
