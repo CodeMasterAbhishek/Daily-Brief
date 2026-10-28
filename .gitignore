@@ -4,3 +4,5 @@ Local taste/
 /public/data/c/*
 !/public/data/c/US/
 !/public/data/c/US/**
+/public/data/backfill-status.json
+/public/data/backfill.log
