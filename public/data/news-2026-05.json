@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-10-28T09:12:08.562Z",
-  "count": 2,
+  "lastUpdated": "2026-10-28T09:34:17.468Z",
+  "count": 3,
   "articles": [
+    {
+      "id": "rss-33e8ff20a982",
+      "title": "Mob Burns Congo Ebola Center Amid Rare Strain Outbreak",
+      "description": "Several hundred people massed at the gates of a hospital to demand the body of a suspected Ebola victim. Violence broke out when staff refused the request.",
+      "url": "https://www.nytimes.com/2026/05/22/world/africa/ebola-congo-clinic-burned-protests.html",
+      "image": "https://static01.nyt.com/images/2026/05/22/multimedia/22int-ebola-congo-clinic-promo-zkpw/22int-ebola-congo-clinic-promo-zkpw-mediumSquareAt3X.jpg",
+      "source": "NYT Health",
+      "category": "health",
+      "publishedAt": "2026-05-23T01:35:27.000Z",
+      "tier": 1,
+      "trending": false
+    },
     {
       "id": "rss-8976351fd02b",
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",

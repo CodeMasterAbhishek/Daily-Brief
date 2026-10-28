@@ -17,12 +17,14 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     permissions:
-      contents: read
+      contents: write   # commit the news archive back to git
       pages: write      # to deploy to Pages
       id-token: write   # to verify the deployment originates from an appropriate source
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -34,6 +36,19 @@ jobs:
 
       - name: Run RSS Fetch Script
         run: npm run fetch-rss
+
+      - name: Commit news archive
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/news-*.json public/data/metadata.json public/index.html
+          if git diff --cached --quiet; then
+            echo "No news changes to commit"
+          else
+            git commit -m "Update news archive from RSS"
+            git pull --rebase origin main
+            git push
+          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

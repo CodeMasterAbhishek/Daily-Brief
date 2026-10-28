@@ -46,11 +46,31 @@ function safeHttpUrl(value) {
     return '';
 }
 
+function rssText(value) {
+    if (value == null) return '';
+    if (typeof value === 'string') return value.trim();
+    if (Array.isArray(value)) return rssText(value[0]);
+    if (typeof value === 'object') {
+        if (typeof value._ === 'string') return value._.trim();
+        if (typeof value['#text'] === 'string') return value['#text'].trim();
+    }
+    try {
+        return String(value).trim();
+    } catch {
+        return '';
+    }
+}
+
+function rssDate(value) {
+    const parsed = new Date(rssText(value) || value || Date.now());
+    return Number.isNaN(parsed.getTime()) ? new Date().toISOString() : parsed.toISOString();
+}
+
 function rssCategoriesFromItem(item) {
     return []
         .concat(item.categories || [], item.category || [])
         .flat()
-        .map(value => String(value || '').trim())
+        .map(value => rssText(value && typeof value === 'object' && value.term ? value.term : value))
         .filter(Boolean);
 }
 
@@ -65,14 +85,14 @@ async function extractImage(item) {
     } else if (item.image && item.image.url) {
         img = item.image.url;
     } else {
-        const content = item.content || item['content:encoded'] || '';
+        const content = rssText(item.content) || rssText(item['content:encoded']);
         const imgMatch = content.match(/<img[^>]+src="([^">]+)"/);
         if (imgMatch && imgMatch[1]) {
             img = imgMatch[1];
         }
     }
 
-    if (!img) return null;
+    if (typeof img !== 'string' || !img) return null;
 
     if (img.includes('ichef.bbci.co.uk') && img.includes('/240/')) img = img.replace('/240/', '/976/');
     else if (img.includes('scx1.b-cdn.net') && img.includes('/tmb/')) img = img.replace('/tmb/', '/800w/');
@@ -142,25 +162,29 @@ async function run() {
         try {
             const parsed = await parser.parseURL(feed.url);
             const itemLimit = Number(feed.tier) === 1 ? 12 : 8;
-            const articles = await Promise.all(parsed.items.slice(0, itemLimit).map(async item => {
-                const img = await extractImage(item);
-                let title = item.title ? item.title.trim() : '';
-                const link = item.link || '';
-                if (!title || !link || !img) return null;
-                
-                title = title.replace(/\[(?:Image|Photo) \d+ of \d+\]/gi, '').trim();
-                const dedupeKey = title + feed.source;
-                const id = `rss-${crypto.createHash('md5').update(dedupeKey).digest('hex').substring(0, 12)}`;
-                
-                return {
-                    id, title,
-                    description: item.contentSnippet ? item.contentSnippet.substring(0, 200) : '',
-                    url: link, image: img, source: feed.source, category: feed.category,
-                    rssCategories: rssCategoriesFromItem(item),
-                    publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString()
-                };
-            }));
-            return articles.filter(a => a !== null);
+            const articles = [];
+            for (const item of parsed.items.slice(0, itemLimit)) {
+                try {
+                    const img = await extractImage(item);
+                    let title = rssText(item.title);
+                    const link = rssText(item.link || item.guid);
+                    if (!title || !link || !img) continue;
+
+                    title = title.replace(/\[(?:Image|Photo) \d+ of \d+\]/gi, '').trim();
+                    const dedupeKey = `${title}${feed.source}`;
+                    const id = `rss-${crypto.createHash('md5').update(dedupeKey).digest('hex').substring(0, 12)}`;
+                    articles.push({
+                        id, title,
+                        description: rssText(item.contentSnippet).substring(0, 200),
+                        url: link, image: img, source: feed.source, category: feed.category,
+                        rssCategories: rssCategoriesFromItem(item),
+                        publishedAt: rssDate(item.isoDate || item.pubDate)
+                    });
+                } catch (itemError) {
+                    console.error(`Skipping item from ${feed.source}: ${itemError.message}`);
+                }
+            }
+            return articles;
         } catch (e) {
             console.error(`Error fetching ${feed.source}: ${e.message}`);
             return [];

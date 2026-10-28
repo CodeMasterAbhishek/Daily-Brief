@@ -1,6 +1,8 @@
 {
-  "latest": "news-2026-08",
+  "latest": "news-2026-10",
   "chunks": [
+    "news-2026-10",
+    "news-2026-09",
     "news-2026-08",
     "news-2026-07",
     "news-2026-06",
@@ -14,5 +16,5 @@
     "news-2024-08",
     "news-2024-07"
   ],
-  "totalArticles": 4593
+  "totalArticles": 4944
 }
