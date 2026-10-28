@@ -23,6 +23,27 @@ const DATA_DIR = path.join(__dirname, '../../public/data');
 const METADATA_FILE = path.join(DATA_DIR, 'metadata.json');
 const OLD_NEWS_FILE = path.join(DATA_DIR, 'news.json');
 const LIVE_BASE_URL = 'https://codemasterabhishek.github.io/Daily-Brief/data';
+const SEO_START = '<!-- seo-articles:start -->';
+const SEO_END = '<!-- seo-articles:end -->';
+
+function escapeHtml(value) {
+    return String(value ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+}
+
+function safeHttpUrl(value) {
+    try {
+        const url = new URL(String(value).trim());
+        if (url.protocol === 'http:' || url.protocol === 'https:') return url.href;
+    } catch {
+        // Ignore invalid or non-http URLs.
+    }
+    return '';
+}
 
 async function extractImage(item) {
     let img = null;
@@ -189,14 +210,20 @@ async function run() {
     try {
         const INDEX_FILE = path.join(__dirname, '../../public/index.html');
         let indexHtml = fs.readFileSync(INDEX_FILE, 'utf-8');
-        let seoHtml = '<noscript><div class="seo-articles">';
-        uniqueArray.slice(0, 20).forEach(article => {
-            seoHtml += `<article><h2><a href="${article.url}">${article.title}</a></h2><p>${article.description || ''}</p><span>${article.source} - ${article.category}</span></article>`;
-        });
-        seoHtml += '</div></noscript>';
+        const seoItems = uniqueArray.slice(0, 20).map(article => {
+            const url = safeHttpUrl(article.url);
+            if (!url) return '';
+            return `<article><h2><a href="${escapeHtml(url)}">${escapeHtml(article.title)}</a></h2><p>${escapeHtml(article.description || '')}</p><span>${escapeHtml(article.source)} - ${escapeHtml(article.category)}</span></article>`;
+        }).join('');
+        const seoBlock = `${SEO_START}\n        <noscript><div class="seo-articles">${seoItems}</div></noscript>\n        ${SEO_END}`;
+        const seoPattern = /<!-- seo-articles:start -->[\s\S]*?<!-- seo-articles:end -->/;
 
-        indexHtml = indexHtml.replace(/<noscript><div class="seo-articles">[\s\S]*?<\/div><\/noscript>\n\s*/g, '');
-        indexHtml = indexHtml.replace(/<\/main>/, `${seoHtml}\n    </main>`);
+        if (seoPattern.test(indexHtml)) {
+            indexHtml = indexHtml.replace(seoPattern, seoBlock);
+        } else {
+            indexHtml = indexHtml.replace(/<noscript><div class="seo-articles">[\s\S]*?<\/div><\/noscript>\s*/g, '');
+            indexHtml = indexHtml.replace(/<\/main>/, `${seoBlock}\n    </main>`);
+        }
         fs.writeFileSync(INDEX_FILE, indexHtml);
     } catch(e) { console.error("Failed to pre-render SEO HTML:", e); }
 

@@ -4,6 +4,7 @@
   "description": "Static News Aggregator",
   "type": "module",
   "scripts": {
+    "start": "npx --yes serve public",
     "fetch-rss": "node src/scripts/fetch-rss.js",
     "upgrade-images": "node src/scripts/upgrade-images.js"
   },

@@ -2,6 +2,31 @@
  * UI module for rendering the DOM elements.
  */
 
+const FALLBACK_IMAGE = 'assets/images/fallback.svg';
+
+function escapeHtml(value) {
+    return String(value ?? '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+}
+
+function safeHttpUrl(value) {
+    try {
+        const url = new URL(String(value).trim(), window.location.href);
+        if (url.protocol === 'http:' || url.protocol === 'https:') return url.href;
+    } catch {
+        // Ignore invalid or non-http URLs.
+    }
+    return '';
+}
+
+function safeImageUrl(value) {
+    return safeHttpUrl(value) || FALLBACK_IMAGE;
+}
+
 window.markAsRead = function(id) {
     try {
         const readArticles = JSON.parse(localStorage.getItem('readArticles') || '[]');
@@ -38,7 +63,10 @@ function createHeroHTML(articles) {
     let dotsHTML = '';
     
     articles.forEach((article, index) => {
-        const imageUrl = article.image || 'assets/images/fallback.jpg';
+        const imageUrl = escapeHtml(safeImageUrl(article.image));
+        const articleUrl = escapeHtml(safeHttpUrl(article.url) || '#');
+        const articleId = escapeHtml(article.id);
+        const category = escapeHtml((article.category || '').toLowerCase());
         const activeClass = index === 0 ? 'active' : '';
         
         let readClass = '';
@@ -50,18 +78,18 @@ function createHeroHTML(articles) {
         } catch(e) {}
         
         slidesHTML += `
-            <article class="hero-slide ${activeClass} ${readClass}" data-index="${index}" data-category="${article.category.toLowerCase()}" data-id="${article.id}">
-                <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="hero-img-wrap" onclick="markAsRead('${article.id}')">
-                    <img src="${imageUrl}" alt="${article.title}" class="hero-img" onerror="this.src='data:image/svg+xml,%3Csvg xmlns=\\'http://www.w3.org/2000/svg\\' width=\\'100%25\\' height=\\'100%25\\'%3E%3Crect width=\\'100%25\\' height=\\'100%25\\' fill=\\'%2318181b\\'/%3E%3C/svg%3E'">
+            <article class="hero-slide ${activeClass} ${readClass}" data-index="${index}" data-category="${category}" data-id="${articleId}">
+                <a href="${articleUrl}" target="_blank" rel="noopener noreferrer" class="hero-img-wrap" onclick="markAsRead('${articleId}')">
+                    <img src="${imageUrl}" alt="${escapeHtml(article.title)}" class="hero-img" onerror="this.onerror=null;this.src='${FALLBACK_IMAGE}'">
                     <div class="hero-overlay"></div>
                     <div class="hero-content">
                         <div class="hero-meta">
-                            <span class="hero-category">${article.category}</span>
-                            <span class="hero-source">${article.source}</span>
-                            <span>${formatTime(article.publishedAt)}</span>
+                            <span class="hero-category">${escapeHtml(article.category)}</span>
+                            <span class="hero-source">${escapeHtml(article.source)}</span>
+                            <span>${escapeHtml(formatTime(article.publishedAt))}</span>
                         </div>
-                        <h1 class="hero-title">${article.title}</h1>
-                        <p class="hero-desc">${article.description || ''}</p>
+                        <h1 class="hero-title">${escapeHtml(article.title)}</h1>
+                        <p class="hero-desc">${escapeHtml(article.description || '')}</p>
                     </div>
                 </a>
             </article>
@@ -88,7 +116,10 @@ function createHeroHTML(articles) {
 
 // Generate HTML for a single article grid card
 function createCardHTML(article) {
-    const imageUrl = article.image || 'assets/images/fallback.jpg';
+    const imageUrl = escapeHtml(safeImageUrl(article.image));
+    const articleUrl = escapeHtml(safeHttpUrl(article.url) || '#');
+    const articleId = escapeHtml(article.id);
+    const category = escapeHtml((article.category || '').toLowerCase());
     
     let readClass = '';
     try {
@@ -99,22 +130,22 @@ function createCardHTML(article) {
     } catch(e) {}
     
     return `
-        <article class="card ${readClass}" data-category="${article.category.toLowerCase()}" data-id="${article.id}">
-            <a href="${article.url}" target="_blank" rel="noopener noreferrer" class="card-img-wrap" onclick="markAsRead('${article.id}')">
-                <img src="${imageUrl}" alt="${article.title}" class="card-img" loading="lazy" onerror="this.style.display='none'">
+        <article class="card ${readClass}" data-category="${category}" data-id="${articleId}">
+            <a href="${articleUrl}" target="_blank" rel="noopener noreferrer" class="card-img-wrap" onclick="markAsRead('${articleId}')">
+                <img src="${imageUrl}" alt="${escapeHtml(article.title)}" class="card-img" loading="lazy" onerror="this.onerror=null;this.src='${FALLBACK_IMAGE}'">
             </a>
             <div class="card-content">
                 <div class="card-meta">
-                    <span class="card-source">${article.source}</span>
-                    <span>${formatTime(article.publishedAt)}</span>
+                    <span class="card-source">${escapeHtml(article.source)}</span>
+                    <span>${escapeHtml(formatTime(article.publishedAt))}</span>
                 </div>
-                <h2 class="card-title" title="${article.title}">
-                    <a href="${article.url}" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;" onclick="markAsRead('${article.id}')">
-                        ${article.title}
+                <h2 class="card-title" title="${escapeHtml(article.title)}">
+                    <a href="${articleUrl}" target="_blank" rel="noopener noreferrer" style="text-decoration:none; color:inherit;" onclick="markAsRead('${articleId}')">
+                        ${escapeHtml(article.title)}
                     </a>
                 </h2>
                 <div class="card-actions">
-                    <span class="chip-sm">${article.category}</span>
+                    <span class="chip-sm">${escapeHtml(article.category)}</span>
                 </div>
             </div>
         </article>

@@ -1,0 +1,12 @@
+---
+description: After every completed update, commit and push to GitHub.
+alwaysApply: true
+---
+
+# Push after every update
+
+When a feature, fix, or polish slice is finished:
+
+1. Commit the relevant files with a concise message focused on why.
+2. Push to `origin` on the current branch. Do not force-push `main`.
+3. Do this without waiting to be asked again.

@@ -3,9 +3,6 @@ name: Manual Image Upgrade
 on:
   workflow_dispatch: # This allows the workflow to be run manually from the Actions tab
 
-env:
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
-
 jobs:
   upgrade-images:
     runs-on: ubuntu-latest
