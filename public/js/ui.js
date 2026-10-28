@@ -287,14 +287,13 @@ export function renderArticles(articles, containerId = 'news-container', append 
     if (!append) {
         // High-resolution publishers guaranteed to have crisp Hero images
         const PREMIUM_PUBLISHERS = [
-            'New York Times', 'TechCrunch', 'The Verge', 'Wired', 'Variety', 
-            'Hollywood Reporter', 'Billboard', 'Rolling Stone', 'IGN', 'Polygon', 
-            'Kotaku', 'GameSpot', 'Medium Health', 'Medium Fitness', 'Medium Medicine', 
-            'Mental Health (Medium)', 'Medium AI', 'Medium ML', 'Analytics Insight', 
-            'TechCrunch AI', 'The Verge AI', 'VentureBeat AI', 'NASA', 'Live Science'
+            'New York Times', 'NYT Politics', 'NYT Health', 'TechCrunch', 'The Verge',
+            'Wired', 'Ars Technica', 'Variety', 'Hollywood Reporter', 'Billboard',
+            'Rolling Stone', 'Polygon', 'NASA', 'STAT', 'NPR Politics', 'BBC News',
+            'Quanta Magazine', 'MIT Technology Review', 'The Economist', 'WSJ'
         ];
 
-        let heroCandidates = articles.filter(a => PREMIUM_PUBLISHERS.includes(a.source));
+        let heroCandidates = articles.filter(a => a.tier === 1 || PREMIUM_PUBLISHERS.includes(a.source));
         heroCandidates = heroCandidates.slice(0, 5);
 
         // Re-sort the slider by newest

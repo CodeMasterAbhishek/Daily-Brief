@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:39:05.533Z",
+  "lastUpdated": "2026-10-28T09:12:08.561Z",
   "count": 32,
   "articles": [
     {
@@ -10,7 +10,9 @@
       "image": "https://th-thumbnailer.cdn-si-edu.com/lD1DZjbcjLftY-U4aVFpOl7wrBQ=/420x240/filters:focal(1421x1306:1422x1307)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/b4/b2b4bc3f-eb65-4aef-b58e-3f6e9ecb4258/16700079786_2a6be19034_o.jpg",
       "source": "Smithsonian Science",
       "category": "science",
-      "publishedAt": "2026-07-31T22:33:21.000Z"
+      "publishedAt": "2026-07-31T22:33:21.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-0c657b20e386",
@@ -20,7 +22,9 @@
       "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-csail-daniela-rus-bavarian-award-00.png?itok=9XnNV8-Q",
       "source": "MIT AI News",
       "category": "ai",
-      "publishedAt": "2026-07-30T21:00:00.000Z"
+      "publishedAt": "2026-07-30T21:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-be31edef02f0",
@@ -30,7 +34,9 @@
       "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-spi-congressional-visit-26.jpg?itok=Vo00t4gt",
       "source": "MIT AI News",
       "category": "ai",
-      "publishedAt": "2026-07-30T20:35:00.000Z"
+      "publishedAt": "2026-07-30T20:35:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-8acf18eb70f1",
@@ -40,7 +46,9 @@
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/CNET_BGG_Round2_Answers.png",
       "source": "CNET",
       "category": "technology",
-      "publishedAt": "2026-07-30T14:30:38.000Z"
+      "publishedAt": "2026-07-30T14:30:38.000Z",
+      "tier": 2,
+      "trending": false
     },
     {
       "id": "rss-e836c275b0ad",
@@ -50,7 +58,9 @@
       "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-RogerMark-GeorgeMoody.jpg?itok=57wqdl_A",
       "source": "MIT AI News",
       "category": "ai",
-      "publishedAt": "2026-07-29T14:00:00.000Z"
+      "publishedAt": "2026-07-29T14:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-f966a732ca0e",
@@ -60,7 +70,9 @@
       "image": "https://bair.berkeley.edu/static/blog/cuda-to-mlx-k-search/cover.svg",
       "source": "Berkeley AI",
       "category": "ai",
-      "publishedAt": "2026-07-29T09:00:00.000Z"
+      "publishedAt": "2026-07-29T09:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-6589658b33a0",
@@ -70,7 +82,9 @@
       "image": "https://th-thumbnailer.cdn-si-edu.com/qbccz0QeAlTJ3xe4y4lKiYYgFe0=/420x240/filters:focal(233x235:234x236)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/2b/f8/2bf8fcd4-1756-46ef-927b-394ec4814573/1851_07_28_berkowski.jpg",
       "source": "Smithsonian Science",
       "category": "science",
-      "publishedAt": "2026-07-28T20:40:00.000Z"
+      "publishedAt": "2026-07-28T20:40:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-4b80e032844e",
@@ -79,8 +93,10 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp",
       "source": "Google AI",
-      "category": "ai",
-      "publishedAt": "2026-07-28T16:00:00.000Z"
+      "category": "technology",
+      "publishedAt": "2026-07-28T16:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-2022968e0e0d",
@@ -90,7 +106,9 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
       "source": "Google AI",
       "category": "ai",
-      "publishedAt": "2026-07-28T13:00:00.000Z"
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-69acb63bc414",
@@ -100,7 +118,9 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
       "source": "Google AI",
       "category": "ai",
-      "publishedAt": "2026-07-28T13:00:00.000Z"
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-0e6b1e9623f7",
@@ -110,7 +130,9 @@
       "image": "https://th-thumbnailer.cdn-si-edu.com/feJzcjOfsqwxa6MCZIgVKXejVr4=/420x240/filters:focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/c2/3ec2180a-a238-4b81-8841-2285409305be/img_2825.jpg",
       "source": "Smithsonian Science",
       "category": "science",
-      "publishedAt": "2026-07-27T18:22:30.000Z"
+      "publishedAt": "2026-07-27T18:22:30.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-87bbc499ec7a",
@@ -120,7 +142,9 @@
       "image": "https://i.guim.co.uk/img/media/8f994b5ac58b75b74464c6596df0894cff1cd778/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=32102bda32a2b9f3363dd0599edca118",
       "source": "The Guardian Health",
       "category": "health",
-      "publishedAt": "2026-07-27T15:00:13.000Z"
+      "publishedAt": "2026-07-27T15:00:13.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-de52b1d8a5e5",
@@ -130,7 +154,9 @@
       "image": "https://bair.berkeley.edu/static/blog/abbel/ABBEL%20main%20figure.png",
       "source": "Berkeley AI",
       "category": "ai",
-      "publishedAt": "2026-07-26T09:00:00.000Z"
+      "publishedAt": "2026-07-26T09:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-196554108341",
@@ -140,7 +166,9 @@
       "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-NSE-Lauren-Fortier.jpg?itok=WCLAGTfL",
       "source": "MIT AI News",
       "category": "ai",
-      "publishedAt": "2026-07-24T04:00:00.000Z"
+      "publishedAt": "2026-07-24T04:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-3ce35044011f",
@@ -150,7 +178,9 @@
       "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-aerial-3-EmilyDahl.jpg?itok=FRjE5Fce",
       "source": "MIT AI News",
       "category": "ai",
-      "publishedAt": "2026-07-23T12:00:00.000Z"
+      "publishedAt": "2026-07-23T12:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-2769d8b641ed",
@@ -160,7 +190,9 @@
       "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bertsekas-obit.jpg?itok=a4V9w4Hq",
       "source": "MIT AI News",
       "category": "ai",
-      "publishedAt": "2026-07-22T17:00:00.000Z"
+      "publishedAt": "2026-07-22T17:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-f6a0b721f394",
@@ -170,7 +202,9 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
       "source": "Google AI",
       "category": "ai",
-      "publishedAt": "2026-07-22T13:00:00.000Z"
+      "publishedAt": "2026-07-22T13:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-645031e49d26",
@@ -180,7 +214,9 @@
       "image": "https://th-thumbnailer.cdn-si-edu.com/Lxra9nmqmeimVXf8Gw07aGY2NbI=/420x240/filters:focal(2774x2067:2775x2068)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/36/69/36698a0a-640f-428f-8f74-645e7bd147c1/gettyimages-2169784114.jpg",
       "source": "Smithsonian Science",
       "category": "science",
-      "publishedAt": "2026-07-21T16:48:00.000Z"
+      "publishedAt": "2026-07-21T16:48:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-b213cd245b37",
@@ -190,7 +226,9 @@
       "image": "https://www.gamespot.com/wp-content/uploads/2026/07/MW4_4dd2db.webp?w=300",
       "source": "GameSpot",
       "category": "gaming",
-      "publishedAt": "2026-07-20T17:29:10.000Z"
+      "publishedAt": "2026-07-20T17:29:10.000Z",
+      "tier": 2,
+      "trending": false
     },
     {
       "id": "rss-609fcf0bbedd",
@@ -200,7 +238,9 @@
       "image": "https://i.guim.co.uk/img/media/0a4291557ca9ab93e78fc9db764c35fe4fcf3ef4/352_1_1727_1382/master/1727.jpg?width=140&quality=85&auto=format&fit=max&s=3732ad2ffe2d0445ed6988b62d7d722c",
       "source": "The Guardian Health",
       "category": "health",
-      "publishedAt": "2026-07-19T04:25:12.000Z"
+      "publishedAt": "2026-07-19T04:25:12.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-04e440601568",
@@ -210,7 +250,9 @@
       "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bailey-Flanigan.jpg?itok=DtZFVT8B",
       "source": "MIT AI News",
       "category": "ai",
-      "publishedAt": "2026-07-17T17:25:00.000Z"
+      "publishedAt": "2026-07-17T17:25:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-5936c03b32d1",
@@ -220,7 +262,9 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp",
       "source": "Google AI",
       "category": "ai",
-      "publishedAt": "2026-07-16T16:00:00.000Z"
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-f3a8d7621b42",
@@ -230,7 +274,9 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp",
       "source": "Google AI",
       "category": "ai",
-      "publishedAt": "2026-07-16T16:00:00.000Z"
+      "publishedAt": "2026-07-16T16:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-22a6d91e6558",
@@ -240,7 +286,9 @@
       "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/MIT-Geometric-Tuning-01-press.jpg?itok=y_aKzkkP",
       "source": "MIT AI News",
       "category": "ai",
-      "publishedAt": "2026-07-16T04:00:00.000Z"
+      "publishedAt": "2026-07-16T04:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-60a20c49e1ea",
@@ -250,7 +298,9 @@
       "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-medialab-pataranutaporn.jpg?itok=i96QeKNW",
       "source": "MIT AI News",
       "category": "ai",
-      "publishedAt": "2026-07-15T20:25:00.000Z"
+      "publishedAt": "2026-07-15T20:25:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-5dbcbdfba84e",
@@ -260,7 +310,9 @@
       "image": "https://i.guim.co.uk/img/media/c3bf73181c1d5d06683a02608e3c406ba0faf0ed/245_0_2448_1958/master/2448.jpg?width=140&quality=85&auto=format&fit=max&s=9a36bc23e64d82de170da1bb7e0850a3",
       "source": "The Guardian Health",
       "category": "health",
-      "publishedAt": "2026-07-15T15:00:59.000Z"
+      "publishedAt": "2026-07-15T15:00:59.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-66c5237bd0ab",
@@ -270,7 +322,9 @@
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp",
       "source": "Google AI",
       "category": "ai",
-      "publishedAt": "2026-07-14T16:00:00.000Z"
+      "publishedAt": "2026-07-14T16:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-40b926f5c50a",
@@ -280,7 +334,9 @@
       "image": "https://bair.berkeley.edu/static/blog/intelligence-is-free-now-what/image6.png",
       "source": "Berkeley AI",
       "category": "ai",
-      "publishedAt": "2026-07-07T09:00:00.000Z"
+      "publishedAt": "2026-07-07T09:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-dd43c1229c49",
@@ -289,8 +345,10 @@
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Managed_agents_feature_bundle_l.max-600x600.format-webp.webp",
       "source": "Google AI",
-      "category": "ai",
-      "publishedAt": "2026-07-07T08:54:00.000Z"
+      "category": "technology",
+      "publishedAt": "2026-07-07T08:54:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-bf9663d128a7",
@@ -300,7 +358,9 @@
       "image": "https://i.guim.co.uk/img/media/fc027ac28073859b34aac55470dd2a97e9338013/300_281_6476_5183/master/6476.jpg?width=140&quality=85&auto=format&fit=max&s=97b7964cf134cc1329d345d205007b40",
       "source": "The Guardian Health",
       "category": "health",
-      "publishedAt": "2026-07-07T04:00:31.000Z"
+      "publishedAt": "2026-07-07T04:00:31.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-6e2fd2bf64c0",
@@ -309,8 +369,10 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp",
       "source": "Google AI",
-      "category": "ai",
-      "publishedAt": "2026-07-01T18:15:00.000Z"
+      "category": "technology",
+      "publishedAt": "2026-07-01T18:15:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-54ae623ea898",
@@ -320,7 +382,9 @@
       "image": "https://bair.berkeley.edu/static/blog/grads2026/baifeng-shi.jpg",
       "source": "Berkeley AI",
       "category": "ai",
-      "publishedAt": "2026-07-01T09:00:00.000Z"
+      "publishedAt": "2026-07-01T09:00:00.000Z",
+      "tier": 1,
+      "trending": false
     }
   ]
 }

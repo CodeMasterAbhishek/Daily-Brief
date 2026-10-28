@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:39:05.534Z",
+  "lastUpdated": "2026-10-28T09:12:08.563Z",
   "count": 1,
   "articles": [
     {
@@ -10,7 +10,9 @@
       "image": "https://bair.berkeley.edu/static/blog/rl-without-td-learning/teaser_short.png",
       "source": "Berkeley AI",
       "category": "ai",
-      "publishedAt": "2025-11-01T09:00:00.000Z"
+      "publishedAt": "2025-11-01T09:00:00.000Z",
+      "tier": 1,
+      "trending": false
     }
   ]
 }

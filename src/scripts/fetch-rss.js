@@ -3,6 +3,7 @@ import path from 'path';
 import crypto from 'crypto';
 import Parser from 'rss-parser';
 import { fileURLToPath } from 'url';
+import { applyFeedPolicy } from './classify-article.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -43,6 +44,14 @@ function safeHttpUrl(value) {
         // Ignore invalid or non-http URLs.
     }
     return '';
+}
+
+function rssCategoriesFromItem(item) {
+    return []
+        .concat(item.categories || [], item.category || [])
+        .flat()
+        .map(value => String(value || '').trim())
+        .filter(Boolean);
 }
 
 async function extractImage(item) {
@@ -125,11 +134,15 @@ async function run() {
     }
 
     // 5. Fetch new RSS articles
+    const feedBySource = new Map(feeds.map(feed => [feed.source, feed]));
+    const allowedSources = new Set(feeds.map(feed => feed.source));
+
     console.log("Fetching latest RSS feeds...");
     const fetchPromises = feeds.map(async feed => {
         try {
             const parsed = await parser.parseURL(feed.url);
-            const articles = await Promise.all(parsed.items.slice(0, 15).map(async item => {
+            const itemLimit = Number(feed.tier) === 1 ? 12 : 8;
+            const articles = await Promise.all(parsed.items.slice(0, itemLimit).map(async item => {
                 const img = await extractImage(item);
                 let title = item.title ? item.title.trim() : '';
                 const link = item.link || '';
@@ -143,6 +156,7 @@ async function run() {
                     id, title,
                     description: item.contentSnippet ? item.contentSnippet.substring(0, 200) : '',
                     url: link, image: img, source: feed.source, category: feed.category,
+                    rssCategories: rssCategoriesFromItem(item),
                     publishedAt: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString()
                 };
             }));
@@ -156,8 +170,11 @@ async function run() {
     const newArticlesGroups = await Promise.all(fetchPromises);
     newArticlesGroups.flat().forEach(a => allArticlesMap.set(a.id, a));
 
-    // 6. Global Deduplication
-    let mergedArray = Array.from(allArticlesMap.values()).sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+    // 6. Drop dropped publishers, then classify each story from URL / RSS / keywords
+    let mergedArray = Array.from(allArticlesMap.values())
+        .filter(article => allowedSources.has(article.source))
+        .map(article => applyFeedPolicy(article, feedBySource.get(article.source)))
+        .sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
     const seenTitles = new Set();
     const seenUrls = new Set();
     const uniqueArray = [];

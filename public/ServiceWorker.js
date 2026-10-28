@@ -1,4 +1,4 @@
-const CACHE_NAME = 'daily-brief-v2';
+const CACHE_NAME = 'daily-brief-v3';
 const STATIC_ASSETS = [
     './index.html',
     './css/variables.css',
@@ -36,19 +36,15 @@ self.addEventListener('fetch', event => {
 
     if (requestUrl.pathname.includes('/data/') && requestUrl.pathname.endsWith('.json')) {
         event.respondWith(
-            caches.match(event.request, { ignoreSearch: true }).then(cachedResponse => {
-                const networkFetch = fetch(event.request).then(response => {
-                    if (response && response.ok) {
-                        const clonedResponse = response.clone();
-                        caches.open(CACHE_NAME).then(cache => {
-                            cache.put(event.request, clonedResponse);
-                        });
-                    }
-                    return response;
-                }).catch(() => cachedResponse);
-
-                return cachedResponse || networkFetch;
-            })
+            fetch(event.request).then(response => {
+                if (response && response.ok) {
+                    const clonedResponse = response.clone();
+                    caches.open(CACHE_NAME).then(cache => {
+                        cache.put(event.request, clonedResponse);
+                    });
+                }
+                return response;
+            }).catch(() => caches.match(event.request, { ignoreSearch: true }))
         );
         return;
     }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:39:05.535Z",
+  "lastUpdated": "2026-10-28T09:12:08.563Z",
   "count": 1,
   "articles": [
     {
@@ -10,7 +10,9 @@
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/0d00c9e3-7ff0-46ed-88c9-03987b6bfca4.png",
       "source": "CNET",
       "category": "technology",
-      "publishedAt": "2024-07-16T16:01:57.000Z"
+      "publishedAt": "2024-07-16T16:01:57.000Z",
+      "tier": 2,
+      "trending": false
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:39:05.535Z",
+  "lastUpdated": "2026-10-28T09:12:08.563Z",
   "count": 16,
   "articles": [
     {
@@ -10,7 +10,9 @@
       "image": "https://images.wsj.net/im-76791864/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T20:37:00.000Z"
+      "publishedAt": "2025-01-24T20:37:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-09b630d84af5",
@@ -20,7 +22,9 @@
       "image": "https://images.wsj.net/im-06909425/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T20:13:00.000Z"
+      "publishedAt": "2025-01-24T20:13:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-cbd3b1c4a762",
@@ -30,7 +34,9 @@
       "image": "https://images.wsj.net/im-59141117/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T19:15:00.000Z"
+      "publishedAt": "2025-01-24T19:15:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-846614b1ff0f",
@@ -40,7 +46,9 @@
       "image": "https://images.wsj.net/im-94101926/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T18:51:00.000Z"
+      "publishedAt": "2025-01-24T18:51:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-1b3bb8d379f7",
@@ -50,7 +58,9 @@
       "image": "https://images.wsj.net/im-76145215/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T17:29:00.000Z"
+      "publishedAt": "2025-01-24T17:29:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-095b33e836fc",
@@ -60,7 +70,9 @@
       "image": "https://images.wsj.net/im-67256526/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T17:28:00.000Z"
+      "publishedAt": "2025-01-24T17:28:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-903eaa5f4fe3",
@@ -70,7 +82,9 @@
       "image": "https://images.wsj.net/im-64502386/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T17:28:00.000Z"
+      "publishedAt": "2025-01-24T17:28:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-a37608d37868",
@@ -80,7 +94,9 @@
       "image": "https://images.wsj.net/im-74050837/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T17:25:00.000Z"
+      "publishedAt": "2025-01-24T17:25:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-c5f0f383975b",
@@ -90,7 +106,9 @@
       "image": "https://images.wsj.net/im-62587159/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T16:52:00.000Z"
+      "publishedAt": "2025-01-24T16:52:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-6d642f3f9a02",
@@ -100,7 +118,9 @@
       "image": "https://images.wsj.net/im-36406620/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T15:55:00.000Z"
+      "publishedAt": "2025-01-24T15:55:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-37dc0db4381a",
@@ -110,7 +130,9 @@
       "image": "https://images.wsj.net/im-75994181/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T15:40:00.000Z"
+      "publishedAt": "2025-01-24T15:40:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-3070c053d26c",
@@ -120,7 +142,9 @@
       "image": "https://images.wsj.net/im-10838366/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T14:07:00.000Z"
+      "publishedAt": "2025-01-24T14:07:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-3074b8defc3a",
@@ -130,7 +154,9 @@
       "image": "https://images.wsj.net/im-06656602/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T14:05:00.000Z"
+      "publishedAt": "2025-01-24T14:05:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-91983c4cc99c",
@@ -140,7 +166,9 @@
       "image": "https://images.wsj.net/im-17962570/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T13:00:00.000Z"
+      "publishedAt": "2025-01-24T13:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-6b036809a360",
@@ -150,7 +178,9 @@
       "image": "https://images.wsj.net/im-42971778/medium",
       "source": "WSJ Business",
       "category": "business",
-      "publishedAt": "2025-01-24T11:11:00.000Z"
+      "publishedAt": "2025-01-24T11:11:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-deb3a9569a13",
@@ -160,7 +190,9 @@
       "image": "https://www.cnet.com/wp-content/uploads/sites/2/8c51b07a-7a84-4e96-a69d-10b658e84c00.jpg",
       "source": "CNET",
       "category": "technology",
-      "publishedAt": "2025-01-16T13:31:49.000Z"
+      "publishedAt": "2025-01-16T13:31:49.000Z",
+      "tier": 2,
+      "trending": false
     }
   ]
 }

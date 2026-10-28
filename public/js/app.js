@@ -124,6 +124,7 @@ async function init() {
 async function renderPage(append = false) {
     let filteredArticles = allArticles.filter(article => {
         if (currentCategory === 'all') return true;
+        if (currentCategory === 'trending') return article.trending === true || article.category === 'trending';
         return article.category === currentCategory;
     });
 
@@ -136,6 +137,7 @@ async function renderPage(append = false) {
         if (fetchedMore) {
             filteredArticles = allArticles.filter(article => {
                 if (currentCategory === 'all') return true;
+                if (currentCategory === 'trending') return article.trending === true || article.category === 'trending';
                 return article.category === currentCategory;
             });
         } else {

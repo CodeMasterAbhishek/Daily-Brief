@@ -6,7 +6,9 @@
   "scripts": {
     "start": "npx --yes serve public",
     "fetch-rss": "node src/scripts/fetch-rss.js",
-    "upgrade-images": "node src/scripts/upgrade-images.js"
+    "reclassify": "node src/scripts/reclassify-local.js",
+    "upgrade-images": "node src/scripts/upgrade-images.js",
+    "test": "node --test src/scripts/classify-article.test.js"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

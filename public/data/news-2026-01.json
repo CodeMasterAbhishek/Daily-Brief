@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:39:05.534Z",
+  "lastUpdated": "2026-10-28T09:12:08.562Z",
   "count": 7,
   "articles": [
     {
@@ -10,7 +10,9 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/5RLyQIpBeVXxv0RpcXZxWQ/fd9680c6d82acd8208ac341fc575f5fb/nuneybits_Vector_art_of_a_sleek_bullet_train_bursting_from_a_cl_32a805aa-272c-4b34-ac16-cf20508b7ff4.webp?w=300&q=30",
       "source": "VentureBeat AI",
       "category": "ai",
-      "publishedAt": "2026-01-22T14:00:00.000Z"
+      "publishedAt": "2026-01-22T14:00:00.000Z",
+      "tier": 2,
+      "trending": false
     },
     {
       "id": "rss-65cf2ba2688d",
@@ -20,7 +22,9 @@
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/1U9H8GLIqoGqKpitVfgw3T/ba56292f99409eca709dac0b176ec245/nuneybits_Vector_art_of_white_goose_silhouette_flying_through_c_8100d5a7-9e36-4ed6-a188-016470e1d0e1.webp?w=300&q=30",
       "source": "VentureBeat AI",
       "category": "ai",
-      "publishedAt": "2026-01-19T14:00:00.000Z"
+      "publishedAt": "2026-01-19T14:00:00.000Z",
+      "tier": 2,
+      "trending": false
     },
     {
       "id": "rss-f7d60ff0ada2",
@@ -29,8 +33,10 @@
       "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4gD12ThOmNHZuosqC4xCTz/277b1e8968da602108a29fae2eaca440/nuneybits_Vector_art_of_billboard_with_cryptic_code_dbe5b0ff-7644-45e6-a1ca-4a5dceeff986.webp?w=300&q=30",
       "source": "VentureBeat AI",
-      "category": "ai",
-      "publishedAt": "2026-01-16T14:01:00.000Z"
+      "category": "technology",
+      "publishedAt": "2026-01-16T14:01:00.000Z",
+      "tier": 2,
+      "trending": false
     },
     {
       "id": "rss-d68c9b25819c",
@@ -39,8 +45,10 @@
       "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4Xrcg14GLKFlwSEnuEzxyS/21c85d29d03c4c974076475c009e3b38/nuneybits_Vector_art_of_chat_bubbles_on_a_computer_screen_in_th_5018a7ea-3496-4103-8453-7ba1b129189a.webp?w=300&q=30",
       "source": "VentureBeat AI",
-      "category": "ai",
-      "publishedAt": "2026-01-13T13:00:00.000Z"
+      "category": "technology",
+      "publishedAt": "2026-01-13T13:00:00.000Z",
+      "tier": 2,
+      "trending": false
     },
     {
       "id": "rss-f5e712b465b9",
@@ -49,8 +57,10 @@
       "url": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/wHv1Wez7Ps9wYVYAo9fwT/14b41f606dbf1f5b17994be510407449/nuneybits_Hyper-realistic_image_of_a_retro_computer_with_a_glos_61ffb6e2-7c33-4d45-85f7-69c28693b3ec.webp?w=300&q=30",
       "source": "VentureBeat AI",
-      "category": "ai",
-      "publishedAt": "2026-01-12T11:30:00.000Z"
+      "category": "technology",
+      "publishedAt": "2026-01-12T11:30:00.000Z",
+      "tier": 2,
+      "trending": false
     },
     {
       "id": "rss-bfdeb5c3f1ab",
@@ -60,7 +70,9 @@
       "image": "https://bair.berkeley.edu/static/blog/information-driven-imaging/info_estimation_overview.png",
       "source": "Berkeley AI",
       "category": "ai",
-      "publishedAt": "2026-01-10T09:00:00.000Z"
+      "publishedAt": "2026-01-10T09:00:00.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-d89fba122688",
@@ -69,8 +81,10 @@
       "url": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in",
       "image": "https://images.ctfassets.net/jdtwqhzvc2n1/66Tw6dMGGoSZZOK6XB6gm6/0fafc7520898e26c88edf1de9e74e863/nuneybits_Vector_art_of_radiant_skull_emitting_code_beams_deep__17d19acc-0af7-41ad-ac28-16f09ef5234b.webp?w=300&q=30",
       "source": "VentureBeat AI",
-      "category": "ai",
-      "publishedAt": "2026-01-07T20:00:00.000Z"
+      "category": "technology",
+      "publishedAt": "2026-01-07T20:00:00.000Z",
+      "tier": 2,
+      "trending": false
     }
   ]
 }

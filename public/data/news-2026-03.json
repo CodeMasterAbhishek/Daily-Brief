@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:39:05.534Z",
+  "lastUpdated": "2026-10-28T09:12:08.562Z",
   "count": 1,
   "articles": [
     {
@@ -10,7 +10,9 @@
       "image": "https://bair.berkeley.edu/static/blog/spex/image1.png",
       "source": "Berkeley AI",
       "category": "ai",
-      "publishedAt": "2026-03-13T09:00:00.000Z"
+      "publishedAt": "2026-03-13T09:00:00.000Z",
+      "tier": 1,
+      "trending": false
     }
   ]
 }

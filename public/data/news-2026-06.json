@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:39:05.533Z",
+  "lastUpdated": "2026-10-28T09:12:08.562Z",
   "count": 2,
   "articles": [
     {
@@ -10,7 +10,9 @@
       "image": "https://th-thumbnailer.cdn-si-edu.com/Fr1p9F0o8CTKdHFWvJsKKTkNTAU=/420x240/filters:focal(866x965:867x966)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b2/0d/b20db74d-3a38-49aa-b8c2-26e38cfd4944/noirlab2525b.jpg",
       "source": "Smithsonian Science",
       "category": "science",
-      "publishedAt": "2026-06-29T16:02:32.000Z"
+      "publishedAt": "2026-06-29T16:02:32.000Z",
+      "tier": 1,
+      "trending": false
     },
     {
       "id": "rss-76fa6d6774ee",
@@ -20,7 +22,9 @@
       "image": "https://th-thumbnailer.cdn-si-edu.com/yNAOAeht27knDFkkjzaZOfDoGhE=/420x240/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cb/72/cb726792-ecc1-446c-b20b-ce1ce610ebe3/ezgif-7013df4c21cb050d.jpg",
       "source": "Smithsonian Science",
       "category": "science",
-      "publishedAt": "2026-06-26T18:00:00.000Z"
+      "publishedAt": "2026-06-26T18:00:00.000Z",
+      "tier": 1,
+      "trending": false
     }
   ]
 }
