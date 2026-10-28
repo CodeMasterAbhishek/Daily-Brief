@@ -5,11 +5,12 @@ import { applyFeedPolicy } from './classify-article.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const DATA_DIR = path.join(__dirname, '../../public/data');
-const FEEDS_FILE = path.join(DATA_DIR, 'rss-feeds.json');
+const DATA_DIR = path.join(__dirname, '../../public/data/c/US');
+const FEEDS_FILE = path.join(__dirname, '../../public/data/rss-feeds.json');
 const METADATA_FILE = path.join(DATA_DIR, 'metadata.json');
 
-const feeds = JSON.parse(fs.readFileSync(FEEDS_FILE, 'utf-8'));
+const extraByCountry = JSON.parse(fs.readFileSync(FEEDS_FILE, 'utf-8'));
+const feeds = extraByCountry.US || [];
 const feedBySource = new Map(feeds.map(feed => [feed.source, feed]));
 const allowedSources = new Set(feeds.map(feed => feed.source));
 
@@ -62,7 +63,8 @@ for (const chunkName of chunkNames) {
 fs.writeFileSync(METADATA_FILE, JSON.stringify({
     latest: chunkNames[0] || null,
     chunks: chunkNames,
-    totalArticles: unique.length
+    totalArticles: unique.length,
+    country: 'US'
 }, null, 2));
 
 const byCategory = {};

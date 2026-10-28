@@ -1,4 +1,16 @@
-import { initMetadata, fetchChunkData, currentMetadata } from './api.js';
+import {
+    initMetadata,
+    fetchChunkData,
+    currentMetadata,
+    currentCountry,
+    countries,
+    loadCountries,
+    detectCountry,
+    rememberCountry,
+    forgetCountry,
+    countryByCode,
+    flagEmoji
+} from './api.js';
 import { renderArticles, filterArticles, showSkeletons, removeSkeletons } from './ui.js';
 
 // Setup current year in footer
@@ -88,6 +100,15 @@ const calPrevMonthButton = document.getElementById('cal-prev-month');
 const calNextMonthButton = document.getElementById('cal-next-month');
 let calendarMonth = new Date();
 if (archiveCalendar) document.body.appendChild(archiveCalendar);
+
+const countryBtn = document.getElementById('country-btn');
+const countryBtnFlag = document.getElementById('country-btn-flag');
+const countryBtnLabel = document.getElementById('country-btn-label');
+const countryMenu = document.getElementById('country-menu');
+const countrySearch = document.getElementById('country-search');
+const countryList = document.getElementById('country-list');
+const countryAuto = document.getElementById('country-auto');
+if (countryMenu) document.body.appendChild(countryMenu);
 
 function todayKey() {
     return new Intl.DateTimeFormat('en-CA').format(new Date());
@@ -262,6 +283,92 @@ async function setSelectedDate(day) {
     await renderPage(false);
 }
 
+function isCountryOpen() {
+    return Boolean(countryMenu && !countryMenu.hidden);
+}
+
+function closeCountryMenu() {
+    if (!countryMenu || !countryBtn) return;
+    countryMenu.hidden = true;
+    countryBtn.setAttribute('aria-expanded', 'false');
+}
+
+function positionCountryMenu() {
+    if (!countryMenu || !countryBtn || countryMenu.hidden) return;
+    const rect = countryBtn.getBoundingClientRect();
+    const width = countryMenu.offsetWidth || 320;
+    const left = Math.min(Math.max(8, rect.right - width), window.innerWidth - width - 8);
+    countryMenu.style.top = `${Math.round(rect.bottom + 8)}px`;
+    countryMenu.style.left = `${Math.round(left)}px`;
+    countryMenu.style.right = 'auto';
+}
+
+function updateCountryChrome() {
+    const country = countryByCode(currentCountry);
+    const name = country?.name || currentCountry;
+    if (countryBtnFlag) countryBtnFlag.textContent = flagEmoji(currentCountry);
+    if (countryBtnLabel) countryBtnLabel.textContent = name;
+    if (countryBtn) countryBtn.setAttribute('aria-label', `News country: ${name}. Choose another country`);
+}
+
+function renderCountryList(query = '') {
+    if (!countryList) return;
+    const needle = query.trim().toLowerCase();
+    const matches = countries.filter(country => {
+        if (!needle) return true;
+        return country.name.toLowerCase().includes(needle) || country.code.toLowerCase().includes(needle);
+    });
+    const fragment = document.createDocumentFragment();
+    matches.forEach(country => {
+        const item = document.createElement('li');
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.dataset.code = country.code;
+        button.setAttribute('role', 'option');
+        button.setAttribute('aria-selected', country.code === currentCountry ? 'true' : 'false');
+        const flag = document.createElement('span');
+        flag.className = 'country-flag';
+        flag.setAttribute('aria-hidden', 'true');
+        flag.textContent = flagEmoji(country.code);
+        const label = document.createElement('span');
+        label.textContent = country.name;
+        button.append(flag, label);
+        item.appendChild(button);
+        fragment.appendChild(item);
+    });
+    countryList.replaceChildren(fragment);
+}
+
+function openCountryMenu() {
+    if (!countryMenu || !countryBtn) return;
+    renderCountryList(countrySearch?.value || '');
+    countryMenu.hidden = false;
+    countryBtn.setAttribute('aria-expanded', 'true');
+    positionCountryMenu();
+    countrySearch?.focus();
+}
+
+function resetLoadedNews() {
+    allArticles = [];
+    loadedChunkNames.clear();
+    currentPage = 1;
+    selectedDate = '';
+    sessionStorage.removeItem('selectedDate');
+}
+
+async function switchCountry(code, persist = true) {
+    if (!code) return;
+    closeCountryMenu();
+    if (persist) rememberCountry(code);
+    resetLoadedNews();
+    showSkeletons('news-container', 12);
+    await initMetadata(code);
+    updateCountryChrome();
+    updateArchiveChrome();
+    if (currentMetadata?.latest) await loadNextChunkIfAvailable();
+    await renderPage(false);
+}
+
 // Main Initialization
 async function init() {
     const filterChips = document.querySelectorAll('.filters .chip');
@@ -270,7 +377,11 @@ async function init() {
     if (activeChip) activeChip.classList.add('active');
 
     try {
-        await initMetadata();
+        await loadCountries();
+        const known = new Set(countries.map(country => country.code));
+        const code = await detectCountry(known);
+        await initMetadata(code);
+        updateCountryChrome();
         if (selectedDate && selectedDate > todayKey()) {
             selectedDate = '';
             sessionStorage.removeItem('selectedDate');
@@ -313,9 +424,12 @@ async function renderPage(append = false) {
     }
 
     const articlesToShow = filteredArticles.slice(startIndex, endIndex);
+    const countryName = countryByCode(currentCountry)?.name || currentCountry;
     const emptyMessage = selectedDate
         ? `No stories saved for ${new Date(`${selectedDate}T12:00:00`).toLocaleDateString(undefined, { month: 'long', day: 'numeric', year: 'numeric' })}.`
-        : 'No news available right now.';
+        : currentMetadata?.chunks?.length
+            ? 'No news available right now.'
+            : `No stories for ${countryName} yet. Other countries fill in after Cloudflare storage is connected.`;
     renderArticles(articlesToShow, 'news-container', append, emptyMessage);
 
     const moreInMemory = endIndex < filteredArticles.length;
@@ -417,9 +531,42 @@ filterChips.forEach(chip => {
     });
 });
 
+if (countryBtn) {
+    countryBtn.addEventListener('click', (event) => {
+        event.stopPropagation();
+        closeCalendar();
+        if (isCountryOpen()) closeCountryMenu();
+        else openCountryMenu();
+    });
+}
+
+if (countrySearch) {
+    countrySearch.addEventListener('input', () => {
+        renderCountryList(countrySearch.value);
+    });
+}
+
+if (countryList) {
+    countryList.addEventListener('click', async (event) => {
+        const button = event.target.closest('button[data-code]');
+        if (!button) return;
+        await switchCountry(button.dataset.code, true);
+    });
+}
+
+if (countryAuto) {
+    countryAuto.addEventListener('click', async () => {
+        forgetCountry();
+        const known = new Set(countries.map(country => country.code));
+        const code = await detectCountry(known);
+        await switchCountry(code, false);
+    });
+}
+
 if (archiveDateBtn) {
     archiveDateBtn.addEventListener('click', (event) => {
         event.stopPropagation();
+        closeCountryMenu();
         if (isCalendarOpen()) closeCalendar();
         else openCalendar();
     });
@@ -449,17 +596,24 @@ if (calNextMonthButton) {
 }
 
 document.addEventListener('click', (event) => {
-    if (!isCalendarOpen()) return;
-    if (event.target.closest('.archive-picker, .archive-calendar')) return;
-    closeCalendar();
+    if (isCalendarOpen() && !event.target.closest('.archive-picker, .archive-calendar')) closeCalendar();
+    if (isCountryOpen() && !event.target.closest('.country-picker, .country-menu')) closeCountryMenu();
 });
 
 document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape' && isCalendarOpen()) closeCalendar();
+    if (event.key !== 'Escape') return;
+    if (isCalendarOpen()) closeCalendar();
+    if (isCountryOpen()) closeCountryMenu();
 });
 
-window.addEventListener('resize', positionCalendar);
-window.addEventListener('scroll', positionCalendar, true);
+window.addEventListener('resize', () => {
+    positionCalendar();
+    positionCountryMenu();
+});
+window.addEventListener('scroll', () => {
+    positionCalendar();
+    positionCountryMenu();
+}, true);
 
 if (datePrevButton) {
     datePrevButton.addEventListener('click', async () => {
@@ -512,7 +666,11 @@ const observer = new IntersectionObserver((entries) => {
 
 observer.observe(paginationSection);
 
-document.addEventListener('DOMContentLoaded', init);
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+} else {
+    init();
+}
 
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {

@@ -1,4 +1,4 @@
-const CACHE_NAME = 'daily-brief-v6';
+const CACHE_NAME = 'daily-brief-v8';
 const STATIC_ASSETS = [
     './index.html',
     './css/variables.css',
@@ -34,7 +34,7 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
     const requestUrl = new URL(event.request.url);
 
-    if (requestUrl.pathname.includes('/data/') && requestUrl.pathname.endsWith('.json')) {
+    if (requestUrl.pathname.endsWith('.json')) {
         event.respondWith(
             fetch(event.request).then(response => {
                 if (response && response.ok) {

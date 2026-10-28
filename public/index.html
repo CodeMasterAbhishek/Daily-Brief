@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="css/variables.css">
     <link rel="stylesheet" href="css/layout.css">
-    <link rel="stylesheet" href="css/style.css?v=6">
+    <link rel="stylesheet" href="css/style.css?v=8">
     
     <!-- PWA Manifest -->
     <link rel="manifest" href="manifest.json">
@@ -50,6 +50,17 @@
             </section>
 
             <nav>
+                <div class="country-picker">
+                    <button type="button" id="country-btn" class="country-btn" aria-haspopup="listbox" aria-expanded="false" aria-controls="country-menu">
+                        <span id="country-btn-flag" class="country-flag" aria-hidden="true"></span>
+                        <span id="country-btn-label">United States</span>
+                    </button>
+                    <div id="country-menu" class="country-menu" hidden>
+                        <input type="search" id="country-search" placeholder="Search 193 countries" aria-label="Search countries" autocomplete="off">
+                        <ul id="country-list" role="listbox" aria-label="Countries"></ul>
+                        <button type="button" id="country-auto" class="country-auto">Use my location</button>
+                    </div>
+                </div>
                 <div class="archive-control" role="group" aria-label="Browse news by date">
                     <button type="button" id="date-prev" class="btn-icon" aria-label="Previous day">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
@@ -139,6 +150,6 @@
     </footer>
 
     <!-- Scripts -->
-    <script type="module" src="js/app.js?v=6"></script>
+    <script type="module" src="js/app.js?v=8"></script>
 </body>
 </html>

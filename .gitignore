@@ -1,3 +1,6 @@
 node_modules/
 .env
 Local taste/
+/public/data/c/*
+!/public/data/c/US/
+!/public/data/c/US/**
