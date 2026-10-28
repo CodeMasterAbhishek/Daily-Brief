@@ -77,11 +77,18 @@ const loadedChunkNames = new Set();
 let isFetchingChunk = false;
 
 const paginationSection = document.getElementById('pagination');
-const archiveDateInput = document.getElementById('archive-date');
+const archiveDateBtn = document.getElementById('archive-date-btn');
+const archiveCalendar = document.getElementById('archive-calendar');
+const archiveCalGrid = document.getElementById('cal-grid');
+const archiveCalMonthLabel = document.getElementById('cal-month-label');
 const archiveLatestButton = document.getElementById('date-latest');
 const archiveLabel = document.getElementById('archive-label');
 const datePrevButton = document.getElementById('date-prev');
 const dateNextButton = document.getElementById('date-next');
+const calPrevMonthButton = document.getElementById('cal-prev-month');
+const calNextMonthButton = document.getElementById('cal-next-month');
+let calendarMonth = new Date();
+if (archiveCalendar) document.body.appendChild(archiveCalendar);
 
 function todayKey() {
     return new Intl.DateTimeFormat('en-CA').format(new Date());
@@ -149,16 +156,104 @@ async function loadNextChunkIfAvailable() {
     return true;
 }
 
+function formatPickerLabel(day) {
+    if (!day) return 'Latest';
+    if (day === todayKey()) return 'Today';
+    const date = new Date(`${day}T12:00:00`);
+    const options = { day: 'numeric', month: 'short' };
+    if (date.getFullYear() !== new Date().getFullYear()) options.year = 'numeric';
+    return date.toLocaleDateString(undefined, options);
+}
+
+function isCalendarOpen() {
+    return Boolean(archiveCalendar && !archiveCalendar.hidden);
+}
+
+function positionCalendar() {
+    if (!archiveCalendar || !archiveDateBtn || archiveCalendar.hidden) return;
+    const rect = archiveDateBtn.getBoundingClientRect();
+    const width = archiveCalendar.offsetWidth || 280;
+    const left = Math.min(Math.max(8, rect.right - width), window.innerWidth - width - 8);
+    archiveCalendar.style.top = `${Math.round(rect.bottom + 8)}px`;
+    archiveCalendar.style.left = `${Math.round(left)}px`;
+    archiveCalendar.style.right = 'auto';
+}
+
+function closeCalendar() {
+    if (!archiveCalendar || !archiveDateBtn) return;
+    archiveCalendar.hidden = true;
+    archiveDateBtn.setAttribute('aria-expanded', 'false');
+}
+
+function openCalendar() {
+    if (!archiveCalendar || !archiveDateBtn) return;
+    const focus = selectedDate || todayKey();
+    calendarMonth = new Date(`${focus}T12:00:00`);
+    renderCalendar();
+    archiveCalendar.hidden = false;
+    archiveDateBtn.setAttribute('aria-expanded', 'true');
+    positionCalendar();
+}
+
+function renderCalendar() {
+    if (!archiveCalGrid || !archiveCalMonthLabel) return;
+    const { min, max } = archiveBounds();
+    const year = calendarMonth.getFullYear();
+    const month = calendarMonth.getMonth();
+    archiveCalMonthLabel.textContent = calendarMonth.toLocaleDateString(undefined, {
+        month: 'long', year: 'numeric'
+    });
+
+    const monthStart = `${year}-${String(month + 1).padStart(2, '0')}-01`;
+    const lastDate = new Date(year, month + 1, 0).getDate();
+    const monthEnd = `${year}-${String(month + 1).padStart(2, '0')}-${String(lastDate).padStart(2, '0')}`;
+    if (calPrevMonthButton) calPrevMonthButton.disabled = monthEnd <= min;
+    if (calNextMonthButton) calNextMonthButton.disabled = monthStart >= max;
+
+    const firstWeekday = (new Date(year, month, 1).getDay() + 6) % 7;
+    const today = todayKey();
+    const chunks = new Set(currentMetadata?.chunks || []);
+    const fragment = document.createDocumentFragment();
+
+    for (let i = 0; i < firstWeekday; i += 1) {
+        fragment.appendChild(document.createElement('span'));
+    }
+
+    for (let day = 1; day <= lastDate; day += 1) {
+        const key = `${year}-${String(month + 1).padStart(2, '0')}-${String(day).padStart(2, '0')}`;
+        const button = document.createElement('button');
+        button.type = 'button';
+        button.textContent = String(day);
+        button.dataset.day = key;
+        button.setAttribute('aria-label', new Date(`${key}T12:00:00`).toLocaleDateString(undefined, {
+            weekday: 'long', month: 'long', day: 'numeric', year: 'numeric'
+        }));
+        const hasChunk = chunks.has(`news-${key.slice(0, 7)}`);
+        button.disabled = key < min || key > max || !hasChunk;
+        if (key === today) button.classList.add('is-today');
+        if (key === selectedDate) {
+            button.classList.add('is-selected');
+            button.setAttribute('aria-current', 'date');
+        }
+        fragment.appendChild(button);
+    }
+
+    archiveCalGrid.replaceChildren(fragment);
+}
+
 function updateArchiveChrome() {
     const { min, max } = archiveBounds();
-    if (archiveDateInput) {
-        archiveDateInput.min = min;
-        archiveDateInput.max = max;
-        archiveDateInput.value = selectedDate || '';
+    if (archiveDateBtn) {
+        archiveDateBtn.textContent = formatPickerLabel(selectedDate);
+        archiveDateBtn.classList.toggle('is-archive', Boolean(selectedDate));
+        archiveDateBtn.setAttribute('aria-label', selectedDate
+            ? `Showing ${formatPickerLabel(selectedDate)}. Choose another date`
+            : 'Latest news. Choose a date from the archive');
     }
     if (archiveLatestButton) archiveLatestButton.hidden = !selectedDate;
     if (datePrevButton) datePrevButton.disabled = Boolean(selectedDate && selectedDate <= min);
     if (dateNextButton) dateNextButton.disabled = Boolean(selectedDate && selectedDate >= max);
+    if (isCalendarOpen()) renderCalendar();
 
     if (archiveLabel) {
         if (selectedDate) {
@@ -334,11 +429,49 @@ filterChips.forEach(chip => {
     });
 });
 
-if (archiveDateInput) {
-    archiveDateInput.addEventListener('change', async () => {
-        await setSelectedDate(archiveDateInput.value);
+if (archiveDateBtn) {
+    archiveDateBtn.addEventListener('click', (event) => {
+        event.stopPropagation();
+        if (isCalendarOpen()) closeCalendar();
+        else openCalendar();
     });
 }
+
+if (archiveCalGrid) {
+    archiveCalGrid.addEventListener('click', async (event) => {
+        const dayButton = event.target.closest('button[data-day]');
+        if (!dayButton || dayButton.disabled) return;
+        closeCalendar();
+        await setSelectedDate(dayButton.dataset.day);
+    });
+}
+
+if (calPrevMonthButton) {
+    calPrevMonthButton.addEventListener('click', () => {
+        calendarMonth = new Date(calendarMonth.getFullYear(), calendarMonth.getMonth() - 1, 1);
+        renderCalendar();
+    });
+}
+
+if (calNextMonthButton) {
+    calNextMonthButton.addEventListener('click', () => {
+        calendarMonth = new Date(calendarMonth.getFullYear(), calendarMonth.getMonth() + 1, 1);
+        renderCalendar();
+    });
+}
+
+document.addEventListener('click', (event) => {
+    if (!isCalendarOpen()) return;
+    if (event.target.closest('.archive-picker, .archive-calendar')) return;
+    closeCalendar();
+});
+
+document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && isCalendarOpen()) closeCalendar();
+});
+
+window.addEventListener('resize', positionCalendar);
+window.addEventListener('scroll', positionCalendar, true);
 
 if (datePrevButton) {
     datePrevButton.addEventListener('click', async () => {
@@ -359,6 +492,7 @@ if (dateNextButton) {
 
 if (archiveLatestButton) {
     archiveLatestButton.addEventListener('click', async () => {
+        closeCalendar();
         await setSelectedDate('');
     });
 }

@@ -19,7 +19,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="css/variables.css">
     <link rel="stylesheet" href="css/layout.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css?v=5">
     
     <!-- PWA Manifest -->
     <link rel="manifest" href="manifest.json">
@@ -54,11 +54,28 @@
                     <button type="button" id="date-prev" class="btn-icon" aria-label="Previous day">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
                     </button>
-                    <input type="date" id="archive-date" aria-label="Jump to a specific date">
+                    <div class="archive-picker">
+                        <button type="button" id="archive-date-btn" class="archive-date-btn" aria-haspopup="dialog" aria-expanded="false" aria-controls="archive-calendar">Latest</button>
+                        <div id="archive-calendar" class="archive-calendar" hidden role="dialog" aria-label="Choose a date">
+                            <div class="archive-cal-head">
+                                <button type="button" id="cal-prev-month" class="btn-icon" aria-label="Previous month">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                                </button>
+                                <p id="cal-month-label" class="archive-cal-month"></p>
+                                <button type="button" id="cal-next-month" class="btn-icon" aria-label="Next month">
+                                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                                </button>
+                            </div>
+                            <div class="archive-cal-weekdays" aria-hidden="true">
+                                <span>Mon</span><span>Tue</span><span>Wed</span><span>Thu</span><span>Fri</span><span>Sat</span><span>Sun</span>
+                            </div>
+                            <div id="cal-grid" class="archive-cal-grid"></div>
+                            <button type="button" id="date-latest" class="archive-cal-latest" hidden>Back to latest</button>
+                        </div>
+                    </div>
                     <button type="button" id="date-next" class="btn-icon" aria-label="Next day">
                         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
                     </button>
-                    <button type="button" id="date-latest" class="chip archive-latest" hidden>Latest</button>
                 </div>
                 <button id="fullscreen-toggle" class="btn-icon" aria-label="Toggle Fullscreen" style="margin-right: 0.5rem;">
                     <svg id="icon-expand" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"></path></svg>
@@ -124,6 +141,6 @@
     </footer>
 
     <!-- Scripts -->
-    <script type="module" src="js/app.js"></script>
+    <script type="module" src="js/app.js?v=5"></script>
 </body>
 </html>
