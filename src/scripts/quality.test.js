@@ -3,7 +3,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { COUNTRY_QUALITY, isPromoArticle, isQualityPublisher, filterNewsArticles, publisherFromTitle, qualitySearchNames } from './quality.js';
+import { COUNTRY_QUALITY, COUNTRY_DOMAINS, isPromoArticle, isQualityPublisher, isQualityArticle, isBlockedHost, isRecentArticle, filterNewsArticles, publisherFromTitle, qualitySearchNames } from './quality.js';
+import { weekWindows } from './rss-core.js';
 
 test('drops coupon and percent-off shopping posts', () => {
     assert.equal(isPromoArticle({
@@ -63,6 +64,35 @@ test('every country has a quality publisher list', () => {
         'utf8'
     ));
     const missing = countries.filter(country => !COUNTRY_QUALITY[country.code]).map(country => country.code);
+    const missingDomains = countries.filter(country => !COUNTRY_DOMAINS[country.code]?.length).map(country => country.code);
     assert.deepEqual(missing, []);
+    assert.deepEqual(missingDomains, []);
     assert.equal(countries.length, 193);
+});
+
+test('drops YouTube and coupon hosts entirely', () => {
+    assert.equal(isBlockedHost('https://www.youtube.com/watch?v=abc'), true);
+    assert.equal(isBlockedHost('https://www.thehindu.com/news/story'), false);
+    const kept = filterNewsArticles([
+        { title: 'Parliament debates budget', url: 'https://www.youtube.com/watch?v=abc', source: 'The Hindu', publishedAt: new Date().toISOString() },
+        { title: 'Cyclone eases after lashing coast', url: 'https://www.thehindu.com/news/cyclone', source: 'The Hindu', publishedAt: new Date().toISOString() }
+    ], 'IN', { minKeep: 1, maxKeep: 10 });
+    assert.equal(kept.length, 1);
+    assert.equal(kept[0].source, 'The Hindu');
+});
+
+test('marks known outlet domains as quality even without a source name', () => {
+    assert.equal(isQualityArticle({
+        title: 'RBI holds rates',
+        url: 'https://www.thehindu.com/business/rbi',
+        source: 'Unknown Feed',
+        publishedAt: new Date().toISOString()
+    }, 'IN'), true);
+    assert.equal(isQualityPublisher('Random Blog Deals', 'IN'), false);
+});
+
+test('recent-window helper keeps last month and drops decade-old dates', () => {
+    assert.equal(isRecentArticle(new Date().toISOString(), 32), true);
+    assert.equal(isRecentArticle('2016-05-30T00:00:00.000Z', 32), false);
+    assert.ok(weekWindows(32, 7).length >= 4);
 });

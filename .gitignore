@@ -6,3 +6,5 @@ Local taste/
 !/public/data/c/US/**
 /public/data/backfill-status.json
 /public/data/backfill.log
+/public/data/densify-status.json
+/public/data/densify.log

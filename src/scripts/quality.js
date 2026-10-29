@@ -2,6 +2,10 @@
  * Keep real reporting, drop shopping/affiliate spam, prefer known outlets.
  */
 
+import { BLOCKED_HOSTS, COUNTRY_DOMAINS, GLOBAL_QUALITY_DOMAINS } from './quality-domains.js';
+
+export { BLOCKED_HOSTS, COUNTRY_DOMAINS, GLOBAL_QUALITY_DOMAINS };
+
 export const GLOBAL_QUALITY = [
     'Reuters', 'Associated Press', 'AP News', 'AP ', 'Agence France-Presse', 'AFP',
     'BBC', 'Al Jazeera', 'Deutsche Welle', 'DW News', 'NHK', 'France 24',
@@ -268,6 +272,33 @@ export function qualitySearchNames(code) {
     return [...new Set(names)].slice(0, 12);
 }
 
+export function qualityDomainsFor(code, limit = 6) {
+    const local = COUNTRY_DOMAINS[String(code || '').toUpperCase()] || [];
+    return [...new Set(local)].slice(0, limit);
+}
+
+export function hostnameOf(url) {
+    try {
+        return new URL(String(url || '')).hostname.replace(/^www\./i, '').toLowerCase();
+    } catch {
+        return '';
+    }
+}
+
+export function isBlockedHost(url) {
+    const host = hostnameOf(url);
+    if (!host) return false;
+    if (BLOCKED_HOSTS.some(blocked => host === blocked || host.endsWith(`.${blocked}`))) return true;
+    return /(^|\.)(coupons?|slickdeals|groupon|retailmenot)(\.|$)/i.test(host);
+}
+
+export function isQualityDomain(url, code) {
+    const host = hostnameOf(url);
+    if (!host) return false;
+    const domains = [...qualityDomainsFor(code, 20), ...GLOBAL_QUALITY_DOMAINS];
+    return domains.some(domain => host === domain || host.endsWith(`.${domain}`));
+}
+
 export function isQualityPublisher(source, code, extraNames = []) {
     const haystack = normalizeHaystack(source);
     if (!haystack) return false;
@@ -275,12 +306,34 @@ export function isQualityPublisher(source, code, extraNames = []) {
     return names.some(name => haystack.includes(normalizeHaystack(name)));
 }
 
-export function filterNewsArticles(articles, code, { minKeep = 12, maxKeep = 800, extraQuality = [] } = {}) {
-    const cleaned = articles.filter(article => article?.title && article?.url && !isPromoArticle(article));
+export function isQualityArticle(article, code, extraQuality = []) {
+    if (isBlockedHost(article?.url)) return false;
+    return isQualityPublisher(article?.source, code, extraQuality) || isQualityDomain(article?.url, code);
+}
+
+export function isRecentArticle(publishedAt, days = 32) {
+    const time = new Date(publishedAt || '').getTime();
+    if (Number.isNaN(time)) return false;
+    const now = Date.now();
+    return time <= now + 36 * 60 * 60 * 1000 && time >= now - days * 24 * 60 * 60 * 1000;
+}
+
+export function filterNewsArticles(articles, code, {
+    minKeep = 12,
+    maxKeep = 800,
+    extraQuality = [],
+    windowDays = 0
+} = {}) {
+    const cleaned = articles.filter(article => {
+        if (!article?.title || !article?.url) return false;
+        if (isPromoArticle(article) || isBlockedHost(article.url)) return false;
+        if (windowDays && !isRecentArticle(article.publishedAt, windowDays)) return false;
+        return true;
+    });
     const ranked = cleaned
         .map(article => ({
             article,
-            quality: isQualityPublisher(article.source, code, extraQuality)
+            quality: isQualityArticle(article, code, extraQuality)
         }))
         .sort((a, b) => {
             if (a.quality !== b.quality) return a.quality ? -1 : 1;

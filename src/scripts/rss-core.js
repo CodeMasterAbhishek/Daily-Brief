@@ -5,7 +5,7 @@ import Parser from 'rss-parser';
 import { fileURLToPath } from 'url';
 import { applyFeedPolicy } from './classify-article.js';
 import { r2Configured, r2GetJson, r2PutJson } from './r2.js';
-import { isPromoArticle, publisherFromTitle, qualitySearchNames } from './quality.js';
+import { isPromoArticle, isRecentArticle, publisherFromTitle, qualitySearchNames } from './quality.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -175,6 +175,36 @@ export function googleNewsFallbackDayFeed(country, day) {
     return googleSearchFeed(country, `${word} after:${day} before:${next}`, `${day}-fallback`, 80);
 }
 
+export function googleNewsSiteWeekFeed(country, domain, start, endExclusive) {
+    return googleSearchFeed(
+        country,
+        `site:${domain} after:${start} before:${endExclusive}`,
+        `${domain} ${start}`,
+        100
+    );
+}
+
+export function googleNewsWeekFallbackFeed(country, start, endExclusive) {
+    const word = newsQueryWord(country);
+    return googleSearchFeed(country, `${word} after:${start} before:${endExclusive}`, `${start}-week`, 80);
+}
+
+export function weekWindows(days = 32, size = 7) {
+    const all = recentDays(days);
+    const newest = all[0];
+    const oldest = all[all.length - 1];
+    const windows = [];
+    let endExclusive = shiftDay(newest, 1);
+    while (endExclusive > oldest) {
+        let start = shiftDay(endExclusive, -size);
+        if (start < oldest) start = oldest;
+        windows.push({ start, endExclusive });
+        if (start <= oldest) break;
+        endExclusive = start;
+    }
+    return windows;
+}
+
 export function shiftDay(day, delta) {
     const date = new Date(`${day}T12:00:00Z`);
     date.setUTCDate(date.getUTCDate() + delta);
@@ -321,7 +351,7 @@ export async function loadExisting(code, { remote = true } = {}) {
     return { map, remoteChunks };
 }
 
-export function writeCountry(code, articles, remoteChunks = []) {
+export function writeCountry(code, articles, remoteChunks = [], { replaceShards = false } = {}) {
     const chunks = {};
     articles.forEach(article => {
         const monthKey = `news-${String(article.publishedAt || '').substring(0, 7)}`;
@@ -330,7 +360,10 @@ export function writeCountry(code, articles, remoteChunks = []) {
         chunks[monthKey].push(article);
     });
     const writtenNames = Object.keys(chunks).sort().reverse();
-    const chunkNames = [...new Set([...writtenNames, ...remoteChunks])]
+    const chunkNames = [...new Set([
+        ...writtenNames,
+        ...(replaceShards ? [] : remoteChunks)
+    ])]
         .filter(name => /^news-\d{4}-\d{2}$/.test(name))
         .sort()
         .reverse();
@@ -346,6 +379,12 @@ export function writeCountry(code, articles, remoteChunks = []) {
         fs.writeFileSync(path.join(dir, `${chunkName}.json`), JSON.stringify(payload, null, 2));
         written.push({ chunkName, payload });
     });
+    if (replaceShards && fs.existsSync(dir)) {
+        for (const name of fs.readdirSync(dir).filter(file => file.startsWith('news-') && file.endsWith('.json'))) {
+            const key = name.replace(/\.json$/, '');
+            if (!writtenNames.includes(key)) fs.unlinkSync(path.join(dir, name));
+        }
+    }
     const metadata = {
         latest: chunkNames[0] || null,
         chunks: chunkNames,
@@ -356,15 +395,28 @@ export function writeCountry(code, articles, remoteChunks = []) {
     return { metadata, written };
 }
 
-export async function mergeAndSave(country, extraFeeds, incoming, { remote = true, upload = false } = {}) {
+export async function mergeAndSave(country, extraFeeds, incoming, {
+    remote = true,
+    upload = false,
+    windowDays = 0,
+    replaceShards = false
+} = {}) {
     const feedBySource = new Map([
         ...googleNewsFeeds(country).map(feed => [feed.source, feed]),
         ...extraFeeds.map(feed => [feed.source, feed])
     ]);
     const { map: existing, remoteChunks } = await loadExisting(country.code, { remote });
     incoming.forEach(article => existing.set(article.id, article));
-    const unique = uniqueArticles([...existing.values()], feedBySource);
-    const { metadata, written } = writeCountry(country.code, unique, remoteChunks);
+    let unique = uniqueArticles([...existing.values()], feedBySource);
+    if (windowDays) {
+        unique = unique.filter(article => isRecentArticle(article.publishedAt, windowDays));
+    }
+    const { metadata, written } = writeCountry(
+        country.code,
+        unique,
+        replaceShards ? [] : remoteChunks,
+        { replaceShards }
+    );
     if (upload && r2Configured()) {
         await r2PutJson(`c/${country.code}/metadata.json`, metadata);
         const newest = written

@@ -1,0 +1,3886 @@
+{
+  "generatedAt": "2026-10-29T06:55:18.902Z",
+  "policy": "National prestige outlets first; Reuters/AP/BBC/AFP as global fallback. Shopping, coupons, social, and affiliate URLs are dropped.",
+  "global": {
+    "names": [
+      "Reuters",
+      "Associated Press",
+      "AP News",
+      "AP ",
+      "Agence France-Presse",
+      "AFP",
+      "BBC",
+      "Al Jazeera",
+      "Deutsche Welle",
+      "DW News",
+      "NHK",
+      "France 24",
+      "The Guardian",
+      "New York Times",
+      "NYTimes",
+      "Washington Post",
+      "The Economist",
+      "Financial Times",
+      "Bloomberg",
+      "NPR",
+      "PBS",
+      "Sky News",
+      "ABC News",
+      "CBC",
+      "CTV",
+      "The Associated Press"
+    ],
+    "domains": [
+      "reuters.com",
+      "apnews.com",
+      "ap.org",
+      "bbc.com",
+      "bbc.co.uk",
+      "aljazeera.com",
+      "dw.com",
+      "france24.com",
+      "theguardian.com",
+      "nytimes.com",
+      "washingtonpost.com",
+      "economist.com",
+      "ft.com",
+      "bloomberg.com",
+      "npr.org",
+      "pbs.org",
+      "nhk.or.jp",
+      "afp.com"
+    ]
+  },
+  "countries": {
+    "AF": {
+      "name": "Afghanistan",
+      "language": "ps",
+      "publishers": [
+        {
+          "name": "TOLO",
+          "domain": "tolonews.com"
+        },
+        {
+          "name": "Pajhwok",
+          "domain": "pajhwok.com"
+        },
+        {
+          "name": "Ariana News",
+          "domain": "ariananews.af"
+        }
+      ]
+    },
+    "AL": {
+      "name": "Albania",
+      "language": "sq",
+      "publishers": [
+        {
+          "name": "Tirana Times",
+          "domain": "tiranatimes.com"
+        },
+        {
+          "name": "Balkan Insight",
+          "domain": "balkaninsight.com"
+        },
+        {
+          "name": "Exit.al",
+          "domain": "exit.al"
+        }
+      ]
+    },
+    "DZ": {
+      "name": "Algeria",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "El Watan",
+          "domain": "elwatan.com"
+        },
+        {
+          "name": "APS",
+          "domain": "aps.dz"
+        },
+        {
+          "name": "TSA Algérie",
+          "domain": "tsa-algerie.com"
+        }
+      ]
+    },
+    "AD": {
+      "name": "Andorra",
+      "language": "ca",
+      "publishers": [
+        {
+          "name": "Diari d’Andorra",
+          "domain": "diariandorra.ad"
+        },
+        {
+          "name": "Bondia",
+          "domain": "bondia.ad"
+        }
+      ]
+    },
+    "AO": {
+      "name": "Angola",
+      "language": "pt",
+      "publishers": [
+        {
+          "name": "Jornal de Angola",
+          "domain": "jornaldeangola.ao"
+        },
+        {
+          "name": "Angop",
+          "domain": "angop.ao"
+        }
+      ]
+    },
+    "AG": {
+      "name": "Antigua and Barbuda",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Antigua Observer",
+          "domain": "antiguaobserver.com"
+        },
+        {
+          "name": "The Daily Observer",
+          "domain": "antiguaobserver.com"
+        }
+      ]
+    },
+    "AR": {
+      "name": "Argentina",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "La Nación",
+          "domain": "lanacion.com.ar"
+        },
+        {
+          "name": "Clarín",
+          "domain": "clarin.com"
+        },
+        {
+          "name": "Página/12",
+          "domain": "pagina12.com.ar"
+        },
+        {
+          "name": "Infobae",
+          "domain": "infobae.com"
+        },
+        {
+          "name": "Telam",
+          "domain": "lanacion.com.ar"
+        }
+      ]
+    },
+    "AM": {
+      "name": "Armenia",
+      "language": "hy",
+      "publishers": [
+        {
+          "name": "Armenpress",
+          "domain": "armenpress.am"
+        },
+        {
+          "name": "CivilNet",
+          "domain": "civilnet.am"
+        },
+        {
+          "name": "Hetq",
+          "domain": "hetq.am"
+        }
+      ]
+    },
+    "AU": {
+      "name": "Australia",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "ABC Australia",
+          "domain": "abc.net.au"
+        },
+        {
+          "name": "ABC News",
+          "domain": "smh.com.au"
+        },
+        {
+          "name": "Sydney Morning Herald",
+          "domain": "theage.com.au"
+        },
+        {
+          "name": "The Age",
+          "domain": "theaustralian.com.au"
+        },
+        {
+          "name": "The Australian",
+          "domain": "sbs.com.au"
+        },
+        {
+          "name": "SBS",
+          "domain": "abc.net.au"
+        }
+      ]
+    },
+    "AT": {
+      "name": "Austria",
+      "language": "de",
+      "publishers": [
+        {
+          "name": "Der Standard",
+          "domain": "derstandard.at"
+        },
+        {
+          "name": "Die Presse",
+          "domain": "diepresse.com"
+        },
+        {
+          "name": "ORF",
+          "domain": "orf.at"
+        },
+        {
+          "name": "Wiener Zeitung",
+          "domain": "wienerzeitung.at"
+        }
+      ]
+    },
+    "AZ": {
+      "name": "Azerbaijan",
+      "language": "az",
+      "publishers": [
+        {
+          "name": "APA",
+          "domain": "apa.az"
+        },
+        {
+          "name": "Trend News",
+          "domain": "trend.az"
+        },
+        {
+          "name": "Azertag",
+          "domain": "azertag.az"
+        }
+      ]
+    },
+    "BS": {
+      "name": "Bahamas",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Nassau Guardian",
+          "domain": "thenassauguardian.com"
+        },
+        {
+          "name": "The Tribune",
+          "domain": "tribune242.com"
+        }
+      ]
+    },
+    "BH": {
+      "name": "Bahrain",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Gulf Daily News",
+          "domain": "gdnonline.com"
+        },
+        {
+          "name": "Bahrain News Agency",
+          "domain": "bna.bh"
+        }
+      ]
+    },
+    "BD": {
+      "name": "Bangladesh",
+      "language": "bn",
+      "publishers": [
+        {
+          "name": "The Daily Star",
+          "domain": "thedailystar.net"
+        },
+        {
+          "name": "bdnews24",
+          "domain": "bdnews24.com"
+        },
+        {
+          "name": "Prothom Alo",
+          "domain": "prothomalo.com"
+        },
+        {
+          "name": "Dhaka Tribune",
+          "domain": "dhakatribune.com"
+        }
+      ]
+    },
+    "BB": {
+      "name": "Barbados",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Nation News",
+          "domain": "nationnews.com"
+        },
+        {
+          "name": "Barbados Today",
+          "domain": "barbadostoday.bb"
+        }
+      ]
+    },
+    "BY": {
+      "name": "Belarus",
+      "language": "be",
+      "publishers": [
+        {
+          "name": "Belsat",
+          "domain": "belsat.eu"
+        },
+        {
+          "name": "Nasha Niva",
+          "domain": "nashaniva.com"
+        },
+        {
+          "name": "Tut.by",
+          "domain": "belta.by"
+        },
+        {
+          "name": "BelTA",
+          "domain": "belsat.eu"
+        }
+      ]
+    },
+    "BE": {
+      "name": "Belgium",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "De Standaard",
+          "domain": "standaard.be"
+        },
+        {
+          "name": "Le Soir",
+          "domain": "lesoir.be"
+        },
+        {
+          "name": "VRT",
+          "domain": "vrt.be"
+        },
+        {
+          "name": "RTBF",
+          "domain": "rtbf.be"
+        },
+        {
+          "name": "Knack",
+          "domain": "knack.be"
+        }
+      ]
+    },
+    "BZ": {
+      "name": "Belize",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Amandala",
+          "domain": "amandala.com.bz"
+        },
+        {
+          "name": "Breaking Belize News",
+          "domain": "breakingbelizenews.com"
+        }
+      ]
+    },
+    "BJ": {
+      "name": "Benin",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "La Nation",
+          "domain": "lanation.bj"
+        },
+        {
+          "name": "24 Heures au Bénin",
+          "domain": "24haubenin.info"
+        }
+      ]
+    },
+    "BT": {
+      "name": "Bhutan",
+      "language": "dz",
+      "publishers": [
+        {
+          "name": "Kuensel",
+          "domain": "kuenselonline.com"
+        },
+        {
+          "name": "BBS",
+          "domain": "bbs.bt"
+        }
+      ]
+    },
+    "BO": {
+      "name": "Bolivia",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "La Razón",
+          "domain": "la-razon.com"
+        },
+        {
+          "name": "El Deber",
+          "domain": "eldeber.com.bo"
+        },
+        {
+          "name": "Página Siete",
+          "domain": "la-razon.com"
+        }
+      ]
+    },
+    "BA": {
+      "name": "Bosnia and Herzegovina",
+      "language": "bs",
+      "publishers": [
+        {
+          "name": "Balkan Insight",
+          "domain": "balkaninsight.com"
+        },
+        {
+          "name": "N1",
+          "domain": "n1info.ba"
+        },
+        {
+          "name": "Klix",
+          "domain": "klix.ba"
+        }
+      ]
+    },
+    "BW": {
+      "name": "Botswana",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Mmegi",
+          "domain": "mmegi.bw"
+        },
+        {
+          "name": "Sunday Standard",
+          "domain": "sundaystandard.info"
+        }
+      ]
+    },
+    "BR": {
+      "name": "Brazil",
+      "language": "pt",
+      "publishers": [
+        {
+          "name": "Folha de S.Paulo",
+          "domain": "folha.uol.com.br"
+        },
+        {
+          "name": "O Globo",
+          "domain": "oglobo.globo.com"
+        },
+        {
+          "name": "Estadão",
+          "domain": "estadao.com.br"
+        },
+        {
+          "name": "G1",
+          "domain": "g1.globo.com"
+        },
+        {
+          "name": "Valor",
+          "domain": "valor.globo.com"
+        },
+        {
+          "name": "Agência Brasil",
+          "domain": "folha.uol.com.br"
+        }
+      ]
+    },
+    "BN": {
+      "name": "Brunei",
+      "language": "ms",
+      "publishers": [
+        {
+          "name": "Borneo Bulletin",
+          "domain": "borneobulletin.com.bn"
+        },
+        {
+          "name": "The Scoop",
+          "domain": "thescoop.co"
+        }
+      ]
+    },
+    "BG": {
+      "name": "Bulgaria",
+      "language": "bg",
+      "publishers": [
+        {
+          "name": "Mediapool",
+          "domain": "mediapool.bg"
+        },
+        {
+          "name": "Dnevnik",
+          "domain": "dnevnik.bg"
+        },
+        {
+          "name": "BTA",
+          "domain": "bta.bg"
+        },
+        {
+          "name": "Capital",
+          "domain": "capital.bg"
+        }
+      ]
+    },
+    "BF": {
+      "name": "Burkina Faso",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Sidwaya",
+          "domain": "sidwaya.info"
+        },
+        {
+          "name": "Le Faso",
+          "domain": "lefaso.net"
+        }
+      ]
+    },
+    "BI": {
+      "name": "Burundi",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Iwacu",
+          "domain": "iwacu-burundi.org"
+        },
+        {
+          "name": "ABP",
+          "domain": "iwacu-burundi.org"
+        }
+      ]
+    },
+    "CV": {
+      "name": "Cabo Verde",
+      "language": "pt",
+      "publishers": [
+        {
+          "name": "A Semana",
+          "domain": "asemana.cv"
+        },
+        {
+          "name": "Inforpress",
+          "domain": "inforpress.cv"
+        }
+      ]
+    },
+    "KH": {
+      "name": "Cambodia",
+      "language": "km",
+      "publishers": [
+        {
+          "name": "The Phnom Penh Post",
+          "domain": "phnompenhpost.com"
+        },
+        {
+          "name": "Khmer Times",
+          "domain": "khmertimeskh.com"
+        },
+        {
+          "name": "VOD",
+          "domain": "vodkhmer.news"
+        }
+      ]
+    },
+    "CM": {
+      "name": "Cameroon",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Cameroon Tribune",
+          "domain": "cameroon-tribune.cm"
+        },
+        {
+          "name": "Journal du Cameroun",
+          "domain": "journalducameroun.com"
+        }
+      ]
+    },
+    "CA": {
+      "name": "Canada",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "CBC",
+          "domain": "cbc.ca"
+        },
+        {
+          "name": "The Globe and Mail",
+          "domain": "theglobeandmail.com"
+        },
+        {
+          "name": "National Post",
+          "domain": "nationalpost.com"
+        },
+        {
+          "name": "CTV",
+          "domain": "ctvnews.ca"
+        },
+        {
+          "name": "La Presse",
+          "domain": "lapresse.ca"
+        },
+        {
+          "name": "Toronto Star",
+          "domain": "thestar.com"
+        }
+      ]
+    },
+    "CF": {
+      "name": "Central African Republic",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "RJDH",
+          "domain": "radiondekeluka.org"
+        },
+        {
+          "name": "Radio Ndeke Luka",
+          "domain": "radiondekeluka.org"
+        }
+      ]
+    },
+    "TD": {
+      "name": "Chad",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Alwihda",
+          "domain": "alwihdainfo.com"
+        },
+        {
+          "name": "Tchadinfos",
+          "domain": "tchadinfos.com"
+        }
+      ]
+    },
+    "CL": {
+      "name": "Chile",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "El Mercurio",
+          "domain": "emol.com"
+        },
+        {
+          "name": "La Tercera",
+          "domain": "latercera.com"
+        },
+        {
+          "name": "BioBioChile",
+          "domain": "biobiochile.cl"
+        },
+        {
+          "name": "CIPER",
+          "domain": "ciperchile.cl"
+        }
+      ]
+    },
+    "CN": {
+      "name": "China",
+      "language": "zh",
+      "publishers": [
+        {
+          "name": "Xinhua",
+          "domain": "xinhuanet.com"
+        },
+        {
+          "name": "Caixin",
+          "domain": "caixin.com"
+        },
+        {
+          "name": "South China Morning Post",
+          "domain": "scmp.com"
+        },
+        {
+          "name": "SCMP",
+          "domain": "cgtn.com"
+        },
+        {
+          "name": "CGTN",
+          "domain": "xinhuanet.com"
+        },
+        {
+          "name": "People’s Daily",
+          "domain": "xinhuanet.com"
+        }
+      ]
+    },
+    "CO": {
+      "name": "Colombia",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "El Tiempo",
+          "domain": "eltiempo.com"
+        },
+        {
+          "name": "El Espectador",
+          "domain": "elespectador.com"
+        },
+        {
+          "name": "Semana",
+          "domain": "semana.com"
+        },
+        {
+          "name": "La Silla Vacía",
+          "domain": "lasillavacia.com"
+        }
+      ]
+    },
+    "KM": {
+      "name": "Comoros",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Al-Watwan",
+          "domain": "alwatwan.net"
+        },
+        {
+          "name": "La Gazette des Comores",
+          "domain": "alwatwan.net"
+        }
+      ]
+    },
+    "CG": {
+      "name": "Congo",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Les Dépêches de Brazzaville",
+          "domain": "adiac-congo.com"
+        },
+        {
+          "name": "ADIAC",
+          "domain": "adiac-congo.com"
+        }
+      ]
+    },
+    "CR": {
+      "name": "Costa Rica",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "La Nación",
+          "domain": "nacion.com"
+        },
+        {
+          "name": "Semanario Universidad",
+          "domain": "semanariouniversidad.com"
+        },
+        {
+          "name": "CRHoy",
+          "domain": "crhoy.com"
+        }
+      ]
+    },
+    "CI": {
+      "name": "Côte d’Ivoire",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Fraternité Matin",
+          "domain": "fratmat.info"
+        },
+        {
+          "name": "Abidjan.net",
+          "domain": "abidjan.net"
+        },
+        {
+          "name": "APA",
+          "domain": "fratmat.info"
+        }
+      ]
+    },
+    "HR": {
+      "name": "Croatia",
+      "language": "hr",
+      "publishers": [
+        {
+          "name": "Jutarnji list",
+          "domain": "jutarnji.hr"
+        },
+        {
+          "name": "Večernji list",
+          "domain": "vecernji.hr"
+        },
+        {
+          "name": "HRT",
+          "domain": "hrt.hr"
+        },
+        {
+          "name": "Index.hr",
+          "domain": "index.hr"
+        }
+      ]
+    },
+    "CU": {
+      "name": "Cuba",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "Granma",
+          "domain": "granma.cu"
+        },
+        {
+          "name": "CubaDebate",
+          "domain": "cubadebate.cu"
+        },
+        {
+          "name": "14ymedio",
+          "domain": "14ymedio.com"
+        }
+      ]
+    },
+    "CY": {
+      "name": "Cyprus",
+      "language": "el",
+      "publishers": [
+        {
+          "name": "Cyprus Mail",
+          "domain": "cyprus-mail.com"
+        },
+        {
+          "name": "Philenews",
+          "domain": "philenews.com"
+        },
+        {
+          "name": "In-Cyprus",
+          "domain": "cyprus-mail.com"
+        }
+      ]
+    },
+    "CZ": {
+      "name": "Czechia",
+      "language": "cs",
+      "publishers": [
+        {
+          "name": "Czech Radio",
+          "domain": "irozhlas.cz"
+        },
+        {
+          "name": "iROZHLAS",
+          "domain": "ihned.cz"
+        },
+        {
+          "name": "Hospodářské noviny",
+          "domain": "respekt.cz"
+        },
+        {
+          "name": "Respekt",
+          "domain": "ctk.cz"
+        },
+        {
+          "name": "CTK",
+          "domain": "irozhlas.cz"
+        }
+      ]
+    },
+    "CD": {
+      "name": "DR Congo",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Radio Okapi",
+          "domain": "radiookapi.net"
+        },
+        {
+          "name": "Actualite.cd",
+          "domain": "actualite.cd"
+        }
+      ]
+    },
+    "DK": {
+      "name": "Denmark",
+      "language": "da",
+      "publishers": [
+        {
+          "name": "DR",
+          "domain": "dr.dk"
+        },
+        {
+          "name": "Politiken",
+          "domain": "politiken.dk"
+        },
+        {
+          "name": "Berlingske",
+          "domain": "berlingske.dk"
+        },
+        {
+          "name": "Information",
+          "domain": "information.dk"
+        }
+      ]
+    },
+    "DJ": {
+      "name": "Djibouti",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "La Nation",
+          "domain": "lanation.dj"
+        },
+        {
+          "name": "ADI",
+          "domain": "lanation.dj"
+        }
+      ]
+    },
+    "DM": {
+      "name": "Dominica",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Dominica News Online",
+          "domain": "dominicanewsonline.com"
+        },
+        {
+          "name": "The Sun",
+          "domain": "dominicanewsonline.com"
+        }
+      ]
+    },
+    "DO": {
+      "name": "Dominican Republic",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "Listín Diario",
+          "domain": "listindiario.com"
+        },
+        {
+          "name": "Diario Libre",
+          "domain": "diariolibre.com"
+        },
+        {
+          "name": "El Caribe",
+          "domain": "elcaribe.com.do"
+        }
+      ]
+    },
+    "EC": {
+      "name": "Ecuador",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "El Comercio",
+          "domain": "elcomercio.com"
+        },
+        {
+          "name": "El Universo",
+          "domain": "eluniverso.com"
+        },
+        {
+          "name": "Primicias",
+          "domain": "primicias.ec"
+        }
+      ]
+    },
+    "EG": {
+      "name": "Egypt",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Al-Ahram",
+          "domain": "ahram.org.eg"
+        },
+        {
+          "name": "Mada Masr",
+          "domain": "madamasr.com"
+        },
+        {
+          "name": "Ahram Online",
+          "domain": "egyptindependent.com"
+        },
+        {
+          "name": "Egypt Independent",
+          "domain": "ahram.org.eg"
+        }
+      ]
+    },
+    "SV": {
+      "name": "El Salvador",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "La Prensa Gráfica",
+          "domain": "laprensagrafica.com"
+        },
+        {
+          "name": "El Faro",
+          "domain": "elfaro.net"
+        },
+        {
+          "name": "El Diario de Hoy",
+          "domain": "elsalvador.com"
+        }
+      ]
+    },
+    "GQ": {
+      "name": "Equatorial Guinea",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "Guinea Ecuatorial Press",
+          "domain": "guineaecuatorialpress.com"
+        },
+        {
+          "name": "AhoraEG",
+          "domain": "guineaecuatorialpress.com"
+        }
+      ]
+    },
+    "ER": {
+      "name": "Eritrea",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Shabait",
+          "domain": "shabait.com"
+        },
+        {
+          "name": "Eritrea Profile",
+          "domain": "shabait.com"
+        }
+      ]
+    },
+    "EE": {
+      "name": "Estonia",
+      "language": "et",
+      "publishers": [
+        {
+          "name": "ERR",
+          "domain": "err.ee"
+        },
+        {
+          "name": "Postimees",
+          "domain": "postimees.ee"
+        },
+        {
+          "name": "Eesti Päevaleht",
+          "domain": "epl.ee"
+        }
+      ]
+    },
+    "SZ": {
+      "name": "Eswatini",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Times of Eswatini",
+          "domain": "times.co.sz"
+        },
+        {
+          "name": "Eswatini Observer",
+          "domain": "times.co.sz"
+        }
+      ]
+    },
+    "ET": {
+      "name": "Ethiopia",
+      "language": "am",
+      "publishers": [
+        {
+          "name": "Addis Standard",
+          "domain": "addisstandard.com"
+        },
+        {
+          "name": "The Ethiopian Herald",
+          "domain": "ena.et"
+        },
+        {
+          "name": "ENA",
+          "domain": "addisstandard.com"
+        }
+      ]
+    },
+    "FJ": {
+      "name": "Fiji",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Fiji Times",
+          "domain": "fijitimes.com.fj"
+        },
+        {
+          "name": "FBC News",
+          "domain": "fbcnews.com.fj"
+        }
+      ]
+    },
+    "FI": {
+      "name": "Finland",
+      "language": "fi",
+      "publishers": [
+        {
+          "name": "Yle",
+          "domain": "yle.fi"
+        },
+        {
+          "name": "Helsingin Sanomat",
+          "domain": "hs.fi"
+        },
+        {
+          "name": "Iltalehti",
+          "domain": "iltalehti.fi"
+        }
+      ]
+    },
+    "FR": {
+      "name": "France",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Le Monde",
+          "domain": "lemonde.fr"
+        },
+        {
+          "name": "Le Figaro",
+          "domain": "lefigaro.fr"
+        },
+        {
+          "name": "Libération",
+          "domain": "liberation.fr"
+        },
+        {
+          "name": "France Télévisions",
+          "domain": "francetvinfo.fr"
+        },
+        {
+          "name": "AFP",
+          "domain": "mediapart.fr"
+        },
+        {
+          "name": "Mediapart",
+          "domain": "lemonde.fr"
+        },
+        {
+          "name": "France Info",
+          "domain": "lemonde.fr"
+        }
+      ]
+    },
+    "GA": {
+      "name": "Gabon",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Gabon Review",
+          "domain": "gabonreview.com"
+        },
+        {
+          "name": "L’Union",
+          "domain": "gabonreview.com"
+        }
+      ]
+    },
+    "GM": {
+      "name": "Gambia",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Point",
+          "domain": "thepoint.gm"
+        },
+        {
+          "name": "The Standard",
+          "domain": "thepoint.gm"
+        }
+      ]
+    },
+    "GE": {
+      "name": "Georgia",
+      "language": "ka",
+      "publishers": [
+        {
+          "name": "Civil.ge",
+          "domain": "civil.ge"
+        },
+        {
+          "name": "Agenda.ge",
+          "domain": "agenda.ge"
+        },
+        {
+          "name": "OC Media",
+          "domain": "oc-media.org"
+        }
+      ]
+    },
+    "DE": {
+      "name": "Germany",
+      "language": "de",
+      "publishers": [
+        {
+          "name": "Der Spiegel",
+          "domain": "spiegel.de"
+        },
+        {
+          "name": "Die Zeit",
+          "domain": "zeit.de"
+        },
+        {
+          "name": "Süddeutsche Zeitung",
+          "domain": "sueddeutsche.de"
+        },
+        {
+          "name": "Frankfurter Allgemeine",
+          "domain": "faz.net"
+        },
+        {
+          "name": "ARTE",
+          "domain": "tagesschau.de"
+        },
+        {
+          "name": "Tagesschau",
+          "domain": "zdf.de"
+        },
+        {
+          "name": "ZDF",
+          "domain": "dw.com"
+        },
+        {
+          "name": "DW",
+          "domain": "spiegel.de"
+        }
+      ]
+    },
+    "GH": {
+      "name": "Ghana",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Graphic Online",
+          "domain": "graphic.com.gh"
+        },
+        {
+          "name": "JoyNews",
+          "domain": "myjoyonline.com"
+        },
+        {
+          "name": "GhanaWeb",
+          "domain": "ghanaweb.com"
+        },
+        {
+          "name": "Citi Newsroom",
+          "domain": "citinewsroom.com"
+        }
+      ]
+    },
+    "GR": {
+      "name": "Greece",
+      "language": "el",
+      "publishers": [
+        {
+          "name": "Kathimerini",
+          "domain": "kathimerini.gr"
+        },
+        {
+          "name": "ekathimerini",
+          "domain": "ekathimerini.com"
+        },
+        {
+          "name": "Naftemporiki",
+          "domain": "naftemporiki.gr"
+        },
+        {
+          "name": "ERT",
+          "domain": "ertnews.gr"
+        }
+      ]
+    },
+    "GD": {
+      "name": "Grenada",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "NOW Grenada",
+          "domain": "nowgrenada.com"
+        },
+        {
+          "name": "The New Today",
+          "domain": "nowgrenada.com"
+        }
+      ]
+    },
+    "GT": {
+      "name": "Guatemala",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "Prensa Libre",
+          "domain": "prensalibre.com"
+        },
+        {
+          "name": "elPeriódico",
+          "domain": "plazapublica.com.gt"
+        },
+        {
+          "name": "Plaza Pública",
+          "domain": "prensalibre.com"
+        }
+      ]
+    },
+    "GN": {
+      "name": "Guinea",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Guineematin",
+          "domain": "guineematin.com"
+        },
+        {
+          "name": "Africaguinee",
+          "domain": "africaguinee.com"
+        }
+      ]
+    },
+    "GW": {
+      "name": "Guinea-Bissau",
+      "language": "pt",
+      "publishers": [
+        {
+          "name": "O Democrata",
+          "domain": "odemocratagb.com"
+        },
+        {
+          "name": "ANG",
+          "domain": "odemocratagb.com"
+        }
+      ]
+    },
+    "GY": {
+      "name": "Guyana",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Stabroek News",
+          "domain": "stabroeknews.com"
+        },
+        {
+          "name": "News Room Guyana",
+          "domain": "newsroom.gy"
+        },
+        {
+          "name": "Kaieteur News",
+          "domain": "kaieteurnewsonline.com"
+        }
+      ]
+    },
+    "HT": {
+      "name": "Haiti",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Le Nouvelliste",
+          "domain": "lenouvelliste.com"
+        },
+        {
+          "name": "AyiboPost",
+          "domain": "ayibopost.com"
+        }
+      ]
+    },
+    "HN": {
+      "name": "Honduras",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "La Prensa",
+          "domain": "laprensa.hn"
+        },
+        {
+          "name": "El Heraldo",
+          "domain": "elheraldo.hn"
+        },
+        {
+          "name": "Criterio.hn",
+          "domain": "criterio.hn"
+        }
+      ]
+    },
+    "HU": {
+      "name": "Hungary",
+      "language": "hu",
+      "publishers": [
+        {
+          "name": "Telex",
+          "domain": "telex.hu"
+        },
+        {
+          "name": "444.hu",
+          "domain": "444.hu"
+        },
+        {
+          "name": "HVG",
+          "domain": "hvg.hu"
+        },
+        {
+          "name": "MTI",
+          "domain": "telex.hu"
+        }
+      ]
+    },
+    "IS": {
+      "name": "Iceland",
+      "language": "is",
+      "publishers": [
+        {
+          "name": "RÚV",
+          "domain": "ruv.is"
+        },
+        {
+          "name": "Morgunblaðið",
+          "domain": "mbl.is"
+        },
+        {
+          "name": "Vísir",
+          "domain": "visir.is"
+        }
+      ]
+    },
+    "IN": {
+      "name": "India",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Hindu",
+          "domain": "thehindu.com"
+        },
+        {
+          "name": "Indian Express",
+          "domain": "indianexpress.com"
+        },
+        {
+          "name": "NDTV",
+          "domain": "ndtv.com"
+        },
+        {
+          "name": "The Wire",
+          "domain": "thewire.in"
+        },
+        {
+          "name": "Scroll.in",
+          "domain": "scroll.in"
+        },
+        {
+          "name": "The Print",
+          "domain": "theprint.in"
+        },
+        {
+          "name": "Mint",
+          "domain": "livemint.com"
+        },
+        {
+          "name": "Business Standard",
+          "domain": "business-standard.com"
+        },
+        {
+          "name": "Hindustan Times",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "name": "PTI",
+          "domain": "thehindu.com"
+        },
+        {
+          "name": "All India Radio",
+          "domain": "thehindu.com"
+        }
+      ]
+    },
+    "ID": {
+      "name": "Indonesia",
+      "language": "id",
+      "publishers": [
+        {
+          "name": "Kompas",
+          "domain": "kompas.com"
+        },
+        {
+          "name": "Tempo",
+          "domain": "tempo.co"
+        },
+        {
+          "name": "The Jakarta Post",
+          "domain": "thejakartapost.com"
+        },
+        {
+          "name": "CNN Indonesia",
+          "domain": "cnnindonesia.com"
+        },
+        {
+          "name": "Antara",
+          "domain": "antaranews.com"
+        }
+      ]
+    },
+    "IR": {
+      "name": "Iran",
+      "language": "fa",
+      "publishers": [
+        {
+          "name": "IRNA",
+          "domain": "irna.ir"
+        },
+        {
+          "name": "Tehran Times",
+          "domain": "tehrantimes.com"
+        },
+        {
+          "name": "ISNA",
+          "domain": "isna.ir"
+        }
+      ]
+    },
+    "IQ": {
+      "name": "Iraq",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Rudaw",
+          "domain": "rudaw.net"
+        },
+        {
+          "name": "Iraqi News Agency",
+          "domain": "ina.iq"
+        },
+        {
+          "name": "The National Iraq",
+          "domain": "rudaw.net"
+        }
+      ]
+    },
+    "IE": {
+      "name": "Ireland",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "RTÉ",
+          "domain": "rte.ie"
+        },
+        {
+          "name": "The Irish Times",
+          "domain": "irishtimes.com"
+        },
+        {
+          "name": "Irish Independent",
+          "domain": "independent.ie"
+        },
+        {
+          "name": "The Journal",
+          "domain": "thejournal.ie"
+        }
+      ]
+    },
+    "IL": {
+      "name": "Israel",
+      "language": "he",
+      "publishers": [
+        {
+          "name": "Haaretz",
+          "domain": "haaretz.com"
+        },
+        {
+          "name": "The Times of Israel",
+          "domain": "timesofisrael.com"
+        },
+        {
+          "name": "Jerusalem Post",
+          "domain": "jpost.com"
+        },
+        {
+          "name": "Ynet",
+          "domain": "ynetnews.com"
+        },
+        {
+          "name": "i24NEWS",
+          "domain": "i24news.tv"
+        }
+      ]
+    },
+    "IT": {
+      "name": "Italy",
+      "language": "it",
+      "publishers": [
+        {
+          "name": "Corriere della Sera",
+          "domain": "corriere.it"
+        },
+        {
+          "name": "La Repubblica",
+          "domain": "repubblica.it"
+        },
+        {
+          "name": "ANSA",
+          "domain": "ansa.it"
+        },
+        {
+          "name": "Il Sole 24 Ore",
+          "domain": "ilsole24ore.com"
+        },
+        {
+          "name": "RAI",
+          "domain": "rainews.it"
+        }
+      ]
+    },
+    "JM": {
+      "name": "Jamaica",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Gleaner",
+          "domain": "jamaica-gleaner.com"
+        },
+        {
+          "name": "Jamaica Observer",
+          "domain": "jamaicaobserver.com"
+        },
+        {
+          "name": "Radio Jamaica",
+          "domain": "jamaica-gleaner.com"
+        }
+      ]
+    },
+    "JP": {
+      "name": "Japan",
+      "language": "ja",
+      "publishers": [
+        {
+          "name": "NHK",
+          "domain": "nhk.or.jp"
+        },
+        {
+          "name": "The Japan Times",
+          "domain": "japantimes.co.jp"
+        },
+        {
+          "name": "Asahi Shimbun",
+          "domain": "asahi.com"
+        },
+        {
+          "name": "Mainichi",
+          "domain": "mainichi.jp"
+        },
+        {
+          "name": "Kyodo",
+          "domain": "nikkei.com"
+        },
+        {
+          "name": "Nikkei",
+          "domain": "nhk.or.jp"
+        }
+      ]
+    },
+    "JO": {
+      "name": "Jordan",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "The Jordan Times",
+          "domain": "jordantimes.com"
+        },
+        {
+          "name": "Ammon News",
+          "domain": "ammonnews.net"
+        },
+        {
+          "name": "Petra",
+          "domain": "petra.gov.jo"
+        }
+      ]
+    },
+    "KZ": {
+      "name": "Kazakhstan",
+      "language": "kk",
+      "publishers": [
+        {
+          "name": "Kazinform",
+          "domain": "inform.kz"
+        },
+        {
+          "name": "The Astana Times",
+          "domain": "astanatimes.com"
+        },
+        {
+          "name": "Vlast",
+          "domain": "vlast.kz"
+        }
+      ]
+    },
+    "KE": {
+      "name": "Kenya",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Daily Nation",
+          "domain": "nation.africa"
+        },
+        {
+          "name": "The Standard",
+          "domain": "standardmedia.co.ke"
+        },
+        {
+          "name": "Citizen Digital",
+          "domain": "citizen.digital"
+        },
+        {
+          "name": "Capital FM",
+          "domain": "capitalfm.co.ke"
+        }
+      ]
+    },
+    "KI": {
+      "name": "Kiribati",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Kiribati News",
+          "domain": "rnz.co.nz"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "KW": {
+      "name": "Kuwait",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Kuwait Times",
+          "domain": "kuwaittimes.com"
+        },
+        {
+          "name": "Arab Times",
+          "domain": "arabtimesonline.com"
+        },
+        {
+          "name": "KUNA",
+          "domain": "kuna.net.kw"
+        }
+      ]
+    },
+    "KG": {
+      "name": "Kyrgyzstan",
+      "language": "ky",
+      "publishers": [
+        {
+          "name": "24.kg",
+          "domain": "24.kg"
+        },
+        {
+          "name": "AKIpress",
+          "domain": "akipress.com"
+        },
+        {
+          "name": "Kloop",
+          "domain": "kloop.kg"
+        }
+      ]
+    },
+    "LA": {
+      "name": "Laos",
+      "language": "lo",
+      "publishers": [
+        {
+          "name": "Vientiane Times",
+          "domain": "vientianetimes.com.la"
+        },
+        {
+          "name": "KPL",
+          "domain": "vientianetimes.com.la"
+        }
+      ]
+    },
+    "LV": {
+      "name": "Latvia",
+      "language": "lv",
+      "publishers": [
+        {
+          "name": "LSM",
+          "domain": "lsm.lv"
+        },
+        {
+          "name": "Delfi",
+          "domain": "delfi.lv"
+        },
+        {
+          "name": "Latvijas Avīze",
+          "domain": "lsm.lv"
+        }
+      ]
+    },
+    "LB": {
+      "name": "Lebanon",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "L’Orient-Le Jour",
+          "domain": "lorientlejour.com"
+        },
+        {
+          "name": "The Daily Star",
+          "domain": "naharnet.com"
+        },
+        {
+          "name": "Annahar",
+          "domain": "lorientlejour.com"
+        },
+        {
+          "name": "Naharnet",
+          "domain": "lorientlejour.com"
+        }
+      ]
+    },
+    "LS": {
+      "name": "Lesotho",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Lesotho Times",
+          "domain": "lestimes.com"
+        },
+        {
+          "name": "Sunday Express",
+          "domain": "lestimes.com"
+        }
+      ]
+    },
+    "LR": {
+      "name": "Liberia",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "FrontPage Africa",
+          "domain": "frontpageafricaonline.com"
+        },
+        {
+          "name": "Daily Observer",
+          "domain": "liberianobserver.com"
+        }
+      ]
+    },
+    "LY": {
+      "name": "Libya",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Libya Herald",
+          "domain": "libyaherald.com"
+        },
+        {
+          "name": "LANA",
+          "domain": "libyaherald.com"
+        }
+      ]
+    },
+    "LI": {
+      "name": "Liechtenstein",
+      "language": "de",
+      "publishers": [
+        {
+          "name": "Liechtensteiner Vaterland",
+          "domain": "vaterland.li"
+        },
+        {
+          "name": "Volksblatt",
+          "domain": "volksblatt.li"
+        }
+      ]
+    },
+    "LT": {
+      "name": "Lithuania",
+      "language": "lt",
+      "publishers": [
+        {
+          "name": "LRT",
+          "domain": "lrt.lt"
+        },
+        {
+          "name": "Delfi",
+          "domain": "delfi.lt"
+        },
+        {
+          "name": "15min",
+          "domain": "15min.lt"
+        }
+      ]
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Luxemburger Wort",
+          "domain": "wort.lu"
+        },
+        {
+          "name": "RTL Luxembourg",
+          "domain": "rtl.lu"
+        },
+        {
+          "name": "Tageblatt",
+          "domain": "tageblatt.lu"
+        }
+      ]
+    },
+    "MG": {
+      "name": "Madagascar",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "L’Express de Madagascar",
+          "domain": "lexpress.mg"
+        },
+        {
+          "name": "Midi Madagasikara",
+          "domain": "midi-madagasikara.mg"
+        }
+      ]
+    },
+    "MW": {
+      "name": "Malawi",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Nation Malawi",
+          "domain": "mwnation.com"
+        },
+        {
+          "name": "Nyasa Times",
+          "domain": "nyasatimes.com"
+        },
+        {
+          "name": "Times Malawi",
+          "domain": "times.mw"
+        }
+      ]
+    },
+    "MY": {
+      "name": "Malaysia",
+      "language": "ms",
+      "publishers": [
+        {
+          "name": "The Star",
+          "domain": "thestar.com.my"
+        },
+        {
+          "name": "Malaysiakini",
+          "domain": "malaysiakini.com"
+        },
+        {
+          "name": "Bernama",
+          "domain": "bernama.com"
+        },
+        {
+          "name": "New Straits Times",
+          "domain": "nst.com.my"
+        }
+      ]
+    },
+    "MV": {
+      "name": "Maldives",
+      "language": "dv",
+      "publishers": [
+        {
+          "name": "Sun.mv",
+          "domain": "sun.mv"
+        },
+        {
+          "name": "Avas",
+          "domain": "avas.mv"
+        },
+        {
+          "name": "PSM News",
+          "domain": "psmnews.mv"
+        }
+      ]
+    },
+    "ML": {
+      "name": "Mali",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "L’Essor",
+          "domain": "studiotamani.org"
+        },
+        {
+          "name": "Studio Tamani",
+          "domain": "studiotamani.org"
+        }
+      ]
+    },
+    "MT": {
+      "name": "Malta",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Times of Malta",
+          "domain": "timesofmalta.com"
+        },
+        {
+          "name": "MaltaToday",
+          "domain": "maltatoday.com.mt"
+        },
+        {
+          "name": "TVM",
+          "domain": "timesofmalta.com"
+        }
+      ]
+    },
+    "MH": {
+      "name": "Marshall Islands",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Marshall Islands Journal",
+          "domain": "rnz.co.nz"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "MR": {
+      "name": "Mauritania",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "AMI",
+          "domain": "alakhbar.info"
+        },
+        {
+          "name": "Alakhbar",
+          "domain": "alakhbar.info"
+        }
+      ]
+    },
+    "MU": {
+      "name": "Mauritius",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "L’Express",
+          "domain": "lexpress.mu"
+        },
+        {
+          "name": "Le Mauricien",
+          "domain": "lemauricien.com"
+        },
+        {
+          "name": "Defi Media",
+          "domain": "defimedia.info"
+        }
+      ]
+    },
+    "MX": {
+      "name": "Mexico",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "Reforma",
+          "domain": "reforma.com"
+        },
+        {
+          "name": "El Universal",
+          "domain": "eluniversal.com.mx"
+        },
+        {
+          "name": "La Jornada",
+          "domain": "jornada.com.mx"
+        },
+        {
+          "name": "Animal Político",
+          "domain": "animalpolitico.com"
+        },
+        {
+          "name": "Expansión",
+          "domain": "expansion.mx"
+        }
+      ]
+    },
+    "FM": {
+      "name": "Micronesia",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Kaselehlie Press",
+          "domain": "rnz.co.nz"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "MD": {
+      "name": "Moldova",
+      "language": "ro",
+      "publishers": [
+        {
+          "name": "Ziarul de Gardă",
+          "domain": "zdg.md"
+        },
+        {
+          "name": "NewsMaker",
+          "domain": "newsmaker.md"
+        },
+        {
+          "name": "IPN",
+          "domain": "ipn.md"
+        }
+      ]
+    },
+    "MC": {
+      "name": "Monaco",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Monaco-Matin",
+          "domain": "monaco-tribune.com"
+        },
+        {
+          "name": "Monaco Tribune",
+          "domain": "monaco-tribune.com"
+        }
+      ]
+    },
+    "MN": {
+      "name": "Mongolia",
+      "language": "mn",
+      "publishers": [
+        {
+          "name": "The UB Post",
+          "domain": "theubpost.mn"
+        },
+        {
+          "name": "Montsame",
+          "domain": "montsame.mn"
+        },
+        {
+          "name": "gogo.mn",
+          "domain": "gogo.mn"
+        }
+      ]
+    },
+    "ME": {
+      "name": "Montenegro",
+      "language": "sr",
+      "publishers": [
+        {
+          "name": "Vijesti",
+          "domain": "vijesti.me"
+        },
+        {
+          "name": "Pobjeda",
+          "domain": "pobjeda.me"
+        },
+        {
+          "name": "RTCG",
+          "domain": "rtcg.me"
+        }
+      ]
+    },
+    "MA": {
+      "name": "Morocco",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Le Matin",
+          "domain": "lematin.ma"
+        },
+        {
+          "name": "Hespress",
+          "domain": "hespress.com"
+        },
+        {
+          "name": "TelQuel",
+          "domain": "telquel.ma"
+        },
+        {
+          "name": "MAP",
+          "domain": "lematin.ma"
+        }
+      ]
+    },
+    "MZ": {
+      "name": "Mozambique",
+      "language": "pt",
+      "publishers": [
+        {
+          "name": "Notícias",
+          "domain": "opais.co.mz"
+        },
+        {
+          "name": "O País",
+          "domain": "opais.co.mz"
+        },
+        {
+          "name": "AIM",
+          "domain": "opais.co.mz"
+        }
+      ]
+    },
+    "MM": {
+      "name": "Myanmar",
+      "language": "my",
+      "publishers": [
+        {
+          "name": "Myanmar Now",
+          "domain": "myanmar-now.org"
+        },
+        {
+          "name": "The Irrawaddy",
+          "domain": "irrawaddy.com"
+        },
+        {
+          "name": "Frontier Myanmar",
+          "domain": "frontiermyanmar.net"
+        },
+        {
+          "name": "Mizzima",
+          "domain": "mizzima.com"
+        }
+      ]
+    },
+    "NA": {
+      "name": "Namibia",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Namibian",
+          "domain": "namibian.com.na"
+        },
+        {
+          "name": "New Era",
+          "domain": "neweralive.na"
+        },
+        {
+          "name": "Namibia Press Agency",
+          "domain": "namibian.com.na"
+        }
+      ]
+    },
+    "NR": {
+      "name": "Nauru",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Nauru Media Bureau",
+          "domain": "rnz.co.nz"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "NP": {
+      "name": "Nepal",
+      "language": "ne",
+      "publishers": [
+        {
+          "name": "The Kathmandu Post",
+          "domain": "kathmandupost.com"
+        },
+        {
+          "name": "Kantipur",
+          "domain": "ekantipur.com"
+        },
+        {
+          "name": "Republica",
+          "domain": "nepalitimes.com"
+        },
+        {
+          "name": "Nepali Times",
+          "domain": "kathmandupost.com"
+        }
+      ]
+    },
+    "NL": {
+      "name": "Netherlands",
+      "language": "nl",
+      "publishers": [
+        {
+          "name": "NOS",
+          "domain": "nos.nl"
+        },
+        {
+          "name": "NRC",
+          "domain": "nrc.nl"
+        },
+        {
+          "name": "De Volkskrant",
+          "domain": "volkskrant.nl"
+        },
+        {
+          "name": "Trouw",
+          "domain": "trouw.nl"
+        },
+        {
+          "name": "ANP",
+          "domain": "nos.nl"
+        }
+      ]
+    },
+    "NZ": {
+      "name": "New Zealand",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "RNZ",
+          "domain": "rnz.co.nz"
+        },
+        {
+          "name": "Stuff",
+          "domain": "stuff.co.nz"
+        },
+        {
+          "name": "NZ Herald",
+          "domain": "nzherald.co.nz"
+        },
+        {
+          "name": "Newsroom",
+          "domain": "newsroom.co.nz"
+        }
+      ]
+    },
+    "NI": {
+      "name": "Nicaragua",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "La Prensa",
+          "domain": "laprensa.com.ni"
+        },
+        {
+          "name": "Confidencial",
+          "domain": "confidencial.digital"
+        },
+        {
+          "name": "El Nuevo Diario",
+          "domain": "laprensa.com.ni"
+        }
+      ]
+    },
+    "NE": {
+      "name": "Niger",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Le Sahel",
+          "domain": "actuniger.com"
+        },
+        {
+          "name": "ActuNiger",
+          "domain": "actuniger.com"
+        }
+      ]
+    },
+    "NG": {
+      "name": "Nigeria",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Punch",
+          "domain": "punchng.com"
+        },
+        {
+          "name": "Premium Times",
+          "domain": "premiumtimesng.com"
+        },
+        {
+          "name": "The Guardian Nigeria",
+          "domain": "guardian.ng"
+        },
+        {
+          "name": "Channels TV",
+          "domain": "channelstv.com"
+        },
+        {
+          "name": "Vanguard",
+          "domain": "vanguardngr.com"
+        },
+        {
+          "name": "Daily Trust",
+          "domain": "dailytrust.com"
+        }
+      ]
+    },
+    "KP": {
+      "name": "North Korea",
+      "language": "ko",
+      "publishers": [
+        {
+          "name": "KCNA",
+          "domain": "kcna.kp"
+        },
+        {
+          "name": "Rodong Sinmun",
+          "domain": "kcna.kp"
+        }
+      ]
+    },
+    "KR": {
+      "name": "South Korea",
+      "language": "ko",
+      "publishers": [
+        {
+          "name": "Yonhap",
+          "domain": "yna.co.kr"
+        },
+        {
+          "name": "The Korea Herald",
+          "domain": "koreaherald.com"
+        },
+        {
+          "name": "Korea JoongAng Daily",
+          "domain": "koreajoongangdaily.joins.com"
+        },
+        {
+          "name": "KBS",
+          "domain": "kbs.co.kr"
+        },
+        {
+          "name": "Hankyoreh",
+          "domain": "hani.co.kr"
+        },
+        {
+          "name": "Chosun",
+          "domain": "chosun.com"
+        }
+      ]
+    },
+    "MK": {
+      "name": "North Macedonia",
+      "language": "mk",
+      "publishers": [
+        {
+          "name": "MIA",
+          "domain": "mia.mk"
+        },
+        {
+          "name": "Meta.mk",
+          "domain": "meta.mk"
+        },
+        {
+          "name": "Sloboden Pečat",
+          "domain": "mia.mk"
+        }
+      ]
+    },
+    "NO": {
+      "name": "Norway",
+      "language": "nb",
+      "publishers": [
+        {
+          "name": "NRK",
+          "domain": "nrk.no"
+        },
+        {
+          "name": "Aftenposten",
+          "domain": "aftenposten.no"
+        },
+        {
+          "name": "VG",
+          "domain": "vg.no"
+        },
+        {
+          "name": "Dagens Næringsliv",
+          "domain": "dn.no"
+        }
+      ]
+    },
+    "OM": {
+      "name": "Oman",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Times of Oman",
+          "domain": "timesofoman.com"
+        },
+        {
+          "name": "Oman Observer",
+          "domain": "omanobserver.om"
+        },
+        {
+          "name": "Muscat Daily",
+          "domain": "muscatdaily.com"
+        }
+      ]
+    },
+    "PK": {
+      "name": "Pakistan",
+      "language": "ur",
+      "publishers": [
+        {
+          "name": "Dawn",
+          "domain": "dawn.com"
+        },
+        {
+          "name": "The News",
+          "domain": "thenews.com.pk"
+        },
+        {
+          "name": "Geo News",
+          "domain": "geo.tv"
+        },
+        {
+          "name": "Express Tribune",
+          "domain": "tribune.com.pk"
+        },
+        {
+          "name": "ARY News",
+          "domain": "arynews.tv"
+        }
+      ]
+    },
+    "PW": {
+      "name": "Palau",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Island Times",
+          "domain": "rnz.co.nz"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "PA": {
+      "name": "Panama",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "La Prensa",
+          "domain": "prensa.com"
+        },
+        {
+          "name": "TVN",
+          "domain": "tvn-2.com"
+        },
+        {
+          "name": "Mi Diario",
+          "domain": "prensa.com"
+        }
+      ]
+    },
+    "PG": {
+      "name": "Papua New Guinea",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Post-Courier",
+          "domain": "postcourier.com.pg"
+        },
+        {
+          "name": "The National PNG",
+          "domain": "thenational.com.pg"
+        }
+      ]
+    },
+    "PY": {
+      "name": "Paraguay",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "ABC Color",
+          "domain": "abc.com.py"
+        },
+        {
+          "name": "Última Hora",
+          "domain": "ultimahora.com"
+        },
+        {
+          "name": "La Nación Paraguay",
+          "domain": "abc.com.py"
+        }
+      ]
+    },
+    "PE": {
+      "name": "Peru",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "El Comercio",
+          "domain": "elcomercio.pe"
+        },
+        {
+          "name": "La República",
+          "domain": "larepublica.pe"
+        },
+        {
+          "name": "RPP",
+          "domain": "rpp.pe"
+        },
+        {
+          "name": "Ojo Público",
+          "domain": "ojo-publico.com"
+        }
+      ]
+    },
+    "PH": {
+      "name": "Philippines",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Rappler",
+          "domain": "rappler.com"
+        },
+        {
+          "name": "Philippine Daily Inquirer",
+          "domain": "inquirer.net"
+        },
+        {
+          "name": "ABS-CBN",
+          "domain": "abs-cbn.com"
+        },
+        {
+          "name": "GMA News",
+          "domain": "gmanetwork.com"
+        },
+        {
+          "name": "Philstar",
+          "domain": "philstar.com"
+        }
+      ]
+    },
+    "PL": {
+      "name": "Poland",
+      "language": "pl",
+      "publishers": [
+        {
+          "name": "Gazeta Wyborcza",
+          "domain": "wyborcza.pl"
+        },
+        {
+          "name": "Rzeczpospolita",
+          "domain": "rp.pl"
+        },
+        {
+          "name": "TVN24",
+          "domain": "tvn24.pl"
+        },
+        {
+          "name": "PAP",
+          "domain": "pap.pl"
+        },
+        {
+          "name": "Polityka",
+          "domain": "polityka.pl"
+        }
+      ]
+    },
+    "PT": {
+      "name": "Portugal",
+      "language": "pt",
+      "publishers": [
+        {
+          "name": "Público",
+          "domain": "publico.pt"
+        },
+        {
+          "name": "Diário de Notícias",
+          "domain": "dn.pt"
+        },
+        {
+          "name": "RTP",
+          "domain": "rtp.pt"
+        },
+        {
+          "name": "Expresso",
+          "domain": "expresso.pt"
+        },
+        {
+          "name": "Lusa",
+          "domain": "publico.pt"
+        }
+      ]
+    },
+    "QA": {
+      "name": "Qatar",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Al Jazeera",
+          "domain": "aljazeera.com"
+        },
+        {
+          "name": "The Peninsula",
+          "domain": "thepeninsulaqatar.com"
+        },
+        {
+          "name": "Gulf Times",
+          "domain": "gulf-times.com"
+        },
+        {
+          "name": "QNA",
+          "domain": "aljazeera.com"
+        }
+      ]
+    },
+    "RO": {
+      "name": "Romania",
+      "language": "ro",
+      "publishers": [
+        {
+          "name": "Digi24",
+          "domain": "digi24.ro"
+        },
+        {
+          "name": "G4Media",
+          "domain": "g4media.ro"
+        },
+        {
+          "name": "Adevărul",
+          "domain": "adevarul.ro"
+        },
+        {
+          "name": "HotNews",
+          "domain": "hotnews.ro"
+        },
+        {
+          "name": "Agerpres",
+          "domain": "agerpres.ro"
+        }
+      ]
+    },
+    "RU": {
+      "name": "Russia",
+      "language": "ru",
+      "publishers": [
+        {
+          "name": "TASS",
+          "domain": "tass.com"
+        },
+        {
+          "name": "Interfax",
+          "domain": "interfax.ru"
+        },
+        {
+          "name": "Meduza",
+          "domain": "meduza.io"
+        },
+        {
+          "name": "Novaya Gazeta",
+          "domain": "novayagazeta.eu"
+        },
+        {
+          "name": "Kommersant",
+          "domain": "kommersant.ru"
+        },
+        {
+          "name": "RBC",
+          "domain": "rbc.ru"
+        },
+        {
+          "name": "The Moscow Times",
+          "domain": "themoscowtimes.com"
+        }
+      ]
+    },
+    "RW": {
+      "name": "Rwanda",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The New Times",
+          "domain": "newtimes.co.rw"
+        },
+        {
+          "name": "KT Press",
+          "domain": "ktpress.rw"
+        },
+        {
+          "name": "Igihe",
+          "domain": "igihe.com"
+        }
+      ]
+    },
+    "KN": {
+      "name": "Saint Kitts and Nevis",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Winn FM",
+          "domain": "winnfm.com"
+        },
+        {
+          "name": "SKNVibes",
+          "domain": "sknvibes.com"
+        }
+      ]
+    },
+    "LC": {
+      "name": "Saint Lucia",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "St. Lucia Times",
+          "domain": "stluciatimes.com"
+        },
+        {
+          "name": "The Voice",
+          "domain": "stluciatimes.com"
+        }
+      ]
+    },
+    "VC": {
+      "name": "Saint Vincent and the Grenadines",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Searchlight",
+          "domain": "searchlight.vc"
+        },
+        {
+          "name": "iWitness News",
+          "domain": "iwnsvg.com"
+        }
+      ]
+    },
+    "WS": {
+      "name": "Samoa",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Samoa Observer",
+          "domain": "samoaobserver.ws"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "SM": {
+      "name": "San Marino",
+      "language": "it",
+      "publishers": [
+        {
+          "name": "San Marino RTV",
+          "domain": "sanmarinortv.sm"
+        },
+        {
+          "name": "Libertas",
+          "domain": "sanmarinortv.sm"
+        }
+      ]
+    },
+    "ST": {
+      "name": "Sao Tome and Principe",
+      "language": "pt",
+      "publishers": [
+        {
+          "name": "Téla Nón",
+          "domain": "telanon.info"
+        },
+        {
+          "name": "STP-Press",
+          "domain": "telanon.info"
+        }
+      ]
+    },
+    "SA": {
+      "name": "Saudi Arabia",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Arab News",
+          "domain": "arabnews.com"
+        },
+        {
+          "name": "Saudi Gazette",
+          "domain": "saudigazette.com.sa"
+        },
+        {
+          "name": "Asharq Al-Awsat",
+          "domain": "aawsat.com"
+        },
+        {
+          "name": "SPA",
+          "domain": "spa.gov.sa"
+        }
+      ]
+    },
+    "SN": {
+      "name": "Senegal",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Le Soleil",
+          "domain": "lesoleil.sn"
+        },
+        {
+          "name": "Sud Quotidien",
+          "domain": "sudquotidien.sn"
+        },
+        {
+          "name": "APS",
+          "domain": "aps.sn"
+        }
+      ]
+    },
+    "RS": {
+      "name": "Serbia",
+      "language": "sr",
+      "publishers": [
+        {
+          "name": "N1",
+          "domain": "n1info.rs"
+        },
+        {
+          "name": "BIRN",
+          "domain": "rts.rs"
+        },
+        {
+          "name": "RTS",
+          "domain": "danas.rs"
+        },
+        {
+          "name": "Danas",
+          "domain": "n1info.rs"
+        },
+        {
+          "name": "Cenzolovka",
+          "domain": "n1info.rs"
+        }
+      ]
+    },
+    "SC": {
+      "name": "Seychelles",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Seychelles News Agency",
+          "domain": "seychellesnewsagency.com"
+        },
+        {
+          "name": "Nation Seychelles",
+          "domain": "nation.sc"
+        }
+      ]
+    },
+    "SL": {
+      "name": "Sierra Leone",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Awoko",
+          "domain": "awoko.org"
+        },
+        {
+          "name": "Concord Times",
+          "domain": "awoko.org"
+        }
+      ]
+    },
+    "SG": {
+      "name": "Singapore",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Straits Times",
+          "domain": "straitstimes.com"
+        },
+        {
+          "name": "CNA",
+          "domain": "channelnewsasia.com"
+        },
+        {
+          "name": "Channel News Asia",
+          "domain": "mothership.sg"
+        },
+        {
+          "name": "Mothership",
+          "domain": "todayonline.com"
+        },
+        {
+          "name": "TODAY",
+          "domain": "straitstimes.com"
+        }
+      ]
+    },
+    "SK": {
+      "name": "Slovakia",
+      "language": "sk",
+      "publishers": [
+        {
+          "name": "SME",
+          "domain": "sme.sk"
+        },
+        {
+          "name": "Denník N",
+          "domain": "dennikn.sk"
+        },
+        {
+          "name": "TASR",
+          "domain": "rtvs.sk"
+        },
+        {
+          "name": "RTVS",
+          "domain": "sme.sk"
+        }
+      ]
+    },
+    "SI": {
+      "name": "Slovenia",
+      "language": "sl",
+      "publishers": [
+        {
+          "name": "RTV Slovenija",
+          "domain": "rtvslo.si"
+        },
+        {
+          "name": "Delo",
+          "domain": "delo.si"
+        },
+        {
+          "name": "STA",
+          "domain": "sta.si"
+        }
+      ]
+    },
+    "SB": {
+      "name": "Solomon Islands",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Solomon Star",
+          "domain": "solomonstarnews.com"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "SO": {
+      "name": "Somalia",
+      "language": "so",
+      "publishers": [
+        {
+          "name": "Hiiraan",
+          "domain": "hiiraan.com"
+        },
+        {
+          "name": "Garowe Online",
+          "domain": "garoweonline.com"
+        },
+        {
+          "name": "Radio Dalsan",
+          "domain": "hiiraan.com"
+        }
+      ]
+    },
+    "ZA": {
+      "name": "South Africa",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "News24",
+          "domain": "news24.com"
+        },
+        {
+          "name": "Daily Maverick",
+          "domain": "dailymaverick.co.za"
+        },
+        {
+          "name": "Mail & Guardian",
+          "domain": "mg.co.za"
+        },
+        {
+          "name": "TimesLIVE",
+          "domain": "timeslive.co.za"
+        },
+        {
+          "name": "SABC",
+          "domain": "groundup.org.za"
+        },
+        {
+          "name": "GroundUp",
+          "domain": "news24.com"
+        }
+      ]
+    },
+    "SS": {
+      "name": "South Sudan",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Radio Tamazuj",
+          "domain": "radiotamazuj.org"
+        },
+        {
+          "name": "Eye Radio",
+          "domain": "eyeradio.org"
+        },
+        {
+          "name": "Sudans Post",
+          "domain": "sudanspost.com"
+        }
+      ]
+    },
+    "ES": {
+      "name": "Spain",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "El País",
+          "domain": "elpais.com"
+        },
+        {
+          "name": "El Mundo",
+          "domain": "elmundo.es"
+        },
+        {
+          "name": "RTVE",
+          "domain": "rtve.es"
+        },
+        {
+          "name": "La Vanguardia",
+          "domain": "lavanguardia.com"
+        },
+        {
+          "name": "EFE",
+          "domain": "eldiario.es"
+        },
+        {
+          "name": "elDiario.es",
+          "domain": "elpais.com"
+        }
+      ]
+    },
+    "LK": {
+      "name": "Sri Lanka",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Daily Mirror",
+          "domain": "dailymirror.lk"
+        },
+        {
+          "name": "News First",
+          "domain": "newsfirst.lk"
+        },
+        {
+          "name": "The Island",
+          "domain": "adaderana.lk"
+        },
+        {
+          "name": "Ada Derana",
+          "domain": "dailymirror.lk"
+        }
+      ]
+    },
+    "SD": {
+      "name": "Sudan",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Radio Dabanga",
+          "domain": "dabangasudan.org"
+        },
+        {
+          "name": "SUNA",
+          "domain": "sudantribune.com"
+        },
+        {
+          "name": "Sudan Tribune",
+          "domain": "dabangasudan.org"
+        }
+      ]
+    },
+    "SR": {
+      "name": "Suriname",
+      "language": "nl",
+      "publishers": [
+        {
+          "name": "De Ware Tijd",
+          "domain": "dwtonline.com"
+        },
+        {
+          "name": "Starnieuws",
+          "domain": "starnieuws.com"
+        }
+      ]
+    },
+    "SE": {
+      "name": "Sweden",
+      "language": "sv",
+      "publishers": [
+        {
+          "name": "SVT",
+          "domain": "svt.se"
+        },
+        {
+          "name": "Dagens Nyheter",
+          "domain": "dn.se"
+        },
+        {
+          "name": "Svenska Dagbladet",
+          "domain": "svd.se"
+        },
+        {
+          "name": "TT",
+          "domain": "svt.se"
+        }
+      ]
+    },
+    "CH": {
+      "name": "Switzerland",
+      "language": "de",
+      "publishers": [
+        {
+          "name": "SRF",
+          "domain": "srf.ch"
+        },
+        {
+          "name": "NZZ",
+          "domain": "nzz.ch"
+        },
+        {
+          "name": "Le Temps",
+          "domain": "letemps.ch"
+        },
+        {
+          "name": "RTS",
+          "domain": "rts.ch"
+        },
+        {
+          "name": "Tages-Anzeiger",
+          "domain": "tagesanzeiger.ch"
+        }
+      ]
+    },
+    "SY": {
+      "name": "Syria",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "SANA",
+          "domain": "sana.sy"
+        },
+        {
+          "name": "Enab Baladi",
+          "domain": "enabbaladi.net"
+        },
+        {
+          "name": "Syria Direct",
+          "domain": "syriadirect.org"
+        }
+      ]
+    },
+    "TJ": {
+      "name": "Tajikistan",
+      "language": "tg",
+      "publishers": [
+        {
+          "name": "Asia-Plus",
+          "domain": "asiaplustj.info"
+        },
+        {
+          "name": "Khovar",
+          "domain": "khovar.tj"
+        }
+      ]
+    },
+    "TZ": {
+      "name": "Tanzania",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Citizen",
+          "domain": "thecitizen.co.tz"
+        },
+        {
+          "name": "Daily News Tanzania",
+          "domain": "dailynews.co.tz"
+        },
+        {
+          "name": "Mwananchi",
+          "domain": "mwananchi.co.tz"
+        }
+      ]
+    },
+    "TH": {
+      "name": "Thailand",
+      "language": "th",
+      "publishers": [
+        {
+          "name": "Bangkok Post",
+          "domain": "bangkokpost.com"
+        },
+        {
+          "name": "The Nation Thailand",
+          "domain": "nationthailand.com"
+        },
+        {
+          "name": "Thai PBS",
+          "domain": "thaipbs.or.th"
+        },
+        {
+          "name": "Khaosod",
+          "domain": "khaosodenglish.com"
+        }
+      ]
+    },
+    "TL": {
+      "name": "Timor-Leste",
+      "language": "pt",
+      "publishers": [
+        {
+          "name": "Tatoli",
+          "domain": "tatoli.tl"
+        },
+        {
+          "name": "Lusa Timor",
+          "domain": "tatoli.tl"
+        }
+      ]
+    },
+    "TG": {
+      "name": "Togo",
+      "language": "fr",
+      "publishers": [
+        {
+          "name": "Togofirst",
+          "domain": "republicoftogo.com"
+        },
+        {
+          "name": "Republicoftogo",
+          "domain": "republicoftogo.com"
+        }
+      ]
+    },
+    "TO": {
+      "name": "Tonga",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Matangi Tonga",
+          "domain": "matangitonga.to"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "TT": {
+      "name": "Trinidad and Tobago",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Trinidad Express",
+          "domain": "trinidadexpress.com"
+        },
+        {
+          "name": "Newsday",
+          "domain": "newsday.co.tt"
+        },
+        {
+          "name": "Guardian T&T",
+          "domain": "guardian.co.tt"
+        }
+      ]
+    },
+    "TN": {
+      "name": "Tunisia",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "TAP",
+          "domain": "tap.info.tn"
+        },
+        {
+          "name": "Nawaat",
+          "domain": "nawaat.org"
+        },
+        {
+          "name": "La Presse de Tunisie",
+          "domain": "lapresse.tn"
+        },
+        {
+          "name": "Business News",
+          "domain": "businessnews.com.tn"
+        }
+      ]
+    },
+    "TR": {
+      "name": "Türkiye",
+      "language": "tr",
+      "publishers": [
+        {
+          "name": "Anadolu Agency",
+          "domain": "aa.com.tr"
+        },
+        {
+          "name": "Hürriyet Daily News",
+          "domain": "hurriyetdailynews.com"
+        },
+        {
+          "name": "Bianet",
+          "domain": "bianet.org"
+        },
+        {
+          "name": "Duvar",
+          "domain": "duvarenglish.com"
+        },
+        {
+          "name": "TRT World",
+          "domain": "trtworld.com"
+        }
+      ]
+    },
+    "TM": {
+      "name": "Turkmenistan",
+      "language": "tk",
+      "publishers": [
+        {
+          "name": "Turkmenistan.gov",
+          "domain": "chrono-tm.org"
+        },
+        {
+          "name": "Chronicles of Turkmenistan",
+          "domain": "chrono-tm.org"
+        }
+      ]
+    },
+    "TV": {
+      "name": "Tuvalu",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Tuvalu News",
+          "domain": "rnz.co.nz"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "UG": {
+      "name": "Uganda",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Daily Monitor",
+          "domain": "monitor.co.ug"
+        },
+        {
+          "name": "New Vision",
+          "domain": "newvision.co.ug"
+        },
+        {
+          "name": "The Independent Uganda",
+          "domain": "independent.co.ug"
+        }
+      ]
+    },
+    "UA": {
+      "name": "Ukraine",
+      "language": "uk",
+      "publishers": [
+        {
+          "name": "Ukrinform",
+          "domain": "ukrinform.net"
+        },
+        {
+          "name": "Kyiv Independent",
+          "domain": "kyivindependent.com"
+        },
+        {
+          "name": "Ukrainska Pravda",
+          "domain": "pravda.com.ua"
+        },
+        {
+          "name": "Suspilne",
+          "domain": "suspilne.media"
+        },
+        {
+          "name": "NV",
+          "domain": "nv.ua"
+        }
+      ]
+    },
+    "AE": {
+      "name": "United Arab Emirates",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "The National",
+          "domain": "thenationalnews.com"
+        },
+        {
+          "name": "Gulf News",
+          "domain": "gulfnews.com"
+        },
+        {
+          "name": "WAM",
+          "domain": "wam.ae"
+        },
+        {
+          "name": "Khaleej Times",
+          "domain": "khaleejtimes.com"
+        }
+      ]
+    },
+    "GB": {
+      "name": "United Kingdom",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "BBC",
+          "domain": "bbc.co.uk"
+        },
+        {
+          "name": "The Guardian",
+          "domain": "bbc.com"
+        },
+        {
+          "name": "Financial Times",
+          "domain": "theguardian.com"
+        },
+        {
+          "name": "The Times",
+          "domain": "ft.com"
+        },
+        {
+          "name": "Reuters",
+          "domain": "thetimes.com"
+        },
+        {
+          "name": "Sky News",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "The Independent",
+          "domain": "news.sky.com"
+        },
+        {
+          "name": "The Economist",
+          "domain": "independent.co.uk"
+        }
+      ]
+    },
+    "US": {
+      "name": "United States",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Reuters",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Associated Press",
+          "domain": "apnews.com"
+        },
+        {
+          "name": "AP News",
+          "domain": "nytimes.com"
+        },
+        {
+          "name": "New York Times",
+          "domain": "washingtonpost.com"
+        },
+        {
+          "name": "Washington Post",
+          "domain": "npr.org"
+        },
+        {
+          "name": "NPR",
+          "domain": "pbs.org"
+        },
+        {
+          "name": "PBS",
+          "domain": "theatlantic.com"
+        },
+        {
+          "name": "The Atlantic",
+          "domain": "propublica.org"
+        },
+        {
+          "name": "ProPublica",
+          "domain": "wsj.com"
+        },
+        {
+          "name": "WSJ",
+          "domain": "nbcnews.com"
+        },
+        {
+          "name": "Wall Street Journal",
+          "domain": "cbsnews.com"
+        },
+        {
+          "name": "NBC News",
+          "domain": "abcnews.go.com"
+        },
+        {
+          "name": "CBS News",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "ABC News",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "The New Yorker",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Ars Technica",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "TechCrunch",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "The Verge",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Wired",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Engadget",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "CNET",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "MIT Technology Review",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "The Economist",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Fortune",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "CNBC",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Nature",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "NASA",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Quanta",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "STAT",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Variety",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Hollywood Reporter",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Rolling Stone",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "Polygon",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "BBC",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "CNN",
+          "domain": "reuters.com"
+        },
+        {
+          "name": "KFF Health News",
+          "domain": "reuters.com"
+        }
+      ]
+    },
+    "UY": {
+      "name": "Uruguay",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "El País Uruguay",
+          "domain": "elpais.com.uy"
+        },
+        {
+          "name": "La Diaria",
+          "domain": "ladiaria.com.uy"
+        },
+        {
+          "name": "El Observador",
+          "domain": "elobservador.com.uy"
+        },
+        {
+          "name": "Búsqueda",
+          "domain": "elpais.com.uy"
+        }
+      ]
+    },
+    "UZ": {
+      "name": "Uzbekistan",
+      "language": "uz",
+      "publishers": [
+        {
+          "name": "Gazeta.uz",
+          "domain": "gazeta.uz"
+        },
+        {
+          "name": "Kun.uz",
+          "domain": "kun.uz"
+        },
+        {
+          "name": "Podrobno",
+          "domain": "podrobno.uz"
+        }
+      ]
+    },
+    "VU": {
+      "name": "Vanuatu",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "Daily Post Vanuatu",
+          "domain": "dailypost.vu"
+        },
+        {
+          "name": "RNZ Pacific",
+          "domain": "rnz.co.nz"
+        }
+      ]
+    },
+    "VE": {
+      "name": "Venezuela",
+      "language": "es",
+      "publishers": [
+        {
+          "name": "Efecto Cocuyo",
+          "domain": "efectococuyo.com"
+        },
+        {
+          "name": "Tal Cual",
+          "domain": "talcualdigital.com"
+        },
+        {
+          "name": "El Nacional",
+          "domain": "elnacional.com"
+        },
+        {
+          "name": "Runrun.es",
+          "domain": "runrun.es"
+        }
+      ]
+    },
+    "VN": {
+      "name": "Vietnam",
+      "language": "vi",
+      "publishers": [
+        {
+          "name": "VnExpress",
+          "domain": "vnexpress.net"
+        },
+        {
+          "name": "Tuoi Tre",
+          "domain": "tuoitre.vn"
+        },
+        {
+          "name": "VietnamNews",
+          "domain": "vietnamnews.vn"
+        },
+        {
+          "name": "Thanh Nien",
+          "domain": "thanhnien.vn"
+        }
+      ]
+    },
+    "YE": {
+      "name": "Yemen",
+      "language": "ar",
+      "publishers": [
+        {
+          "name": "Saba",
+          "domain": "sabanews.net"
+        },
+        {
+          "name": "Al-Masdar Online",
+          "domain": "almasdaronline.com"
+        }
+      ]
+    },
+    "ZM": {
+      "name": "Zambia",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "News Diggers",
+          "domain": "diggers.news"
+        },
+        {
+          "name": "Times of Zambia",
+          "domain": "times.co.zm"
+        },
+        {
+          "name": "Zambia Daily Mail",
+          "domain": "diggers.news"
+        }
+      ]
+    },
+    "ZW": {
+      "name": "Zimbabwe",
+      "language": "en",
+      "publishers": [
+        {
+          "name": "The Herald",
+          "domain": "herald.co.zw"
+        },
+        {
+          "name": "NewsDay",
+          "domain": "newsday.co.zw"
+        },
+        {
+          "name": "ZimLive",
+          "domain": "zimlive.com"
+        },
+        {
+          "name": "The Standard Zimbabwe",
+          "domain": "herald.co.zw"
+        }
+      ]
+    }
+  }
+}

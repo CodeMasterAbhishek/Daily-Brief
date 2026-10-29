@@ -7,6 +7,9 @@
     "start": "npx --yes serve public",
     "fetch-rss": "node src/scripts/fetch-rss.js",
     "backfill-month": "node src/scripts/backfill-month.js",
+    "densify-month": "node src/scripts/densify-month.js",
+    "export-publishers": "node src/scripts/export-publishers.js",
+    "upload-r2": "node src/scripts/upload-r2.js",
     "reclassify": "node src/scripts/reclassify-local.js",
     "upgrade-images": "node src/scripts/upgrade-images.js",
     "test": "node --test src/scripts/classify-article.test.js src/scripts/quality.test.js"
