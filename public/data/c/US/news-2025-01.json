@@ -1,7 +1,67 @@
 {
-  "lastUpdated": "2026-10-28T10:44:06.975Z",
-  "count": 16,
+  "lastUpdated": "2026-11-07T16:49:47.518Z",
+  "count": 25,
   "articles": [
+    {
+      "id": "rss-6bfb2bcccce6",
+      "title": "What to Know About China's DeepSeek AI",
+      "description": "The Chinese upstart says it has trained high-performing AI models cheaply, without using the most advanced chips.",
+      "url": "https://www.wsj.com/articles/deepseek-ai-china-tech-stocks-explained-ee6cc80e?mod=rss_Technology",
+      "image": "assets/images/fallback.svg",
+      "source": "WSJ",
+      "category": "business",
+      "publishedAt": "2025-01-27T18:17:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-ffbbdc1bdf3b",
+      "title": "Silicon Valley Is Raving About a Made-in-China AI Model",
+      "description": "DeepSeek is called “amazing and impressive” despite working with less-advanced chips.",
+      "url": "https://www.wsj.com/articles/china-ai-deepseek-chatbot-6ac4ad33?mod=rss_Technology",
+      "image": "assets/images/fallback.svg",
+      "source": "WSJ",
+      "category": "business",
+      "publishedAt": "2025-01-27T14:36:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-35078e796397",
+      "title": "Reid Hoffman Raises $24.6 Million for AI Cancer-Research Startup",
+      "description": "The LinkedIn co-founder is starting Manas AI with “The Emperor of All Maladies” author Siddhartha Mukherjee.",
+      "url": "https://www.wsj.com/articles/manas-ai-drug-discovery-reid-hoffman-93a6c023?mod=rss_Technology",
+      "image": "assets/images/fallback.svg",
+      "source": "WSJ",
+      "category": "business",
+      "publishedAt": "2025-01-27T13:00:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-6b097aee6d81",
+      "title": "Can an App Replace a Personal Trainer? I Tested Nearly a Dozen to Find Out",
+      "description": "Apps can add flexibility and freshness to your routine. Just try not to get injured.",
+      "url": "https://www.wsj.com/articles/strength-training-apps-review-950a2d19?mod=rss_Technology",
+      "image": "assets/images/fallback.svg",
+      "source": "WSJ",
+      "category": "business",
+      "publishedAt": "2025-01-26T14:00:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-e5c1976f0eb0",
+      "title": "Bill Gates on His Meeting With Trump, Musk's DOGE, His Childhood",
+      "description": "The billionaire spoke with The Wall Street Journal ahead of his coming book, “Source Code.”",
+      "url": "https://www.wsj.com/articles/bill-gates-on-his-meeting-with-trump-musks-doge-his-childhood-d4a02114?mod=rss_Technology",
+      "image": "assets/images/fallback.svg",
+      "source": "WSJ",
+      "category": "business",
+      "publishedAt": "2025-01-25T00:01:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
     {
       "id": "rss-2aa51124bda5",
       "title": "Wall Street Banks Prepare to Sell Billions of Dollars of X Loans",
@@ -99,6 +159,18 @@
       "trending": false
     },
     {
+      "id": "rss-bdbdff3c9101",
+      "title": "Meta Spending to Soar on AI, Massive Data Center",
+      "description": "The social-media giant plans to spend between $60 billion and $65 billion, the latest sign of tech companies’ accelerating investments into artificial intelligence.",
+      "url": "https://www.wsj.com/articles/meta-spending-ai-facebook-data-centers-9452a88f?mod=rss_Technology",
+      "image": "assets/images/fallback.svg",
+      "source": "WSJ",
+      "category": "business",
+      "publishedAt": "2025-01-24T17:04:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
       "id": "rss-c5f0f383975b",
       "title": "Novo Nordisk Shares Surge on New Obesity Drug Results",
       "description": "Novo Nordisk shares rose sharply after the Danish pharmaceutical giant said an experimental weight-loss shot helped patients lose 22% of their body weight in a clinical trial.",
@@ -179,6 +251,42 @@
       "source": "WSJ Business",
       "category": "business",
       "publishedAt": "2025-01-24T11:11:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-a21ac2818cbe",
+      "title": "Canada to Review Amazon Contracts After Quebec Layoffs",
+      "description": "Canada has warned Amazon.com that it is reviewing business ties with the company’s cloud-computing unit following Amazon’s decision to shut down its warehouses in Quebec, leading to the layoff of 1,70",
+      "url": "https://www.wsj.com/articles/canada-to-review-amazon-contracts-after-quebec-layoffs-d458ea66?mod=rss_Technology",
+      "image": "assets/images/fallback.svg",
+      "source": "WSJ",
+      "category": "business",
+      "publishedAt": "2025-01-24T00:59:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-4b8e45cf38bf",
+      "title": "Nvidia Supplier SK Hynix Posts Record Profit on AI Boom",
+      "description": "The South Korean memory-chip maker reported record quarterly and annual results after stronger-than-expected earnings for the final quarter of 2024 on robust chip demand.",
+      "url": "https://www.wsj.com/articles/sk-hynix-posts-strong-fourth-quarter-net-profit-on-ai-boom-6f32e38b?mod=rss_Technology",
+      "image": "assets/images/fallback.svg",
+      "source": "WSJ",
+      "category": "business",
+      "publishedAt": "2025-01-23T02:04:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-3701d12c0af2",
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "description": "Find insight on Netflix, U.S. advertising spending, AI joint venture Stargate and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "url": "https://www.wsj.com/articles/tech-media-telecom-roundup-market-talk-85899e83?mod=rss_Technology",
+      "image": "assets/images/fallback.svg",
+      "source": "WSJ",
+      "category": "business",
+      "publishedAt": "2025-01-22T21:56:00.000Z",
       "tier": 1,
       "trending": false
     },
