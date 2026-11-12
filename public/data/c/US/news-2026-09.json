@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-09T11:18:25.917Z",
-  "count": 13,
+  "lastUpdated": "2026-11-12T12:31:28.040Z",
+  "count": 14,
   "articles": [
     {
       "id": "rss-d31cdaaeda2b",
@@ -12,6 +12,18 @@
       "category": "science",
       "publishedAt": "2026-09-30T12:00:00.000Z",
       "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-a5d860d02b6a",
+      "title": "What to Learn About Meta’s Muse AI Before It Learns Too Much About You",
+      "description": "",
+      "url": "https://www.cnet.com/tech/services-and-software/metas-muse-mascot-agentic-ai-privacy-violations-security-data/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/AdobeStock_2185933365_Editorial_Use_Only.jpeg",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-09-29T19:35:31.000Z",
+      "tier": 2,
       "trending": false
     },
     {
