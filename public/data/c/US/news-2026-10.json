@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T12:31:28.034Z",
+  "lastUpdated": "2026-11-14T03:02:54.190Z",
   "count": 1824,
   "articles": [
     {
@@ -1751,18 +1751,6 @@
       "source": "TechCrunch",
       "category": "technology",
       "publishedAt": "2026-10-31T01:20:05.000Z",
-      "tier": 1,
-      "trending": false
-    },
-    {
-      "id": "rss-bca0ded18863",
-      "title": "Billboard’s Music Industry Events Calendar",
-      "description": "A complete rundown of the most important events across the music business.",
-      "url": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
-      "image": "assets/images/fallback.svg",
-      "source": "Billboard",
-      "category": "entertainment",
-      "publishedAt": "2026-10-31T01:17:00.000Z",
       "tier": 1,
       "trending": false
     },
@@ -20556,6 +20544,18 @@
       "category": "ai",
       "publishedAt": "2026-10-26T13:00:00.000Z",
       "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-27da9db5e10e",
+      "title": "What Is T-Mix? Navigating T-Mobile’s All-New Phone Plans and Perk Scheme",
+      "description": "",
+      "url": "https://www.cnet.com/tech/mobile/t-mobile-new-t-mix-phone-plans/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/t-mix-cnet-background-2.png",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-10-26T13:00:00.000Z",
+      "tier": 2,
       "trending": false
     },
     {
