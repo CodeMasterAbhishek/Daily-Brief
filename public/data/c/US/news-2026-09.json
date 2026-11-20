@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-18T19:22:09.404Z",
-  "count": 14,
+  "lastUpdated": "2026-11-20T17:58:12.968Z",
+  "count": 15,
   "articles": [
     {
       "id": "rss-d31cdaaeda2b",
@@ -35,6 +35,18 @@
       "source": "Google AI",
       "category": "technology",
       "publishedAt": "2026-09-28T19:00:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-1f74d3aee9ae",
+      "title": "Thanksgiving Recipes for Turkey Alternatives",
+      "description": "Maybe you don’t like turkey, or it’s too expensive, or just not worth the work. We’ve got recipes to get excited about.",
+      "url": "https://cooking.nytimes.com/article/thanksgiving-main-dish-not-turkey",
+      "image": "https://static01.nyt.com/images/2019/11/05/dining/aw-mushroom-wellington/merlin_163633167_473a653a-a909-42e2-94c3-0788f950a163-moth.jpg",
+      "source": "New York Times",
+      "category": "trending",
+      "publishedAt": "2026-09-25T19:52:36.000Z",
       "tier": 1,
       "trending": false
     },
