@@ -53,6 +53,18 @@ test('categoryFromUrl prefers AI paths over generic tech', () => {
         categoryFromUrl('https://www.theverge.com/ai-artificial-intelligence/2026/8/19/openai'),
         'ai'
     );
+    assert.equal(
+        categoryFromUrl('https://example.com/tech/ai/foundation-models'),
+        'ai'
+    );
+    assert.equal(
+        categoryFromUrl('https://example.com/news/genai-enterprise-guide'),
+        'ai'
+    );
+    assert.equal(
+        categoryFromUrl('https://example.com/travel/airlines/delay'),
+        null
+    );
 });
 
 test('only recent tier-1 or homepage stories are trending', () => {

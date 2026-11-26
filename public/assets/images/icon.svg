@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Daily Brief">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#bg)"/>
+  <rect x="24" y="24" width="464" height="464" rx="88" fill="none" stroke="#3b82f6" stroke-opacity="0.35" stroke-width="8"/>
+  <path fill="#ffffff" fill-rule="evenodd" d="M108 148h66c49 0 82 32 82 88s-33 88-82 88h-66V148zm36 32v112h29c30 0 47-20 47-56s-17-56-47-56h-29z"/>
+  <path fill="#ffffff" fill-rule="evenodd" d="M278 148h72c37 0 60 18 60 46 0 18-10 32-27 38 20 6 33 22 33 44 0 30-24 48-64 48h-74V148zm36 30v42h33c18 0 28-8 28-21s-10-21-28-21h-33zm0 70v46h36c20 0 31-9 31-23s-11-23-31-23h-36z"/>
+  <rect x="136" y="360" width="240" height="20" rx="10" fill="#3b82f6"/>
+</svg>

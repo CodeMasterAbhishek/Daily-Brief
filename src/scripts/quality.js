@@ -7,7 +7,7 @@ import { BLOCKED_HOSTS, COUNTRY_DOMAINS, GLOBAL_QUALITY_DOMAINS } from './qualit
 export { BLOCKED_HOSTS, COUNTRY_DOMAINS, GLOBAL_QUALITY_DOMAINS };
 
 export const GLOBAL_QUALITY = [
-    'Reuters', 'Associated Press', 'AP News', 'AP ', 'Agence France-Presse', 'AFP',
+    'Reuters', 'Associated Press', 'AP News', 'AP', 'Agence France-Presse', 'AFP',
     'BBC', 'Al Jazeera', 'Deutsche Welle', 'DW News', 'NHK', 'France 24',
     'The Guardian', 'New York Times', 'NYTimes', 'Washington Post', 'The Economist',
     'Financial Times', 'Bloomberg', 'NPR', 'PBS', 'Sky News', 'ABC News',
@@ -91,7 +91,7 @@ export const COUNTRY_QUALITY = {
     HN: ['La Prensa', 'El Heraldo', 'Criterio.hn'],
     HU: ['Telex', '444.hu', 'HVG', 'MTI'],
     IS: ['RÚV', 'Morgunblaðið', 'Vísir'],
-    IN: ['The Hindu', 'Indian Express', 'NDTV', 'The Wire', 'Scroll.in', 'The Print', 'Mint', 'Business Standard', 'Hindustan Times', 'PTI', 'All India Radio'],
+    IN: ['The Hindu', 'Indian Express', 'NDTV', 'Hindustan Times', 'Livemint', 'Times of India', 'Economic Times', 'The Wire', 'Scroll.in'],
     ID: ['Kompas', 'Tempo', 'The Jakarta Post', 'CNN Indonesia', 'Antara'],
     IR: ['IRNA', 'Tehran Times', 'ISNA'],
     IQ: ['Rudaw', 'Iraqi News Agency', 'The National Iraq'],
@@ -242,11 +242,20 @@ function normalizeHaystack(value) {
 
 export function publisherFromTitle(title) {
     const text = String(title || '').trim();
-    const dash = text.lastIndexOf(' - ');
-    if (dash >= 12 && dash < text.length - 3) {
+    // Match trailing separator followed by publisher name:
+    // Supports ASCII hyphen (-), en-dash (–), em-dash (—), pipe (|), bullet (·)
+    const match = text.match(/^(.*?)\s+[\-–—|·]\s+([^\-–—|·]+)$/);
+    if (match && match[1].length >= 10 && match[2].trim().length >= 2) {
+        let extractedTitle = match[1].trim();
+        const extractedSource = match[2].trim();
+        // Clean double suffixes like '... | Hindustan Times' that was followed by '- Hindustan Times'
+        const secondMatch = extractedTitle.match(/^(.*?)\s+[\-–—|·]\s+([^\-–—|·]+)$/);
+        if (secondMatch && secondMatch[2].trim().toLowerCase() === extractedSource.toLowerCase()) {
+            extractedTitle = secondMatch[1].trim();
+        }
         return {
-            title: text.slice(0, dash).trim(),
-            source: text.slice(dash + 3).trim()
+            title: extractedTitle,
+            source: extractedSource
         };
     }
     return { title: text, source: '' };
@@ -299,11 +308,26 @@ export function isQualityDomain(url, code) {
     return domains.some(domain => host === domain || host.endsWith(`.${domain}`));
 }
 
+function escapeRegex(value) {
+    return String(value).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
 export function isQualityPublisher(source, code, extraNames = []) {
-    const haystack = normalizeHaystack(source);
+    const raw = String(source || '').trim();
+    const haystack = normalizeHaystack(raw);
     if (!haystack) return false;
     const names = [...qualityNamesFor(code), ...extraNames];
-    return names.some(name => haystack.includes(normalizeHaystack(name)));
+    return names.some(name => {
+        const needle = String(name || '').trim();
+        if (!needle) return false;
+        const lowerNeedle = normalizeHaystack(needle);
+        if (haystack === lowerNeedle) return true;
+        if (needle.length <= 4) {
+            const pattern = new RegExp(`(?<![\\p{L}\\p{N}])${escapeRegex(lowerNeedle)}(?![\\p{L}\\p{N}])`, 'iu');
+            return pattern.test(raw);
+        }
+        return haystack.includes(lowerNeedle);
+    });
 }
 
 export function isQualityArticle(article, code, extraQuality = []) {
@@ -315,7 +339,7 @@ export function isRecentArticle(publishedAt, days = 32) {
     const time = new Date(publishedAt || '').getTime();
     if (Number.isNaN(time)) return false;
     const now = Date.now();
-    return time <= now + 36 * 60 * 60 * 1000 && time >= now - days * 24 * 60 * 60 * 1000;
+    return time <= now + 15 * 60 * 1000 && time >= now - days * 24 * 60 * 60 * 1000;
 }
 
 export function filterNewsArticles(articles, code, {

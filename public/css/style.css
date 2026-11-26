@@ -14,8 +14,19 @@
   justify-content: center;
 }
 
-.btn-icon:hover {
+.btn-icon:hover:not(:disabled) {
   background-color: var(--border-color);
+}
+
+.btn-icon:disabled {
+  opacity: 0.35;
+  cursor: default;
+  pointer-events: none;
+}
+
+.btn-icon:focus-visible {
+  outline: 2px solid var(--text-primary);
+  outline-offset: 2px;
 }
 
 .btn-icon svg {
@@ -63,7 +74,6 @@
   line-height: 1;
 }
 
-.country-btn-label,
 #country-btn-label {
   overflow: hidden;
   text-overflow: ellipsis;
@@ -132,6 +142,18 @@
   background: var(--border-color);
 }
 
+.country-menu li button:focus-visible {
+  outline: 2px solid var(--text-primary);
+  outline-offset: -2px;
+}
+
+.country-menu li.country-empty {
+  padding: 12px 10px;
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 0.875rem;
+}
+
 .country-auto {
   width: 100%;
   margin-top: 8px;
@@ -148,6 +170,11 @@
 
 .country-auto:hover {
   background: var(--border-color);
+}
+
+.country-auto:focus-visible {
+  outline: 2px solid var(--text-primary);
+  outline-offset: 2px;
 }
 
 .archive-control {
@@ -306,6 +333,11 @@
   background: var(--border-color);
 }
 
+.archive-cal-latest:focus-visible {
+  outline: 2px solid var(--text-primary);
+  outline-offset: 2px;
+}
+
 /* Category Filters (Inside Header) */
 .filters {
   display: flex;
@@ -319,8 +351,10 @@
 }
 
 @media (min-width: 769px) {
-  .filters {
-    justify-content: center;
+  .filters::before,
+  .filters::after {
+    content: '';
+    margin: auto;
   }
 }
 
@@ -344,6 +378,11 @@
 .chip:hover {
   background: var(--border-color);
   color: var(--text-primary);
+}
+
+.chip:focus-visible {
+  outline: 2px solid var(--text-primary);
+  outline-offset: 2px;
 }
 
 .chip.active {
@@ -482,16 +521,28 @@
   cursor: pointer;
   z-index: 10;
   transition: all var(--transition-fast);
-  opacity: 0; /* Hidden by default, show on hover */
+  opacity: 0;
 }
 
-.hero-slider:hover .hero-nav-btn {
+.hero-slider:hover .hero-nav-btn,
+.hero-slider:focus-within .hero-nav-btn {
   opacity: 1;
+}
+
+@media (hover: none) {
+  .hero-nav-btn {
+    opacity: 0.85;
+  }
 }
 
 .hero-nav-btn:hover {
   background: rgba(0, 0, 0, 0.7);
   transform: translateY(-50%) scale(1.05);
+}
+
+.hero-nav-btn:focus-visible {
+  outline: 2px solid #FFFFFF;
+  outline-offset: 2px;
 }
 
 .hero-nav-btn.prev {
@@ -532,27 +583,65 @@
   background: rgba(255, 255, 255, 0.6);
 }
 
+.hero-dot:focus-visible {
+  outline: 2px solid #FFFFFF;
+  outline-offset: 3px;
+}
+
 .hero-dot.active {
   background: #FFFFFF;
   box-shadow: 0 0 8px rgba(255,255,255,0.5);
 }
 
 @media (max-width: 768px) {
+  .country-btn {
+    max-width: 8.5rem;
+    padding: 5px 10px;
+    font-size: 0.82rem;
+    min-height: 32px;
+  }
+  .archive-date-btn {
+    min-width: 4.75rem;
+    padding: 5px 10px;
+    font-size: 0.82rem;
+    min-height: 32px;
+  }
+  .archive-control {
+    padding-right: 0;
+  }
   .hero-slider {
     aspect-ratio: 16 / 9;
+    min-height: 240px;
   }
   .hero-content {
-    padding: var(--space-xl);
-    padding-bottom: calc(var(--space-xl) + 20px);
+    padding: var(--space-md);
+    padding-bottom: calc(var(--space-md) + 22px);
+  }
+  .hero-meta {
+    gap: var(--space-sm);
+    font-size: 0.75rem;
+    margin-bottom: var(--space-xs);
+    flex-wrap: wrap;
+  }
+  .hero-title {
+    font-size: clamp(1.15rem, 4.5vw, 1.5rem);
+  }
+  .hero-desc {
+    font-size: 0.9rem;
+    -webkit-line-clamp: 2;
   }
   .hero-nav {
-    right: var(--space-xl);
-    bottom: var(--space-md);
+    right: var(--space-md);
+    bottom: var(--space-sm);
+  }
+  .hero-dot {
+    width: 22px;
   }
 }
 
 /* Premium News Cards (Grid) */
 .card {
+  position: relative;
   background: var(--bg-secondary);
   border-radius: var(--radius-xl);
   overflow: hidden;
@@ -706,4 +795,20 @@
 }
 .chip.dragging {
   cursor: grabbing;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .hero-slide.active .hero-img,
+  .card:hover .card-img,
+  .card:hover {
+    transform: none;
+  }
 }

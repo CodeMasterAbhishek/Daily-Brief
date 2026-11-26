@@ -1,12 +1,13 @@
 ---
-description: After every completed update, commit and push to GitHub.
-alwaysApply: true
+description: Verify changes with tests and present diffs for review before committing or pushing.
+alwaysApply: false
 ---
 
-# Push after every update
+# Review before committing or pushing
 
 When a feature, fix, or polish slice is finished:
 
-1. Commit the relevant files with a concise message focused on why.
-2. Push to `origin` on the current branch. Do not force-push `main`.
-3. Do this without waiting to be asked again.
+1. Run the test suite (`npm test`) and relevant syntax or static checks to verify all changes pass.
+2. Review `git status` and `git diff` to confirm only intended files are modified and no scratch or ignored data files (`public/data/c/*` outside `US`, `.env`, logs) are staged.
+3. Present a concise summary of the changes and diffs to the user for review rather than automatically committing or pushing directly to `main`.
+4. Only commit and push when explicitly asked, and never force-push `main`.

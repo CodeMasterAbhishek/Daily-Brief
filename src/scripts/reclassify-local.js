@@ -1,75 +1,63 @@
 import fs from 'fs';
 import path from 'path';
-import { fileURLToPath } from 'url';
-import { applyFeedPolicy } from './classify-article.js';
+import {
+    COUNTRIES_FILE,
+    FEEDS_FILE,
+    countryDir,
+    googleNewsFeeds,
+    uniqueArticles,
+    writeCountry
+} from './rss-core.js';
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const DATA_DIR = path.join(__dirname, '../../public/data/c/US');
-const FEEDS_FILE = path.join(__dirname, '../../public/data/rss-feeds.json');
-const METADATA_FILE = path.join(DATA_DIR, 'metadata.json');
+const SHARD_FILE_RE = /^news-\d{4}-\d{2}\.json$/;
 
-const extraByCountry = JSON.parse(fs.readFileSync(FEEDS_FILE, 'utf-8'));
-const feeds = extraByCountry.US || [];
-const feedBySource = new Map(feeds.map(feed => [feed.source, feed]));
-const allowedSources = new Set(feeds.map(feed => feed.source));
-
-const chunkFiles = fs.readdirSync(DATA_DIR).filter(name => name.startsWith('news-') && name.endsWith('.json'));
-const chunks = {};
-
-for (const fileName of chunkFiles) {
-    const filePath = path.join(DATA_DIR, fileName);
-    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    const articles = (data.articles || [])
-        .filter(article => allowedSources.has(article.source))
-        .map(article => applyFeedPolicy(article, feedBySource.get(article.source)));
-    chunks[fileName.replace(/\.json$/, '')] = articles;
+function selectCountries(allCountries) {
+    const requested = String(process.env.FETCH_COUNTRIES || 'US')
+        .split(',')
+        .map(value => value.trim().toUpperCase())
+        .filter(Boolean);
+    if (requested.includes('ALL')) return allCountries;
+    return allCountries.filter(country => requested.includes(country.code));
 }
 
-const allArticles = Object.values(chunks).flat().sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-const seenTitles = new Set();
-const seenUrls = new Set();
-const unique = [];
-for (const article of allArticles) {
-    const title = (article.title || '').toLowerCase().trim();
-    const url = (article.url || '').toLowerCase().trim();
-    if (!title || !url || seenTitles.has(title) || seenUrls.has(url)) continue;
-    seenTitles.add(title);
-    seenUrls.add(url);
-    unique.push(article);
+function reclassifyCountry(country, extraFeeds) {
+    const dir = countryDir(country.code);
+    if (!fs.existsSync(dir)) return 0;
+
+    const chunkFiles = fs.readdirSync(dir).filter(name => SHARD_FILE_RE.test(name));
+    if (!chunkFiles.length) return 0;
+
+    const loaded = [];
+    for (const fileName of chunkFiles) {
+        const data = JSON.parse(fs.readFileSync(path.join(dir, fileName), 'utf8'));
+        for (const article of data.articles || []) {
+            loaded.push(article);
+        }
+    }
+
+    const feedBySource = new Map([
+        ...googleNewsFeeds(country).map(feed => [feed.source, feed]),
+        ...extraFeeds.map(feed => [feed.source, feed])
+    ]);
+    const unique = uniqueArticles(loaded, feedBySource);
+    writeCountry(country.code, unique, [], { replaceShards: true });
+
+    const byCategory = Object.create(null);
+    for (const article of unique) {
+        byCategory[article.category] = (byCategory[article.category] || 0) + 1;
+    }
+    console.log(`${country.code}: kept ${unique.length} articles after reclassifying.`);
+    console.log(byCategory);
+    return unique.length;
 }
 
-const byMonth = {};
-for (const article of unique) {
-    const key = `news-${article.publishedAt.substring(0, 7)}`;
-    if (!byMonth[key]) byMonth[key] = [];
-    byMonth[key].push(article);
+function run() {
+    const countries = JSON.parse(fs.readFileSync(COUNTRIES_FILE, 'utf8'));
+    const extraByCountry = JSON.parse(fs.readFileSync(FEEDS_FILE, 'utf8'));
+    const selected = selectCountries(countries);
+    for (const country of selected) {
+        reclassifyCountry(country, extraByCountry[country.code] || []);
+    }
 }
 
-for (const fileName of chunkFiles) {
-    const key = fileName.replace(/\.json$/, '');
-    if (!byMonth[key]) fs.unlinkSync(path.join(DATA_DIR, fileName));
-}
-
-const chunkNames = Object.keys(byMonth).sort().reverse();
-for (const chunkName of chunkNames) {
-    fs.writeFileSync(path.join(DATA_DIR, `${chunkName}.json`), JSON.stringify({
-        lastUpdated: new Date().toISOString(),
-        count: byMonth[chunkName].length,
-        articles: byMonth[chunkName]
-    }, null, 2));
-}
-
-fs.writeFileSync(METADATA_FILE, JSON.stringify({
-    latest: chunkNames[0] || null,
-    chunks: chunkNames,
-    totalArticles: unique.length,
-    country: 'US'
-}, null, 2));
-
-const byCategory = {};
-for (const article of unique) {
-    byCategory[article.category] = (byCategory[article.category] || 0) + 1;
-}
-console.log(`Kept ${unique.length} articles after dropping removed publishers and reclassifying.`);
-console.log(byCategory);
+run();

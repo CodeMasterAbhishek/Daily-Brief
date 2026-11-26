@@ -4,7 +4,7 @@
   "description": "Static News Aggregator",
   "type": "module",
   "scripts": {
-    "start": "npx --yes serve public",
+    "start": "node src/scripts/serve-public.js",
     "fetch-rss": "node src/scripts/fetch-rss.js",
     "backfill-month": "node src/scripts/backfill-month.js",
     "densify-month": "node src/scripts/densify-month.js",
@@ -12,7 +12,7 @@
     "upload-r2": "node src/scripts/upload-r2.js",
     "reclassify": "node src/scripts/reclassify-local.js",
     "upgrade-images": "node src/scripts/upgrade-images.js",
-    "test": "node --test src/scripts/classify-article.test.js src/scripts/quality.test.js"
+    "test": "node --test src/scripts/*.test.js"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

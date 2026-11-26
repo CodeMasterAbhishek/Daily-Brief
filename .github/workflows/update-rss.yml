@@ -7,32 +7,30 @@ on:
   workflow_dispatch: # Allow manual trigger
 
 concurrency:
-  group: github-pages
-  cancel-in-progress: false
+  group: update-rss-r2
+  cancel-in-progress: true
+
+permissions:
+  contents: read
 
 jobs:
   update-rss:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    permissions:
-      contents: write   # commit the news archive back to git
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
-          fetch-depth: 0
+          persist-credentials: false
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
         with:
           node-version: '22'
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci --ignore-scripts
 
       - name: Run RSS Fetch Script
         env:
@@ -42,31 +40,3 @@ jobs:
           R2_BUCKET: ${{ secrets.R2_BUCKET }}
           R2_PUBLIC_URL: ${{ secrets.R2_PUBLIC_URL }}
         run: npm run fetch-rss
-
-      - name: Commit news archive
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/c/US public/data/storage.json public/index.html
-          if git diff --cached --quiet; then
-            echo "No news changes to commit"
-          else
-            git commit -m "Update news archive from RSS"
-            git pull --rebase origin main
-            git push
-          fi
-
-      - name: Drop non-US country files from Pages artifact
-        run: find public/data/c -mindepth 1 -maxdepth 1 ! -name US -exec rm -rf {} +
-
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: './public'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4

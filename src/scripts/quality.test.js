@@ -3,7 +3,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { COUNTRY_QUALITY, COUNTRY_DOMAINS, isPromoArticle, isQualityPublisher, isQualityArticle, isBlockedHost, isRecentArticle, filterNewsArticles, publisherFromTitle, qualitySearchNames } from './quality.js';
+import { COUNTRY_QUALITY, COUNTRY_DOMAINS, GLOBAL_QUALITY, isPromoArticle, isQualityPublisher, isQualityArticle, isBlockedHost, isRecentArticle, filterNewsArticles, publisherFromTitle, qualitySearchNames } from './quality.js';
+import { matchPublisherDomain } from './export-publishers.js';
 import { weekWindows } from './rss-core.js';
 
 test('drops coupon and percent-off shopping posts', () => {
@@ -23,6 +24,14 @@ test('splits Google News "title - outlet" into publisher', () => {
     const parsed = publisherFromTitle('Cyclone eases after lashing India coast - Reuters');
     assert.equal(parsed.source, 'Reuters');
     assert.equal(parsed.title.startsWith('Cyclone eases'), true);
+
+    const parsedEnDash = publisherFromTitle('Astronomers redefine star cluster in a new study – The Hindu');
+    assert.equal(parsedEnDash.source, 'The Hindu');
+    assert.equal(parsedEnDash.title, 'Astronomers redefine star cluster in a new study');
+
+    const parsedPipe = publisherFromTitle('Major Cricket Victory in Series Decider | Cricinfo');
+    assert.equal(parsedPipe.source, 'Cricinfo');
+    assert.equal(parsedPipe.title, 'Major Cricket Victory in Series Decider');
 });
 
 test('quality search names drop short tokens and keep local outlets first', () => {
@@ -94,5 +103,30 @@ test('marks known outlet domains as quality even without a source name', () => {
 test('recent-window helper keeps last month and drops decade-old dates', () => {
     assert.equal(isRecentArticle(new Date().toISOString(), 32), true);
     assert.equal(isRecentArticle('2016-05-30T00:00:00.000Z', 32), false);
+    assert.equal(isRecentArticle(new Date(Date.now() + 10 * 60 * 1000).toISOString(), 32), true);
+    assert.equal(isRecentArticle(new Date(Date.now() + 30 * 60 * 1000).toISOString(), 32), false);
     assert.ok(weekWindows(32, 7).length >= 4);
+});
+
+test('short quality tokens use boundary matching and AP has no trailing space', () => {
+    assert.equal(GLOBAL_QUALITY.includes('AP'), true);
+    assert.equal(GLOBAL_QUALITY.includes('AP '), false);
+    assert.equal(isQualityPublisher('AP', 'US'), true);
+    assert.equal(isQualityPublisher('AP News', 'US'), true);
+    assert.equal(isQualityPublisher('Associated Press (AP)', 'US'), true);
+    assert.equal(isQualityPublisher('AppleInsider', 'US'), false);
+    assert.equal(isQualityPublisher('Crap Blog', 'US'), false);
+    assert.equal(isQualityPublisher('Android Police', 'DK'), false);
+    assert.equal(isQualityPublisher('DR Nyheder', 'DK'), true);
+    assert.equal(isQualityPublisher('RTÉ News', 'IE'), true);
+    assert.equal(isQualityPublisher('ESPN1', 'RS'), false);
+});
+
+test('publisher-to-domain matcher pairs names accurately without blind fallbacks', () => {
+    assert.equal(matchPublisherDomain('Wall Street Journal', COUNTRY_DOMAINS.US), 'wsj.com');
+    assert.equal(matchPublisherDomain('TechCrunch', COUNTRY_DOMAINS.US), null);
+    assert.equal(matchPublisherDomain('Associated Press', COUNTRY_DOMAINS.US), 'apnews.com');
+    assert.equal(matchPublisherDomain('Süddeutsche Zeitung', COUNTRY_DOMAINS.DE), 'sueddeutsche.de');
+    assert.equal(matchPublisherDomain('France Télévisions', COUNTRY_DOMAINS.FR), 'francetvinfo.fr');
+    assert.notEqual(matchPublisherDomain('France Télévisions', COUNTRY_DOMAINS.FR), 'ft.com');
 });

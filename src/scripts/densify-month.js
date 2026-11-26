@@ -10,7 +10,9 @@ import {
     googleNewsWeekFallbackFeed,
     weekWindows,
     fetchFeedArticles,
-    mergeAndSave
+    mergeAndSave,
+    writeJsonAtomic,
+    mapPool
 } from './rss-core.js';
 import { filterNewsArticles, qualityDomainsFor } from './quality.js';
 import { writeQualityPublishers } from './export-publishers.js';
@@ -34,22 +36,12 @@ function loadStatus() {
 }
 
 function saveStatus(status) {
-    fs.writeFileSync(STATUS_FILE, JSON.stringify(status, null, 2));
-}
-
-async function mapPool(items, limit, worker) {
-    const pending = [...items];
-    const runners = Array.from({ length: Math.min(limit, items.length) }, async () => {
-        while (pending.length) {
-            const item = pending.shift();
-            await worker(item);
-        }
-    });
-    await Promise.all(runners);
+    writeJsonAtomic(STATUS_FILE, status);
 }
 
 async function densifyCountry(country, extraFeeds, windows) {
-    const extraQuality = extraFeeds.map(feed => feed.source);
+    const taggedExtras = (extraFeeds || []).map(feed => ({ ...feed, country: country.code }));
+    const extraQuality = taggedExtras.map(feed => feed.source);
     const incoming = [];
     const domains = qualityDomainsFor(country.code, DOMAIN_LIMIT);
 
@@ -75,7 +67,7 @@ async function densifyCountry(country, extraFeeds, windows) {
         }));
     }
 
-    const live = await Promise.all(googleNewsFeeds(country).map(fetchFeedArticles));
+    const live = await mapPool(googleNewsFeeds(country), 4, fetchFeedArticles);
     incoming.push(...filterNewsArticles(live.flat(), country.code, {
         extraQuality,
         minKeep: 8,
@@ -83,8 +75,8 @@ async function densifyCountry(country, extraFeeds, windows) {
         windowDays: DAYS
     }));
 
-    if (extraFeeds.length) {
-        const extras = await Promise.all(extraFeeds.map(fetchFeedArticles));
+    if (taggedExtras.length) {
+        const extras = await mapPool(taggedExtras, 4, fetchFeedArticles);
         incoming.push(...filterNewsArticles(extras.flat(), country.code, {
             extraQuality,
             minKeep: 0,
@@ -94,7 +86,7 @@ async function densifyCountry(country, extraFeeds, windows) {
     }
 
     const prune = country.code !== 'US';
-    const { unique, metadata } = await mergeAndSave(country, extraFeeds, incoming, {
+    const { unique, metadata } = await mergeAndSave(country, taggedExtras, incoming, {
         remote: false,
         upload: false,
         windowDays: prune ? DAYS : 0,
@@ -112,12 +104,14 @@ async function densifyCountry(country, extraFeeds, windows) {
 async function run() {
     loadDotEnv();
     const countries = JSON.parse(fs.readFileSync(COUNTRIES_FILE, 'utf8'));
-    writeQualityPublishers(countries);
     const extraByCountry = JSON.parse(fs.readFileSync(FEEDS_FILE, 'utf8'));
     const requested = String(process.env.FETCH_COUNTRIES || '')
         .split(',')
         .map(value => value.trim().toUpperCase())
         .filter(Boolean);
+    if (!requested.length) {
+        writeQualityPublishers(countries);
+    }
     const selected = requested.length
         ? countries.filter(country => requested.includes(country.code))
         : countries;
@@ -133,7 +127,7 @@ async function run() {
                 extraByCountry[country.code] || [],
                 windows
             );
-            status.done.push(country.code);
+            if (!status.done.includes(country.code)) status.done.push(country.code);
             status.counts = status.counts || {};
             status.days = status.days || {};
             status.counts[country.code] = kept;

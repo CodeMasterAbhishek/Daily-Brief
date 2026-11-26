@@ -1,7 +1,7 @@
 const CATEGORIES = ['ai', 'technology', 'science', 'health', 'politics', 'business', 'entertainment', 'sports', 'gaming', 'trending'];
 
 const PATH_RULES = [
-    { category: 'ai', patterns: [/\/artificial-intelligence\b/, /\/machine-learning\b/, /\/ml\//, /\/llm\b/, /\/chatgpt\b/, /\/openai\b/, /\/ai-artificial-intelligence\b/, /\/category\/ai\b/, /\/tag\/ai\b/, /\/cs\.ai\b/] },
+    { category: 'ai', patterns: [/\/artificial-intelligence\b/, /\/machine-learning\b/, /\/ml\//, /\/llm\b/, /\/chatgpt\b/, /\/openai\b/, /\/ai-artificial-intelligence\b/, /\/category\/ai\b/, /\/tag\/ai\b/, /\/cs\.ai\b/, /\/ai\//, /\/genai\b/] },
     { category: 'gaming', patterns: [/\/games\//, /\/gaming\//, /\/videogames\b/, /\/xbox\b/, /\/playstation\b/, /\/nintendo\b/] },
     { category: 'sports', patterns: [/\/sport\//, /\/sports\//, /\/nfl\b/, /\/nba\b/, /\/mlb\b/, /\/cricket\b/, /\/soccer\b/, /\/football\b/, /\/tennis\b/, /\/wnba\b/] },
     { category: 'health', patterns: [/\/health\b/, /\/wellbeing\b/, /\/wellness\b/, /\/medicine\b/, /\/fitness\b/, /\/nutrition\b/] },

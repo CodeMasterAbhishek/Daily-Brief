@@ -116,13 +116,30 @@ footer {
 }
 
 @media (max-width: 768px) {
+  header {
+    padding: var(--space-sm) 0;
+  }
+  .header-content {
+    gap: var(--space-sm);
+  }
+  .logo {
+    font-size: 1.25rem;
+  }
+  nav {
+    gap: var(--space-xs);
+  }
   .filters {
     margin-top: 0;
   }
   .container {
+    max-width: 100%;
     padding: 0 var(--space-md);
+  }
+  main {
+    padding: var(--space-lg) 0;
   }
   .news-grid {
     grid-template-columns: 1fr;
+    gap: var(--space-lg);
   }
 }

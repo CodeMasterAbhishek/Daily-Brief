@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T06:55:18.902Z",
+  "generatedAt": "2026-11-26T16:32:48.321Z",
   "policy": "National prestige outlets first; Reuters/AP/BBC/AFP as global fallback. Shopping, coupons, social, and affiliate URLs are dropped.",
   "global": {
     "names": [
       "Reuters",
       "Associated Press",
       "AP News",
-      "AP ",
+      "AP",
       "Agence France-Presse",
       "AFP",
       "BBC",
@@ -112,7 +112,7 @@
       "publishers": [
         {
           "name": "Diari d’Andorra",
-          "domain": "diariandorra.ad"
+          "domain": null
         },
         {
           "name": "Bondia",
@@ -144,7 +144,7 @@
         },
         {
           "name": "The Daily Observer",
-          "domain": "antiguaobserver.com"
+          "domain": null
         }
       ]
     },
@@ -170,7 +170,7 @@
         },
         {
           "name": "Telam",
-          "domain": "lanacion.com.ar"
+          "domain": null
         }
       ]
     },
@@ -202,23 +202,23 @@
         },
         {
           "name": "ABC News",
-          "domain": "smh.com.au"
+          "domain": "abc.net.au"
         },
         {
           "name": "Sydney Morning Herald",
-          "domain": "theage.com.au"
+          "domain": "smh.com.au"
         },
         {
           "name": "The Age",
-          "domain": "theaustralian.com.au"
+          "domain": "theage.com.au"
         },
         {
           "name": "The Australian",
-          "domain": "sbs.com.au"
+          "domain": "theaustralian.com.au"
         },
         {
           "name": "SBS",
-          "domain": "abc.net.au"
+          "domain": "sbs.com.au"
         }
       ]
     },
@@ -272,7 +272,7 @@
         },
         {
           "name": "The Tribune",
-          "domain": "tribune242.com"
+          "domain": null
         }
       ]
     },
@@ -340,11 +340,11 @@
         },
         {
           "name": "Tut.by",
-          "domain": "belta.by"
+          "domain": null
         },
         {
           "name": "BelTA",
-          "domain": "belsat.eu"
+          "domain": "belta.by"
         }
       ]
     },
@@ -398,7 +398,7 @@
         },
         {
           "name": "24 Heures au Bénin",
-          "domain": "24haubenin.info"
+          "domain": null
         }
       ]
     },
@@ -430,7 +430,7 @@
         },
         {
           "name": "Página Siete",
-          "domain": "la-razon.com"
+          "domain": null
         }
       ]
     },
@@ -444,7 +444,7 @@
         },
         {
           "name": "N1",
-          "domain": "n1info.ba"
+          "domain": null
         },
         {
           "name": "Klix",
@@ -492,7 +492,7 @@
         },
         {
           "name": "Agência Brasil",
-          "domain": "folha.uol.com.br"
+          "domain": null
         }
       ]
     },
@@ -556,7 +556,7 @@
         },
         {
           "name": "ABP",
-          "domain": "iwacu-burundi.org"
+          "domain": null
         }
       ]
     },
@@ -642,7 +642,7 @@
       "publishers": [
         {
           "name": "RJDH",
-          "domain": "radiondekeluka.org"
+          "domain": null
         },
         {
           "name": "Radio Ndeke Luka",
@@ -670,7 +670,7 @@
       "publishers": [
         {
           "name": "El Mercurio",
-          "domain": "emol.com"
+          "domain": null
         },
         {
           "name": "La Tercera",
@@ -704,15 +704,15 @@
         },
         {
           "name": "SCMP",
-          "domain": "cgtn.com"
+          "domain": "scmp.com"
         },
         {
           "name": "CGTN",
-          "domain": "xinhuanet.com"
+          "domain": "cgtn.com"
         },
         {
           "name": "People’s Daily",
-          "domain": "xinhuanet.com"
+          "domain": null
         }
       ]
     },
@@ -748,7 +748,7 @@
         },
         {
           "name": "La Gazette des Comores",
-          "domain": "alwatwan.net"
+          "domain": null
         }
       ]
     },
@@ -758,7 +758,7 @@
       "publishers": [
         {
           "name": "Les Dépêches de Brazzaville",
-          "domain": "adiac-congo.com"
+          "domain": null
         },
         {
           "name": "ADIAC",
@@ -790,7 +790,7 @@
       "publishers": [
         {
           "name": "Fraternité Matin",
-          "domain": "fratmat.info"
+          "domain": null
         },
         {
           "name": "Abidjan.net",
@@ -798,7 +798,7 @@
         },
         {
           "name": "APA",
-          "domain": "fratmat.info"
+          "domain": null
         }
       ]
     },
@@ -856,7 +856,7 @@
         },
         {
           "name": "In-Cyprus",
-          "domain": "cyprus-mail.com"
+          "domain": null
         }
       ]
     },
@@ -866,23 +866,23 @@
       "publishers": [
         {
           "name": "Czech Radio",
-          "domain": "irozhlas.cz"
+          "domain": null
         },
         {
           "name": "iROZHLAS",
-          "domain": "ihned.cz"
+          "domain": "irozhlas.cz"
         },
         {
           "name": "Hospodářské noviny",
-          "domain": "respekt.cz"
+          "domain": null
         },
         {
           "name": "Respekt",
-          "domain": "ctk.cz"
+          "domain": "respekt.cz"
         },
         {
           "name": "CTK",
-          "domain": "irozhlas.cz"
+          "domain": "ctk.cz"
         }
       ]
     },
@@ -932,7 +932,7 @@
         },
         {
           "name": "ADI",
-          "domain": "lanation.dj"
+          "domain": null
         }
       ]
     },
@@ -946,7 +946,7 @@
         },
         {
           "name": "The Sun",
-          "domain": "dominicanewsonline.com"
+          "domain": null
         }
       ]
     },
@@ -1000,11 +1000,11 @@
         },
         {
           "name": "Ahram Online",
-          "domain": "egyptindependent.com"
+          "domain": "ahram.org.eg"
         },
         {
           "name": "Egypt Independent",
-          "domain": "ahram.org.eg"
+          "domain": "egyptindependent.com"
         }
       ]
     },
@@ -1022,7 +1022,7 @@
         },
         {
           "name": "El Diario de Hoy",
-          "domain": "elsalvador.com"
+          "domain": null
         }
       ]
     },
@@ -1036,7 +1036,7 @@
         },
         {
           "name": "AhoraEG",
-          "domain": "guineaecuatorialpress.com"
+          "domain": null
         }
       ]
     },
@@ -1050,7 +1050,7 @@
         },
         {
           "name": "Eritrea Profile",
-          "domain": "shabait.com"
+          "domain": null
         }
       ]
     },
@@ -1068,7 +1068,7 @@
         },
         {
           "name": "Eesti Päevaleht",
-          "domain": "epl.ee"
+          "domain": null
         }
       ]
     },
@@ -1078,11 +1078,11 @@
       "publishers": [
         {
           "name": "Times of Eswatini",
-          "domain": "times.co.sz"
+          "domain": null
         },
         {
           "name": "Eswatini Observer",
-          "domain": "times.co.sz"
+          "domain": null
         }
       ]
     },
@@ -1096,11 +1096,11 @@
         },
         {
           "name": "The Ethiopian Herald",
-          "domain": "ena.et"
+          "domain": null
         },
         {
           "name": "ENA",
-          "domain": "addisstandard.com"
+          "domain": "ena.et"
         }
       ]
     },
@@ -1158,15 +1158,15 @@
         },
         {
           "name": "AFP",
-          "domain": "mediapart.fr"
+          "domain": "afp.com"
         },
         {
           "name": "Mediapart",
-          "domain": "lemonde.fr"
+          "domain": "mediapart.fr"
         },
         {
           "name": "France Info",
-          "domain": "lemonde.fr"
+          "domain": "francetvinfo.fr"
         }
       ]
     },
@@ -1180,7 +1180,7 @@
         },
         {
           "name": "L’Union",
-          "domain": "gabonreview.com"
+          "domain": null
         }
       ]
     },
@@ -1194,7 +1194,7 @@
         },
         {
           "name": "The Standard",
-          "domain": "thepoint.gm"
+          "domain": null
         }
       ]
     },
@@ -1234,23 +1234,23 @@
         },
         {
           "name": "Frankfurter Allgemeine",
-          "domain": "faz.net"
+          "domain": null
         },
         {
           "name": "ARTE",
-          "domain": "tagesschau.de"
+          "domain": null
         },
         {
           "name": "Tagesschau",
-          "domain": "zdf.de"
+          "domain": "tagesschau.de"
         },
         {
           "name": "ZDF",
-          "domain": "dw.com"
+          "domain": "zdf.de"
         },
         {
           "name": "DW",
-          "domain": "spiegel.de"
+          "domain": "dw.com"
         }
       ]
     },
@@ -1264,7 +1264,7 @@
         },
         {
           "name": "JoyNews",
-          "domain": "myjoyonline.com"
+          "domain": null
         },
         {
           "name": "GhanaWeb",
@@ -1308,7 +1308,7 @@
         },
         {
           "name": "The New Today",
-          "domain": "nowgrenada.com"
+          "domain": null
         }
       ]
     },
@@ -1322,11 +1322,11 @@
         },
         {
           "name": "elPeriódico",
-          "domain": "plazapublica.com.gt"
+          "domain": null
         },
         {
           "name": "Plaza Pública",
-          "domain": "prensalibre.com"
+          "domain": "plazapublica.com.gt"
         }
       ]
     },
@@ -1354,7 +1354,7 @@
         },
         {
           "name": "ANG",
-          "domain": "odemocratagb.com"
+          "domain": null
         }
       ]
     },
@@ -1426,7 +1426,7 @@
         },
         {
           "name": "MTI",
-          "domain": "telex.hu"
+          "domain": null
         }
       ]
     },
@@ -1440,7 +1440,7 @@
         },
         {
           "name": "Morgunblaðið",
-          "domain": "mbl.is"
+          "domain": null
         },
         {
           "name": "Vísir",
@@ -1465,36 +1465,28 @@
           "domain": "ndtv.com"
         },
         {
+          "name": "Hindustan Times",
+          "domain": "hindustantimes.com"
+        },
+        {
+          "name": "Livemint",
+          "domain": "livemint.com"
+        },
+        {
+          "name": "Times of India",
+          "domain": null
+        },
+        {
+          "name": "Economic Times",
+          "domain": null
+        },
+        {
           "name": "The Wire",
           "domain": "thewire.in"
         },
         {
           "name": "Scroll.in",
           "domain": "scroll.in"
-        },
-        {
-          "name": "The Print",
-          "domain": "theprint.in"
-        },
-        {
-          "name": "Mint",
-          "domain": "livemint.com"
-        },
-        {
-          "name": "Business Standard",
-          "domain": "business-standard.com"
-        },
-        {
-          "name": "Hindustan Times",
-          "domain": "hindustantimes.com"
-        },
-        {
-          "name": "PTI",
-          "domain": "thehindu.com"
-        },
-        {
-          "name": "All India Radio",
-          "domain": "thehindu.com"
         }
       ]
     },
@@ -1556,7 +1548,7 @@
         },
         {
           "name": "The National Iraq",
-          "domain": "rudaw.net"
+          "domain": null
         }
       ]
     },
@@ -1574,7 +1566,7 @@
         },
         {
           "name": "Irish Independent",
-          "domain": "independent.ie"
+          "domain": null
         },
         {
           "name": "The Journal",
@@ -1640,7 +1632,7 @@
       "publishers": [
         {
           "name": "The Gleaner",
-          "domain": "jamaica-gleaner.com"
+          "domain": null
         },
         {
           "name": "Jamaica Observer",
@@ -1648,7 +1640,7 @@
         },
         {
           "name": "Radio Jamaica",
-          "domain": "jamaica-gleaner.com"
+          "domain": null
         }
       ]
     },
@@ -1674,11 +1666,11 @@
         },
         {
           "name": "Kyodo",
-          "domain": "nikkei.com"
+          "domain": null
         },
         {
           "name": "Nikkei",
-          "domain": "nhk.or.jp"
+          "domain": "nikkei.com"
         }
       ]
     },
@@ -1724,11 +1716,11 @@
       "publishers": [
         {
           "name": "Daily Nation",
-          "domain": "nation.africa"
+          "domain": null
         },
         {
           "name": "The Standard",
-          "domain": "standardmedia.co.ke"
+          "domain": null
         },
         {
           "name": "Citizen Digital",
@@ -1746,7 +1738,7 @@
       "publishers": [
         {
           "name": "Kiribati News",
-          "domain": "rnz.co.nz"
+          "domain": null
         },
         {
           "name": "RNZ Pacific",
@@ -1800,7 +1792,7 @@
         },
         {
           "name": "KPL",
-          "domain": "vientianetimes.com.la"
+          "domain": null
         }
       ]
     },
@@ -1818,7 +1810,7 @@
         },
         {
           "name": "Latvijas Avīze",
-          "domain": "lsm.lv"
+          "domain": null
         }
       ]
     },
@@ -1832,15 +1824,15 @@
         },
         {
           "name": "The Daily Star",
-          "domain": "naharnet.com"
+          "domain": null
         },
         {
           "name": "Annahar",
-          "domain": "lorientlejour.com"
+          "domain": null
         },
         {
           "name": "Naharnet",
-          "domain": "lorientlejour.com"
+          "domain": "naharnet.com"
         }
       ]
     },
@@ -1850,11 +1842,11 @@
       "publishers": [
         {
           "name": "Lesotho Times",
-          "domain": "lestimes.com"
+          "domain": null
         },
         {
           "name": "Sunday Express",
-          "domain": "lestimes.com"
+          "domain": null
         }
       ]
     },
@@ -1868,7 +1860,7 @@
         },
         {
           "name": "Daily Observer",
-          "domain": "liberianobserver.com"
+          "domain": null
         }
       ]
     },
@@ -1882,7 +1874,7 @@
         },
         {
           "name": "LANA",
-          "domain": "libyaherald.com"
+          "domain": null
         }
       ]
     },
@@ -1892,7 +1884,7 @@
       "publishers": [
         {
           "name": "Liechtensteiner Vaterland",
-          "domain": "vaterland.li"
+          "domain": null
         },
         {
           "name": "Volksblatt",
@@ -1924,7 +1916,7 @@
       "publishers": [
         {
           "name": "Luxemburger Wort",
-          "domain": "wort.lu"
+          "domain": null
         },
         {
           "name": "RTL Luxembourg",
@@ -1956,7 +1948,7 @@
       "publishers": [
         {
           "name": "The Nation Malawi",
-          "domain": "mwnation.com"
+          "domain": null
         },
         {
           "name": "Nyasa Times",
@@ -1964,7 +1956,7 @@
         },
         {
           "name": "Times Malawi",
-          "domain": "times.mw"
+          "domain": null
         }
       ]
     },
@@ -2014,7 +2006,7 @@
       "publishers": [
         {
           "name": "L’Essor",
-          "domain": "studiotamani.org"
+          "domain": null
         },
         {
           "name": "Studio Tamani",
@@ -2036,7 +2028,7 @@
         },
         {
           "name": "TVM",
-          "domain": "timesofmalta.com"
+          "domain": null
         }
       ]
     },
@@ -2046,7 +2038,7 @@
       "publishers": [
         {
           "name": "The Marshall Islands Journal",
-          "domain": "rnz.co.nz"
+          "domain": null
         },
         {
           "name": "RNZ Pacific",
@@ -2060,7 +2052,7 @@
       "publishers": [
         {
           "name": "AMI",
-          "domain": "alakhbar.info"
+          "domain": null
         },
         {
           "name": "Alakhbar",
@@ -2118,7 +2110,7 @@
       "publishers": [
         {
           "name": "The Kaselehlie Press",
-          "domain": "rnz.co.nz"
+          "domain": null
         },
         {
           "name": "RNZ Pacific",
@@ -2150,7 +2142,7 @@
       "publishers": [
         {
           "name": "Monaco-Matin",
-          "domain": "monaco-tribune.com"
+          "domain": null
         },
         {
           "name": "Monaco Tribune",
@@ -2212,7 +2204,7 @@
         },
         {
           "name": "MAP",
-          "domain": "lematin.ma"
+          "domain": null
         }
       ]
     },
@@ -2222,7 +2214,7 @@
       "publishers": [
         {
           "name": "Notícias",
-          "domain": "opais.co.mz"
+          "domain": null
         },
         {
           "name": "O País",
@@ -2230,7 +2222,7 @@
         },
         {
           "name": "AIM",
-          "domain": "opais.co.mz"
+          "domain": null
         }
       ]
     },
@@ -2270,7 +2262,7 @@
         },
         {
           "name": "Namibia Press Agency",
-          "domain": "namibian.com.na"
+          "domain": null
         }
       ]
     },
@@ -2280,7 +2272,7 @@
       "publishers": [
         {
           "name": "Nauru Media Bureau",
-          "domain": "rnz.co.nz"
+          "domain": null
         },
         {
           "name": "RNZ Pacific",
@@ -2302,11 +2294,11 @@
         },
         {
           "name": "Republica",
-          "domain": "nepalitimes.com"
+          "domain": null
         },
         {
           "name": "Nepali Times",
-          "domain": "kathmandupost.com"
+          "domain": "nepalitimes.com"
         }
       ]
     },
@@ -2332,7 +2324,7 @@
         },
         {
           "name": "ANP",
-          "domain": "nos.nl"
+          "domain": null
         }
       ]
     },
@@ -2372,7 +2364,7 @@
         },
         {
           "name": "El Nuevo Diario",
-          "domain": "laprensa.com.ni"
+          "domain": null
         }
       ]
     },
@@ -2382,7 +2374,7 @@
       "publishers": [
         {
           "name": "Le Sahel",
-          "domain": "actuniger.com"
+          "domain": null
         },
         {
           "name": "ActuNiger",
@@ -2396,7 +2388,7 @@
       "publishers": [
         {
           "name": "The Punch",
-          "domain": "punchng.com"
+          "domain": null
         },
         {
           "name": "Premium Times",
@@ -2430,7 +2422,7 @@
         },
         {
           "name": "Rodong Sinmun",
-          "domain": "kcna.kp"
+          "domain": null
         }
       ]
     },
@@ -2440,7 +2432,7 @@
       "publishers": [
         {
           "name": "Yonhap",
-          "domain": "yna.co.kr"
+          "domain": null
         },
         {
           "name": "The Korea Herald",
@@ -2456,7 +2448,7 @@
         },
         {
           "name": "Hankyoreh",
-          "domain": "hani.co.kr"
+          "domain": null
         },
         {
           "name": "Chosun",
@@ -2478,7 +2470,7 @@
         },
         {
           "name": "Sloboden Pečat",
-          "domain": "mia.mk"
+          "domain": null
         }
       ]
     },
@@ -2500,7 +2492,7 @@
         },
         {
           "name": "Dagens Næringsliv",
-          "domain": "dn.no"
+          "domain": null
         }
       ]
     },
@@ -2540,7 +2532,7 @@
         },
         {
           "name": "Express Tribune",
-          "domain": "tribune.com.pk"
+          "domain": null
         },
         {
           "name": "ARY News",
@@ -2554,7 +2546,7 @@
       "publishers": [
         {
           "name": "Island Times",
-          "domain": "rnz.co.nz"
+          "domain": null
         },
         {
           "name": "RNZ Pacific",
@@ -2576,7 +2568,7 @@
         },
         {
           "name": "Mi Diario",
-          "domain": "prensa.com"
+          "domain": null
         }
       ]
     },
@@ -2590,7 +2582,7 @@
         },
         {
           "name": "The National PNG",
-          "domain": "thenational.com.pg"
+          "domain": null
         }
       ]
     },
@@ -2608,7 +2600,7 @@
         },
         {
           "name": "La Nación Paraguay",
-          "domain": "abc.com.py"
+          "domain": null
         }
       ]
     },
@@ -2644,7 +2636,7 @@
         },
         {
           "name": "Philippine Daily Inquirer",
-          "domain": "inquirer.net"
+          "domain": null
         },
         {
           "name": "ABS-CBN",
@@ -2652,7 +2644,7 @@
         },
         {
           "name": "GMA News",
-          "domain": "gmanetwork.com"
+          "domain": null
         },
         {
           "name": "Philstar",
@@ -2666,11 +2658,11 @@
       "publishers": [
         {
           "name": "Gazeta Wyborcza",
-          "domain": "wyborcza.pl"
+          "domain": null
         },
         {
           "name": "Rzeczpospolita",
-          "domain": "rp.pl"
+          "domain": null
         },
         {
           "name": "TVN24",
@@ -2708,7 +2700,7 @@
         },
         {
           "name": "Lusa",
-          "domain": "publico.pt"
+          "domain": null
         }
       ]
     },
@@ -2730,7 +2722,7 @@
         },
         {
           "name": "QNA",
-          "domain": "aljazeera.com"
+          "domain": null
         }
       ]
     },
@@ -2836,7 +2828,7 @@
         },
         {
           "name": "The Voice",
-          "domain": "stluciatimes.com"
+          "domain": null
         }
       ]
     },
@@ -2850,7 +2842,7 @@
         },
         {
           "name": "iWitness News",
-          "domain": "iwnsvg.com"
+          "domain": null
         }
       ]
     },
@@ -2878,7 +2870,7 @@
         },
         {
           "name": "Libertas",
-          "domain": "sanmarinortv.sm"
+          "domain": null
         }
       ]
     },
@@ -2892,7 +2884,7 @@
         },
         {
           "name": "STP-Press",
-          "domain": "telanon.info"
+          "domain": null
         }
       ]
     },
@@ -2942,23 +2934,23 @@
       "publishers": [
         {
           "name": "N1",
-          "domain": "n1info.rs"
+          "domain": null
         },
         {
           "name": "BIRN",
-          "domain": "rts.rs"
+          "domain": null
         },
         {
           "name": "RTS",
-          "domain": "danas.rs"
+          "domain": "rts.rs"
         },
         {
           "name": "Danas",
-          "domain": "n1info.rs"
+          "domain": "danas.rs"
         },
         {
           "name": "Cenzolovka",
-          "domain": "n1info.rs"
+          "domain": null
         }
       ]
     },
@@ -2986,7 +2978,7 @@
         },
         {
           "name": "Concord Times",
-          "domain": "awoko.org"
+          "domain": null
         }
       ]
     },
@@ -3000,19 +2992,19 @@
         },
         {
           "name": "CNA",
-          "domain": "channelnewsasia.com"
+          "domain": null
         },
         {
           "name": "Channel News Asia",
-          "domain": "mothership.sg"
+          "domain": "channelnewsasia.com"
         },
         {
           "name": "Mothership",
-          "domain": "todayonline.com"
+          "domain": "mothership.sg"
         },
         {
           "name": "TODAY",
-          "domain": "straitstimes.com"
+          "domain": "todayonline.com"
         }
       ]
     },
@@ -3030,11 +3022,11 @@
         },
         {
           "name": "TASR",
-          "domain": "rtvs.sk"
+          "domain": null
         },
         {
           "name": "RTVS",
-          "domain": "sme.sk"
+          "domain": "rtvs.sk"
         }
       ]
     },
@@ -3044,7 +3036,7 @@
       "publishers": [
         {
           "name": "RTV Slovenija",
-          "domain": "rtvslo.si"
+          "domain": null
         },
         {
           "name": "Delo",
@@ -3084,7 +3076,7 @@
         },
         {
           "name": "Radio Dalsan",
-          "domain": "hiiraan.com"
+          "domain": null
         }
       ]
     },
@@ -3110,11 +3102,11 @@
         },
         {
           "name": "SABC",
-          "domain": "groundup.org.za"
+          "domain": null
         },
         {
           "name": "GroundUp",
-          "domain": "news24.com"
+          "domain": "groundup.org.za"
         }
       ]
     },
@@ -3158,11 +3150,11 @@
         },
         {
           "name": "EFE",
-          "domain": "eldiario.es"
+          "domain": null
         },
         {
           "name": "elDiario.es",
-          "domain": "elpais.com"
+          "domain": "eldiario.es"
         }
       ]
     },
@@ -3180,11 +3172,11 @@
         },
         {
           "name": "The Island",
-          "domain": "adaderana.lk"
+          "domain": null
         },
         {
           "name": "Ada Derana",
-          "domain": "dailymirror.lk"
+          "domain": "adaderana.lk"
         }
       ]
     },
@@ -3194,15 +3186,15 @@
       "publishers": [
         {
           "name": "Radio Dabanga",
-          "domain": "dabangasudan.org"
+          "domain": null
         },
         {
           "name": "SUNA",
-          "domain": "sudantribune.com"
+          "domain": null
         },
         {
           "name": "Sudan Tribune",
-          "domain": "dabangasudan.org"
+          "domain": "sudantribune.com"
         }
       ]
     },
@@ -3234,11 +3226,11 @@
         },
         {
           "name": "Svenska Dagbladet",
-          "domain": "svd.se"
+          "domain": null
         },
         {
           "name": "TT",
-          "domain": "svt.se"
+          "domain": null
         }
       ]
     },
@@ -3350,7 +3342,7 @@
         },
         {
           "name": "Lusa Timor",
-          "domain": "tatoli.tl"
+          "domain": null
         }
       ]
     },
@@ -3360,7 +3352,7 @@
       "publishers": [
         {
           "name": "Togofirst",
-          "domain": "republicoftogo.com"
+          "domain": null
         },
         {
           "name": "Republicoftogo",
@@ -3414,7 +3406,7 @@
         },
         {
           "name": "La Presse de Tunisie",
-          "domain": "lapresse.tn"
+          "domain": null
         },
         {
           "name": "Business News",
@@ -3432,7 +3424,7 @@
         },
         {
           "name": "Hürriyet Daily News",
-          "domain": "hurriyetdailynews.com"
+          "domain": null
         },
         {
           "name": "Bianet",
@@ -3454,11 +3446,11 @@
       "publishers": [
         {
           "name": "Turkmenistan.gov",
-          "domain": "chrono-tm.org"
+          "domain": null
         },
         {
           "name": "Chronicles of Turkmenistan",
-          "domain": "chrono-tm.org"
+          "domain": null
         }
       ]
     },
@@ -3468,7 +3460,7 @@
       "publishers": [
         {
           "name": "Tuvalu News",
-          "domain": "rnz.co.nz"
+          "domain": null
         },
         {
           "name": "RNZ Pacific",
@@ -3482,7 +3474,7 @@
       "publishers": [
         {
           "name": "Daily Monitor",
-          "domain": "monitor.co.ug"
+          "domain": null
         },
         {
           "name": "New Vision",
@@ -3508,7 +3500,7 @@
         },
         {
           "name": "Ukrainska Pravda",
-          "domain": "pravda.com.ua"
+          "domain": null
         },
         {
           "name": "Suspilne",
@@ -3552,31 +3544,31 @@
         },
         {
           "name": "The Guardian",
-          "domain": "bbc.com"
-        },
-        {
-          "name": "Financial Times",
           "domain": "theguardian.com"
         },
         {
-          "name": "The Times",
+          "name": "Financial Times",
           "domain": "ft.com"
         },
         {
-          "name": "Reuters",
+          "name": "The Times",
           "domain": "thetimes.com"
         },
         {
-          "name": "Sky News",
+          "name": "Reuters",
           "domain": "reuters.com"
         },
         {
-          "name": "The Independent",
+          "name": "Sky News",
           "domain": "news.sky.com"
         },
         {
-          "name": "The Economist",
+          "name": "The Independent",
           "domain": "independent.co.uk"
+        },
+        {
+          "name": "The Economist",
+          "domain": "economist.com"
         }
       ]
     },
@@ -3594,139 +3586,139 @@
         },
         {
           "name": "AP News",
-          "domain": "nytimes.com"
+          "domain": "apnews.com"
         },
         {
           "name": "New York Times",
-          "domain": "washingtonpost.com"
+          "domain": "nytimes.com"
         },
         {
           "name": "Washington Post",
-          "domain": "npr.org"
+          "domain": "washingtonpost.com"
         },
         {
           "name": "NPR",
-          "domain": "pbs.org"
+          "domain": "npr.org"
         },
         {
           "name": "PBS",
-          "domain": "theatlantic.com"
+          "domain": "pbs.org"
         },
         {
           "name": "The Atlantic",
-          "domain": "propublica.org"
+          "domain": "theatlantic.com"
         },
         {
           "name": "ProPublica",
-          "domain": "wsj.com"
+          "domain": "propublica.org"
         },
         {
           "name": "WSJ",
-          "domain": "nbcnews.com"
+          "domain": "wsj.com"
         },
         {
           "name": "Wall Street Journal",
-          "domain": "cbsnews.com"
+          "domain": "wsj.com"
         },
         {
           "name": "NBC News",
-          "domain": "abcnews.go.com"
+          "domain": "nbcnews.com"
         },
         {
           "name": "CBS News",
-          "domain": "reuters.com"
+          "domain": "cbsnews.com"
         },
         {
           "name": "ABC News",
-          "domain": "reuters.com"
+          "domain": "abcnews.go.com"
         },
         {
           "name": "The New Yorker",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "Ars Technica",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "TechCrunch",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "The Verge",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "Wired",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "Engadget",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "CNET",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "MIT Technology Review",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "The Economist",
-          "domain": "reuters.com"
+          "domain": "economist.com"
         },
         {
           "name": "Fortune",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "CNBC",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "Nature",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "NASA",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "Quanta",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "STAT",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "Variety",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "Hollywood Reporter",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "Rolling Stone",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "Polygon",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "BBC",
-          "domain": "reuters.com"
+          "domain": "bbc.com"
         },
         {
           "name": "CNN",
-          "domain": "reuters.com"
+          "domain": null
         },
         {
           "name": "KFF Health News",
-          "domain": "reuters.com"
+          "domain": null
         }
       ]
     },
@@ -3736,7 +3728,7 @@
       "publishers": [
         {
           "name": "El País Uruguay",
-          "domain": "elpais.com.uy"
+          "domain": null
         },
         {
           "name": "La Diaria",
@@ -3748,7 +3740,7 @@
         },
         {
           "name": "Búsqueda",
-          "domain": "elpais.com.uy"
+          "domain": null
         }
       ]
     },
@@ -3848,15 +3840,15 @@
       "publishers": [
         {
           "name": "News Diggers",
-          "domain": "diggers.news"
+          "domain": null
         },
         {
           "name": "Times of Zambia",
-          "domain": "times.co.zm"
+          "domain": null
         },
         {
           "name": "Zambia Daily Mail",
-          "domain": "diggers.news"
+          "domain": null
         }
       ]
     },
@@ -3878,7 +3870,7 @@
         },
         {
           "name": "The Standard Zimbabwe",
-          "domain": "herald.co.zw"
+          "domain": null
         }
       ]
     }

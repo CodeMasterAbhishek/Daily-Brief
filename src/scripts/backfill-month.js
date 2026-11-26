@@ -10,7 +10,9 @@ import {
     googleNewsFallbackDayFeed,
     recentDays,
     fetchFeedArticles,
-    mergeAndSave
+    mergeAndSave,
+    writeJsonAtomic,
+    mapPool
 } from './rss-core.js';
 import { filterNewsArticles } from './quality.js';
 
@@ -24,30 +26,20 @@ function sleep(ms) {
 }
 
 function loadStatus() {
-        try {
-            return JSON.parse(fs.readFileSync(STATUS_FILE, 'utf8'));
-        } catch {
-            return { done: [], counts: {}, startedAt: new Date().toISOString() };
-        }
+    try {
+        return JSON.parse(fs.readFileSync(STATUS_FILE, 'utf8'));
+    } catch {
+        return { done: [], counts: {}, startedAt: new Date().toISOString() };
+    }
 }
 
 function saveStatus(status) {
-    fs.writeFileSync(STATUS_FILE, JSON.stringify(status, null, 2));
-}
-
-async function mapPool(items, limit, worker) {
-    const pending = [...items];
-    const runners = Array.from({ length: Math.min(limit, items.length) }, async () => {
-        while (pending.length) {
-            const item = pending.shift();
-            await worker(item);
-        }
-    });
-    await Promise.all(runners);
+    writeJsonAtomic(STATUS_FILE, status);
 }
 
 async function backfillCountry(country, extraFeeds, days) {
-    const extraQuality = extraFeeds.map(feed => feed.source);
+    const taggedExtras = (extraFeeds || []).map(feed => ({ ...feed, country: country.code }));
+    const extraQuality = taggedExtras.map(feed => feed.source);
     const incoming = [];
     for (const day of days) {
         let batch = await fetchFeedArticles(googleNewsDayFeed(country, day));
@@ -61,17 +53,17 @@ async function backfillCountry(country, extraFeeds, days) {
         }));
         await sleep(DELAY_MS);
     }
-    const live = await Promise.all(googleNewsFeeds(country).map(fetchFeedArticles));
+    const live = await mapPool(googleNewsFeeds(country), 4, fetchFeedArticles);
     incoming.push(...filterNewsArticles(live.flat(), country.code, {
         extraQuality,
         minKeep: 8,
         maxKeep: 80
     }));
-    if (extraFeeds.length) {
-        const extras = await Promise.all(extraFeeds.map(fetchFeedArticles));
+    if (taggedExtras.length) {
+        const extras = await mapPool(taggedExtras, 4, fetchFeedArticles);
         incoming.push(...extras.flat());
     }
-    const { unique, metadata } = await mergeAndSave(country, extraFeeds, incoming, {
+    const { unique, metadata } = await mergeAndSave(country, taggedExtras, incoming, {
         remote: false,
         upload: false
     });
@@ -99,7 +91,7 @@ async function run() {
     await mapPool(remaining, CONCURRENCY, async (country) => {
         try {
             const kept = await backfillCountry(country, extraByCountry[country.code] || [], days);
-            status.done.push(country.code);
+            if (!status.done.includes(country.code)) status.done.push(country.code);
             status.counts = status.counts || {};
             status.counts[country.code] = kept;
             status.updatedAt = new Date().toISOString();

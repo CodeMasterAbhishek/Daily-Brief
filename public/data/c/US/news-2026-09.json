@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T12:12:30.548Z",
+  "lastUpdated": "2026-11-26T20:32:59.435Z",
   "count": 15,
   "articles": [
     {
@@ -33,7 +33,7 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
       "source": "Google AI",
-      "category": "technology",
+      "category": "ai",
       "publishedAt": "2026-09-28T19:00:00.000Z",
       "tier": 1,
       "trending": false
@@ -111,6 +111,18 @@
       "trending": false
     },
     {
+      "id": "rss-0c748ff17be3",
+      "title": "New experts join Google’s AI & Economy team",
+      "description": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
+      "source": "Google AI",
+      "category": "ai",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
       "id": "rss-134bfd551584",
       "title": "Five Ways the World of the Dinosaurs Looked Different From Ours, Beyond the Presence of the 'Terrible Lizards'",
       "description": "Earth has changed dramatically since the Age of Dinosaurs, from its climate to geography and animal life",
@@ -123,25 +135,13 @@
       "trending": false
     },
     {
-      "id": "rss-0c748ff17be3",
-      "title": "New experts join Google’s AI & Economy team",
-      "description": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp",
-      "source": "Google AI",
-      "category": "technology",
-      "publishedAt": "2026-09-18T14:00:00.000Z",
-      "tier": 1,
-      "trending": false
-    },
-    {
       "id": "rss-dfd87fbd4644",
       "title": "Co-creating the future of fashion with Google",
       "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
       "source": "Google AI",
-      "category": "technology",
+      "category": "ai",
       "publishedAt": "2026-09-18T13:00:00.000Z",
       "tier": 1,
       "trending": false
@@ -153,20 +153,8 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp",
       "source": "Google AI",
-      "category": "technology",
+      "category": "ai",
       "publishedAt": "2026-09-17T20:00:00.000Z",
-      "tier": 1,
-      "trending": false
-    },
-    {
-      "id": "rss-c0caf7d6128f",
-      "title": "AI for Societal Impact",
-      "description": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
-      "source": "Google AI",
-      "category": "technology",
-      "publishedAt": "2026-09-15T16:00:00.000Z",
       "tier": 1,
       "trending": false
     },
@@ -177,7 +165,19 @@
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp",
       "source": "Google AI",
-      "category": "technology",
+      "category": "ai",
+      "publishedAt": "2026-09-15T16:00:00.000Z",
+      "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-c0caf7d6128f",
+      "title": "AI for Societal Impact",
+      "description": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif",
+      "source": "Google AI",
+      "category": "ai",
       "publishedAt": "2026-09-15T16:00:00.000Z",
       "tier": 1,
       "trending": false

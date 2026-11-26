@@ -1,7 +1,7 @@
 {
   "US": [
     {
-      "url": "http://feeds.arstechnica.com/arstechnica/index",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
       "category": "technology",
       "source": "Ars Technica",
       "tier": 1
@@ -37,12 +37,6 @@
       "tier": 2
     },
     {
-      "url": "https://venturebeat.com/feed/",
-      "category": "technology",
-      "source": "VentureBeat",
-      "tier": 2
-    },
-    {
       "url": "https://www.technologyreview.com/feed/",
       "category": "technology",
       "source": "MIT Technology Review",
@@ -59,18 +53,6 @@
       "category": "technology",
       "source": "9to5Mac",
       "tier": 2
-    },
-    {
-      "url": "https://feeds.a.dj.com/rss/RSSWSJD.xml",
-      "category": "business",
-      "source": "WSJ",
-      "tier": 1
-    },
-    {
-      "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
-      "category": "business",
-      "source": "WSJ Business",
-      "tier": 1
     },
     {
       "url": "https://www.economist.com/finance-and-economics/rss.xml",
@@ -106,12 +88,6 @@
       "url": "https://www.wired.com/feed/category/science/latest/rss",
       "category": "science",
       "source": "Wired Science",
-      "tier": 1
-    },
-    {
-      "url": "https://www.newscientist.com/feed/home/",
-      "category": "science",
-      "source": "New Scientist",
       "tier": 1
     },
     {
@@ -157,12 +133,6 @@
       "tier": 1
     },
     {
-      "url": "https://www.nature.com/nature.rss",
-      "category": "science",
-      "source": "Nature",
-      "tier": 1
-    },
-    {
       "url": "https://feeds.bbci.co.uk/sport/rss.xml",
       "category": "sports",
       "source": "BBC Sports",
@@ -193,9 +163,21 @@
       "tier": 2
     },
     {
-      "url": "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+      "url": "https://rss.politico.com/politics-news.xml",
       "category": "politics",
-      "source": "CNN Politics",
+      "source": "Politico",
+      "tier": 1
+    },
+    {
+      "url": "https://www.cbsnews.com/latest/rss/politics",
+      "category": "politics",
+      "source": "CBS News Politics",
+      "tier": 2
+    },
+    {
+      "url": "https://thehill.com/news/feed/",
+      "category": "politics",
+      "source": "The Hill",
       "tier": 2
     },
     {
@@ -241,7 +223,7 @@
       "tier": 1
     },
     {
-      "url": "http://feeds.bbci.co.uk/news/health/rss.xml",
+      "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
       "category": "health",
       "source": "BBC Health",
       "tier": 1
@@ -251,12 +233,6 @@
       "category": "health",
       "source": "NYT Health",
       "tier": 1
-    },
-    {
-      "url": "http://rss.cnn.com/rss/cnn_health.rss",
-      "category": "health",
-      "source": "CNN Health",
-      "tier": 2
     },
     {
       "url": "https://www.npr.org/rss/rss.php?id=1128",
@@ -301,9 +277,23 @@
       "tier": 1
     },
     {
-      "url": "http://feeds.bbci.co.uk/news/rss.xml",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
       "category": "trending",
       "source": "BBC News",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "trending",
+      "source": "BBC World",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "category": "trending",
+      "source": "NPR News",
       "tier": 1,
       "homepage": true
     },
@@ -312,13 +302,6 @@
       "category": "trending",
       "source": "New York Times",
       "tier": 1,
-      "homepage": true
-    },
-    {
-      "url": "http://rss.cnn.com/rss/edition.rss",
-      "category": "trending",
-      "source": "CNN",
-      "tier": 2,
       "homepage": true
     },
     {
@@ -352,16 +335,10 @@
       "tier": 1
     },
     {
-      "url": "https://www.theverge.com/rss/artificial-intelligence/index.xml",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "category": "ai",
       "source": "The Verge AI",
       "tier": 1
-    },
-    {
-      "url": "https://venturebeat.com/category/ai/feed/",
-      "category": "ai",
-      "source": "VentureBeat AI",
-      "tier": 2
     },
     {
       "url": "https://openai.com/news/rss.xml",
@@ -400,7 +377,7 @@
       "tier": 1
     },
     {
-      "url": "https://aws.amazon.com/blogs/machinelearning/feed/",
+      "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
       "category": "ai",
       "source": "AWS ML Blog",
       "tier": 2
@@ -410,39 +387,388 @@
       "category": "ai",
       "source": "NVIDIA AI Blog",
       "tier": 2
+    },
+    {
+      "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",
+      "category": "ai",
+      "source": "IEEE Spectrum AI",
+      "tier": 1
+    },
+    {
+      "url": "https://deepmind.google/blog/rss.xml",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "tier": 1
     }
   ],
   "GB": [
     {
-      "url": "https://www.economist.com/finance-and-economics/rss.xml",
-      "category": "business",
-      "source": "The Economist",
-      "tier": 1
-    },
-    {
-      "url": "https://feeds.bbci.co.uk/sport/rss.xml",
-      "category": "sports",
-      "source": "BBC Sports",
-      "tier": 1
-    },
-    {
-      "url": "http://feeds.bbci.co.uk/news/health/rss.xml",
-      "category": "health",
-      "source": "BBC Health",
-      "tier": 1
-    },
-    {
-      "url": "https://www.theguardian.com/lifeandstyle/health-and-wellbeing/rss",
-      "category": "health",
-      "source": "The Guardian Health",
-      "tier": 1
-    },
-    {
-      "url": "http://feeds.bbci.co.uk/news/rss.xml",
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
       "category": "trending",
       "source": "BBC News",
       "tier": 1,
       "homepage": true
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+      "category": "technology",
+      "source": "BBC Tech",
+      "tier": 1
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "category": "business",
+      "source": "BBC Business",
+      "tier": 1
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+      "category": "entertainment",
+      "source": "BBC Entertainment",
+      "tier": 2
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "category": "science",
+      "source": "BBC Science",
+      "tier": 2
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+      "category": "sports",
+      "source": "BBC Sport",
+      "tier": 1
+    },
+    {
+      "url": "https://www.theguardian.com/uk/rss",
+      "category": "trending",
+      "source": "The Guardian",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://www.theguardian.com/technology/rss",
+      "category": "technology",
+      "source": "The Guardian Tech",
+      "tier": 1
+    },
+    {
+      "url": "https://www.theguardian.com/uk/business/rss",
+      "category": "business",
+      "source": "The Guardian Business",
+      "tier": 1
+    },
+    {
+      "url": "https://www.theguardian.com/football/rss",
+      "category": "sports",
+      "source": "The Guardian Football",
+      "tier": 2
+    },
+    {
+      "url": "https://feeds.skynews.com/feeds/rss/home.xml",
+      "category": "trending",
+      "source": "Sky News",
+      "tier": 1
+    },
+    {
+      "url": "https://feeds.skynews.com/feeds/rss/technology.xml",
+      "category": "technology",
+      "source": "Sky News Tech",
+      "tier": 2
+    },
+    {
+      "url": "https://feeds.skynews.com/feeds/rss/business.xml",
+      "category": "business",
+      "source": "Sky News Business",
+      "tier": 2
+    },
+    {
+      "url": "https://www.independent.co.uk/news/uk/rss",
+      "category": "trending",
+      "source": "The Independent",
+      "tier": 1
+    },
+    {
+      "url": "https://www.ft.com/rss/home/uk",
+      "category": "business",
+      "source": "Financial Times",
+      "tier": 1
+    }
+  ],
+  "IN": [
+    {
+      "url": "https://indianexpress.com/section/india/feed/",
+      "category": "trending",
+      "source": "The Indian Express",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://feeds.feedburner.com/ndtvnews-top-stories",
+      "category": "trending",
+      "source": "NDTV",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
+      "category": "trending",
+      "source": "Hindustan Times",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "category": "trending",
+      "source": "The Times of India",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+      "category": "trending",
+      "source": "The Hindu",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://www.livemint.com/rss/news",
+      "category": "trending",
+      "source": "Livemint",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://feeds.feedburner.com/gadgets360-latest",
+      "category": "technology",
+      "source": "Gadgets 360",
+      "tier": 1
+    },
+    {
+      "url": "https://indianexpress.com/section/technology/feed/",
+      "category": "technology",
+      "source": "Indian Express Tech",
+      "tier": 1
+    },
+    {
+      "url": "https://www.livemint.com/rss/technology",
+      "category": "technology",
+      "source": "Livemint Tech",
+      "tier": 1
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
+      "category": "technology",
+      "source": "The Hindu Sci-Tech",
+      "tier": 1
+    },
+    {
+      "url": "https://www.livemint.com/rss/markets",
+      "category": "business",
+      "source": "Livemint Markets",
+      "tier": 1
+    },
+    {
+      "url": "https://indianexpress.com/section/business/feed/",
+      "category": "business",
+      "source": "Indian Express Business",
+      "tier": 1
+    },
+    {
+      "url": "https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml",
+      "category": "business",
+      "source": "Hindustan Times Business",
+      "tier": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/ndtvprofit-latest",
+      "category": "business",
+      "source": "NDTV Profit",
+      "tier": 1
+    },
+    {
+      "url": "https://www.thehindu.com/business/feeder/default.rss",
+      "category": "business",
+      "source": "The Hindu Business",
+      "tier": 1
+    },
+    {
+      "url": "https://economictimes.indiatimes.com/rssfeedstopstories.cms",
+      "category": "business",
+      "source": "Economic Times",
+      "tier": 1
+    },
+    {
+      "url": "https://www.espncricinfo.com/rss/content/story/feeds/6.xml",
+      "category": "sports",
+      "source": "ESPNcricinfo",
+      "tier": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/ndtvsports-latest",
+      "category": "sports",
+      "source": "NDTV Sports",
+      "tier": 1
+    },
+    {
+      "url": "https://www.hindustantimes.com/feeds/rss/cricket/rssfeed.xml",
+      "category": "sports",
+      "source": "Hindustan Times Cricket",
+      "tier": 1
+    },
+    {
+      "url": "https://indianexpress.com/section/sports/feed/",
+      "category": "sports",
+      "source": "Indian Express Sports",
+      "tier": 1
+    },
+    {
+      "url": "https://www.thehindu.com/sport/feeder/default.rss",
+      "category": "sports",
+      "source": "The Hindu Sport",
+      "tier": 1
+    },
+    {
+      "url": "https://www.hindustantimes.com/feeds/rss/entertainment/rssfeed.xml",
+      "category": "entertainment",
+      "source": "Hindustan Times Entertainment",
+      "tier": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/ndtvmovies-latest",
+      "category": "entertainment",
+      "source": "NDTV Movies",
+      "tier": 1
+    },
+    {
+      "url": "https://indianexpress.com/section/entertainment/feed/",
+      "category": "entertainment",
+      "source": "Indian Express Entertainment",
+      "tier": 1
+    },
+    {
+      "url": "https://www.thehindu.com/entertainment/feeder/default.rss",
+      "category": "entertainment",
+      "source": "The Hindu Entertainment",
+      "tier": 1
+    },
+    {
+      "url": "https://indianexpress.com/section/political-pulse/feed/",
+      "category": "politics",
+      "source": "Indian Express Politics",
+      "tier": 1
+    },
+    {
+      "url": "https://feeds.feedburner.com/ndtvnews-india-news",
+      "category": "politics",
+      "source": "NDTV India",
+      "tier": 1
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss",
+      "category": "science",
+      "source": "The Hindu Science",
+      "tier": 1
+    },
+    {
+      "url": "https://www.thehindu.com/sci-tech/health/feeder/default.rss",
+      "category": "health",
+      "source": "The Hindu Health",
+      "tier": 1
+    },
+    {
+      "url": "https://www.hindustantimes.com/feeds/rss/lifestyle/rssfeed.xml",
+      "category": "health",
+      "source": "Hindustan Times Health",
+      "tier": 2
+    }
+  ],
+  "CA": [
+    {
+      "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
+      "category": "trending",
+      "source": "CBC News",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://www.cbc.ca/webfeed/rss/rss-canada",
+      "category": "trending",
+      "source": "CBC Canada",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://www.cbc.ca/webfeed/rss/rss-technology",
+      "category": "technology",
+      "source": "CBC Technology",
+      "tier": 1
+    },
+    {
+      "url": "https://www.cbc.ca/webfeed/rss/rss-business",
+      "category": "business",
+      "source": "CBC Business",
+      "tier": 1
+    },
+    {
+      "url": "https://www.cbc.ca/webfeed/rss/rss-sports",
+      "category": "sports",
+      "source": "CBC Sports",
+      "tier": 1
+    },
+    {
+      "url": "https://globalnews.ca/feed/",
+      "category": "trending",
+      "source": "Global News",
+      "tier": 1,
+      "homepage": true
+    }
+  ],
+  "AU": [
+    {
+      "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+      "category": "trending",
+      "source": "ABC News",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://www.abc.net.au/news/feed/45910/rss.xml",
+      "category": "trending",
+      "source": "ABC Australia",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+      "category": "technology",
+      "source": "ABC Technology",
+      "tier": 1
+    },
+    {
+      "url": "https://www.abc.net.au/news/feed/51892/rss.xml",
+      "category": "business",
+      "source": "ABC Business",
+      "tier": 1
+    },
+    {
+      "url": "https://www.abc.net.au/news/feed/45924/rss.xml",
+      "category": "sports",
+      "source": "ABC Sport",
+      "tier": 1
+    },
+    {
+      "url": "https://www.smh.com.au/rss/feed.xml",
+      "category": "trending",
+      "source": "Sydney Morning Herald",
+      "tier": 1,
+      "homepage": true
+    },
+    {
+      "url": "https://www.theage.com.au/rss/feed.xml",
+      "category": "trending",
+      "source": "The Age",
+      "tier": 1
     }
   ]
 }
