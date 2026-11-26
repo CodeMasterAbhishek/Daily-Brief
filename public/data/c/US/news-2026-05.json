@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-11-25T09:02:58.619Z",
-  "count": 4,
+  "lastUpdated": "2026-11-26T12:12:30.565Z",
+  "count": 5,
   "articles": [
     {
       "id": "rss-33e8ff20a982",
@@ -48,6 +48,18 @@
       "category": "ai",
       "publishedAt": "2026-05-08T09:00:00.000Z",
       "tier": 1,
+      "trending": false
+    },
+    {
+      "id": "rss-b66c2dd0ecd6",
+      "title": "Time Is Running Out for Apple’s iPhone Settlement. How to File a Claim Before Dec. 21",
+      "description": "",
+      "url": "https://www.cnet.com/tech/mobile/apple-250-million-ai-iphone-settlement-when-who-eligible-claim-2/",
+      "image": "https://www.cnet.com/wp-content/uploads/sites/2/3_c7b0c7.png",
+      "source": "CNET",
+      "category": "technology",
+      "publishedAt": "2026-05-06T18:26:08.000Z",
+      "tier": 2,
       "trending": false
     }
   ]
